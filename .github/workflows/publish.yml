@@ -1,0 +1,59 @@
+name: Publish newspaper to GitHub Pages
+
+on:
+  workflow_call:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "items.json"
+      - "build_feed.py"
+      - "build_site.py"
+      - "site_config.py"
+      - "favicon.svg"
+      - "fortunes.txt"
+      - "icons/**"
+      - ".github/workflows/publish.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main # fetch the editor's NEW commit, not the workflow trigger's earlier SHA
+
+      - name: Set up Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build HTML and RSS
+        env:
+          SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
+        run: |
+          python3 -I build_feed.py
+          mkdir -p public
+          cp index.html search.html search.json feed.xml favicon.svg fortunes.json public/
+          cp -R sections archive icons public/
+          touch public/.nojekyll
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
