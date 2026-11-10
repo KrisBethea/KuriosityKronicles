@@ -39,11 +39,11 @@ def posted(dt):
 
 
 CSS = """
-:root{--orange:#e07a36;--orange-ink:#b0521a;--orange-bar:#dc7a38;--orange-bar-ink:#2b1709;--orange-soft:#fdf3ea;--orange-rule:#eeb88f;--blue:#1d5fa8;--blue-visited:#5a4f9a;
---bar-ink:#fff;--bg:#fff;--panel:#fffaf5;--ink:#1d1a17;--muted:#6b625a;--rule:#eadfd4;--quote:#fbf7f2}
-@media (prefers-color-scheme:dark){:root{--orange:#e0884c;--orange-ink:#eda172;--orange-bar:#8f4d22;--orange-bar-ink:#fbeee4;--orange-soft:#241b14;--orange-rule:#6a4428;
---blue:#8cb8f0;--blue-visited:#b3a8e6;--bar-ink:#1a120b;--bg:#15120f;--panel:#1d1813;--ink:#ece6df;
---muted:#a89c90;--rule:#3a3027;--quote:#1b1611}}
+:root{--orange:#8062c5;--orange-ink:#6843ae;--orange-bar:#6a4c9e;--orange-bar-ink:#ffffff;--orange-soft:#efeafa;--orange-rule:#aa91db;--blue:#2d638b;--blue-visited:#7d50ac;
+--bar-ink:#ffffff;--bg:#fbf9ff;--panel:#f5f0ff;--ink:#251e38;--muted:#625a78;--rule:#d9d0ec;--quote:#f1ecfb}
+@media (prefers-color-scheme:dark){:root{--orange:#b69aff;--orange-ink:#c9b2ff;--orange-bar:#44316f;--orange-bar-ink:#f6f1ff;--orange-soft:#231e3a;--orange-rule:#7260a3;
+--blue:#8fd9ec;--blue-visited:#c7a9f4;--bar-ink:#ffffff;--bg:#100f1b;--panel:#1b1930;--ink:#eeeafb;
+--muted:#aaa3c2;--rule:#3c3559;--quote:#242039}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Verdana,Geneva,"DejaVu Sans",sans-serif}
 a{color:var(--blue)}a:visited{color:var(--blue-visited)}
