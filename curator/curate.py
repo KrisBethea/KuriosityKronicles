@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from check_picks import CATEGORIES, norm, problems  # noqa: E402
 
-MODEL = "gemini-2.5-flash-lite"  # free input/output on eligible unbilled projects
+MODEL = "gemini-3.5-flash-lite"  # free input/output on eligible unbilled projects
 MAX_CANDIDATES = 100
 MAX_PER_RUN = 8
 LOCAL_TZ = ZoneInfo("America/Chicago")
