@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "source": "Microsoft .NET Blog",
+    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/announcing-dotnet-11-scaled.webp",
+    "title": "Announcing .NET 11",
+    "category": "DotNet and Development",
+    "dept": "from the runtime optimization dept.",
+    "reasoning": "The latest major .NET release has arrived with hundreds of runtime performance boosts, C# language updates, and enhanced tooling. It is a Standard Term Support release aimed at making cross-platform and cloud development smoother.",
+    "summary": "Microsoft officially launched .NET 11, bringing speed improvements across C# 15, ASP.NET Core, and .NET MAUI. The new version features streamlined SDK tooling and expanded capabilities for agentic and AI-assisted development workflows.",
+    "added": "2026-11-10T17:18:38-06:00"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
+    "source": "Microsoft .NET Blog",
+    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/net-net-framework-november-2026.webp",
+    "title": ".NET and .NET Framework November 2026 Servicing Updates",
+    "category": "DotNet and Development",
+    "dept": "from the critical patch dept.",
+    "reasoning": "Staying on top of monthly servicing releases is essential for maintaining production security across multiple target frameworks. This month addresses key elevation of privilege and denial of service vulnerabilities.",
+    "summary": "Microsoft released its November 2026 security and non-security updates for .NET 8, 9, 10, and 11. Administrators should review the advisories for CVE-2026-114146 and related patches to apply necessary remediation guidance.",
+    "added": "2026-11-10T17:17:38-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
+    "link": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/program-darpa-nom4d-phase-3_20261110_173344.jpg",
+    "title": "Automated Assembly in Space Is the Future and NOM4D Is Showing the Way",
+    "category": "Astronomy and Space",
+    "dept": "from the orbital construction dept.",
+    "reasoning": "Moving past pre-constructed station modules requires entirely new robotic assembly techniques for large structures in orbit. Programs like NOM4D are proving that simple automated systems can successfully build trusses from component parts.",
+    "summary": "A new space construction program called NOM4D demonstrated that autonomous robots can successfully assemble truss-like structures in space using premade components. This milestone marks a step forward in our ability to fabricate large infrastructure directly in orbit.",
+    "added": "2026-11-10T17:16:38-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+    "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/2023/06/s/stsci-j-p2223a_0.jpeg?w=2048&h=1593&fit=clip&crop=faces%2Cfocalpoint",
+    "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+    "category": "Astronomy and Space",
+    "dept": "from the spacetime ripples dept.",
+    "reasoning": "Combining gravitational wave astronomy with exoplanet hunting opens up an entirely novel way to detect distant worlds. Upcoming observatories like LISA could soon spot planets orbiting tightly bound white dwarf systems thousands of light-years away.",
+    "summary": "Recent studies led by NASA astrophysicists detail how the upcoming LISA gravitational wave observatory could detect exoplanets throughout our galaxy. By analyzing how a planet modifies gravitational wave signals from orbiting white dwarfs, astronomers can spot unseen worlds.",
+    "added": "2026-11-10T17:15:38-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+    "source": "NASA Astronomy Picture of the Day",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg",
+    "title": "Rigel and the Witch Head Nebula",
+    "category": "Astrophotography",
+    "dept": "from the cosmic illusion dept.",
+    "reasoning": "Reflection nebulae illuminated by bright supergiants always provide stunning visual targets for astrophotographers. IC 2118 near Rigel offers a classic case of pareidolia coupled with intricate interstellar dust structures.",
+    "summary": "An astrophotograph captures IC 2118, a faint reflection nebula known popularly as the Witch Head Nebula due to its uncanny resemblance to a caricature. Illuminated by the bright blue supergiant Rigel, the sprawling dust cloud spans about 50 light-years.",
+    "added": "2026-11-10T17:14:38-06:00"
+  },
+  {
+    "id": "https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/",
+    "link": "https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/",
+    "source": "Reactor",
+    "image": "https://reactormag.com/wp-content/uploads/2026/11/M.-John-Harrison-The-End-of-Everything-740x493.jpg",
+    "title": "M. John Harrison’s The End of Everything Wins the Booker Prize",
+    "category": "Science Fiction",
+    "dept": "from the literary apocalypse dept.",
+    "reasoning": "It is a rare and welcome event when uncompromising speculative fiction takes home a major mainstream literary prize like the Booker. M. John Harrison's win is a brilliant milestone for imaginative storytelling.",
+    "summary": "M. John Harrison’s post-apocalyptic sci-fi novel The End of Everything has won the prestigious Booker Prize. Set in a bleak, post-collapse England, the book's victory has been widely celebrated across the science fiction community.",
+    "added": "2026-11-10T17:13:38-06:00"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/",
+    "link": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/",
+    "source": "Microsoft DevBlogs",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Experience_-SemVer-and-Agent-Behavior.webp",
+    "title": "Do AI Coding Agents Care About SemVer?",
+    "category": "AI and Agents",
+    "dept": "from the semantic versioning dept.",
+    "reasoning": "This is a clever piece of practical engineering research that tests an assumption about how autonomous agents interact with codebases. It turns out that version numbers still act as a subtle psychological nudge even for LLMs.",
+    "summary": "Microsoft researchers tested whether AI coding agents pay attention to semantic versioning when upgrading dependencies. Surprisingly, experiments revealed that version numbers alone changed how models handled byte-identical code modifications.",
+    "added": "2026-11-10T17:12:38-06:00"
+  }
+]

@@ -2,10 +2,101 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Curiosity Dispatch</title>
-<link>https://YOUR-SITE.example/</link>
+<link>https://KrisBethea.github.io/kuriosity-kronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
-<atom:link href="https://YOUR-SITE.example/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 10 Nov 2026 20:46:40 +0000</lastBuildDate>
-<image><url>https://YOUR-SITE.example/favicon.svg</url><title>Curiosity Dispatch</title><link>https://YOUR-SITE.example/</link></image>
+<atom:link href="https://KrisBethea.github.io/kuriosity-kronicles/feed.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Tue, 10 Nov 2026 23:18:38 +0000</lastBuildDate>
+<image><url>https://KrisBethea.github.io/kuriosity-kronicles/favicon.svg</url><title>Curiosity Dispatch</title><link>https://KrisBethea.github.io/kuriosity-kronicles/</link></image>
+<item>
+<title>Announcing .NET 11</title>
+<link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/</guid>
+<pubDate>Tue, 10 Nov 2026 17:18:38 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>The latest major .NET release has arrived with hundreds of runtime performance boosts, C# language updates, and enhanced tooling. It is a Standard Term Support release aimed at making cross-platform and cloud development smoother.</description>
+<content:encoded><![CDATA[<p><small>from the runtime optimization dept.</small></p>
+<p><em>The latest major .NET release has arrived with hundreds of runtime performance boosts, C# language updates, and enhanced tooling. It is a Standard Term Support release aimed at making cross-platform and cloud development smoother.</em></p>
+<p><img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/announcing-dotnet-11-scaled.webp" alt=""></p>
+<p>Microsoft officially launched .NET 11, bringing speed improvements across C# 15, ASP.NET Core, and .NET MAUI. The new version features streamlined SDK tooling and expanded capabilities for agentic and AI-assisted development workflows.</p>
+<p><a href="https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/">Read it</a> · DotNet and Development · Microsoft .NET Blog</p>]]></content:encoded>
+</item>
+<item>
+<title>.NET and .NET Framework November 2026 Servicing Updates</title>
+<link>https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/</guid>
+<pubDate>Tue, 10 Nov 2026 17:17:38 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Staying on top of monthly servicing releases is essential for maintaining production security across multiple target frameworks. This month addresses key elevation of privilege and denial of service vulnerabilities.</description>
+<content:encoded><![CDATA[<p><small>from the critical patch dept.</small></p>
+<p><em>Staying on top of monthly servicing releases is essential for maintaining production security across multiple target frameworks. This month addresses key elevation of privilege and denial of service vulnerabilities.</em></p>
+<p><img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/net-net-framework-november-2026.webp" alt=""></p>
+<p>Microsoft released its November 2026 security and non-security updates for .NET 8, 9, 10, and 11. Administrators should review the advisories for CVE-2026-114146 and related patches to apply necessary remediation guidance.</p>
+<p><a href="https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/">Read it</a> · DotNet and Development · Microsoft .NET Blog</p>]]></content:encoded>
+</item>
+<item>
+<title>Automated Assembly in Space Is the Future and NOM4D Is Showing the Way</title>
+<link>https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way</guid>
+<pubDate>Tue, 10 Nov 2026 17:16:38 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Moving past pre-constructed station modules requires entirely new robotic assembly techniques for large structures in orbit. Programs like NOM4D are proving that simple automated systems can successfully build trusses from component parts.</description>
+<content:encoded><![CDATA[<p><small>from the orbital construction dept.</small></p>
+<p><em>Moving past pre-constructed station modules requires entirely new robotic assembly techniques for large structures in orbit. Programs like NOM4D are proving that simple automated systems can successfully build trusses from component parts.</em></p>
+<p><img src="https://www.universetoday.com/article_images/program-darpa-nom4d-phase-3_20261110_173344.jpg" alt=""></p>
+<p>A new space construction program called NOM4D demonstrated that autonomous robots can successfully assemble truss-like structures in space using premade components. This milestone marks a step forward in our ability to fabricate large infrastructure directly in orbit.</p>
+<p><a href="https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>NASA Scientists Show How Gravitational Waves Can Reveal New Worlds</title>
+<link>https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/</link>
+<guid isPermaLink="false">https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/</guid>
+<pubDate>Tue, 10 Nov 2026 17:15:38 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Combining gravitational wave astronomy with exoplanet hunting opens up an entirely novel way to detect distant worlds. Upcoming observatories like LISA could soon spot planets orbiting tightly bound white dwarf systems thousands of light-years away.</description>
+<content:encoded><![CDATA[<p><small>from the spacetime ripples dept.</small></p>
+<p><em>Combining gravitational wave astronomy with exoplanet hunting opens up an entirely novel way to detect distant worlds. Upcoming observatories like LISA could soon spot planets orbiting tightly bound white dwarf systems thousands of light-years away.</em></p>
+<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/2023/06/s/stsci-j-p2223a_0.jpeg?w=2048&amp;h=1593&amp;fit=clip&amp;crop=faces%2Cfocalpoint" alt=""></p>
+<p>Recent studies led by NASA astrophysicists detail how the upcoming LISA gravitational wave observatory could detect exoplanets throughout our galaxy. By analyzing how a planet modifies gravitational wave signals from orbiting white dwarfs, astronomers can spot unseen worlds.</p>
+<p><a href="https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/">Read it</a> · Astronomy and Space · NASA News</p>]]></content:encoded>
+</item>
+<item>
+<title>Rigel and the Witch Head Nebula</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/</link>
+<guid isPermaLink="false">https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/</guid>
+<pubDate>Tue, 10 Nov 2026 17:14:38 -0600</pubDate>
+<category>Astrophotography</category>
+<description>Reflection nebulae illuminated by bright supergiants always provide stunning visual targets for astrophotographers. IC 2118 near Rigel offers a classic case of pareidolia coupled with intricate interstellar dust structures.</description>
+<content:encoded><![CDATA[<p><small>from the cosmic illusion dept.</small></p>
+<p><em>Reflection nebulae illuminated by bright supergiants always provide stunning visual targets for astrophotographers. IC 2118 near Rigel offers a classic case of pareidolia coupled with intricate interstellar dust structures.</em></p>
+<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg" alt=""></p>
+<p>An astrophotograph captures IC 2118, a faint reflection nebula known popularly as the Witch Head Nebula due to its uncanny resemblance to a caricature. Illuminated by the bright blue supergiant Rigel, the sprawling dust cloud spans about 50 light-years.</p>
+<p><a href="https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/">Read it</a> · Astrophotography · NASA Astronomy Picture of the Day</p>]]></content:encoded>
+</item>
+<item>
+<title>M. John Harrison’s The End of Everything Wins the Booker Prize</title>
+<link>https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/</link>
+<guid isPermaLink="false">https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/</guid>
+<pubDate>Tue, 10 Nov 2026 17:13:38 -0600</pubDate>
+<category>Science Fiction</category>
+<description>It is a rare and welcome event when uncompromising speculative fiction takes home a major mainstream literary prize like the Booker. M. John Harrison's win is a brilliant milestone for imaginative storytelling.</description>
+<content:encoded><![CDATA[<p><small>from the literary apocalypse dept.</small></p>
+<p><em>It is a rare and welcome event when uncompromising speculative fiction takes home a major mainstream literary prize like the Booker. M. John Harrison&#x27;s win is a brilliant milestone for imaginative storytelling.</em></p>
+<p><img src="https://reactormag.com/wp-content/uploads/2026/11/M.-John-Harrison-The-End-of-Everything-740x493.jpg" alt=""></p>
+<p>M. John Harrison’s post-apocalyptic sci-fi novel The End of Everything has won the prestigious Booker Prize. Set in a bleak, post-collapse England, the book&#x27;s victory has been widely celebrated across the science fiction community.</p>
+<p><a href="https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/">Read it</a> · Science Fiction · Reactor</p>]]></content:encoded>
+</item>
+<item>
+<title>Do AI Coding Agents Care About SemVer?</title>
+<link>https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/</guid>
+<pubDate>Tue, 10 Nov 2026 17:12:38 -0600</pubDate>
+<category>AI and Agents</category>
+<description>This is a clever piece of practical engineering research that tests an assumption about how autonomous agents interact with codebases. It turns out that version numbers still act as a subtle psychological nudge even for LLMs.</description>
+<content:encoded><![CDATA[<p><small>from the semantic versioning dept.</small></p>
+<p><em>This is a clever piece of practical engineering research that tests an assumption about how autonomous agents interact with codebases. It turns out that version numbers still act as a subtle psychological nudge even for LLMs.</em></p>
+<p><img src="https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Experience_-SemVer-and-Agent-Behavior.webp" alt=""></p>
+<p>Microsoft researchers tested whether AI coding agents pay attention to semantic versioning when upgrading dependencies. Surprisingly, experiments revealed that version numbers alone changed how models handled byte-identical code modifications.</p>
+<p><a href="https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/">Read it</a> · AI and Agents · Microsoft DevBlogs</p>]]></content:encoded>
+</item>
 </channel>
 </rss>

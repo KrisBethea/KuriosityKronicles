@@ -1,0 +1,7 @@
+https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/
+https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/
+https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way
+https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/
+https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/
+https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/
+https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/
