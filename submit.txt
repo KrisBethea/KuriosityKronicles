@@ -1,0 +1,3 @@
+# Hand it to the feed: one link per line, optionally followed by | a note for the curator.
+# The next collector run fetches the page and puts it in the pool; the next curator run
+# writes it up, marked "submitted by <you>". Used lines are pruned automatically.

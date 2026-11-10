@@ -1,0 +1,50 @@
+# category | source | RSS/Atom URL | optional flags
+# Edit these lines to choose exactly what appears in your candidate pool.
+# Categories MUST match check_picks.py. Flags: evergreen, fulltext, nodrama, filler, skip:regex.
+# No Rust ban: the editorial profile decides which programming stories matter.
+
+# Astronomy, missions, discoveries
+Astronomy and Space | NASA Science | https://science.nasa.gov/feed/
+Astronomy and Space | NASA News | https://www.nasa.gov/news-release/feed/
+Astronomy and Space | Universe Today | https://www.universetoday.com/feed
+Astronomy and Space | ESA Space Science | https://www.esa.int/rssfeed/Our_Activities/Space_Science
+Astronomy and Space | Quanta Magazine | https://api.quantamagazine.org/feed/
+Astronomy and Space | Sky and Telescope News | https://www.skyandtelescope.com/astronomy-news/feed/
+
+# Space weather, aurora, geomagnetic storms, satellites
+Space Weather and Aurora | Google News space weather | https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en
+Space Weather and Aurora | Google News aurora | https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en
+Space Weather and Aurora | NASA Science | https://science.nasa.gov/feed/
+
+# Imaging, observing, equipment, tutorials
+Astrophotography | AstroBackyard | https://astrobackyard.com/feed/ | evergreen
+Astrophotography | NASA Astronomy Picture of the Day | https://science.nasa.gov/feed/apod-basic/
+Astrophotography | Sky and Telescope Observing | https://www.skyandtelescope.com/observing/rss | evergreen
+
+# Your actual development stack, not Python-first hype
+DotNet and Development | Microsoft .NET Blog | https://devblogs.microsoft.com/dotnet/feed/
+DotNet and Development | Microsoft DevBlogs | https://devblogs.microsoft.com/feed/
+DotNet and Development | Microsoft Azure Blog | https://azure.microsoft.com/en-us/blog/feed/
+DotNet and Development | Hackaday | https://hackaday.com/feed/ | fulltext
+
+# Coding agents, LLM research, useful agentic systems
+AI and Agents | Microsoft Foundry Blog | https://devblogs.microsoft.com/foundry/feed/
+AI and Agents | Google AI Developers Blog | https://developers.googleblog.com/feeds/posts/default
+AI and Agents | OpenAI News | https://openai.com/news/rss.xml
+AI and Agents | Google News AI agents | https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en
+
+# Science fiction, particularly Doctor Who
+Science Fiction | Reactor | https://reactormag.com/feed/
+Science Fiction | File 770 | https://file770.com/feed/
+Science Fiction | Google News Doctor Who | https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en
+
+# Local science, nature, and genuinely interesting regional news
+Minnesota and Nature | Google News Minnesota astronomy | https://news.google.com/rss/search?q=Minnesota+astronomy+OR+aurora+OR+observatory&hl=en-US&gl=US&ceid=US:en
+Minnesota and Nature | Google News Minnesota nature | https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en
+
+# Oddities and absorbing long reads
+Curious Discoveries | Public Domain Review | https://publicdomainreview.org/rss.xml | evergreen
+Curious Discoveries | Atlas Obscura | https://www.atlasobscura.com/feeds/latest | evergreen
+Curious Discoveries | Damn Interesting | https://www.damninteresting.com/feed/ | evergreen
+Curious Discoveries | The Marginalian | https://www.themarginalian.org/feed/ | evergreen
+Wildcard | Kottke | https://feeds.kottke.org/main | evergreen

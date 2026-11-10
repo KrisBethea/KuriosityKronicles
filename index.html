@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Curiosity Dispatch</title>
+<meta name="description" content="Stories about space, code, and the wonderfully unexpected, selected with AI.">
+<link rel="alternate" type="application/rss+xml" title="Curiosity Dispatch" href="feed.xml">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<style>
+:root{--orange:#e07a36;--orange-ink:#b0521a;--orange-bar:#dc7a38;--orange-bar-ink:#2b1709;--orange-soft:#fdf3ea;--orange-rule:#eeb88f;--blue:#1d5fa8;--blue-visited:#5a4f9a;
+--bar-ink:#fff;--bg:#fff;--panel:#fffaf5;--ink:#1d1a17;--muted:#6b625a;--rule:#eadfd4;--quote:#fbf7f2}
+@media (prefers-color-scheme:dark){:root{--orange:#e0884c;--orange-ink:#eda172;--orange-bar:#8f4d22;--orange-bar-ink:#fbeee4;--orange-soft:#241b14;--orange-rule:#6a4428;
+--blue:#8cb8f0;--blue-visited:#b3a8e6;--bar-ink:#1a120b;--bg:#15120f;--panel:#1d1813;--ink:#ece6df;
+--muted:#a89c90;--rule:#3a3027;--quote:#1b1611}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Verdana,Geneva,"DejaVu Sans",sans-serif}
+a{color:var(--blue)}a:visited{color:var(--blue-visited)}
+header.masthead{background:var(--bg);padding:18px 16px 10px;border-bottom:5px solid var(--orange);max-width:1180px;margin:0 auto}
+.masthead .logo{font:bold 2.6rem/1 Georgia,"Times New Roman",serif;letter-spacing:-1px;color:var(--orange-ink);text-decoration:none}
+.masthead .logo:visited{color:var(--orange-ink)}
+.masthead .mark{width:46px;height:46px;vertical-align:-8px;margin-right:10px}
+.masthead .tag{display:block;font-size:.85rem;color:var(--blue);margin-top:4px;font-style:italic}
+nav.topnav{max-width:1180px;margin:0 auto;padding:6px 16px;font-size:.8rem;border-bottom:1px solid var(--rule)}
+nav.topnav a,nav.topnav a:visited{color:var(--blue);margin-right:16px;text-decoration:none;font-weight:bold}
+nav.topnav a:hover{text-decoration:underline}
+.wrap{display:grid;grid-template-columns:180px minmax(0,1fr) 220px;gap:20px;max-width:1180px;margin:0 auto;padding:16px}
+aside .box{background:var(--panel);border:1px solid var(--rule);border-top:3px solid var(--orange);margin-bottom:16px}
+aside .box h3{margin:0;color:var(--orange-ink);font-size:.78rem;padding:6px 8px 0;text-transform:uppercase;letter-spacing:.06em}
+aside .box div{padding:6px 8px 8px;font-size:.82rem}
+aside ul{list-style:none;margin:0;padding:0}aside li{padding:2px 0}
+aside li.on a{font-weight:bold}
+.day{font:bold .8rem Verdana,sans-serif;color:var(--blue);margin:24px 0 10px;text-transform:uppercase;letter-spacing:.06em}
+.day:first-child{margin-top:0}
+article{margin-bottom:28px;border:1px solid var(--rule);border-radius:0 8px 0 0}
+article h2{margin:0;background:var(--orange-bar);color:var(--orange-bar-ink);font-size:1.05rem;padding:7px 12px;line-height:1.35;border-radius:0 7px 0 0;display:flex;align-items:center;gap:10px}
+article h2 a{flex:1}
+.icon{width:24px;height:24px;flex:none;color:var(--orange-bar-ink)}
+.icon.side{width:14px;height:14px;vertical-align:-2px;margin-right:5px;color:var(--orange-ink)}
+article h2 a,article h2 a:visited{color:var(--orange-bar-ink);text-decoration:none}
+article h2 a:hover{text-decoration:underline}
+.meta{font-size:.78rem;color:var(--muted);padding:6px 12px 0}
+.meta .sec{font-weight:bold;color:var(--blue);text-decoration:none}
+.dept{font-size:.78rem;color:var(--orange-ink);padding:0 12px 6px;font-style:italic}
+.body{padding:4px 12px;overflow:hidden}
+.body img{float:right;width:240px;max-width:45%;height:auto;margin:4px 0 8px 12px;border:1px solid var(--rule);border-radius:4px}
+.note{margin:6px 0}
+.summary{margin:8px 0;padding:8px 12px;background:var(--quote);border-left:3px solid var(--orange-rule)}
+.more{font-size:.82rem;padding:4px 12px 10px;font-weight:bold}
+.more span{font-weight:normal;color:var(--muted)}
+.older{margin:8px 0 24px;font-weight:bold;font-size:.9rem}
+form.search{display:flex;gap:8px;margin:0 0 6px}
+form.search input{flex:1;min-width:0;font:inherit;padding:8px 10px;border:1px solid var(--rule);border-radius:6px;background:var(--panel);color:var(--ink)}
+form.search select{font:inherit;padding:8px;border:1px solid var(--rule);border-radius:6px;background:var(--panel);color:var(--ink);max-width:45%}
+.stat{color:var(--muted);font-size:.85rem;margin:0 0 14px}
+.older-stuff li.od{font-weight:bold;color:var(--orange-ink);text-transform:uppercase;font-size:.7rem;letter-spacing:.05em;margin-top:6px}
+.older-stuff li{line-height:1.35;padding:2px 0}
+.fortune{font-style:italic;color:var(--ink);margin:0 auto 12px;max-width:40rem;font-size:.85rem}
+.fortune span{color:var(--muted);font-style:normal}
+footer{max-width:1180px;margin:0 auto;border-top:4px solid var(--orange);color:var(--muted);font-size:.75rem;text-align:center;padding:14px 16px 28px}
+@media (max-width:900px){.wrap{grid-template-columns:minmax(0,1fr)}.left{order:2}.right{order:3}main{order:1}
+.body img{width:100%;max-width:100%;float:none;margin:4px 0 10px;max-height:240px;object-fit:cover}}
+</style></head><body>
+<header class="masthead"><a class="logo" href="index.html"><img src="favicon.svg" alt="" class="mark">Curiosity Dispatch</a><span class="tag">Astronomy, code, and curious detours.</span></header>
+<nav class="topnav"><a href="index.html">Home</a><a href="archive/index.html">Archive</a><a href="search.html">Search</a><a href="feed.xml">RSS</a><a href="#about">About</a></nav>
+<div class="wrap">
+<aside class="left"><div class="box"><h3>Sections</h3><div><ul><li class="on"><a href="index.html">All stories</a> (0)</li></ul></div></div></aside>
+<main>
+<p>Nothing here yet.</p></main>
+<aside class="right">
+<div class="box" id="about"><h3>About</h3><div>A personalized collection of astronomy, space weather, astrophotography, C# development,
+AI agents, science fiction, Minnesota nature and surprising discoveries.
+Picked automatically from public source feeds, with a note on why.</div></div>
+<div class="box"><h3>Subscribe</h3><div>Point any feed reader at <a href="feed.xml">feed.xml</a>.</div></div>
+
+
+</aside></div>
+<footer><div class="fortune" id="fortune">Another clear night, another mysterious photon.</div><script>fetch("fortunes.json").then(function(r){return r.json()}).then(function(f){var p=f[Math.floor(Math.random()*f.length)],e=document.getElementById("fortune");e.textContent=p[0];if(p[1]){var s=document.createElement("span");s.textContent=" — "+p[1];e.appendChild(s)}}).catch(function(){})</script>Curiosity Dispatch. All stories link to their original sources; notes and summaries are written fresh.
+No ads, no comments, no outrage.</footer>
+</body></html>
