@@ -23,7 +23,7 @@ ICONS_DIR = ROOT / "icons"
 ARCHIVE_DIR = ROOT / "archive"
 from site_config import SITE_TITLE, TAGLINE, DESCRIPTION
 FRONT_PAGE_STORIES = 30    # the home and section pages show this many; the archive has the rest
-
+from nur_sidebar import render_nur_sidebar
 
 def esc(s):
     return html.escape(s or "", quote=True)
@@ -174,6 +174,7 @@ def page(title, items, counts, current, prefix, total, months=(), intro="", tail
 <div class="box" id="about"><h3>About</h3><div>A personalized collection of astronomy, space weather, astrophotography, C# development,
 AI agents, science fiction, Minnesota nature and surprising discoveries.
 Picked automatically from public source feeds, with a note on why.</div></div>
+{render_nur_sidebar()}
 <div class="box"><h3>Subscribe</h3><div>Point any feed reader at <a href="{prefix}feed.xml">feed.xml</a>.</div></div>
 {older_box}
 {f'<div class="box"><h3>Last updated</h3><div>{updated}</div></div>' if updated else ''}
