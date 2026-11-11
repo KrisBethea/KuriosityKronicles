@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T17:08-06:00",
- "count": 285,
+ "generated": "2026-11-11T00:18-06:00",
+ "count": 279,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -11,27 +11,27 @@
   "Astronomy and Space | NASA News": {
    "url": "https://www.nasa.gov/news-release/feed/",
    "ok": true,
-   "kept": 10,
+   "kept": 9,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Astronomy and Space | Universe Today": {
    "url": "https://www.universetoday.com/feed",
    "ok": true,
-   "kept": 20,
+   "kept": 19,
    "entries": 20,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Astronomy and Space | ESA Space Science": {
@@ -70,12 +70,12 @@
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 11,
-   "entries": 71,
+   "entries": 73,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 60,
+   "old": 62,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -83,12 +83,12 @@
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 5,
-   "entries": 44,
+   "entries": 45,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 39,
+   "old": 40,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -114,14 +114,14 @@
   "Astrophotography | NASA Astronomy Picture of the Day": {
    "url": "https://science.nasa.gov/feed/apod-basic/",
    "ok": true,
-   "kept": 9,
+   "kept": 7,
    "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 20,
-   "seen_or_dup": 1,
+   "seen_or_dup": 3,
    "no_title_or_link": 0
   },
   "Astrophotography | Sky and Telescope Observing": {
@@ -133,27 +133,27 @@
   "DotNet and Development | Microsoft .NET Blog": {
    "url": "https://devblogs.microsoft.com/dotnet/feed/",
    "ok": true,
-   "kept": 6,
+   "kept": 4,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 4,
-   "seen_or_dup": 0,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "DotNet and Development | Microsoft DevBlogs": {
    "url": "https://devblogs.microsoft.com/feed/",
    "ok": true,
-   "kept": 2,
+   "kept": 1,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 8,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "DotNet and Development | Microsoft Azure Blog": {
@@ -212,7 +212,7 @@
    "url": "https://openai.com/news/rss.xml",
    "ok": true,
    "kept": 20,
-   "entries": 1376,
+   "entries": 1379,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -224,8 +224,8 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 5,
-   "entries": 57,
+   "kept": 8,
+   "entries": 60,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -244,7 +244,7 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Science Fiction | File 770": {
@@ -289,8 +289,8 @@
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 9,
-   "entries": 28,
+   "kept": 7,
+   "entries": 26,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -366,6 +366,177 @@
   }
  },
  "items": [
+  {
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "published": "2026-11-11T18:00-06:00",
+   "tags": [],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+   "published": "2026-11-11T02:00-06:00",
+   "tags": [
+    "Company"
+   ],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Coronal hole stream drives G1 – Minor geomagnetic storm on November 7–8, more G1 storms forecast for November 17–18 and 27–28 - The Watchers - Watching the world evolve and transform",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFJFNXptakt4Zk5sTzA5cHJzVEE1RGM0ZXFyWEN5c2FXc19hanN5VHk3X1JRdUVic09PNUV4NGVLclRabzVRdE5LUm9OQ0NfODNqZlRWMzhDQVNVQWJkZ09vel9LbC10T0FVVDJicmpfMlhReVdsLVVKOEpLeUxvbE9SanppdnczcDM5WXVEUnozRjVpbmNjckZRb2tXZzNTemU3aFlHcW1QTmlJQ3NLNEFqMEhyc0E?oc=5",
+   "source": "The Watchers - Watching the world evolve and transform",
+   "category": "Space Weather and Aurora",
+   "summary": "Coronal hole stream drives G1 – Minor geomagnetic storm on November 7–8, more G1 storms forecast for November 17–18 and 27–28 The Watchers - Watching the world evolve and transform",
+   "published": "2026-11-11T00:01-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "This Coffee Machine is DOOMed",
+   "link": "https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Somehow, seeing DOOM on things that were never meant to run DOOM never gets old. It’s probably hard to get further into the “never meant to run DOOM ” weeds than a coffee maker, but [Robin M.] has done it, and tells you exactly how in his excellent write-up . It adds a new dimension to hard mode — try and play while you’re waiting for your morning coffee. Of course [Robin] doesn’t start with just any coffee machine; most sensible percolators won’t have any silicon capable of executing code, much less gaming on. The Spengler PSL50 machine [Robin] is hacking is a smart device with a Linux computer inside, although in this case there’s a point to having the smarts, as it’s meant to be a self-serve, pay-to-drink coffee kiosk. Handling payments and the touchscreen menus seems like justification enough for a microprocessor. As you might expect, all the ‘smarts’ of this coffee maker are on the touchscreen module which aside from the brains of the operation — i.MX 6 ARM Cortex A9 processor — happens to have a handy a debug port. With just a little probing to find the right pins, he gets a console connection via that debug port to the 2013-era Linux build that runs the device, and then it’s off to the races. To make life even easier for [Robin], there was no uboot password set, nor any protections. So a simple setnv gets him into an sh prompt, and then he’s set. As for DOOM , he’s using fbDOOM , a version that renders directly to the framebuffer, and compiles it as a self-contained binary so he doesn’t have to care that everything on the Linux system is 13 years out of date. Spengler made hacking this device relatively easy with their almost complete lack of security, and the resulting project is well documented, well executed, and tickles our funny bones the same way seeing DOO",
+   "published": "2026-11-11T00:00-06:00",
+   "tags": [
+    "Games",
+    "coffee machine",
+    "does it run doom",
+    "doom",
+    "smart appliances"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/DOOMed-coffee-machine.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: Small Galaxy, Big Impact Explanation: Don’t judge a galaxy by its size. Our home galaxy, the Milky Way , is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies , are about 1/10th the size of the Milky Way and only contain a few billion stars. They are also th",
+   "published": "2026-11-10T23:05-06:00",
+   "tags": [
+    "APOD"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&h=1320&fit=clip&crop=faces%2Cfocalpoint",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Water Surges Into Navajo Reservoir",
+   "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "Earth Observatory Science Earth Observatory Water Surges Into Navajo… Earth Earth Observatory Image of the Day EO Explorer Topics More Content About Search September 20, 2026 November 7, 2026 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison September 20, 2026 November 7, 2026 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison September 20, 2026 November 7, 2026 Curtain Toggle 2-Up Back-to-back extreme rain events inundated the Four Corners region of the U.S. Southwest in late October and early November 2026. The storms alleviated short-term drought conditions in the Southwest but caused river levels to spike to record or near-record",
+   "published": "2026-11-10T23:01-06:00",
+   "tags": [
+    "Earth Observatory",
+    "Floods",
+    "Landsat 9",
+    "Surface Water"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Print & Place: Add Embedded Electronics While FDM Printing",
+   "link": "https://hackaday.com/2026/11/10/print-place-add-embedded-electronics-while-fdm-printing/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Although combining electronics and 3D-printed structures is fairly common, this usually entails some level of manual assembly. This contrasts strongly with the Print & Place approach demonstrated by [Oliver Child] et al. in their research article titled Print & Place: Using a 3D printer for Continuous Assembly of Electronic Devices . An accompanying video is also provided which covers all the basics and showing a few ways in which a regular FDM printer can be used without modifications to embed these components. Rather than requiring a custom tool head the thermoplastic is used as a temporary adhesive to pick up parts that are placed in a printed tray elsewhere on the build plate. This parts tray is created parametrically before being printed. Following this an operator has to populate this tray with the requisite parts so that the print head can pick them up when they are needed. This is done during the printing of the actual parts, with regular G-code added to move the head over to the needed part before using a bit of extruded plastic to adhere to it and lift it to its new home. Subsequently these parts can be printed over to fully embed them, with this method supporting a range of parts. In the three demonstrations everything from small pre-populated PCBs to strips of conductive wire and braid were used together with rivets to provide paths between conductive traces. Of course, with this being an open loop system you can expect many of the typical issues here, ranging from pick failures, placement misalignment and contact inconsistencies, as the authors encountered during their experiments. Here one could conceivably pitch adding a camera system as on typical pick & place machines to add a feedback loop that the firmware could then use for adjustments and to signal ",
+   "published": "2026-11-10T21:00-06:00",
+   "tags": [
+    "3d Printer hacks",
+    "embedded 3d printing",
+    "pick and place"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/print_and_place_oliver_child_et_al_uist_2026.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "How AI is Transforming Software Development & Code Generation - Analytics Insight",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdzFTUzVJU3VoVmloNlR0bFJXNERZN0xGTHlKTHVSUVhCWDIxVXg5NkJPZUMzYllYbXZLUkVMRkUtM0RBdHp2TGVnNWJ4QnFTazc1WUxLTHdXcTNHcXdDMDNVMjZrSUY5aGdtRFFRNmk0SURDV2djMWtpQzlmdTN5V1Y4dmxHaWtRSWFEV2hkZ1pxQnlxRThZV0g0SGxvYjAwdGtMSWg0empFUFJvMTNBS3lULWJkNWfSAcQBQVVfeXFMTzFqbUhjMVNOd1BBMXM0Z1J6Mk41Mkk2TEtsSS1fcVR4Nlg3Z3pPRU1ZVXUtTUxlYXdPQWF3MHltSDlKVmpWNnhGVWdXMUlreVVVcnM5RUpfWVZQazcwblZDUFNOa0JCUENWSzF2Ujk0Sy1mQjhlYVRrczRMbTBxVXhjRlA4cVBQZUR0ZnNOSHJ1V3pqVlFJWDNmXzhyZUVIR0c1ZnVwZ1VQUkd6ZkFTWE13akJUcXo4TlhTNDhYQjdxOTdKNg?oc=5",
+   "source": "Analytics Insight",
+   "category": "AI and Agents",
+   "summary": "How AI is Transforming Software Development & Code Generation Analytics Insight",
+   "published": "2026-11-10T21:00-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Pixel Scroll 11/10/26 Moon Pixel, Written In A File, I’m Scrolling You In Style, Someday…",
+   "link": "https://file770.com/pixel-scroll-11-10-26-moon-pixel/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "(1) ELECTION RESULT CONGRATULATIONS! Kate Ristau, President of SFWA, has been elected a member of the Tigard, Oregon City Council. Here’s the link to Kate’s Facebook announcement. Here’s the Tigard Today’s report as of November 9: “Ristau, Garino, Velásquez lead … Continue reading →",
+   "published": "2026-11-10T20:49-06:00",
+   "tags": [
+    "Pixel Scroll",
+    "censorship",
+    "Chris Garcia",
+    "Claims Department",
+    "Dave Hook",
+    "Edward Gorey",
+    "International Astronomical Union",
+    "Jeremy Zentner"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Watching the Watchers",
+   "link": "https://hackaday.com/2026/11/10/watching-the-watchers/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Although it used to be a much more rare event, now almost any time at dawn or dusk, provided clear weather, a human observer can walk outside, look up, and spot an artificial satellite passing overhead. This has caused some consternation among astronomers who have another source of pollution to deal with in their data, but has benefited society in other ways such as more reliable internet and better weather predictions. To keep an eye on what exactly is passing overhead, take a look at this tool built by [Armaan] . The browser-based satellite tracker uses simplified perturbations models (SGP4) to model the passes of every satellite that has passed a given location on Earth in the past seven days. The modeling is all done locally within the user’s browser, and can even be self-hosted through a fairly simple method that involves forking the project with a tool called Vercel. Not only does this tool find the satellite passes for that given location, though, but it also automatically downloads any imagery that those satellites sent back down to Earth. The project itself is open source , so users can engage with the code without using Vercel if they choose. Beyond just checking out what happened to fly overhead in the last few days and checking out weather data without needing your own satellite dish to download the data yourself , this could also be useful for radio operators looking to make contacts with satellite repeaters or those wanting to keep tabs on crewed satellites like the International Space Station while it still remains in orbit. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-10T18:00-06:00",
+   "tags": [
+    "Software Hacks",
+    "data",
+    "imagery",
+    "model",
+    "open source",
+    "satellite",
+    "sgp4",
+    "software"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "page"
+  },
   {
    "title": "A short history of Lego instructions from 1955 to the...",
    "link": "https://kottke.org/26/11/0049957-a-short-history-of-lego-i",
@@ -505,20 +676,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Automated Assembly in Space is the Future and NOM4D is Showing the Way",
-   "link": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "The ability to build large structures in space is maturing. The ISS, Mir, and Tiangong were built in space from pre-constructed modules, but a new program called NOM4D is taking space construction to the next level. It recently showed that a simple robot can create truss-like structures in space from premade components. Is the sky the limit for NOM4D?",
-   "published": "2026-11-10T13:52-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/program-darpa-nom4d-phase-3_20261110_173344.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "ALMA Reveals a Jet of Cool Gas from a Microquasar",
    "link": "https://www.universetoday.com/articles/alma-reveals-a-jet-of-cool-gas-from-a-microquasar",
    "source": "Universe Today",
@@ -564,28 +721,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048",
-   "summary_from": "feed"
-  },
-  {
-   "title": "M. John Harrison’s The End of Everything Wins the Booker Prize",
-   "link": "https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "News The End of Everything M. John Harrison’s The End of Everything Wins the Booker Prize The sci-fi book takes place in a post-Apocalyptic England By Vanessa Armstrong Published on November 10, 2026 M. John Harrison photo credit Virtual Futures, CC BY 3.0, via Wikimedia Commons M. John Harrison photo credit Virtual Futures, CC BY 3.0, via Wikimedia Commons Yesterday, M. John Harrison’s sci-fi novel, The End of Everything , won the Booker Prize, one of the most coveted awards in fiction. Neuromancer author William Gibson captured the excitement in the SFF world with the following post on Bluesky : “M. John Harrison has won the fucking Booker for The End Of Everything! And I just learned that",
-   "published": "2026-11-10T13:14-06:00",
-   "tags": [
-    "Blog",
-    "awards",
-    "Booker Prize",
-    "books",
-    "M. John Harrison",
-    "news",
-    "The End of Everything"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/M.-John-Harrison-The-End-of-Everything-740x493.jpg",
    "summary_from": "feed"
   },
   {
@@ -895,75 +1030,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Announcing .NET 11",
-   "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-   "source": "Microsoft .NET Blog",
-   "category": "DotNet and Development",
-   "summary": "Today, we’re excited to announce the release of .NET 11! This year’s release makes building modern applications faster, more productive, and has improvements across C# 15, ASP.NET Core, .NET MAUI, and Windows development. With hundreds of runtime optimizations, more responsive SDK tooling, and less overhead in everyday commands, you can spend less time waiting and more time creating. Build richer web and cross-platform applications, take advantage of new C# language features, and explore AI-powered development with improved tools and agentic capabilities. Download .NET 11 .NET 11 support .NET 11 is a Standard Term Support (STS) release with two years of support under the .NET support policy ",
-   "published": "2026-11-10T10:11-06:00",
-   "tags": [
-    ".NET",
-    ".NET MAUI",
-    "AI",
-    "ASP.NET Core",
-    "Blazor",
-    "C#",
-    "Entity Framework",
-    "F#"
-   ],
-   "feed": "Microsoft .NET Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/announcing-dotnet-11-scaled.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": ".NET and .NET Framework November 2026 servicing updates",
-   "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
-   "source": "Microsoft .NET Blog",
-   "category": "DotNet and Development",
-   "summary": "The November 10, 2026 servicing updates for .NET 10, .NET 9, and .NET 8 include security and non-security fixes. This post brings together the security advisories, release notes, and download links for this month’s updates, along with resources for .NET Framework servicing. Security improvements The following table covers vulnerabilities affecting .NET 8, 9, 10, and 11, including associated tooling. Follow each advisory for the full list of affected products and remediation guidance. CVE Vulnerability or component Affected versions covered in this post CVE-2026-114146 ASP.NET Core Elevation of Privilege Vulnerability 8, 9, 10, 11 CVE-2026-109475 .NET Denial of Service Vulnerability 8, 9, 10,",
-   "published": "2026-11-10T10:10-06:00",
-   "tags": [
-    ".NET",
-    ".NET Framework",
-    "Maintenance & Updates",
-    ".NET 10",
-    ".NET 11",
-    ".NET 8+",
-    ".NET 9",
-    ".net framework"
-   ],
-   "feed": "Microsoft .NET Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/net-net-framework-november-2026.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-   "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "5 min read NASA Scientists Show How Gravitational Waves Can Reveal New Worlds The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy. Watch to learn how the presence of a planet modifies the gravitational wave signal from tightly orbiting white dwarfs. The LISA (Laser Interferometer Space Antenna) observatory could detect a Jupiter-mass planet in such systems up to thousands of light-years away. NA",
-   "published": "2026-11-10T10:00-06:00",
-   "tags": [
-    "Binary Stars",
-    "Exoplanets",
-    "Goddard Space Flight Center",
-    "Gravitational Waves",
-    "Infrared Light",
-    "James Webb Space Telescope (JWST)",
-    "LISA (Laser Interferometer Space Antenna)",
-    "The Universe"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/2023/06/s/stsci-j-p2223a_0.jpeg?w=2048&h=1593&fit=clip&crop=faces%2Cfocalpoint",
-   "summary_from": "feed"
-  },
-  {
    "title": "Reading The Wheel of Time: Nynaeve Learns about the Tower and Herself in Towers of Midnight (Part 15)",
    "link": "https://reactormag.com/reading-the-wheel-of-time-nynaeve-learns-about-the-tower-and-herself-in-towers-of-midnight-part-15/",
    "source": "Reactor",
@@ -995,6 +1061,19 @@
    "tags": [],
    "feed": "Kottke",
    "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Doctor Who episode featuring David Walliams removed from BBC iPlayer - TV Zone UK",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGNEcDdCUTc3U0Y0WTY0WnY5d1QyMHhsTHNMMF9oVVhmekM0X2NMN2hRSVZSZ2pjZHpXN3RQUDE4TUtkeHJJQkZSaklYcTBXZFpnV1pfOTZkZTVBdWJ2aC1yY0l2alYyeDIzai12QndpTm1vRkRLWU9GU09kUnRBbWlyX3JpQ1FnU0JLcnAxNDVrMnFrMUNnN19WdzgtMWc?oc=5",
+   "source": "TV Zone UK",
+   "category": "Science Fiction",
+   "summary": "Doctor Who episode featuring David Walliams removed from BBC iPlayer TV Zone UK",
+   "published": "2026-11-10T09:09-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1076,19 +1155,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Doctor Who episode featuring David Walliams removed from BBC iPlayer - TV Zone UK",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGNEcDdCUTc3U0Y0WTY0WnY5d1QyMHhsTHNMMF9oVVhmekM0X2NMN2hRSVZSZ2pjZHpXN3RQUDE4TUtkeHJJQkZSaklYcTBXZFpnV1pfOTZkZTVBdWJ2aC1yY0l2alYyeDIzai12QndpTm1vRkRLWU9GU09kUnRBbWlyX3JpQ1FnU0JLcnAxNDVrMnFrMUNnN19WdzgtMWc?oc=5",
-   "source": "TV Zone UK",
-   "category": "Science Fiction",
-   "summary": "Doctor Who episode featuring David Walliams removed from BBC iPlayer TV Zone UK",
-   "published": "2026-11-10T08:59-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "CHAPEA Crew Leaves a Mark",
    "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
    "source": "NASA News",
@@ -1165,6 +1231,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software - Axios",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lMHgwMGdCNDctazFZY0ZnZTRVYlhSWGxTWkU3a0RRcDN1cVdJMXNZeUNEeGJsYzUxdW5zd24tb3FWRlVKV1R5dGctdGFubHJaSzhicGRfT1Jrcl9QQ3U2dVppR2VnN0JXWFY0cnFTLUliQQ?oc=5",
+   "source": "Axios",
+   "category": "AI and Agents",
+   "summary": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software Axios",
+   "published": "2026-11-10T06:30-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "David Tennant and Billie Piper's 'Doctor Who: The Satan Pit Extended Cut' Heads to Cinemas - Screen Realm",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHNsOHJiUWgzYnJTSEc3SDJlcmFEa1I3Y0pORExWa3N3TXhxRk50UGhhWmYtNEpEeXRCem83RDc3WFFHNlBWRnd6eWxDUTgyTzBId0JBSG5QYm5nLVVJd1RPV2pNMUd3RzlUMjRZV1plQXJ6WEpHdFRTVWtTbkNpOU03YS1TNFpkLVJWOEV2eDBsTE5yellXLVFDZXMyNnFWYVE?oc=5",
    "source": "Screen Realm",
@@ -1176,28 +1255,6 @@
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "Have You Ever Heard Of the Lobo MAX-80?",
-   "link": "https://hackaday.com/2026/11/10/have-you-ever-heard-of-the-lobo-max-80/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "[Adrian Black]’s enthusiasm is palpable as he shows off something truly unusual: a Lobo MAX-80 computer from 1982 . To call this machine rare would be an understatement, as the company folded soon after its release. The one shown here is the first one [Adrian] has ever seen, never mind that he had never even heard of it before. The MAX-80 was a Z80-based computer that was CP/M and LDOS compatible. As [Adrian] puts it, many companies and innovative products came and went during this time period. There was so much, and most of it has simply disappeared. He was able to find information about the Lobo MAX-80 from advertisements, media coverage, reviews, and more (and he has thoughtfully uploaded everything, see the video description for links) and even pieced together a short history of a company that got its start making TRS-80 and Apple II disk drives before transitioning to producing their own machine. The MAX-80 was released in 1982, but sadly the company didn’t last much longer. After sharing what history he was able to dig up, [Adrian] opens the unit he has and goes through diagnostics. It’s actually in remarkably good shape, and he’s eventually able to get it to actually boot into CP/M. There’s still more work needed before he can put it through its paces, but getting a formerly completely unknown machine from the 80s operational is pretty wild. Watch the whole thing in the video below. My family had one of these! With the metal case and solid keyboard, it felt like a REAL computer! As I have said elsewhere, it wasn’t really a “better Model I” and more like a “TRS-80 inspired clone running a 3rd-party OS which had a fair degree of Model I compatibility”. We were already familiar with LDOS, so there wasn’t much of a learning curve for us. I can’t remember if it had an",
-   "published": "2026-11-10T06:00-06:00",
-   "tags": [
-    "Retrocomputing",
-    "1980's",
-    "CP/M",
-    "LDOS",
-    "lobo",
-    "MAX-80",
-    "vintage"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/The-Lobo-MAX-80_-A-cool-computer-that-came-and-went-in-a-flash.-0-56-screenshot.png",
-   "summary_from": "page"
   },
   {
    "title": "Helping caregivers use AI in everyday life",
@@ -1257,28 +1314,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Hacking the Sidekick in 2026",
-   "link": "https://hackaday.com/2026/11/10/hacking-the-sidekick-in-2026/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "The early 2000s saw a Cambrian Explosion of form factors for mobile devices, and one of the most feature-rich phones of the time was the Danger Hiptop, better known as the T-Mobile Sidekick. [ashe] wanted to get the phone going again, which took some sleuthing . While not advertised as such at the time, the Hiptop was primarily a client for web apps from the Danger servers. So, when Danger was shuttered, so were most of the phone’s features. [ashe] was able to track down the SDK for the device’s Java-based OS, but to get any programs running on an actual device, they needed a developer key. After finding a few more clues, they were able to use CADO-NFS, a general number sieve, to crack the 512-bit encryption scheme for the system’s developer key and generate a new one for their device. [ashe] ported a visual novel to their Sidekick 3 with their new key, saying “Endings arrive as real Sidekick text notifications, using an emulated modem.” Work continues on the Re:Danger server to bring other functionality back, including plans to spin up a GSM network to connect an actual Sidekick. The server replication only works with an emulated Sidekick so far. They did include a Sidekick emulator on their site if you’d like to try it yourself. If you’re a fan of the form factor but would like something with a bit more power, we’ve seen a UMPC inspired by the Hiptop/Sidekick a few years back. The mutantCybernetics UMPC linked to at the end now has a v5 which takes a compute module Have we (humans) been following the logical (to my limited/simple mind) route of modular architecture, this awesome rig would have two large bays, one – for the battery, another one – for the entire compute module, so anything, even lowly RP Compute module, could plug into the base that would be just the sc",
-   "published": "2026-11-10T03:00-06:00",
-   "tags": [
-    "Cellphone Hacks",
-    "danger hiptop",
-    "feature phone",
-    "hiptop",
-    "sidekick",
-    "thin client",
-    "tmobile"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/danger-hiptop-tmobile-sidekick-3-classof09.webp",
-   "summary_from": "page"
-  },
-  {
    "title": "Closing the AI guidance gap in education",
    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
    "source": "OpenAI News",
@@ -1307,29 +1342,6 @@
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "Robotic Car Charger Locks On With Suction",
-   "link": "https://hackaday.com/2026/11/09/robotic-car-charger-locks-on-with-suction/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Not only does [Mew463]’s robotic car charger take care of plugging in his vehicle for him, it has some really clever features that are great to see in action. We’ve seen a rover-platform-based robotic car charger before , but what’s different here is that [Mew463]’s robot isn’t particularly husky. It’s designed to be low-profile, snug right up against the vehicle during use, and park itself against the wall when not. As an added touch, one doesn’t even have to manually open the car’s charge port door. The robot uses API calls that — once it confirms the vehicle is parked and not in use — unlocks and opens the charge port remotely. People used to be able to pop the charge port with a plain old wireless replay attack , but an API is the better way to go about it. Four Mecanum wheel and LiDAR get the robot into more or less the right position, then fine-tuning happens with the help of an onboard camera and a ChARuco board pattern on the car just under the charging port. Once things are lined up just right, the charger moves forward to plug into the car. Here’s where [Mew463] had to get clever, because plugging in a car charger actually takes a decent amount of force, and the robot is not particularly heavy. The solution is two suction cups that anchor the robot to the car as a gear assembly pushes the charger home. We really like how the robot snugs right up, so while the car is charging there isn’t a big thing in the way. Disconnecting is the reverse of the process, and for the robot to park itself again it simply swivels the camera backward so it can see the marker on the wall without the whole robot having to turn around. It’s all very slick, and you can watch it in action in the video embedded below. Please be kind and respectful to help make the comments section excel",
-   "published": "2026-11-10T00:00-06:00",
-   "tags": [
-    "car hacks",
-    "Robots Hacks",
-    "car charger",
-    "charuco",
-    "lidar",
-    "machine vision",
-    "robotic charger",
-    "tesla"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Tesla-Robotic-Car-Charger-2-42-screenshot.png",
-   "summary_from": "page"
   },
   {
    "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
@@ -1473,6 +1485,21 @@
    "summary_from": "feed"
   },
   {
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "link": "https://openai.com/index/cogent-security",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+   "published": "2026-11-09T18:00-06:00",
+   "tags": [
+    "Startup"
+   ],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Minnesota DNR announces winter walleye rules for Upper Red Lake - Yahoo",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalBjLWF4Qy0wQXgzSHZ5YlJxWl9sbFpfUi16cE02WFNCLXoyTVpwUGJfQ19HblBWMDR4QlEwQ1dUOUpWYlFwR1hoMklic0drUlBIbUl5OHZhS19qOWhib0xrc211OFQ3anY4UzhRYTVLX0xTRm9CNmZ2aFh4bTdsczdUMllVS0VISy0xUG1MYlQ2dEU?oc=5",
    "source": "Yahoo",
@@ -1500,38 +1527,6 @@
    "feed": "File 770",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Rubies on Mars?",
-   "link": "https://science.nasa.gov/blog/rubies-on-mars/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Explore This Section Perseverance Home Science News and Features Multimedia Mars Missions Mars Home This heavily pitted, light-toned float rock “Nhlanguleni” was imaged by SHERLOC’s WATSON camera on Sol 2023, October 29, 2026, at “Kapama Karula” in the “South Idubi” region. NASA/JPL-Caltech Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capabilities for detecting all kinds of elements. SHERLOC, SuperCam, and PIXL can detect min",
-   "published": "2026-11-09T16:27-06:00",
-   "tags": [
-    "Blogs"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_2023_0846549705_738EBY_N0930000SRLC02503_0000LMJ.jpg?w=1648&h=1200&fit=clip&crop=faces%2Cfocalpoint",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Newest Sample, Oldest Rock?",
-   "link": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Explore This Section Perseverance Home Science News and Features Multimedia Mars Missions Mars Home NASA’s Mars Perseverance rover acquired this image of the rock sample “Singita” inside the rover’s coring bit using its left Mastcam-Z camera. The image was acquired on Oct. 24, 2026 (Sol 2018), at a local mean solar time of 12:56:57, shortly after the coring operation. NASA/JPL-Caltech/ASU Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “ Badger Peak .” That’s no coincidence. As previously reported , that rock had a hardness too high to core. Howeve",
-   "published": "2026-11-09T16:25-06:00",
-   "tags": [
-    "Blogs"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg?w=1648&h=1200&fit=clip&crop=faces%2Cfocalpoint",
    "summary_from": "feed"
   },
   {
@@ -1573,19 +1568,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/Alba-Mons-HCl_20261109_210137.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
-   "source": "OpenAI",
-   "category": "AI and Agents",
-   "summary": "CodeRabbit scales agentic software development and ships 20x more OpenAI",
-   "published": "2026-11-09T15:25-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -1819,6 +1801,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
+   "source": "OpenAI",
+   "category": "AI and Agents",
+   "summary": "CodeRabbit scales agentic software development and ships 20x more OpenAI",
+   "published": "2026-11-09T12:30-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Red Hat Advances Red Hat Developer Hub as an Agent-Ready Enterprise Developer Portal - 01net",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGMyRlBpYkpqR0U2VzVJRW1GeGtISmxpV01lQllQN2E5Nm9CSkZ6cnNmVnpURVpxSFZIcmxzTmxiTmxXUWpWSzVJRElWQl9OdlRmQl9fUnJmZ2o0SUpQODZMdnRWX09IUXdVWENGejRtSGZpZW8wdGs1bHE5d090MEhBQm1KU1BnQ1RLalhJOURWaV85eU1uRTdMYlQ4bHdpVjQ2U3RjcHV5QQ?oc=5",
    "source": "01net",
@@ -1966,24 +1961,6 @@
    "feed": "Google News aurora",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Do AI coding agents care about SemVer?",
-   "link": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/",
-   "source": "Microsoft DevBlogs",
-   "category": "DotNet and Development",
-   "summary": "Semantic versioning tells developers how risky an upgrade is. A patch fixes bugs, a minor release adds features without breaking anything and a major release breaks things, so you know how closely to look before you upgrade. On paper, that signal is redundant when an AI coding agent does the upgrade. The agent has no muscle memory tied to the old API. It can read the new code and run the tests, so why would it care what the version number says? We suspected it wouldn’t, and that SemVer had become something only people need. Two models proved us wrong. Across two experiments and almost 1,000 runs, the version number alone changed what they did with byte-identical code. Given an upgrade that b",
-   "published": "2026-11-09T10:01-06:00",
-   "tags": [
-    "AI",
-    "Agent Experience",
-    "AX"
-   ],
-   "feed": "Microsoft DevBlogs",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Experience_-SemVer-and-Agent-Behavior.webp",
    "summary_from": "feed"
   },
   {
@@ -2135,19 +2112,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "SOLAR FLARE | Even More Niche and Performative - The Cornell Daily Sun",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWJVTDBpNlVIdnNtVkg3b0o1NVJ6bEdHTnpuZUo3X0VQQm9qVGN3ZGM3b3paOU1iZWZPRVBDSnFSMWRxaEZwM2hiWVpmM2RfQm9zTGxtSVVhdWp0QmotZ3N5Y09oei15VTFjcFIzM2ozelJyT2xvLVF5clg1VTVSSEFLa2dia2ZjZ1VNRGhyeEM?oc=5",
-   "source": "The Cornell Daily Sun",
-   "category": "Space Weather and Aurora",
-   "summary": "SOLAR FLARE | Even More Niche and Performative The Cornell Daily Sun",
-   "published": "2026-11-09T08:07-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Noxious Smoke Hints at Active Volcanoes on Mars",
    "link": "https://skyandtelescope.org/astronomy-news/noxious-smoke-hints-at-active-volcanoes-on-mars/",
    "source": "Sky and Telescope News",
@@ -2186,19 +2150,6 @@
    "category": "Minnesota and Nature",
    "summary": "Voyageurs National Park has a new boss — and plenty of challenges Star Tribune",
    "published": "2026-11-09T05:30-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Wolf Ridge recognized with national conservation award for outdoor education efforts - WTIP",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWM0TzNaTC0zS28zOVpwUGNXdE9TdDhKeXZYTFF4ZE5xUDEzRFAwbkFzckktd241WDAxUmVfaHNEN3VEYjlKV084dTRINWNjcjJhbFRjMjNhbWZ2VEl3eHIteDVIU3B1OXpCbVVxUTFqNDdCM2xfNzdwV04xNl9SZHE0SkNRX3VOS3VpVHFkQ25hZHV6WUItYXlVN2JMVG9Pb2Rzdw?oc=5",
-   "source": "WTIP",
-   "category": "Minnesota and Nature",
-   "summary": "Wolf Ridge recognized with national conservation award for outdoor education efforts WTIP",
-   "published": "2026-11-09T04:53-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
    "evergreen": false,
@@ -2288,20 +2239,6 @@
    "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Rigel and the Witch Head Nebula",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
-   "source": "NASA Astronomy Picture of the Day",
-   "category": "Astrophotography",
-   "summary": "APOD: 2026 November 9 - Rigel and the Witch Head Nebula Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 2026 November 9 Rigel and the Witch Head Nebula Image Credit & Copyright : Piotr Czerski Explanation: Explanation: Does the blue nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula's shape resembles a Halloween-style caricature of a witch's head. Exactly how, though, can be a topic of imaginative speculation . What is clear is that IC 2118 is about 50 light-years acro",
-   "published": "2026-11-08T23:05-06:00",
-   "tags": [],
-   "feed": "NASA Astronomy Picture of the Day",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg",
    "summary_from": "feed"
   },
   {
@@ -2458,6 +2395,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "OpenAI To Acquire Pierre Computer Company To Expand Codex And AI-Powered Software Development Capabilities - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc1ppTks2WmN0bi03YWZER2pNUEZaRWZLY0s0dnlTM1RUdFJOR1dpQzY3Uk5iTmJTM1dhSVlzc1FNUmZfWUFtaDI2MDRnN2UtdlVneFdvWko4a041dGFyRE80TXpoMUxBRUNmWUZjNURwQnV0S0ZnNVFDNDNRcDhja0hPbWFJbWJhLTBLUGVwYVFQdXZDV1JSTkdZNVBwOFItNDJ2YzVCREFCTGtBc1VRR2NDTlk0dW1TTktJSENVT3lxTGtP?oc=5",
+   "source": "Pulse 2.0",
+   "category": "AI and Agents",
+   "summary": "OpenAI To Acquire Pierre Computer Company To Expand Codex And AI-Powered Software Development Capabilities Pulse 2.0",
+   "published": "2026-11-08T10:08-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' - BBC",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SdUM0TzRLaF9DUzNpOUdRS2xFNnlDVDFOem9BeDcxMnlMbWZURUJMLUY2ckROb1B4VEwwTzZTVVZPNUlYTTJzcEc1RkcwbXZKRGRWdnh4ZUJDYWxISEE?oc=5",
    "source": "BBC",
@@ -2555,28 +2505,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Pixel Scroll 11/7/26 I Am The Scroll That Walks Alone, And All Pixels Are Alike To Me",
-   "link": "https://file770.com/pixel-scroll-11-7-26-i-am-the-scroll-that-walks-alone/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "(1) STARLOG REVIVED. Starlog (Est. 1976) is back, edited by Annalee Newitz. Vol. 2 #1: pre-orders are open — ships November 13. Fifty years after its debut, the legendary science fiction magazine returns with an all-new issue exploring the stories, … Continue reading →",
-   "published": "2026-11-07T20:53-06:00",
-   "tags": [
-    "Pixel Scroll",
-    "Annalee Newitz",
-    "Catherynne M. Valente",
-    "Clifton's Cafeteria",
-    "Heinlein",
-    "Julia Morgan-Scott",
-    "Sarah J. Maas",
-    "Starlog"
-   ],
-   "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "How to Harness Your Existential Wanderlust",
    "link": "https://www.themarginalian.org/2026/11/07/rockwell-kent-wilderness-wanderlust/",
    "source": "The Marginalian",
@@ -2657,19 +2585,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Minnesota deer season opens Saturday as DNR introduces new license and testing plans - Northern News Now",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZlVpaEowa0d2LXdKd1BqVmp3SXZNbUVUZUs5VmNWMEJlaFBQQWZ4MHdyZng1M2RTbVFwVzM3UElNbmFHN1F4WE1qWGJhMjNTbTNScUFvY1A5RjZLbklUT3dPOTVyUC1GVmpLZl9acmMtbXJsc1Jqci1hbjhJN092bi1MeHBrMHl5NmdxM3p0WmlGRE9aVTNBdjVTRDAwejJWV2dtbW5MUWZFVkY3bkRjWDFqZzJjenpfYUhVZjNn0gHSAUFVX3lxTE1ZWFRvX0JiN3BwOHZsN2QzR2pLSk5FN3JZdk40aW9uMkRaZi0td0xpeGpLOGJtTmh1NGpRVXhXM2J1UWhGa3pNekdiZmlGT3FPTzBHRW80cDZwanR1dzEyUGw4dl81YVd6dHlvdnUybkdGd2ZaWmI1VXVFTTM5LWQ1ZXJQc0pKVEM1bmt5TWQ4VVhlTFlkUmF2cTcwNWVTNXdFRzNJZGZTZTc0N1piMVdTa3FqbFcxeUJMZTROMmJUamxpUU1XSTk5ZGoyMWg2WHR2Zw?oc=5",
-   "source": "Northern News Now",
-   "category": "Minnesota and Nature",
-   "summary": "Minnesota deer season opens Saturday as DNR introduces new license and testing plans Northern News Now",
-   "published": "2026-11-06T20:41-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3616,6 +3531,26 @@
    "summary_from": "feed"
   },
   {
+   "title": "Godzilla Minus Zero Director Explains Why He Didn’t Want a Monster vs. Monster Movie",
+   "link": "https://reactormag.com/godzilla-minus-zero-director-monster-movie/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "News Godzilla Minus Zero Godzilla Minus Zero Director Explains Why He Didn’t Want a Monster vs. Monster Movie Director Takashi Yamazaki had a different vision for a Godzilla sequel By Matthew Byrd Published on November 4, 2026 Photo Credit: Toho Photo Credit: Toho Much has been made of King Ghidorah’s role in Godzilla Minus Zero . While not exactly a secret, the movie’s previews have done an excellent job of concealing the extent of King Ghidorah’s role as well as the creature’s physical appearance. Such a move presumably helps preserve not only the moment King Ghidorah appears on-screen, but also the seemingly inevitable monster vs. monster showdown that has long been at the heart of the Go",
+   "published": "2026-11-04T12:52-06:00",
+   "tags": [
+    "Blog",
+    "Godzilla Minus Zero",
+    "movies",
+    "news",
+    "Science Fiction"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/10/unnamed-1-740x476.png",
+   "summary_from": "feed"
+  },
+  {
    "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
    "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
    "source": "Microsoft Azure Blog",
@@ -3693,21 +3628,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "link": "https://openai.com/index/openai-to-acquire-pierre",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-   "published": "2026-11-04T08:30-06:00",
-   "tags": [
-    "Company"
-   ],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "No One You Love Is Ever Dead: Hemingway on Loss and the Meaning of Life",
    "link": "https://www.themarginalian.org/2026/11/04/hemingway-loss-letter/",
    "source": "The Marginalian",
@@ -3725,36 +3645,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/05/lettersofnote_grief.jpg?fit=320%2C437&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "A thousand fewer paths to root",
-   "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-   "published": "2026-11-04T02:00-06:00",
-   "tags": [
-    "Security"
-   ],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-   "published": "2026-11-04T01:00-06:00",
-   "tags": [
-    "Product"
-   ],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -4111,20 +4001,6 @@
    "feed": "Sky and Telescope News",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Colors of the Moon",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-   "source": "NASA Astronomy Picture of the Day",
-   "category": "Astrophotography",
-   "summary": "APOD: 2026 November 1 - Colors of the Moon Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 2026 November 1 Colors of the Moon Image Credit & Copyright : Marcella Giulia Pace Explanation: Explanation: What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere , the dark Moon , which shines by reflected sunlight, appears a magnificent ly brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from differ",
-   "published": "2026-10-31T23:05-05:00",
-   "tags": [],
-   "feed": "NASA Astronomy Picture of the Day",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg",
    "summary_from": "feed"
   },
   {
@@ -4499,7 +4375,7 @@
    "link": "https://www.damninteresting.com/a-possible-future/",
    "source": "Damn Interesting",
    "category": "Curious Discoveries",
-   "summary": "A Possible Future : Current donations: $21,356 of $40,000 goal Alan Bellows here, founder of Damn Interesting. For the better part of twenty years, I kept this project afloat by working part-time engineering jobs to pay the bills, and spending the other halves of my work days researching, writing, editing, and podcasting. But in recent years, the landscape has […]",
+   "summary": "A Possible Future : Current donations: $21,376 of $40,000 goal Alan Bellows here, founder of Damn Interesting. For the better part of twenty years, I kept this project afloat by working part-time engineering jobs to pay the bills, and spending the other halves of my work days researching, writing, editing, and podcasting. But in recent years, the landscape has […]",
    "published": "2026-07-08T11:36-05:00",
    "tags": [
     "Announcements",
