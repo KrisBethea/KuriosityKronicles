@@ -1,5 +1,64 @@
 [
   {
+    "id": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
+    "link": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/image_7543-Hot-Jupiter_20261110_222441.jpg",
+    "title": "Hot Jupiter Vanishes from Sight After Gravitational Tug from Unseen Neighbor",
+    "category": "Astronomy and Space",
+    "dept": "from the disappearing-act dept.",
+    "reasoning": "When a transiting exoplanet monitored by TESS for seven years suddenly stops showing up, it forces astronomers to look closer at orbital dynamics. This clear, source-backed finding explains how a neighboring giant planet can gravitationally tug a world right out of our line of sight.",
+    "summary": "Astronomers analyzing seven years of TESS data discovered that a hot Jupiter about 1,000 light-years away stopped transiting its star. They determined that an unseen massive companion planet gravitationally tugged the world off its previous transit alignment.",
+    "added": "2026-11-11T11:33:25-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/",
+    "link": "https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/DOOMed-coffee-machine.jpg",
+    "title": "This Smart Coffee Kiosk Is Now Playing DOOM",
+    "category": "DotNet and Development",
+    "dept": "from the caffeine-and-frag-grenades dept.",
+    "reasoning": "There is a wonderful, enduring hacker tradition of getting id Software's classic shooter running on anything with a microprocessor. This detailed teardown of a Linux-powered commercial coffee kiosk provides a clever look into embedded hacking and low-level debugging ports.",
+    "summary": "A hardware hacker managed to run DOOM on the i.MX 6 ARM Cortex-A9 processor powering a commercial self-serve coffee kiosk's touchscreen module. By probing the debug port on the machine's smart controller, they added a whole new kind of hard mode to your morning caffeine run.",
+    "added": "2026-11-11T11:32:25-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/10/watching-the-watchers/",
+    "link": "https://hackaday.com/2026/11/10/watching-the-watchers/",
+    "source": "Hackaday",
+    "title": "A Local Browser Tool for Tracking Overhead Satellites and Imagery",
+    "category": "DotNet and Development",
+    "dept": "from the low-earth-orbit dept.",
+    "reasoning": "With modern skies growing crowded with constellations, open-source utilities that let developers run SGP4 orbital mechanics locally in the browser are fantastic. It is a neat engineering project that highlights how everyday observers can monitor passing hardware and downlinked data.",
+    "summary": "A developer has built a browser-based satellite tracker using simplified perturbation models to map passes over any location in real time. The open-source tool runs entirely client-side and can automatically pull imagery transmitted by passing spacecraft.",
+    "added": "2026-11-11T11:31:25-06:00"
+  },
+  {
+    "id": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+    "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+    "source": "NASA News",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048",
+    "title": "Voyager 1 Reaches One Light-Day Distance from Earth",
+    "category": "Astronomy and Space",
+    "dept": "from the deep-space-signal dept.",
+    "reasoning": "Reaching a distance where radio signals take 24 hours to make a one-way trip is a mind-boggling milestone for humanity's most distant emissary. NASA's celebration of Voyager 1's historic 50-year journey offers a wonderful moment to reflect on interstellar operations.",
+    "summary": "Nearly 50 years after its launch in 1977, Voyager 1 is set to cross the one light-day distance threshold, sitting more than 16 billion miles away from Earth. NASA is marking the historic interplanetary milestone with public engagement events and global participation.",
+    "added": "2026-11-11T11:30:25-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe",
+    "link": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/demo_sky_image_20261110_185831.png",
+    "title": "First Direct Measurement of Cosmic Hydrogen Mapping the Universe",
+    "category": "Astronomy and Space",
+    "dept": "from the neutral-gas dept.",
+    "reasoning": "Radio astronomy breakthroughs that give us a new handle on large-scale cosmic structure are always worth highlighting. The MeerKLASS collaboration's work offers a concrete look at how direct hydrogen mapping will change cosmological surveys.",
+    "summary": "The international MeerKLASS collaboration has achieved the first direct measurement of the large-scale clustering of cosmic hydrogen in the universe. The breakthrough technique promises to open new ways for astronomers to map cosmic structure and galaxy evolution.",
+    "added": "2026-11-11T11:29:25-06:00"
+  },
+  {
     "id": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
     "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
     "source": "Microsoft .NET Blog",

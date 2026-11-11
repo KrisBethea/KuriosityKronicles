@@ -1,12 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Curiosity Dispatch</title>
+<title>Kuriosity Kronicles</title>
 <link>https://KrisBethea.github.io/kuriosity-kronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/kuriosity-kronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 10 Nov 2026 23:18:38 +0000</lastBuildDate>
-<image><url>https://KrisBethea.github.io/kuriosity-kronicles/favicon.svg</url><title>Curiosity Dispatch</title><link>https://KrisBethea.github.io/kuriosity-kronicles/</link></image>
+<lastBuildDate>Wed, 11 Nov 2026 17:33:25 +0000</lastBuildDate>
+<image><url>https://KrisBethea.github.io/kuriosity-kronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/kuriosity-kronicles/</link></image>
+<item>
+<title>Hot Jupiter Vanishes from Sight After Gravitational Tug from Unseen Neighbor</title>
+<link>https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough</guid>
+<pubDate>Wed, 11 Nov 2026 11:33:25 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>When a transiting exoplanet monitored by TESS for seven years suddenly stops showing up, it forces astronomers to look closer at orbital dynamics. This clear, source-backed finding explains how a neighboring giant planet can gravitationally tug a world right out of our line of sight.</description>
+<content:encoded><![CDATA[<p><small>from the disappearing-act dept.</small></p>
+<p><em>When a transiting exoplanet monitored by TESS for seven years suddenly stops showing up, it forces astronomers to look closer at orbital dynamics. This clear, source-backed finding explains how a neighboring giant planet can gravitationally tug a world right out of our line of sight.</em></p>
+<p><img src="https://www.universetoday.com/article_images/image_7543-Hot-Jupiter_20261110_222441.jpg" alt=""></p>
+<p>Astronomers analyzing seven years of TESS data discovered that a hot Jupiter about 1,000 light-years away stopped transiting its star. They determined that an unseen massive companion planet gravitationally tugged the world off its previous transit alignment.</p>
+<p><a href="https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>This Smart Coffee Kiosk Is Now Playing DOOM</title>
+<link>https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/</guid>
+<pubDate>Wed, 11 Nov 2026 11:32:25 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>There is a wonderful, enduring hacker tradition of getting id Software's classic shooter running on anything with a microprocessor. This detailed teardown of a Linux-powered commercial coffee kiosk provides a clever look into embedded hacking and low-level debugging ports.</description>
+<content:encoded><![CDATA[<p><small>from the caffeine-and-frag-grenades dept.</small></p>
+<p><em>There is a wonderful, enduring hacker tradition of getting id Software&#x27;s classic shooter running on anything with a microprocessor. This detailed teardown of a Linux-powered commercial coffee kiosk provides a clever look into embedded hacking and low-level debugging ports.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/DOOMed-coffee-machine.jpg" alt=""></p>
+<p>A hardware hacker managed to run DOOM on the i.MX 6 ARM Cortex-A9 processor powering a commercial self-serve coffee kiosk&#x27;s touchscreen module. By probing the debug port on the machine&#x27;s smart controller, they added a whole new kind of hard mode to your morning caffeine run.</p>
+<p><a href="https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>A Local Browser Tool for Tracking Overhead Satellites and Imagery</title>
+<link>https://hackaday.com/2026/11/10/watching-the-watchers/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/10/watching-the-watchers/</guid>
+<pubDate>Wed, 11 Nov 2026 11:31:25 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>With modern skies growing crowded with constellations, open-source utilities that let developers run SGP4 orbital mechanics locally in the browser are fantastic. It is a neat engineering project that highlights how everyday observers can monitor passing hardware and downlinked data.</description>
+<content:encoded><![CDATA[<p><small>from the low-earth-orbit dept.</small></p>
+<p><em>With modern skies growing crowded with constellations, open-source utilities that let developers run SGP4 orbital mechanics locally in the browser are fantastic. It is a neat engineering project that highlights how everyday observers can monitor passing hardware and downlinked data.</em></p>
+<p>A developer has built a browser-based satellite tracker using simplified perturbation models to map passes over any location in real time. The open-source tool runs entirely client-side and can automatically pull imagery transmitted by passing spacecraft.</p>
+<p><a href="https://hackaday.com/2026/11/10/watching-the-watchers/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Voyager 1 Reaches One Light-Day Distance from Earth</title>
+<link>https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/</link>
+<guid isPermaLink="false">https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/</guid>
+<pubDate>Wed, 11 Nov 2026 11:30:25 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Reaching a distance where radio signals take 24 hours to make a one-way trip is a mind-boggling milestone for humanity's most distant emissary. NASA's celebration of Voyager 1's historic 50-year journey offers a wonderful moment to reflect on interstellar operations.</description>
+<content:encoded><![CDATA[<p><small>from the deep-space-signal dept.</small></p>
+<p><em>Reaching a distance where radio signals take 24 hours to make a one-way trip is a mind-boggling milestone for humanity&#x27;s most distant emissary. NASA&#x27;s celebration of Voyager 1&#x27;s historic 50-year journey offers a wonderful moment to reflect on interstellar operations.</em></p>
+<p><img src="https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048" alt=""></p>
+<p>Nearly 50 years after its launch in 1977, Voyager 1 is set to cross the one light-day distance threshold, sitting more than 16 billion miles away from Earth. NASA is marking the historic interplanetary milestone with public engagement events and global participation.</p>
+<p><a href="https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/">Read it</a> · Astronomy and Space · NASA News</p>]]></content:encoded>
+</item>
+<item>
+<title>First Direct Measurement of Cosmic Hydrogen Mapping the Universe</title>
+<link>https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe</guid>
+<pubDate>Wed, 11 Nov 2026 11:29:25 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Radio astronomy breakthroughs that give us a new handle on large-scale cosmic structure are always worth highlighting. The MeerKLASS collaboration's work offers a concrete look at how direct hydrogen mapping will change cosmological surveys.</description>
+<content:encoded><![CDATA[<p><small>from the neutral-gas dept.</small></p>
+<p><em>Radio astronomy breakthroughs that give us a new handle on large-scale cosmic structure are always worth highlighting. The MeerKLASS collaboration&#x27;s work offers a concrete look at how direct hydrogen mapping will change cosmological surveys.</em></p>
+<p><img src="https://www.universetoday.com/article_images/demo_sky_image_20261110_185831.png" alt=""></p>
+<p>The international MeerKLASS collaboration has achieved the first direct measurement of the large-scale clustering of cosmic hydrogen in the universe. The breakthrough technique promises to open new ways for astronomers to map cosmic structure and galaxy evolution.</p>
+<p><a href="https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
 <item>
 <title>Announcing .NET 11</title>
 <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/</link>
