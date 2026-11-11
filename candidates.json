@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-11T00:18-06:00",
- "count": 279,
+ "generated": "2026-11-11T10:10-06:00",
+ "count": 283,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -56,26 +56,26 @@
   "Astronomy and Space | Sky and Telescope News": {
    "url": "https://www.skyandtelescope.com/astronomy-news/feed/",
    "ok": true,
-   "kept": 10,
+   "kept": 9,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 0,
+   "old": 1,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Space Weather and Aurora | Google News space weather": {
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 11,
-   "entries": 73,
+   "kept": 13,
+   "entries": 72,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 62,
+   "old": 59,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -212,7 +212,7 @@
    "url": "https://openai.com/news/rss.xml",
    "ok": true,
    "kept": 20,
-   "entries": 1379,
+   "entries": 1380,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -224,8 +224,8 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 8,
-   "entries": 60,
+   "kept": 4,
+   "entries": 56,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -263,8 +263,8 @@
   "Science Fiction | Google News Doctor Who": {
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 14,
-   "entries": 64,
+   "kept": 16,
+   "entries": 66,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -289,8 +289,8 @@
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 7,
-   "entries": 26,
+   "kept": 12,
+   "entries": 31,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -380,6 +380,346 @@
    "summary_from": "feed"
   },
   {
+   "title": "Read Receipts: Dystopia Is Back, Baby!",
+   "link": "https://reactormag.com/read-receipts-dystopia-is-back-baby/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Books Read Receipts Read Receipts: Dystopia Is Back, Baby! “I actually think it is a recession indicator” By Reactor Published on November 11, 2026 Books Read Receipts Read Receipts: Dystopia Is Back, Baby! “I actually think it is a recession indicator” By Reactor Published on November 11, 2026 We are so pleased to share this week’s episode of Read Receipts, all about the current wave of dystopian fiction. Today’s episode features Chloe Gong ( The StrangeLoom Trilogy ), Ava Reid ( Winterveil , Fable at the End of the World ), and J. Elle ( The Heart Trials ) discussing the influence of the 2000s Golden Age of YA dystopia, social media’s impact on literature, and writing for teen readers. Vie",
+   "published": "2026-11-11T09:30-06:00",
+   "tags": [
+    "Blog",
+    "Ava Reid",
+    "Chloe Gong",
+    "dystopian fiction",
+    "J. Elle",
+    "Podcasts",
+    "Reactor Podcasts",
+    "Read Receipts"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/10/Read-Receipts-Horizontal-Banner-1400-x-700-740x370.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "How a Metabolic Spark Could Have Jump-Started Life",
+   "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+   "source": "Quanta Magazine",
+   "category": "Astronomy and Space",
+   "summary": "This explainer is part of Quanta Magazine’s Origins of Life Week. Check back throughout the week for more stories about one of science’s biggest unknowns. For well over 4 billion years, the fire of metabolism has powered the engines of life. The ability of cells to gather, transform, and harness chemical energy from their surroundings is the central force driving the dizzyingly complex network… Source",
+   "published": "2026-11-11T09:10-06:00",
+   "tags": [
+    "Biology"
+   ],
+   "feed": "Quanta Magazine",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Default.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "EV Batteries Are Proving Hardier Than Expected",
+   "link": "https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Batteries have a habit of quietly getting worse. Anyone who has nursed an old smartphone through its final years knows the routine—it leaves the house at 100% and is begging for a charger by lunchtime. It’s no surprise, then, that one of the most common worries about electric cars is what happens to the pack after a few years and a lot of kilometres. Nobody wants to buy a used EV only to discover it can barely make it across town. Fears around battery degradation and high replacement costs were the catch cry of many EV doomers over the years. The good news is that we now have a pretty big pile of data on the question. Austrian battery diagnostics company Aviloo has crunched the results of more than 500,000 tests on used EVs covering 20 popular models from the likes of Tesla, Volkswagen, Hyundai and Nissan. The data thus far tells us that EV batteries are holding up far better than the naysayers would have you believe. As a company specializing in battery diagnostics, Aviloo has developed what it calls the “FLASH” test, which is a 3-minute test performed on the battery via an EV’s OBD port. Rather than relying on a vehicle’s dashboard to report battery state of health, which would vary between manufacturers depending on methodology, the FLASH test is an independent test that is run the same way across different makes and models. Running over 3 minutes, it captures data available over the OBD port, such as pack voltage, individual cell voltages, and temperature deviations. It collates these figures, and runs them through a model that compares with with Aviloo’s back end database of data from tests on other similar vehicles, and comes up with a State of Health (SoH) percentage indicative of the battery’s expected capacity compared to when it was new. Aviloo’s study took in",
+   "published": "2026-11-11T09:00-06:00",
+   "tags": [
+    "Current Events",
+    "Featured",
+    "Original Art",
+    "battery",
+    "electric vehicle",
+    "ev",
+    "EV battery"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/10/EVbatteries.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Seven Shady and Shadowy Fantasy Noirs",
+   "link": "https://reactormag.com/seven-shady-and-shadowy-fantasy-noirs/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Books reading recommendations Seven Shady and Shadowy Fantasy Noirs Fantasy for folks who like a little moral ambiguity mixed in with their magic. By Sam Reader Published on November 11, 2026 Absolon Creed cover art by Matt Griffin Absolon Creed cover art by Matt Griffin Noir has a long history of intermingling with fantasy. Since the early days of the pulps, weird stories of far-off lands aren’t just about lone heroes with grim determination, but a wide variety of criminals , sellswords, overworked law enforcement , and others just trying to get by. After all, cities don’t stop having shadowy underbellies just because they’re full of orcs, elves, and gnomes. There are any number of fascinat",
+   "published": "2026-11-11T09:00-06:00",
+   "tags": [
+    "Blog",
+    "fantasy",
+    "Glen Cook",
+    "Hailey Piper",
+    "John M. Ford",
+    "Leigh Bardugo",
+    "noir",
+    "R.S. Ford"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/absolon-creed-cover-art-header-740x423.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "‘Doctor Who’s ‘Sherlock’ Replacement Officially Returns for New Release - Collider",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUpJbkh0T2pVQ0ctajl6WmpkMVc5MXZPR0tsOFFZTkE2SzBMS0RGaEM2VVpJS2lSQUpXc01UVTV6RUtadWdqU25Gd1FuREJudHJpUGdoR3hqSGlGUENoRUFoMFhId0F2WURNTmpnalN0Skc2WkNrTlo1N0xZbzNPV1pEU1VLM0o2eHc?oc=5",
+   "source": "Collider",
+   "category": "Science Fiction",
+   "summary": "‘Doctor Who’s ‘Sherlock’ Replacement Officially Returns for New Release Collider",
+   "published": "2026-11-11T09:00-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Cossit House in Sydney, Nova Scotia",
+   "link": "https://www.atlasobscura.com/places/cossit-house",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "Standing in the historic North End of Sydney, Nova Scotia, Cossit House is the city's oldest surviving residence and one of the oldest buildings on Cape Breton Island. Built in 1787, the house has witnessed more than two centuries of history, and according to local ghost stories, some of its earliest residents may never have left. The house was built for Reverend Ranna Cossit, a Loyalist Anglican minister who served as the garrison chaplain for the colony of Cape Breton Island. As the first Protestant minister assigned to the colony, Cossit played an important role in its early political and social development. He lived in the house with his wife, Thankful, and their growing family. Of the c",
+   "published": "2026-11-11T09:00-06:00",
+   "tags": [
+    "colonial america",
+    "houses",
+    "historic homes"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/4Rz4bd137ZwMsnFo9T3CIWcjJJgCp3xTja4N7F0gLTU/rs:fill:300:200:1/g:ce/c:746:497:nowe:214:18/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yNGFk/NjZjNC01MWI4LTQy/NjAtYjE0MS01YTE0/MDZiMGYxMDIwMWE0/YTY5ZTc3YWMxNWVl/ZjJfQ29zc2l0X0hv/dXNlXygzNTEwNDE5/NDAyMykuanBn.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Advice for the incoming Democratic Congress: 8 Bold Ideas...",
+   "link": "https://kottke.org/26/11/0049967-8-bold-ideas-to-fix-ameri",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Advice for the incoming Democratic Congress: 8 Bold Ideas to Fix America . Bold? I dunno…it seems like a lot of this stuff is closer to the floor than the ceiling of what they should be considering.",
+   "published": "2026-11-11T08:59-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Triumph of Labour: Walter Crane’s Cartoons for the Cause (1896)",
+   "link": "https://publicdomainreview.org/collection/walter-crane-cartoons-for-the-cause",
+   "source": "Public Domain Review",
+   "category": "Curious Discoveries",
+   "summary": "Socialist illustrations intended as party favours for participants in the International Workers’ Congress.",
+   "published": "2026-11-11T08:49-06:00",
+   "tags": [],
+   "feed": "Public Domain Review",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://pdr-assets.b-cdn.net//collections/walter-crane-cartoons-for-the-cause/crane-cartoon-thumb.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Stronger than usual El Nino could do a number on Minnesota's ice fishing industry - Audacy",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TTF5dV9ONHdSOGZCWmc1ZkM2UlpBbTNpYWswdE5rdGJZMnhrWHVaYl93WHJBdTZXVUJETEFTRnlpSTY5WXNTMDBQRFk1endhVFcwLUpqSndXNDJXdEFmZWVXNDI4WTM4Mm91UnB1bDEyM2NjSU9icU1Zd0ZZQQ?oc=5",
+   "source": "Audacy",
+   "category": "Minnesota and Nature",
+   "summary": "Stronger than usual El Nino could do a number on Minnesota's ice fishing industry Audacy",
+   "published": "2026-11-11T08:21-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Report: Space weather threatens uninsured losses across the globe - Business Insurance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXl5UDktTGlOTkZFYXlPRndBa2kwb0E2Rmk4N081bjJEQ28tMWNINldCR2NaNGxwY1lHaDhlTDU4b1JJb0ZfY2xaMlplYmxfQWwzenBWVExDWnM1QXpieFJnc181NlI5MkNtcUszSnVkcHNOTmc3QWlPbkVDQndXeWp1dXhOTjZXQmVTdFZIYkdKdk9Tam00Z1Rfa0paVzFo?oc=5",
+   "source": "Business Insurance",
+   "category": "Space Weather and Aurora",
+   "summary": "Report: Space weather threatens uninsured losses across the globe Business Insurance",
+   "published": "2026-11-11T08:20-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Could a modern chess engine on a Pentium have defeated...",
+   "link": "https://kottke.org/26/11/0049965-could-a-modern-chess-engi",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996? “It (almost certainly) wouldn’t have even been close.”",
+   "published": "2026-11-11T08:18-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough",
+   "link": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "TESS watched an exoplanet about 1,000 light years away as it repeatedly transited in front of its star for seven years. But astronomers were surprised to find that the hot Jupiter disappeared. Of course, planets don't just disappear. Something interrupted its transits from our point of view, and astronomers think they've figured out what happened. An unseen, nearby giant planet companion tugged on it until TESS couldn't see it anymore.",
+   "published": "2026-11-11T07:02-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/image_7543-Hot-Jupiter_20261110_222441.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hibbing, Chisholm WWII centenarians remembered; first of four Second Chancer Homes revealed - Mesabi Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQTdDOVJrRFYxS2ZaOEhYR0VWbFF2MjlPbUJ1cjBHRVI5ejQyRk9KWHFYXzBzQkxqeXl0TDBEaUNYcGR1UkRRdURiRXFrWVNmVjFZRE5Bdlo1SXU5bXJjeW9lOVdTYzRoS3cwS0x4VW1wVFJpVm03YmNNaGg2UEtNRGNNM2dPM1FucThDWGRwLW1FLW5VSzFIM2kzblRybHpzY2hGQWFERUE2Z2hFOExWRm82UUp0V3g2bERtY0I5ekFReHI4MjZMTFpHVzNJRHk3MHFOQnd2UHpuS0ZWV2NpT3o4c3ZWNnFQRnVLV2E2YWtISFduLWNxTWtDcnAyYUhZc1p3ZUo3SlU?oc=5",
+   "source": "Mesabi Tribune",
+   "category": "Minnesota and Nature",
+   "summary": "Hibbing, Chisholm WWII centenarians remembered; first of four Second Chancer Homes revealed Mesabi Tribune",
+   "published": "2026-11-11T06:15-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Why Engineers are Forced to Create Junk Designs",
+   "link": "https://hackaday.com/2026/11/11/why-engineers-are-forced-to-create-junk-designs/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "It’s become a bit of a platitude to state that products were manufactured better in ‘the olden days’, but as [The Meandrous Engineer] covers in a recent video essay , the truth is a lot more greyscale and nuanced than something so trite. The very short version is that it is the dominant culture of a nation in which products are manufactured that determines how many shortcuts and potential product life-shortening decisions are made. This same culture works its way down into company culture, including the engagement of the so-called C-suite with the engineers and folk who keep the now mostly automated manufacturing lines running, as well as vice-versa. Old-school die-cast models and incandescent light bulbs saw their own series of manufacturing shortcuts, including a pre-World War 2 scandal about the artificial limiting of the lifespan of lightbulbs so that customers would buy more of them. This foreshadows what happened as soon as plastics and computer-aided design and manufacturing came on the scene. Post-WW2, people like W. Edwards Deming were welcome guests in Japan and other rebuilding nations, introducing the Lean method of manufacturing which was at the time not deemed desirable in a post-war USA. For Japan, South Korea and other nations in the region this meant a boom in manufacturing, with a quality level that would ultimately trounce that of their Western equivalents. The argument here is that Japan’s culture of efficiency, of respect for materials and loyalty both to one’s company and its workers is why this method produces much better results, with better working conditions than in nations with a different culture. This is exemplified by e.g. former Nintendo president [Satoru Iwata] taking a 50% pay cut in 2014 rather than lay off any people. Although plastics",
+   "published": "2026-11-11T06:00-06:00",
+   "tags": [
+    "History",
+    "Repair Hacks",
+    "engineering",
+    "essay",
+    "manufacturing",
+    "right to repair"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/junk_engineering_the_meandrous_engineer_youtube.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "BBC confirms removal of TV shows featuring David Walliams - including Doctor Who episode and Little Britain - Radio Times",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanJ5cnFXVmxYREE5VHpJMzNtazVWc1JGdUo1SUtXM0tSRXQwU0NValZUQmd6QTFTdUItcGxZbDNVMWN0Rzhyc2lJY3BBSFUta2thUV9YRmJkQUl6VDkyMXVtc0lVbXpjU2pZU0gwUnd2TDk0RUw4ZXBfd2pYTzhkeG44VmFaOElsekxmTUFVOFF4eWxuc0xPR2FCbF9JdXR5?oc=5",
+   "source": "Radio Times",
+   "category": "Science Fiction",
+   "summary": "BBC confirms removal of TV shows featuring David Walliams - including Doctor Who episode and Little Britain Radio Times",
+   "published": "2026-11-11T05:48-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Minnesota’s wilds on wide display in new nature film - Star Tribune",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYVlJdGxua0RwWW1qRThhaFFieGVIemoyQkZKYzdSWnFFUnRfQkxaQThPaWZFLUJPTnh4cjNQYWwtUjVPWURWVVZoclZUcEJPQnhHVHlCWkp3Q3RIRjNsMHFzWFhhUEtpVjZLdjJhUkdEdjRBQmVGSGdMVnhKNy1KTEV4dk44R0ZMRHFSNWhvUEozcms?oc=5",
+   "source": "Star Tribune",
+   "category": "Minnesota and Nature",
+   "summary": "Minnesota’s wilds on wide display in new nature film Star Tribune",
+   "published": "2026-11-11T05:30-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Space Weather Forecasting Market Is Expected to Grow Rapidly at a 9.7% CAGR Until 2030 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGpjQkR3SW9fbm5KRjFDSGR3ZWdDSHgySHVMam5VYmRoOVltN0hVSXNsZVp0ZWt5Sk5CQmIxTUtPaWlsRU4xYVRvOW9pSGtmemVPdFczRlhCUVNGREI1VXZtNmYydTlDQTNaOHJDSjlXdk5lOHVOTUlXVnlyeVpZQm1uMW1HZ0Y5ZlZkY0FRc2FtY3dkeFdEQmdBbE1YOEVBTEE?oc=5",
+   "source": "openPR.com",
+   "category": "Space Weather and Aurora",
+   "summary": "The Space Weather Forecasting Market Is Expected to Grow Rapidly at a 9.7% CAGR Until 2030 openPR.com",
+   "published": "2026-11-11T05:21-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Goodbye Lake Superior, So Long Lake Minnetonka: This Minnesota Gem Is A Freshwater Fishing Paradise - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUxGVFY5MWhXb3lYOHhESElBVW9sVzRkY3Vzd3RtSkc0bUQtMUNMcEhhVHp0eWxvdS1SZGJWUERaVlhSM29neDFjcmdaMkUyNDJValJoLWJMSF9hTUxMc1ZsVWNob3AxemI4c1dCUkJzMnc3SEhmUGhONXMtdXZDSnR4UG9CWGpJdWhZV3JZVTFGVDhqcHZPcVBnclVmQmF2UkNnVHUwUXZGSDNZcDAwMA?oc=5",
+   "source": "Yahoo",
+   "category": "Minnesota and Nature",
+   "summary": "Goodbye Lake Superior, So Long Lake Minnetonka: This Minnesota Gem Is A Freshwater Fishing Paradise Yahoo",
+   "published": "2026-11-11T04:15-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "One of Doctor Who's Best Episodes Just Got Removed, and Fans Aren't Happy - Polygon.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wZG5HYkRERjRlY3NLMTJJVjFYTlpsdGVzVWxPemh2QjM4VDBGWjN2bGlkUVc3aS03dlk2YTVkSzJocmUzX0hGcWFieXJydWRIYm1qclJjY081VWtYYUVXM2VNdnJESFAtYUhGUmh1VQ?oc=5",
+   "source": "Polygon.com",
+   "category": "Science Fiction",
+   "summary": "One of Doctor Who's Best Episodes Just Got Removed, and Fans Aren't Happy Polygon.com",
+   "published": "2026-11-11T03:49-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Goodreads Choice Awards 2026 Opening Round Nominees",
+   "link": "https://file770.com/goodreads-choice-awards-2026-opening-round-nominees/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "Voting has begun in the first round of the Goodreads Choice Awards: The Best Books 2026 and will continue through November 22. The 2026 Goodreads Choice Awards have two rounds of voting open to all registered Goodreads members. The final round begins … Continue reading →",
+   "published": "2026-11-11T03:27-06:00",
+   "tags": [
+    "Awards",
+    "Goodreads Choice Awards"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "In 2018, EPA began sediment cleanups on Minnesota's St. Louis River; eight years later, the final project - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNanNyLUIzb2IxN0ltdVpDalBFeV9zWmh4Q0NQS0gwZ0gwcHhLaEQ3UUFsaDdPU1FvbUFDNDFzemp5aGw0TnI0dldhS2xpZWhyTmlfRkdCMEtUcVFtMEFYWDdPVG5maXFtMDFWVnoxNGNORThHd1RTQ2JHcVpvT25pSzFKWlpsWG1GR2lPdk1Lb1ROczBPazZXVzhyXzdmRVNmOGhpQUJkU2l0MjluQjlqNzN1M0I2SUhwVVNaOXVDTklOeWpEM0hUZUlwNmk3OGpOZS1RblFlbzliZ2d6d1pwX3k5ajByZi1zWHVVa3k2UXZGdnNhUU15ckV0SW5XNjVTMGtUbExVdHhNRmV2MVFnVUtwWnA0SjNXQ05FVlZxbm5Bd2ZYOWFHb2ozSnlIQ1A4YnYxd0lwNGM0WFJKNVVNdzRJRExzR0hKcm8xTWoxbmM4U0RraTFpSUNKZm5MdkFJT21QaHJhR2pfc2VzUWJTQVNuLWxtQdIB-wJBVV95cUxPMnNkMVB1WlZaTGRvNUc1eWw2SENKWWRGa1BaQmo0b0k3cFpUVVVYVVNfT3JSa3Nuem01djVzSTBXUEJXNkxWQmhhZXVOZlUtekJNQ0VQcVlpTWIwVU1nZTJsaHJha2lkclFEQlptOE1FSjFQSzluMWpRY3VHTnZ1dVZVc3NZWUN5UkJ5bUM5eW12NktuVmx6TVpQb3NBd05DNE81SC1YOXpqSHhveXpSdWJlakh5dE80SE4tSnNxVm5xTTliSk92Z2VoTDJ0VXd3Ym5IVkE0Z1JKcWJsMG5OODh0Tm54WnVodHItazJtdTkzV1RZMkpaWkx5VXRPX3N5T3BtQ2M0cWltWHVwNExfcFlncXg1SE1saEc0QUVyYkZOYlNBTXhLZEJ1T3FPODU2SVdVQWRIN2N2a3ZSLTQxRGFjMk52aE9rQV83N2M1b3otNzdkOVBlei1xdjFTVThRdUN2aUZVcF9UTG9rX25SS0NnMnluSDJ4VUpZ?oc=5",
+   "source": "The Times of India",
+   "category": "Minnesota and Nature",
+   "summary": "In 2018, EPA began sediment cleanups on Minnesota's St. Louis River; eight years later, the final project The Times of India",
+   "published": "2026-11-11T03:15-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Baltimore SF Society Puts 5000 Books into East Baltimore",
+   "link": "https://file770.com/baltimore-sf-society-puts-5000-books-into-east-baltimore/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "It may be a Little Free Library, but its impact is big. In October, the purple box on East Baltimore reached a milestone with distribution of over 5000 books. This book box is maintained by the Baltimore Science Fiction Society … Continue reading →",
+   "published": "2026-11-11T03:01-06:00",
+   "tags": [
+    "Clubs",
+    "BSFS",
+    "Little Free Library"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "ChatGPT Plus for veterans and servicemembers",
    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
    "source": "OpenAI News",
@@ -395,11 +735,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Coronal hole stream drives G1 – Minor geomagnetic storm on November 7–8, more G1 storms forecast for November 17–18 and 27–28 - The Watchers - Watching the world evolve and transform",
+   "title": "Northern lights are possible at high latitudes on November 17 and 18 as NOAA forecasts minor (G1) geomagnetic storms from coronal hole wind - The Watchers - Watching the world evolve and transform",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFJFNXptakt4Zk5sTzA5cHJzVEE1RGM0ZXFyWEN5c2FXc19hanN5VHk3X1JRdUVic09PNUV4NGVLclRabzVRdE5LUm9OQ0NfODNqZlRWMzhDQVNVQWJkZ09vel9LbC10T0FVVDJicmpfMlhReVdsLVVKOEpLeUxvbE9SanppdnczcDM5WXVEUnozRjVpbmNjckZRb2tXZzNTemU3aFlHcW1QTmlJQ3NLNEFqMEhyc0E?oc=5",
    "source": "The Watchers - Watching the world evolve and transform",
    "category": "Space Weather and Aurora",
-   "summary": "Coronal hole stream drives G1 – Minor geomagnetic storm on November 7–8, more G1 storms forecast for November 17–18 and 27–28 The Watchers - Watching the world evolve and transform",
+   "summary": "Northern lights are possible at high latitudes on November 17 and 18 as NOAA forecasts minor (G1) geomagnetic storms from coronal hole wind The Watchers - Watching the world evolve and transform",
    "published": "2026-11-11T00:01-06:00",
    "tags": [],
    "feed": "Google News space weather",
@@ -426,6 +766,19 @@
    "tier": "main",
    "image": "https://hackaday.com/wp-content/uploads/2026/11/DOOMed-coffee-machine.jpg",
    "summary_from": "page"
+  },
+  {
+   "title": "Book written by former Carleton Arb groundskeeper, local artist launches - Southernminn.com",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaS1vMnhoS1NVcnlhdV96VENhZXQxRy02WlJVd1lFbXZWaFMyZE9nMzB0SzI5d0pMVGtVUV9pWUlwMy1tMEhEWkRiaEJsbXBHbktOUVppMlFkeEt1b0ttUFNsem5BZS00dDM2NlBXOWpPS08ydERNS1dweFN1cFpRbjdmcFRpVGlrdkRYVWRvZlpCLXdaNUFWZ3BKVlNNUmVvUVZmczZjQmMtWEY4ZTgtSE5SMWNwaUZXOTl4Z0JuRDFRcUJuc3pRUHVNcFczUDBCOEdXSm44b0lKclhBQzUyZk14eG5fajEySlFHcnJtcXpRSU1ZWXpVNXF4NTh6a3Vs?oc=5",
+   "source": "Southernminn.com",
+   "category": "Minnesota and Nature",
+   "summary": "Book written by former Carleton Arb groundskeeper, local artist launches Southernminn.com",
+   "published": "2026-11-11T00:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
   },
   {
    "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
@@ -538,6 +891,19 @@
    "summary_from": "page"
   },
   {
+   "title": "Manhood review – a mind-boggling visit to the penis enlargement doctor who promises ‘better sex than ever’ - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2I1NlVJVUhReFhNYnR3aEFJN08xUEFxWl9uVnpMRXFueVA5S3VvX0NFQXpIbGFEWklMUmc0TmRxRGQzZzA0VUl2M0cyQjVCVWRNeTJmNFhkRXdZRlBZbnRka3FOMFdfM1Bxd3ZJVnVLRkN4SnNUSnJBWTZnOXlEdEVpWXYxTWlJTERrTFZwVEhINHFZdUNBSWNodEkzejI1b2xEYThqMA?oc=5",
+   "source": "The Guardian",
+   "category": "Science Fiction",
+   "summary": "Manhood review – a mind-boggling visit to the penis enlargement doctor who promises ‘better sex than ever’ The Guardian",
+   "published": "2026-11-10T17:32-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "A short history of Lego instructions from 1955 to the...",
    "link": "https://kottke.org/26/11/0049957-a-short-history-of-lego-i",
    "source": "Kottke",
@@ -598,6 +964,19 @@
    "tier": "main",
    "image": "https://hackaday.com/wp-content/uploads/2026/11/gesture-controls-main.png",
    "summary_from": "page"
+  },
+  {
+   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents - Microsoft",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlNjTUF0Y25aSFFVcW9xV2FTaWNDOC1IU3Z2T21vWkhjakw4NjZvSzFyWE5QdmNoXzRWa1E2LV8xWnZJSzVWNEhIdFh2NXJvN01wUEhXY0ZsamtXcE8yUFI2end5OC1VdFdqTEJHZ210eTBUTFVpR2o3Yi0tYkJ1LW4xbFVGSG5FNXRIWGFsdlFKdjFBcngzdmpyQ0hfQjdjZkdEYWxqdGNnWU9WS3BqbUh0dndHV2M?oc=5",
+   "source": "Microsoft",
+   "category": "AI and Agents",
+   "summary": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents Microsoft",
+   "published": "2026-11-10T14:52-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
   },
   {
    "title": "Godzilla Minus Zero: Review by Steve Vertlieb",
@@ -998,25 +1377,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Simulating and Visualising the Central Limit Theorem",
-   "link": "https://hackaday.com/2026/11/10/simulating-and-visualising-the-central-limit-theorem/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Statistics is one of those fields which people tend to love or hate when they’re confronted with it during their school time. Although incredibly useful and even essential in many fields, including finance and engineering, it’s not always easy to grasp even the basics such as those pertaining to distributions. The Central Limit Theorem (CLT) is an essential element there, which [Greg Foletta] tried to make easier to comprehend using some code samples and visualizations . The essential summary of the CLT is that if you take the mean of each sample in a set, once you have enough (>30) samples, the distribution of the sample means approaches a normal distribution. This is quite the theorem to put out there, with the supporting proof and explanations on e.g. Wikipedia being very mathematics-heavy. We’d be remiss not to also mention the excellent [3Blue1Brown] video on the topic, which has even snazzier visualizations if you’re more into learning in that fashion. Even if you don’t think that you need to learn statistics and how distributions work, chances are that you’ll come across a situation where it could have come in handy, or at least have deepened your understanding of a topic like the probability of something happening. I think a more accurate way to talk about the CLT is that *if* a set has a normal distribution, a sample size of 30+ will show that. But there are lots of sets that don’t have normal distributions, and people who know just a little about stats assume that the distribution is normal. What’s the average number of eyes for a group of people? It’s about 1.95. The distribution of number of eyesis not a normal distribution at all. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce s",
-   "published": "2026-11-10T10:30-06:00",
-   "tags": [
-    "Lifehacks",
-    "central limit theorem",
-    "distributions",
-    "statistics"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/07/unnamed-chunk-6-1.png",
-   "summary_from": "page"
-  },
-  {
    "title": "Winners chosen for pheasant and turkey stamp contests - The Pilot Independent",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc293bWRaRmZpeGtWU2NQVW1EU2dqZS1HNDItSTlWZjl1RmFSMGxveHhpcGh5S3dpUDlUamE0UVZxTVVMcmRxbEZ3c1hmRFNOTEd4Snc0emJ2QkV5WmNNVk5MRjdpZlNZSDV5SFhYTmFuM0ZiTjllalZTUWEzYnhnNDhvT0VQZUZPWFFPWnhiZ3ZMWHJyU1RucTNyS2ZOV05Cc0tlOFVqLWktWVR1SFBod1lxU0lWMEY2YTU2RVRnQUFfeXRiUllLNlpKb2c3Q3JTblE?oc=5",
    "source": "The Pilot Independent",
@@ -1092,26 +1452,6 @@
    "tier": "main",
    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Lipid-First-cr.Mark-Belan-Default.webp",
    "summary_from": "feed"
-  },
-  {
-   "title": "DeviceTree For Hackers: Intro",
-   "link": "https://hackaday.com/2026/11/10/devicetree-for-hackers-intro/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Raspberry Pi has just leaked information on the Pi Zero 3W. They did it by publishing a DeviceTree file that describes the hardware of the Pi Zero. This is how we know it has the BCM2711 (Pi 4 CPU), makes use of PCIe (maybe it’s even exposed!), has an onboard power button, an extra power LED, and an eMMC option. If I were to guess, this will be the first dual-sided Pi Zero board, and if I were to have hope, it finally has USB-C. Don’t believe it? Go read the DeviceTree file for yourself — it’s exceptionally easy to read it between the lines. DeviceTree files tell the Linux kernel, or other OS kernels, what CPU to expect, what drivers to load, which interfaces are exposed on your board, and the devices connected to those interfaces. Sometimes a proper DeviceTree file is the only thing you need to make a modern Linux OS run on a neglected SBC you own. There are DeviceTree files powering technology all around you. Your phone has one, so does your router, your ARM laptop, and not even to speak of your SBCs. Some DeviceTree files are evil, being merely a thin layer between the Linux kernel and proprietary drivers; you will find these in phones with CPUs made by evil corporations. Most DeviceTree files are simply there to do their job. DeviceTree files describe hardware like HTML describes elements of a website. They are not Turing complete, and sadly, you cannot run Doom on DeviceTree alone – unless you find one of those evil implementations, I suppose. A DeviceTree source file (extensions .dts , .dtsi ) gets compiled into a binary file ( .dtb , .dtbo ) able to read by your kernel. It’s relatively easy to decompile it and change things even if you don’t have the source! You can handle DeviceTree files pretty easily. Compile/decompile commands are dead simple and easy to find",
-   "published": "2026-11-10T09:00-06:00",
-   "tags": [
-    "Featured",
-    "Interest",
-    "Skills",
-    "Device Tree",
-    "linux"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2019/10/LinuxMarketing.jpg",
-   "summary_from": "page"
   },
   {
    "title": "Jo Walton’s Reading List: October 2026",
@@ -1231,19 +1571,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software - Axios",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lMHgwMGdCNDctazFZY0ZnZTRVYlhSWGxTWkU3a0RRcDN1cVdJMXNZeUNEeGJsYzUxdW5zd24tb3FWRlVKV1R5dGctdGFubHJaSzhicGRfT1Jrcl9QQ3U2dVppR2VnN0JXWFY0cnFTLUliQQ?oc=5",
-   "source": "Axios",
-   "category": "AI and Agents",
-   "summary": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software Axios",
-   "published": "2026-11-10T06:30-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "David Tennant and Billie Piper's 'Doctor Who: The Satan Pit Extended Cut' Heads to Cinemas - Screen Realm",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHNsOHJiUWgzYnJTSEc3SDJlcmFEa1I3Y0pORExWa3N3TXhxRk50UGhhWmYtNEpEeXRCem83RDc3WFFHNlBWRnd6eWxDUTgyTzBId0JBSG5QYm5nLVVJd1RPV2pNMUd3RzlUMjRZV1plQXJ6WEpHdFRTVWtTbkNpOU03YS1TNFpkLVJWOEV2eDBsTE5yellXLVFDZXMyNnFWYVE?oc=5",
    "source": "Screen Realm",
@@ -1323,6 +1650,19 @@
    "tags": [
     "Company"
    ],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "link": "https://openai.com/index/singapore-airlines-travel-work",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+   "published": "2026-11-10T02:00-06:00",
+   "tags": [],
    "feed": "OpenAI News",
    "evergreen": false,
    "tier": "main",
@@ -1416,19 +1756,6 @@
     "Helen Marshall"
    ],
    "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Anthropic Unveils AI Models Commanding 1,000 Agents - 조선일보",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHpmLWVHM1gxQ1lJWHZvZHh2RS11YXBndVlkQ3VGS19hX2lVakpEazkteTNUX3Z1eFczNjBjbTNNNEtWSE92Z256YnhNRkE5a2k0WEhxa2ZuSjBEUUpfYzJQMzBOZWlYSVp3QUZQTGFNMnhXV3R4X0IzcGlsMXJHdGJHZWFxbk84?oc=5",
-   "source": "조선일보",
-   "category": "AI and Agents",
-   "summary": "Anthropic Unveils AI Models Commanding 1,000 Agents 조선일보",
-   "published": "2026-11-09T19:25-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1674,19 +2001,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Anna 'Ginger' Markham - Brainerd Dispatch",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlNlenY0UGNkMk9nSHlxck1IX3dtMjgwQmVUQjBKNWN3WUFfdnlad05reDgzaFpRenQ5MGJ6WktIc2lYb3pYLVJMTDRFeWJIQjVVX25Xd2NWYmNETWViVzRScW5aWGluc29oUzJyVmNZd19OS1hCb0taQmMzU0lfbTJSOGNZck11bFJReUhHVG5ZVDh4?oc=5",
-   "source": "Brainerd Dispatch",
-   "category": "Minnesota and Nature",
-   "summary": "Anna 'Ginger' Markham Brainerd Dispatch",
-   "published": "2026-11-09T13:40-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Welcome Rain Falling From the Sky",
    "link": "https://kottke.org/26/11/the-welcome-rain-falling-from-the-sky",
    "source": "Kottke",
@@ -1814,19 +2128,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Red Hat Advances Red Hat Developer Hub as an Agent-Ready Enterprise Developer Portal - 01net",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGMyRlBpYkpqR0U2VzVJRW1GeGtISmxpV01lQllQN2E5Nm9CSkZ6cnNmVnpURVpxSFZIcmxzTmxiTmxXUWpWSzVJRElWQl9OdlRmQl9fUnJmZ2o0SUpQODZMdnRWX09IUXdVWENGejRtSGZpZW8wdGs1bHE5d090MEhBQm1KU1BnQ1RLalhJOURWaV85eU1uRTdMYlQ4bHdpVjQ2U3RjcHV5QQ?oc=5",
-   "source": "01net",
-   "category": "AI and Agents",
-   "summary": "Red Hat Advances Red Hat Developer Hub as an Agent-Ready Enterprise Developer Portal 01net",
-   "published": "2026-11-09T12:30-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Babylon 5 Rewatch: Crusade’s “The Path of Sorrows”",
    "link": "https://reactormag.com/babylon-5-rewatch-crusades-the-path-of-sorrows/",
    "source": "Reactor",
@@ -1895,29 +2196,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/new-gel-fuel-could-mak_20261109_172122.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "It’s Not Fair That The Terminator Is Still So Relevant: The Inescapable Necropolitics of AI",
-   "link": "https://reactormag.com/its-not-fair-that-the-terminator-is-still-so-relevant-the-inescapable-necropolitics-of-ai/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Featured Essays The Terminator It’s Not Fair That The Terminator Is Still So Relevant: The Inescapable Necropolitics of AI An utter contempt for life isn’t just for cyborgs anymore — it’s the philosophy of the people running our world. By Asa West Published on November 9, 2026 Credit: Tri-Star Pictures Credit: Tri-Star Pictures 2026 is the 35th anniversary of Terminator 2: Judgment Day , and last month, the film screened in 3D in theaters. My 14-year-old had never seen the Terminator movies, so my husband and I made a weekend of it. We watched the first Terminator movie on Saturday night. On Sunday, we saw T2 in 3D. A week later, there was an explosion of headlines: a former Anthropic resear",
-   "published": "2026-11-09T11:00-06:00",
-   "tags": [
-    "Blog",
-    "artificial intelligence",
-    "current events",
-    "necropolitics",
-    "Politics",
-    "Science Fiction",
-    "Terminator 2: Judgment Day",
-    "The Terminator"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/terminator-2-endoskeleton-740x423.png",
    "summary_from": "feed"
   },
   {
@@ -2378,36 +2656,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "2026 Splatterpunk Awards",
-   "link": "https://file770.com/2026-splatterpunk-awards/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "The 2026 Splatterpunk Awards winners were announced on November 7 at KillerCon 2026 Austin, Texas. The awards honor superior achievement in the literary sub-genres of Splatterpunk and Extreme Horror fiction. BEST NOVEL BEST NOVELLA BEST SHORT STORY BEST COLLECTION BEST ANTHOLOGY [Based … Continue reading →",
-   "published": "2026-11-08T12:13-06:00",
-   "tags": [
-    "Awards",
-    "Killercon",
-    "Splatterpunk Awards"
-   ],
-   "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "OpenAI To Acquire Pierre Computer Company To Expand Codex And AI-Powered Software Development Capabilities - Pulse 2.0",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc1ppTks2WmN0bi03YWZER2pNUEZaRWZLY0s0dnlTM1RUdFJOR1dpQzY3Uk5iTmJTM1dhSVlzc1FNUmZfWUFtaDI2MDRnN2UtdlVneFdvWko4a041dGFyRE80TXpoMUxBRUNmWUZjNURwQnV0S0ZnNVFDNDNRcDhja0hPbWFJbWJhLTBLUGVwYVFQdXZDV1JSTkdZNVBwOFItNDJ2YzVCREFCTGtBc1VRR2NDTlk0dW1TTktJSENVT3lxTGtP?oc=5",
-   "source": "Pulse 2.0",
-   "category": "AI and Agents",
-   "summary": "OpenAI To Acquire Pierre Computer Company To Expand Codex And AI-Powered Software Development Capabilities Pulse 2.0",
-   "published": "2026-11-08T10:08-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' - BBC",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SdUM0TzRLaF9DUzNpOUdRS2xFNnlDVDFOem9BeDcxMnlMbWZURUJMLUY2ckROb1B4VEwwTzZTVVZPNUlYTTJzcEc1RkcwbXZKRGRWdnh4ZUJDYWxISEE?oc=5",
    "source": "BBC",
@@ -2434,24 +2682,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "The Library: Guest Post by Rich Lynch",
-   "link": "https://file770.com/the-library-guest-post-by-rich-lynch/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "By Rich Lynch: On April 29, 1986, there was a terrible fire at the Los Angeles Central Library. It was started by an arsonist not long after the Library had opened that morning and rapidly enveloped much of the building, … Continue reading →",
-   "published": "2026-11-08T03:11-06:00",
-   "tags": [
-    "Book Reviews",
-    "Los Angeles Public Library",
-    "Rich Lynch",
-    "Susan Orlean"
-   ],
-   "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Nexus 1.22.0 Shows Solar Flare Absorption the way NOAA Sees it - Amateur Radio Daily",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ycmoxMm1iNWRLRlJxN3RTZ3Rjb0N5dGhuc1lHRmV3N245em5wc1hDLTlrTE1NYk1TdEFxVnBjMThvTXNsc3ZoM3JFVzRoZGNab3NxeHQ0T08wSmd3V1pzTVdMOE8xSzFJTkU3OTRWUjlGTTYxNXp3dXNYZw?oc=5",
    "source": "Amateur Radio Daily",
@@ -2460,32 +2690,6 @@
    "published": "2026-11-08T02:00-06:00",
    "tags": [],
    "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "DIY Dalek to be auctioned for Yorkshire Cancer Research - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XNG54MDVVeXA0OVhrbzFqejBUMTI5MlQtWEVhYnY2Y21Oc2RaWDBFRmNrWm1aRTdfdEtNMzJMTUNIbnhXS0JILVZtM0E0U09fbFBrM1FEWGpGUFk?oc=5",
-   "source": "BBC",
-   "category": "Science Fiction",
-   "summary": "DIY Dalek to be auctioned for Yorkshire Cancer Research BBC",
-   "published": "2026-11-08T01:17-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Modern IDEs Shift Focus to Auditing AI-Generated Code - Geeky Gadgets",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2RTNEVlYzM09CRG9JRGRjYXBMc3VnOUt4ZUx4eXBZOG0yek9sRU5UV2NmSmZyVXAzeGNlOFBOcGs5eUE3em5vQVlfbVljb3czS1lKQWFkTWhXdkgyYWk0Yi1hWXhzZw?oc=5",
-   "source": "Geeky Gadgets",
-   "category": "AI and Agents",
-   "summary": "Modern IDEs Shift Focus to Auditing AI-Generated Code Geeky Gadgets",
-   "published": "2026-11-08T01:01-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2614,19 +2818,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "The Match Archive",
-   "link": "https://kottke.org/26/11/the-match-archive",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "The Match Archive is creating “the first research-grade, digital archive cataloging American matchbooks as primary sources for graphic design, commercial culture, and social history”. They haven’t launched a website yet (they’re working on it), but they’ve been sharing some of their collection on their Instagram account . I love the art on the matches themselves…you don’t see that much anymore. See also Vintage Eastern European Matchbox Labels (1950-1980s) and Matchbook Diaries of New York City . Tags: advertising · design",
-   "published": "2026-11-06T15:09-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "A hole in the Sun's atmosphere could bring a geomagnetic storm this weekend - WRAL",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5heWhiUUNrcWhWUG5YekY1WVJWV2xfb3JsUmpSY0pwY3RMajdnUmlqOE9ZUUZPdThvb1NXNVcyMHpBS09KNVI4Z1NoZk82eWd5SGRCM3JhQUNOMVZJQVAzag?oc=5",
    "source": "WRAL",
@@ -2665,19 +2856,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/1280px-NGC_1052-DF2_a_ghostly_galaxy_lacking_dark_matter_20261106_190049.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "An analysis of 59 studies (including a 24-year Danish...",
-   "link": "https://kottke.org/26/11/0049947-the-tiny-amounts-of-alumi",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "An analysis of 59 studies (including a 24-year Danish study of 1.2 million children) found that the tiny amounts of aluminum in vaccines are not linked to “increased risk of asthma, autism, or autoimmune conditions such as type 1 diabetes” . Of course!",
-   "published": "2026-11-06T14:31-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2982,23 +3160,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Giant MacAskill’s Grave in Englishtown, Nova Scotia",
-   "link": "https://www.atlasobscura.com/places/giant-macaskill-s-grave",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "Tucked away in a small cemetery in the Cape Breton community of Englishtown lies the grave of Angus MacAskill, better known as the Giant MacAskill or the Cape Breton Giant, a man whose extraordinary height and strength brought him international fame during the 19th century. Born in 1825 on the Isle of Berneray in Scotland's Outer Hebrides, MacAskill immigrated to Nova Scotia with his family as a child and eventually settled in the fishing community of Englishtown. Standing an astonishing 7 feet 9 inches (2.36 metres) tall, he was recognized by the 1981 Guinness Book of World Records as the tallest non-pathological giant in recorded history, meaning his extraordinary height was not attributed",
-   "published": "2026-11-05T15:00-06:00",
-   "tags": [
-    "graves",
-    "giant"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/FaSmOCKw0FGGEFSqMy1bVsnf0XUAm4b_065Un_MDivI/rs:fill:300:200:1/g:ce/c:600:400:nowe:172:36/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xNDZm/ZWZmZS1iMzkxLTQ2/YzEtYTBlNC02NTAz/ODBlMmJlZmE5ODdi/YmI5NzhkNjUzNjll/OGRfQW5ndXNfTWFj/QXNraWxsX2dyYXZl/LkpQRw.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Microsoft Foundry extension for Azure Developer CLI is generally available",
    "link": "https://devblogs.microsoft.com/foundry/microsoft-foundry-azure-developer-cli-ga/",
    "source": "Microsoft Foundry Blog",
@@ -3156,19 +3317,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "UK doctor infected with Ebola being treated at London hospital - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wMDJaOHhIOVROLWZMa1BLN1kxMEVzdlFOZFR0bzBlb2w1WGNQUVNKcWtnOVVXckJqcnV6VnJ0RFN3SnR6NG9CNHA3NTRRZkpsbWdfVUdGS2dHMHhwbkE?oc=5",
-   "source": "BBC",
-   "category": "Science Fiction",
-   "summary": "UK doctor infected with Ebola being treated at London hospital BBC",
-   "published": "2026-11-05T11:41-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
    "link": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
    "source": "Universe Today",
@@ -3258,20 +3406,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Trajectories-Better-Fixes.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
-   "link": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our observational capabilities with the launch of the James Webb Space Telescope (JWST). A new paper from a team of researchers led by Dr. Silvia Protopapa of NASA’s Goddard Space Flight Center and the Southwest Research Institute, and published in The Astrophysical Journal Letters, details JWST’s findings on the water ice content of this most recent visitor from beyond our solar system.",
-   "published": "2026-11-05T09:08-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/opo2520_20261105_150830.jpg",
    "summary_from": "feed"
   },
   {
@@ -3455,19 +3589,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Franklin Templeton uses OpenAI to support investment research",
-   "link": "https://openai.com/index/franklin-templeton",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-   "published": "2026-11-04T18:00-06:00",
-   "tags": [],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Souls of Animals",
    "link": "https://www.themarginalian.org/2026/11/04/the-souls-of-animals/",
    "source": "The Marginalian",
@@ -3528,26 +3649,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/02/PHM_30245_R2_proxy_md-740x493.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Godzilla Minus Zero Director Explains Why He Didn’t Want a Monster vs. Monster Movie",
-   "link": "https://reactormag.com/godzilla-minus-zero-director-monster-movie/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "News Godzilla Minus Zero Godzilla Minus Zero Director Explains Why He Didn’t Want a Monster vs. Monster Movie Director Takashi Yamazaki had a different vision for a Godzilla sequel By Matthew Byrd Published on November 4, 2026 Photo Credit: Toho Photo Credit: Toho Much has been made of King Ghidorah’s role in Godzilla Minus Zero . While not exactly a secret, the movie’s previews have done an excellent job of concealing the extent of King Ghidorah’s role as well as the creature’s physical appearance. Such a move presumably helps preserve not only the moment King Ghidorah appears on-screen, but also the seemingly inevitable monster vs. monster showdown that has long been at the heart of the Go",
-   "published": "2026-11-04T12:52-06:00",
-   "tags": [
-    "Blog",
-    "Godzilla Minus Zero",
-    "movies",
-    "news",
-    "Science Fiction"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/10/unnamed-1-740x476.png",
    "summary_from": "feed"
   },
   {
@@ -3900,22 +4001,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Is There Anything Left in the Dream of Cold Fusion?",
-   "link": "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/",
-   "source": "Quanta Magazine",
-   "category": "Astronomy and Space",
-   "summary": "Cold fusion: Now there’s an idea I hadn’t thought about in a while. It came back onto my radar in spring 2026. I had written an article on how scientists tend to be risk averse, and Huw Price, a philosopher at Trinity College at the University of Cambridge, responded to it on Bluesky, citing a paper he’d recently co-authored on attitudes toward cold fusion. He thinks scientists have been overly… Source",
-   "published": "2026-11-02T09:48-06:00",
-   "tags": [
-    "Physics"
-   ],
-   "feed": "Quanta Magazine",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Muon-Fusion-cr.Oleg-Borodin-Default.webp",
-   "summary_from": "feed"
-  },
-  {
    "title": "A Satellite Company Tests “Sunlight As A Service” — Without Astronomers’ Knowledge",
    "link": "https://skyandtelescope.org/astronomy-news/astronomy-and-society/a-satellite-company-tested-sunlight-as-a-service-without-astronomers-knowledge/",
    "source": "Sky and Telescope News",
@@ -3983,24 +4068,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/11/innerlandscape_maysarton.jpg?fit=320%2C488&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "November Podcast: Five Planets in View",
-   "link": "https://skyandtelescope.org/stargazing-and-observing/astronomy-podcasts/sky-tour-podcast-november-2026/",
-   "source": "Sky and Telescope News",
-   "category": "Astronomy and Space",
-   "summary": "This episode takes you on a guided audio tour of the stars and planets that you’ll see overhead during November. During the last half of this month, all five bright planets can be seen before dawn and after sunset. You’ll also get the lowdown on a celestial queen with an unfortunate fate. So grab your curiosity, and come along on this month’s Sky Tour. The post November Podcast: Five Planets in View appeared first on Sky & Telescope .",
-   "published": "2026-11-01T01:00-06:00",
-   "tags": [
-    "Astronomy & Observing News",
-    "Night Sky Sights",
-    "Observing",
-    "Sky Tour Astronomy Podcast"
-   ],
-   "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -4354,20 +4421,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://pdr-assets.b-cdn.net//essays/ars-notoria/dedupmrg1191555822_IE4927965_FL5354893-edit-thumb.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Photographs of Atlantic City Sand Sculpture (ca. 1880–1920)",
-   "link": "https://publicdomainreview.org/collection/atlantic-city-sand-sculpture",
-   "source": "Public Domain Review",
-   "category": "Curious Discoveries",
-   "summary": "Photographs from when Atlantic City beaches featured artists ornately sculpting sand.",
-   "published": "2026-07-29T08:07-05:00",
-   "tags": [],
-   "feed": "Public Domain Review",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://pdr-assets.b-cdn.net//collections/atlantic-city-sand-sculpture/sand-sculptor-thumb.jpg",
    "summary_from": "feed"
   },
   {
