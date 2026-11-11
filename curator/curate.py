@@ -9,6 +9,7 @@ import argparse
 import json
 import os
 import sys
+import time
 from collections import defaultdict
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -20,7 +21,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from check_picks import CATEGORIES, norm, problems  # noqa: E402
 
-MODEL = "gemini-3.5-flash-lite"  # free input/output on eligible unbilled projects
+MODEL = "gemini-3.5-flash-lite"  # free-tier model configured for this project
 MAX_CANDIDATES = 100
 MAX_PER_RUN = 8
 LOCAL_TZ = ZoneInfo("America/Chicago")
@@ -107,14 +108,31 @@ def request_gemini(payload, key, model=MODEL):
                       data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
                       headers={"Content-Type": "application/json", "x-goog-api-key": key},
                       method="POST")
-    try:
-        with urlopen(request, timeout=90) as response:
-            raw = response.read(1_500_000)
-    except HTTPError as exc:
-        # Never log key, request payload, or private input. Do not retry on quota errors.
-        raise RuntimeError(f"Gemini returned HTTP {exc.code}; no changes were published") from exc
-    except URLError as exc:
-        raise RuntimeError("Gemini connection failed; no changes were published") from exc
+
+    # Free-tier Gemini may briefly return 503 while capacity is constrained.
+    # Retry transient server/network failures, but NOT account/quota/permission
+    # errors (429, 401, 403) or invalid model requests (404).
+    retry_delays = [3, 9, 20]
+    for attempt in range(len(retry_delays) + 1):
+        try:
+            with urlopen(request, timeout=90) as response:
+                raw = response.read(1_500_000)
+            break
+        except HTTPError as exc:
+            if exc.code in (500, 502, 503, 504) and attempt < len(retry_delays):
+                delay = retry_delays[attempt]
+                print(f"Gemini HTTP {exc.code}; retrying in {delay}s (attempt {attempt + 2}/4)", flush=True)
+                time.sleep(delay)
+                continue
+            raise RuntimeError(f"Gemini returned HTTP {exc.code}; no changes were published") from exc
+        except URLError as exc:
+            if attempt < len(retry_delays):
+                delay = retry_delays[attempt]
+                print(f"Gemini network error; retrying in {delay}s (attempt {attempt + 2}/4)", flush=True)
+                time.sleep(delay)
+                continue
+            raise RuntimeError("Gemini connection failed after retries; no changes were published") from exc
+
     result = json.loads(raw)
     candidates = result.get("candidates") or []
     if not candidates:
@@ -124,7 +142,6 @@ def request_gemini(payload, key, model=MODEL):
     if not text:
         raise RuntimeError("Gemini returned no JSON text; no changes were published")
     return json.loads(text)
-
 
 def validate_and_materialize(response, choices, existing, now):
     if not isinstance(response, dict) or not isinstance(response.get("picks"), list):
