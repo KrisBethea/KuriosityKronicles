@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-11T10:10-06:00",
- "count": 283,
+ "generated": "2026-11-11T16:41-06:00",
+ "count": 275,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -11,27 +11,27 @@
   "Astronomy and Space | NASA News": {
    "url": "https://www.nasa.gov/news-release/feed/",
    "ok": true,
-   "kept": 9,
+   "kept": 8,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "Astronomy and Space | Universe Today": {
    "url": "https://www.universetoday.com/feed",
    "ok": true,
-   "kept": 19,
+   "kept": 17,
    "entries": 20,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 3,
    "no_title_or_link": 0
   },
   "Astronomy and Space | ESA Space Science": {
@@ -69,21 +69,21 @@
   "Space Weather and Aurora | Google News space weather": {
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 13,
+   "kept": 12,
    "entries": 72,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 59,
+   "old": 60,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Space Weather and Aurora | Google News aurora": {
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 5,
-   "entries": 45,
+   "kept": 4,
+   "entries": 44,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -172,26 +172,26 @@
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 7,
+   "kept": 6,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
    "url": "https://devblogs.microsoft.com/foundry/feed/",
    "ok": true,
-   "kept": 4,
+   "kept": 5,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 6,
+   "old": 5,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -212,7 +212,7 @@
    "url": "https://openai.com/news/rss.xml",
    "ok": true,
    "kept": 20,
-   "entries": 1380,
+   "entries": 1381,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -224,8 +224,8 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 4,
-   "entries": 56,
+   "kept": 6,
+   "entries": 58,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -263,13 +263,13 @@
   "Science Fiction | Google News Doctor Who": {
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 16,
-   "entries": 66,
+   "kept": 14,
+   "entries": 62,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 50,
+   "old": 48,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -289,13 +289,13 @@
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 12,
-   "entries": 31,
+   "kept": 9,
+   "entries": 27,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 19,
+   "old": 18,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -377,6 +377,484 @@
    "feed": "OpenAI News",
    "evergreen": false,
    "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "VisionQuest‘s Post-Credits Scene Wasn’t Marvel’s Idea",
+   "link": "https://reactormag.com/visionquest-post-credits-scene-explained-marvel/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "News VisionQuest VisionQuest ‘s Post-Credits Scene Wasn’t Marvel’s Idea There may or may not be a resolution to that post-credits scene By Matthew Byrd Published on November 11, 2026 Photo Credit: Disney+ Photo Credit: Disney+ A funny thing happened on the way to f inishing up VisionQuest . The show featured not one but two post-credits scenes (Marvel shows, you are so crazy). As usual, each of these sequences seemingly offered a tease of what is to come in future Marvel stories. The first post-credits scene shows Ultron roaming the world in the form of Thornton. It’s revealed that he possesses Jocasta’s hard drive and nanobots, which suggests that he could decide to revive Jocasta and poten",
+   "published": "2026-11-11T16:14-06:00",
+   "tags": [
+    "Blog",
+    "Marvel",
+    "news",
+    "Science Fiction",
+    "television",
+    "VisionQuest"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/10/visionquest-101-02-740x423.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Ice Giants' Magnetic Fields are Very Strange Compared to Earth's",
+   "link": "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Uranus and Neptune, the Solar System's ice giants, have interiors unlike the other planets. As a result, they also have magnetic fields unlike the others. They're messy and tilted, and Voyager 2, the only spacecraft to even flyby them, showed us how messy they are. New research uses models to try to understand what's going on with the pair of planets and their weird fields, and found that it's likely they change on very short timescales. They could already be much different than when Voyager 2 visited in the late 1980s.",
+   "published": "2026-11-11T16:09-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/ChiYan-Primary-Art-1-1536x864_20261111_184441.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Techno Marching Band!",
+   "link": "https://kottke.org/26/11/techno-marching-band",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "When someone says “German techno group”, you probably have a pretty good picture in your mind. MEUTE , on the other hand, is an 11-piece techno marching band that plays electronic music with acoustic instruments: tubas, trombones, drums kits, etc. Reset (above) is a single from their new album, KOSMOS. I love this. Tags: Meute · music · remix · video",
+   "published": "2026-11-11T16:08-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Modular, 3D Printed Train Whistles For Everyone",
+   "link": "https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "If the word “train” didn’t grab your attention, you’re probably not the target audience for this project. If it did, then there is no need to explain why [AeroKoi] has come up with a modular 3″ train whistle, available on Thingiverse and well explained in the video embedded below. It’s a train whistle. Who doesn’t want their own train whistle? The great part of this design– aside from requiring less air than his earlier, larger-diameter iterations –is the modularity. With adjustable bell caps, you can alter the size of the resonant chamber and thus the notes the whistle plays on the fly. That’s the key difference between a train whistle, as used in the steam era, and a train horn as you find on a modern diesel or electric– whistles use a resonant chamber, while a horn uses a diaphragm to create the vibrations we call sound. By using the movable chamber caps to change the resonance, you can go from a Santa Fe 5 chime to a B&O 3 chime whistle by matching the measurements in the handy-dandy spreadsheet [TrainArtisan] provided– and doubling up on a couple of chimes. One excellent tip he gives in the video is to grease all the mating surfaces of the whistles with petroleum jelly, but it’s worth watching the whole thing on YouTube for both full build and tuning instructions, and to learn more than you ever thought you needed to know about whistles– he gets right into the physics of sound waves to explain exactly the limitations of trying to replicate the sound of brass steam whistles with plastic and compressed air. If you just want to hear a bunch of train whistles to see how well it works, jump to the ten minute mark. The disappointing part comes later, where he explains the airflow requirements: if you don’t have a compressor with a big tank, you can’t expect more than one",
+   "published": "2026-11-11T15:00-06:00",
+   "tags": [
+    "3d Printer hacks",
+    "Musical Hacks",
+    "3d printed",
+    "3d printed musical instruments",
+    "steam trains",
+    "whistle"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/3D-printed-whistle-modular.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "The Invisible Lamplighter in The Hague, Netherlands",
+   "link": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "If you ever find yourself wandering the quiet, postcard-perfect alleyways of The Hague, keep your eyes peeled around streetlamp height. Tucked into the charming cobbled sanctuary of Mallemolen , you’ll spot a gentleman mid-climb on a lamp post, his coat tails flying out behind him as if caught in a sudden gust of wind. This isn't a modern street performer or an overly ambitious late-night reveler—it’s De Lantaarnopsteker ( The Lamplighter ), a delightful bronze creation brought to life by Dutch sculptor Loek Bos in 2008. Before automated electricity ruined all the fun, keeping a city lit required a dedicated fleet of lamplighters who spent their evenings dashing through the chill with long t",
+   "published": "2026-11-11T15:00-06:00",
+   "tags": [
+    "lamppost",
+    "sculptures"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/x0-cBeAaRCG8uwV62juYK_ns4yj_LdiOuNK5FrhVw9Y/rs:fill:300:200:1/g:ce/c:1597:1064:nowe:859:321/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NTY4/NzdmMy05ZGJjLTQ3/ODYtYmE2NC05OWY3/NjViZDdlMTM4OThi/OGNlNTc3OTkxOThj/NjVfUEExODMyMDAu/anBn.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Staying Cool at the Airport",
+   "link": "https://kottke.org/26/11/staying-cool-at-the-airport",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "A comment by Adam Keys about showing grace in airports over on Craig Mod’s site reminded me of this story from the introduction of Genny Rumancik’s book The Wisdom of Feeling: Finding Clarity, Courage, and Connection Through Emotional Intelligence : I was in the last boarding group, and when they finally called our zone, there was a bottleneck of people trying to get in line to board. As I stood waiting and shuffling around, I watched as a man took a step forward to get in line and saw him step right in front of a woman who was on her last nerve. She threw her hands up in the air and spoke angrily but passively to the man’s back, “What an ass. Oh, well, I guess you must be sooo important—you",
+   "published": "2026-11-11T14:51-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Scientists have identified a new species of penguin, the...",
+   "link": "https://kottke.org/26/11/0049955-scientists-have-identifie",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Scientists have identified a new species of penguin , the first in 100 years. “Genetic evidence shows that what scientists once treated as a single, widely distributed gentoo penguin species is actually made up of four separate species.”",
+   "published": "2026-11-11T14:04-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Read an Excerpt From An Edge Sharp Enough by Jesse Q. Sutanto",
+   "link": "https://reactormag.com/excerpts-an-edge-sharp-enough-by-jesse-q-sutanto/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Excerpts Dark Fantasy Read an Excerpt From An Edge Sharp Enough by Jesse Q. Sutanto An assassin, a scholar, a con man, and a guard race to rediscover powerful lost magic and save their world… By Jesse Q. Sutanto Published on November 11, 2026 We’re thrilled to share an excerpt from An Edge Sharp Enough , a new dark fantast novel by Jesse Q. Sutanto publishing with Harper Voyager on November 17th. Mara has no memory of life before her assassin training behind the fortress-like walls of Tchu-Morrokhai, which has been her world since she was five. Practicing discipline and strategy, sacrifice and solitude, she has dedicated herself to resisting the Divine Empress’s plans of eradicating the all-",
+   "published": "2026-11-11T14:00-06:00",
+   "tags": [
+    "Blog",
+    "An Edge Sharp Enough",
+    "Dark Fantasy",
+    "Excerpts",
+    "fantasy",
+    "Harper Voyager",
+    "Jesse Q. Sutanto"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/An-Edge-Sharp-Enough-header-740x407.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "How Ken Russell’s The Devils Went From Suppressed Masterpiece to Unlikely Hit",
+   "link": "https://reactormag.com/ken-russell-the-devils-revival-explained/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "News The Devils How Ken Russell’s The Devils Went From Suppressed Masterpiece to Unlikely Hit The Devils is finally finding the audience it always deserved By Matthew Byrd , Matthew Byrd Published on November 11, 2026 Photo Credit: Warner Bros. Photo Credit: Warner Bros. Don’t let the Satanic Panic crowd know it, but some 55 years after its controversial debut, Ken Russell’s The Devils is becoming the kind of hit that even the most optimistic diehard fans of the film could never have imagined it could be. We’ve covered the basics of this story before , but the details are fascinating enough to justify a little repetition. In 1969, United Artists asked Ken Russell to adapt John Whiting’s Broa",
+   "published": "2026-11-11T13:58-06:00",
+   "tags": [
+    "Blog",
+    "movies",
+    "news",
+    "The Devils"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/The-Devils-movie-740x451.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "What Will Starting a Creative Career Look Like in the...",
+   "link": "https://kottke.org/26/11/0049969-what-will-starting-a-crea",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "What Will Starting a Creative Career Look Like in the Next Few Years? “We can’t keep asking where all the good designers are if we’re unwilling to help anyone become one.”",
+   "published": "2026-11-11T13:15-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "John J. McGraw Monument in Truxton, New York",
+   "link": "https://www.atlasobscura.com/places/john-j-mcgraw-monument",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "There are in Truxton, New York, three interrelated sites associated with legendary baseball manager John J. McGraw, who was born in that Central New York town in 1873. The three are a monument to the native son, a baseball field named in his honor, and a sign memorializing the game played at John J. McGraw Field that funded the carving and installation of the memorial to McGraw. McGraw’s father, also named John, emigrated to the United States in 1856. In his first fifteen years in America, John Sr. served in the Union Army during the Civil War, married and fathered a daughter, suffered the death of his wife, and relocated to Truxton. There, he married Ellen Comerfort, who bore seven children",
+   "published": "2026-11-11T13:00-06:00",
+   "tags": [
+    "sports",
+    "monuments",
+    "baseball"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/GmIAmE_UYyvGhiztJrMKotsw0jTwOhKCOL8M-bvkEAw/rs:fill:300:200:1/g:ce/c:1779:1186:nowe:8:41/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xZmFh/NDllZi04ZDIyLTQ0/NDAtYjdmNi1kZGIz/YWY2OTJhYTFjNTAz/YjQxYjAyZGEyZjVj/MWVfMjAyNTA5MjBf/MTQ0NjI0LmpwZw.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Avengers: Endgame Encore Gets an… Encore on Disney+",
+   "link": "https://reactormag.com/avengers-endgame-encore-disney-plus-streaming-release-date/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "News Avengers: Endgame Avengers: Endgame Encore Gets an… Encore on Disney+ The extended version of the 2019 film will be on the streaming platform in mere days By Vanessa Armstrong Published on November 11, 2026 The VisionQuest finale just premiered, and Marvel is wasting no time keeping people engaged in its Cinematic Universe before the release of Avengers: Doomsday this December. Today, we found out that Avengers: Endgame Encore, an extended version of the 2019 blockbuster that played recently in theaters, is coming to Disney+ this Friday, November 13. Endgame Encore has more than extra footage; certain scenes were also tweaked to meet the new canon the MCU is rolling out with Doomsday . ",
+   "published": "2026-11-11T12:55-06:00",
+   "tags": [
+    "Blog",
+    "Avengers: Endgame",
+    "movies",
+    "news"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2019/11/AvengersEndgame-05-740x390.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Ex-OpenAI and Anduril engineers build AI agents for hardware-software development - The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2VQdkYxZ29sbTdDQXc0LWtaNERDYUxYNmlhRlJOenVmSlZTbnFrWF9vTV9DTmg3Q0RmY0dLZld2VjJmb2lOdWZMQVZsbk9VWU9uWEtaOGVJTC1lSElRYnB2aGVyOFJJcVhkUWlodlJKWDVQYmZDNWg4cUNmRnJhbHZYYjRYZi1CVUhvTW9PWjhwY2JLUlNpTUZQd2N3bmN0?oc=5",
+   "source": "The American Bazaar",
+   "category": "AI and Agents",
+   "summary": "Ex-OpenAI and Anduril engineers build AI agents for hardware-software development The American Bazaar",
+   "published": "2026-11-11T12:37-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Rings of Power Opens Season 3 With New Characters and a Time Jump",
+   "link": "https://reactormag.com/the-lord-of-the-rings-the-rings-of-power-opens-season-3-with-new-characters-and-a-time-jump/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Movies & TV The Lord of the Rings: The Rings of Power The Rings of Power Opens Season 3 With New Characters and a Time Jump Oh look, it’s Celeborn, and he much wishes to speak with you. By Sylas K Barrett Published on November 11, 2026 Image: Prime Video Image: Prime Video The Rings of Power is back with its third season, reuniting us with old and new characters five years after the events of season two. With Sauron’s army waging war on the ring-powered elven strongholds and the new king of Númenor causing suffering for the Faithful and the southlanders alike, the elves are left to wonder: How will Sauron use the rings of power to bring Middle-earth to its knees, and will he be able to forge",
+   "published": "2026-11-11T12:30-06:00",
+   "tags": [
+    "Blog",
+    "LOTR: TROP recaps",
+    "television",
+    "television recaps",
+    "television reviews",
+    "The Lord of the Rings",
+    "The Lord of the Rings: The Rings of Power"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/lotr-trop-s3pre-1-740x493.jpeg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Soldiers of Misfortune: The Drawings of Urs Graf the Elder",
+   "link": "https://publicdomainreview.org/essay/soldiers-of-misfortune",
+   "source": "Public Domain Review",
+   "category": "Curious Discoveries",
+   "summary": "A mercenary and miscreant, the Swiss Renaissance artist Urs Graf lived the violence and vice he summoned on his drafting table. Miya Tokumitsu introduces us to his astonishing drawings of soldiers and sex workers, and finds an impotent melancholy within these often nightmarish scenes.",
+   "published": "2026-11-11T12:29-06:00",
+   "tags": [],
+   "feed": "Public Domain Review",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://pdr-assets.b-cdn.net//essays/soldiers-of-misfortune/urs-graf-thumb.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Why Does Japan Have Such Good Railways? “Successful...",
+   "link": "https://kottke.org/26/11/0049971-why-does-japan-have-such-",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Why Does Japan Have Such Good Railways? “Successful public policies can be emulated by one good government. Much about Japan’s railway system could be replicable around the world.”",
+   "published": "2026-11-11T12:26-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Content Understanding adds GPT-5.6, GPT-6, and GPT-6.1: Choose the right model for your workload",
+   "link": "https://devblogs.microsoft.com/foundry/content-understanding-adds-gpt-5-6-gpt-6-and-gpt-6-1-choose-the-right-model-for-your-workload/",
+   "source": "Microsoft Foundry Blog",
+   "category": "AI and Agents",
+   "summary": "It’s important to say that outcomes vary widely depending on the task. Pick some options based on our evaluations, then test these choices on your own task. The best balance varies with the content and the work you need done. Run the same request once per candidate, then compare the extracted results and the response’s usage data. Start with the balanced recommendation, add the lower-cost option, and include the best-quality model only when the remaining accuracy gap matters to the workflow. The post Content Understanding adds GPT-5.6, GPT-6, and GPT-6.1: Choose the right model for your workload appeared first on Microsoft Foundry Blog .",
+   "published": "2026-11-11T12:24-06:00",
+   "tags": [
+    "Microsoft Foundry"
+   ],
+   "feed": "Microsoft Foundry Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2025/11/cropped-Microsoft-Foundry.2mb-scaled-1.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Last Order Dates for the Holiday Season",
+   "link": "https://publicdomainreview.org/blog/2026/11/last-order-dates-for-holidays-2026",
+   "source": "Public Domain Review",
+   "category": "Curious Discoveries",
+   "summary": "The recommended cut-off dates to order from our shop by to ensure delivery in time for Dec 25th.",
+   "published": "2026-11-11T12:21-06:00",
+   "tags": [],
+   "feed": "Public Domain Review",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://pdr-assets.b-cdn.net//shop/nov-21-prints-00012.jpg?w=640",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Amazon Built AWS Emulator Entirely With AI Agents - The Tech Buzz",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG5hUFMxS0dJWW1Wa1g2ME9nY2dpdDBhNk1jOTEwN2JYQjQzUUhRa0duVkc3SjFlNi1CYm9uVWFVS1M3V0d2UENRSElTR1NEaU9ITVB0Ykx2MjZBcm1jcUJqOE5fNUNXYXJWb3dkVmk5a05xWlBXQUR6dUhpZ09kOGVoalljTnVHbHc?oc=5",
+   "source": "The Tech Buzz",
+   "category": "AI and Agents",
+   "summary": "Amazon Built AWS Emulator Entirely With AI Agents The Tech Buzz",
+   "published": "2026-11-11T12:04-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "CHIP 8: The Pong Game’s Afoot!",
+   "link": "https://hackaday.com/2026/11/11/chip-8-the-pong-games-afoot/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Writing a computer game has always been hard. It is only the nature of the difficulty that changes. A modern game is as much about graphics, sound, and storytelling as it is about programming. But in the early days of computers, writing a game was a challenge because of limited graphics, slow CPUs, and tiny memory capacity. If you wanted to write a game for an early microcomputer, you generally wrote it in assembly language. BASIC was available on many machines, but it was usually too slow for anything requiring fast animation. Assembly language was fast, but it was also difficult to write, debug, and port to another machine. RCA — in particular [ Joseph Weisbecker ], the architect of the 1802 — introduced the COSMAC VIP into the primordial 1977 home video game market. In addition to using ready-made games, the idea was that you could create your own. But writing games in 1802 assembly language would be beyond most of RCA’s customers. [Weisbecker] devised CHIP-8, a tiny virtual machine. It wasn’t quite a programming language. Instead, it was a simple instruction set implemented by an interpreter running on a real computer. You wrote programs for the imaginary CHIP-8 processor, and the interpreter made them run on the actual hardware. CHIP-8 is perfect for the kind of games you’d see in those days and still has a following among those who love retro games. Today, when we think of interpreters, we often imagine something like Python, where the interpreter reads source code and figures out what to do. However, there’s another approach that was particularly attractive when memory and processor cycles were precious: threaded code. In a threaded-code interpreter, a program consists of references (like indices into a command table) to routines that perform operations. Instead ",
+   "published": "2026-11-11T12:00-06:00",
+   "tags": [
+    "Hackaday Columns"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/10/RCA_Cosmac_VIP.jpg?w=311",
+   "summary_from": "page"
+  },
+  {
+   "title": "It’s a Hard-Knock Life: Tanya Pell’s Her Wicked Roots (Part 1)",
+   "link": "https://reactormag.com/reading-the-weird-tanya-pell-her-wicked-roots-part-1/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Books Reading the Weird It’s a Hard-Knock Life: Tanya Pell’s Her Wicked Roots (Part 1) We’re in for a Gothic tale of separated families, secret crimes, and dire warnings at the end of a long carriage trip… By Ruthanna Emrys , Ruthanna Emrys Published on November 11, 2026 Welcome back to Reading the Weird , in which we get girl cooties all over weird fiction, cosmic horror, and Lovecraftiana—from its historical roots through its most recent branches. This week, we start on Tanya Pell’s Her Wicked Roots with Chapters 1-3. The book was first published in 2025. Spoilers ahead! Cordelia (Cordi) Beecher is orphaned at eight, when her brother Edward is ten. They’re sent to the Barrow Charity School",
+   "published": "2026-11-11T12:00-06:00",
+   "tags": [
+    "Blog",
+    "gothic horror",
+    "Her Wicked Roots",
+    "Reading the Weird",
+    "Tanya Pell",
+    "Weird Fiction"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/her-wicked-roots-header-740x407.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Asteroid Mining Will Crash the Platinum Market, But That’s Good News for Earth",
+   "link": "https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Science fiction authors have been dreaming of robotic spacecraft harvesting fortunes from asteroids for decades. Humanity is slowly getting closer to that reality. But if you ask asteroid mining skeptics, they will usually ask one specific question - what happens to the prices of all those rare materials once someone actually brings them back? A pair of system dynamicists from MIT directly tackled that question with a new paper titled Will AstroForge Collapse the PGM Market?",
+   "published": "2026-11-11T11:06-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/PIA21275_-_Psyche_Artists_Concept_20261111_170620.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "“I Made a Film in Excel, and I Don’t Know Why”",
+   "link": "https://kottke.org/26/11/i-made-a-film-in-excel-and-i-dont-know-why",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Animation director Maria Tomazou made a short animated film entirely in Microsoft Excel. There’s no reason for this film to exist. Yet, I made it and it took ages to put together. To keep going and keep creating something that is pointless is actually very painful. I wish my love for making films was enough of a why to keep going, but sometimes it’s not. I’m glad I made this film. I don’t need to know the why for everything. Three cheers for creating pointless things. Tags: animation · excel · Maria Tomazou · video",
+   "published": "2026-11-11T11:02-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Tin Lizzy Ice Cream Man in Montpelier, Indiana",
+   "link": "https://www.atlasobscura.com/places/tin-lizzy-ice-cream-man",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "The ice cream man is closed for business. No reason to stop; might as well pass him by. At the intersection of State Road 3 and State Road 18, west of the town of Montpelier, Indiana, the former Tin Lizzy Ice Cream Shop features a large fiberglass man who once served as the shop’s mascot. Famously, the ice cream man appeared in the opening credits of the first season of the television show “Parks and Recreation,” along with another nearby fiberglass statue. Now, the ice cream man has no banana cups, Dixie Pops, or Push-Ups, and the ice cream is missing from the cone in his left hand. Why, the poor bloke is no longer even a natty dresser, with his faded and peeling red cap and jacket! The for",
+   "published": "2026-11-11T11:00-06:00",
+   "tags": [
+    "statues",
+    "roadside attractions",
+    "muffler men"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/VJnQoJCQwrXCF44Oc_FrB5ZnpWmBTVcblA8qOCnGZOQ/rs:fill:300:200:1/g:ce/c:1205:803:nowe:2313:586/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xMmEy/MzdiYi0zZDNlLTQ0/MWEtYWIxMC1lMzY5/ZTYzMGZkOGQ5MDY5/ZTFjZTU4YTQ5MGJi/MDNfSU1HXzY1Mzku/SlBH.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Seestar S30 Plus Review: The Entry-Level Smart Telescope",
+   "link": "https://astrobackyard.com/seestar-s30-plus-review/",
+   "source": "AstroBackyard",
+   "category": "Astrophotography",
+   "summary": "The Seestar S30 Plus is a compact, app-controlled smart telescope with a 30mm aperture, four-element apochromatic optics, and 2K imaging through both its deep-sky and wide-angle cameras. At $499 USD, it sits between the original Seestar S30 and S30 Pro, offering beginners another affordable way to start photographing space. My imaging sessions with the S30... The post Seestar S30 Plus Review: The Entry-Level Smart Telescope appeared first on AstroBackyard .",
+   "published": "2026-11-11T10:50-06:00",
+   "tags": [
+    "Reviews",
+    "Smart Telescopes"
+   ],
+   "feed": "AstroBackyard",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Chandra X-Ray Observatory Unmasks a Supernova Impostor",
+   "link": "https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Some stars, called Luminous Blue Variables, can be confused with supernovae explosions. They exhibit similar outbursts, but unlike supernovae, which explode once and then are gone forever, these stars have periodic outbursts. New research found that one of these 'supernova impostors' is in a binary relationship with a black hole or a neutron star, and that explains its periodic outbursts.",
+   "published": "2026-11-11T10:41-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/at2016blu_labeled_20261111_140315.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Drawer Every Standing Desk Needs",
+   "link": "https://hackaday.com/2026/11/11/the-drawer-every-standing-desk-needs/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Adjustable standing desks have had some ergonomic and health benefits for many people who would otherwise be sitting down all day, but those benefits come at a cost of a bit of usability. They can be more expensive, they make cable management and lighting a bit more difficult, and of course they take up more space than a normal desk. Related to that, they may have limited or no drawer space. [Super Valid Designs] decided to tackle all of these problems , while at the same time addressing the larger problem of a very disorganized workspace. The idea seems simple on its face. The desk surface would be removed from the legs and a full-sized drawer built that matches the footprint of the desk and attaches to the same points, then the surface can be put back on top of that. But this is where feature creep started to set in, although in this case it was all a net positive for the build. [Super Valid Designs] wanted a front for the drawer but, since this is where his keyboard and mouse would go, wanted it to automatically move aside so it’s not in the way. He built a clever mechanism that pivots the front down when the drawer slides out. Not only that, but the drawer locks into place when it’s halfway out in “keyboard mode” and by lifting the front and pulling the drawer further out he can access a deeper storage space further to the back of the drawer. Although adding these features in took him longer than he originally thought, the new desk is much more usable than the old while helping him eliminate some of the clutter around his workspace. Like any prototype, though, there were a few issues such as cable management (which is a problem with most standing desks) and the fact that he forgot that some of his peripherals were attached to the desk with clamps, which can’t be use",
+   "published": "2026-11-11T10:30-06:00",
+   "tags": [
+    "home hacks",
+    "cabinet",
+    "desk",
+    "drawer",
+    "keyboard",
+    "organization",
+    "slides",
+    "standing desk"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/standing-desk-main.png",
+   "summary_from": "page"
+  },
+  {
+   "title": "Watch the morning fog flow like ocean waves into the town...",
+   "link": "https://kottke.org/26/11/0049966-watch-the-morning-fog-flo",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Watch the morning fog flow like ocean waves into the town of Triesenberg, Liechtenstein. (Also on Instagram .)",
+   "published": "2026-11-11T10:12-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Brazil: A Bleak, Zany Dream of Absurdist Retrofuturism",
+   "link": "https://reactormag.com/brazil-a-bleak-zany-dream-of-absurdist-retrofuturism/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Column Science Fiction Film Club Brazil : A Bleak, Zany Dream of Absurdist Retrofuturism Terry Gilliam’s Orwellian ode to ducts, daydreams, and dystopian satire. By Kali Wallace Published on November 11, 2026 Credit: Universal Pictures Credit: Universal Pictures Brazil (1985) Directed by Terry Gilliam. Written by Terry Gilliam, Tom Stoppard, and Charles McKeown. Starring Jonathan Pryce, Robert De Niro, Katherine Helmond, and Ian Holm It is a truth universally acknowledged that for any two works of fiction there will be somebody, somewhere, who has imagined a crossover between them. And sometimes, if we are lucky, that somebody is Terry Gilliam, and the works in question are George Orwell’s n",
+   "published": "2026-11-11T10:00-06:00",
+   "tags": [
+    "Blog",
+    "1984",
+    "Brazil",
+    "satire",
+    "Science Fiction",
+    "Science Fiction Film Club",
+    "Terry Gilliam"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/brazil-jonathan-pryce-740x423.png",
    "summary_from": "feed"
   },
   {
@@ -561,33 +1039,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough",
-   "link": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "TESS watched an exoplanet about 1,000 light years away as it repeatedly transited in front of its star for seven years. But astronomers were surprised to find that the hot Jupiter disappeared. Of course, planets don't just disappear. Something interrupted its transits from our point of view, and astronomers think they've figured out what happened. An unseen, nearby giant planet companion tugged on it until TESS couldn't see it anymore.",
-   "published": "2026-11-11T07:02-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/image_7543-Hot-Jupiter_20261110_222441.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Hibbing, Chisholm WWII centenarians remembered; first of four Second Chancer Homes revealed - Mesabi Tribune",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQTdDOVJrRFYxS2ZaOEhYR0VWbFF2MjlPbUJ1cjBHRVI5ejQyRk9KWHFYXzBzQkxqeXl0TDBEaUNYcGR1UkRRdURiRXFrWVNmVjFZRE5Bdlo1SXU5bXJjeW9lOVdTYzRoS3cwS0x4VW1wVFJpVm03YmNNaGg2UEtNRGNNM2dPM1FucThDWGRwLW1FLW5VSzFIM2kzblRybHpzY2hGQWFERUE2Z2hFOExWRm82UUp0V3g2bERtY0I5ekFReHI4MjZMTFpHVzNJRHk3MHFOQnd2UHpuS0ZWV2NpT3o4c3ZWNnFQRnVLV2E2YWtISFduLWNxTWtDcnAyYUhZc1p3ZUo3SlU?oc=5",
-   "source": "Mesabi Tribune",
-   "category": "Minnesota and Nature",
-   "summary": "Hibbing, Chisholm WWII centenarians remembered; first of four Second Chancer Homes revealed Mesabi Tribune",
-   "published": "2026-11-11T06:15-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Why Engineers are Forced to Create Junk Designs",
    "link": "https://hackaday.com/2026/11/11/why-engineers-are-forced-to-create-junk-designs/",
    "source": "Hackaday",
@@ -614,7 +1065,7 @@
    "source": "Radio Times",
    "category": "Science Fiction",
    "summary": "BBC confirms removal of TV shows featuring David Walliams - including Doctor Who episode and Little Britain Radio Times",
-   "published": "2026-11-11T05:48-06:00",
+   "published": "2026-11-11T05:51-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
    "evergreen": false,
@@ -735,39 +1186,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Northern lights are possible at high latitudes on November 17 and 18 as NOAA forecasts minor (G1) geomagnetic storms from coronal hole wind - The Watchers - Watching the world evolve and transform",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFJFNXptakt4Zk5sTzA5cHJzVEE1RGM0ZXFyWEN5c2FXc19hanN5VHk3X1JRdUVic09PNUV4NGVLclRabzVRdE5LUm9OQ0NfODNqZlRWMzhDQVNVQWJkZ09vel9LbC10T0FVVDJicmpfMlhReVdsLVVKOEpLeUxvbE9SanppdnczcDM5WXVEUnozRjVpbmNjckZRb2tXZzNTemU3aFlHcW1QTmlJQ3NLNEFqMEhyc0E?oc=5",
-   "source": "The Watchers - Watching the world evolve and transform",
-   "category": "Space Weather and Aurora",
-   "summary": "Northern lights are possible at high latitudes on November 17 and 18 as NOAA forecasts minor (G1) geomagnetic storms from coronal hole wind The Watchers - Watching the world evolve and transform",
-   "published": "2026-11-11T00:01-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "This Coffee Machine is DOOMed",
-   "link": "https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Somehow, seeing DOOM on things that were never meant to run DOOM never gets old. It’s probably hard to get further into the “never meant to run DOOM ” weeds than a coffee maker, but [Robin M.] has done it, and tells you exactly how in his excellent write-up . It adds a new dimension to hard mode — try and play while you’re waiting for your morning coffee. Of course [Robin] doesn’t start with just any coffee machine; most sensible percolators won’t have any silicon capable of executing code, much less gaming on. The Spengler PSL50 machine [Robin] is hacking is a smart device with a Linux computer inside, although in this case there’s a point to having the smarts, as it’s meant to be a self-serve, pay-to-drink coffee kiosk. Handling payments and the touchscreen menus seems like justification enough for a microprocessor. As you might expect, all the ‘smarts’ of this coffee maker are on the touchscreen module which aside from the brains of the operation — i.MX 6 ARM Cortex A9 processor — happens to have a handy a debug port. With just a little probing to find the right pins, he gets a console connection via that debug port to the 2013-era Linux build that runs the device, and then it’s off to the races. To make life even easier for [Robin], there was no uboot password set, nor any protections. So a simple setnv gets him into an sh prompt, and then he’s set. As for DOOM , he’s using fbDOOM , a version that renders directly to the framebuffer, and compiles it as a self-contained binary so he doesn’t have to care that everything on the Linux system is 13 years out of date. Spengler made hacking this device relatively easy with their almost complete lack of security, and the resulting project is well documented, well executed, and tickles our funny bones the same way seeing DOO",
-   "published": "2026-11-11T00:00-06:00",
-   "tags": [
-    "Games",
-    "coffee machine",
-    "does it run doom",
-    "doom",
-    "smart appliances"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/DOOMed-coffee-machine.jpg",
-   "summary_from": "page"
-  },
-  {
    "title": "Book written by former Carleton Arb groundskeeper, local artist launches - Southernminn.com",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaS1vMnhoS1NVcnlhdV96VENhZXQxRy02WlJVd1lFbXZWaFMyZE9nMzB0SzI5d0pMVGtVUV9pWUlwMy1tMEhEWkRiaEJsbXBHbktOUVppMlFkeEt1b0ttUFNsem5BZS00dDM2NlBXOWpPS08ydERNS1dweFN1cFpRbjdmcFRpVGlrdkRYVWRvZlpCLXdaNUFWZ3BKVlNNUmVvUVZmczZjQmMtWEY4ZTgtSE5SMWNwaUZXOTl4Z0JuRDFRcUJuc3pRUHVNcFczUDBCOEdXSm44b0lKclhBQzUyZk14eG5fajEySlFHcnJtcXpRSU1ZWXpVNXF4NTh6a3Vs?oc=5",
    "source": "Southernminn.com",
@@ -869,26 +1287,17 @@
    "summary_from": "feed"
   },
   {
-   "title": "Watching the Watchers",
-   "link": "https://hackaday.com/2026/11/10/watching-the-watchers/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Although it used to be a much more rare event, now almost any time at dawn or dusk, provided clear weather, a human observer can walk outside, look up, and spot an artificial satellite passing overhead. This has caused some consternation among astronomers who have another source of pollution to deal with in their data, but has benefited society in other ways such as more reliable internet and better weather predictions. To keep an eye on what exactly is passing overhead, take a look at this tool built by [Armaan] . The browser-based satellite tracker uses simplified perturbations models (SGP4) to model the passes of every satellite that has passed a given location on Earth in the past seven days. The modeling is all done locally within the user’s browser, and can even be self-hosted through a fairly simple method that involves forking the project with a tool called Vercel. Not only does this tool find the satellite passes for that given location, though, but it also automatically downloads any imagery that those satellites sent back down to Earth. The project itself is open source , so users can engage with the code without using Vercel if they choose. Beyond just checking out what happened to fly overhead in the last few days and checking out weather data without needing your own satellite dish to download the data yourself , this could also be useful for radio operators looking to make contacts with satellite repeaters or those wanting to keep tabs on crewed satellites like the International Space Station while it still remains in orbit. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "link": "https://openai.com/index/jiostar-vijay-seshadri",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
    "published": "2026-11-10T18:00-06:00",
-   "tags": [
-    "Software Hacks",
-    "data",
-    "imagery",
-    "model",
-    "open source",
-    "satellite",
-    "sgp4",
-    "software"
-   ],
-   "feed": "Hackaday",
+   "tags": [],
+   "feed": "OpenAI News",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "page"
+   "summary_from": "feed"
   },
   {
    "title": "Manhood review – a mind-boggling visit to the penis enlargement doctor who promises ‘better sex than ever’ - The Guardian",
@@ -901,6 +1310,27 @@
    "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "How Not to Waste Your Life",
+   "link": "https://www.themarginalian.org/2026/11/10/hawthorne-life/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "“Let me not seem to have lived in vain,” the Danish astronomer Tycho Brahe whispered on his deathbed, not realizing that the astronomical tables he was leaving behind would become the portal through which Kepler arrives at the laws of planetary motion ; not realizing that the measure of an unwasted life is not what outlives it but how it was lived — how much integrity and authenticity and creative vitality filled these numbered days, these unrepeatable hours. Most of us will not leave behind a revolutionary insight into the nature of the universe, but we too forget that no matter what we do leave behind — a line of DNA, a great book, a hospital wing — it is only, in poet Muriel Rukeyser’s sh",
+   "published": "2026-11-10T17:17-06:00",
+   "tags": [
+    "culture",
+    "psychology",
+    "books",
+    "diaries",
+    "Nathaniel Hawthorne",
+    "philosophy"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/10/hawthorne_notebooks.jpg?fit=320%2C480&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -943,27 +1373,22 @@
    "summary_from": "feed"
   },
   {
-   "title": "Gesture Controls With Only a Camera",
-   "link": "https://hackaday.com/2026/11/10/gesture-controls-with-only-a-camera/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Back in 2002, [Takahiro Yonemura] and others built a system that used a single webcam-like device to track a user’s hand and generate inputs for a computer. Given that this was more than 20 years ago, the technological limitations were much greater than they are today. It wasn’t until nearly a decade later that we got something like the Microsoft Kinect, and even now many VR and gesture controls require something more than a simple camera. Although [Takahiro Yonemura]’s original paper (Japanese, Google Translate link ) is now many decades old, he’s recently picked the project back up and used it to develop this game . The original system worked by attempting to automatically identify the user’s fingers and head. The team had focused on user inputs for standard PCs, drawing characters in the air and allowing the software to interpret them and pass them to a computer. In the modern iteration the scope is slimmed down a bit. The system instead detects an open or closed hand, and can recognize when it leaves the camera’s view. For the game built around this concept, the player controls a dragon who whips his tail around a map. Closing and opening a hand generates a click in the game, and moving a hand off-screen pauses the game. Although the game has relatively simple controls, these types of games can be quite fun and popular. From the video clip on the Steam page it looks like [Takahiro] is having plenty of fun playing it. Although we’d prefer it be open source so others can experiment with his gesture controls, we can also experiment with other camera-only gesture controls like this project which allows the user to move and interact with 3D objects in a virtual space . Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site",
+   "title": "Facade of the Old Mental Hospital in Hong Kong",
+   "link": "https://www.atlasobscura.com/places/facade-of-the-old-mental-hospital",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "Modern day High Street in Hong Kong's Sai Ying Pun district is mostly known as a food destination, with many lively restaurants and eateries lining the street. However, at its eastern end, the aura feels vastly different due to the presence of a structure renowned as one of Hong Kong's most haunted locations. Forebodingly entrenched at 2 High Street is the ominous facade of the city's former mental asylum. Built with local granite in a monumental Early-Baroque architecture style rarely seen in Hong Kong, the original building was completed in 1892, first serving as the Medical Staff Quarters of the Government Civil Hospital. In 1938, it was converted into wards for mentally-ill female patien",
    "published": "2026-11-10T15:00-06:00",
    "tags": [
-    "Peripherals Hacks",
-    "Click",
-    "controls",
-    "dragon",
-    "games",
-    "gesture",
-    "mouse",
-    "peripherials"
+    "abandoned insane asylums",
+    "haunted",
+    "architecture"
    ],
-   "feed": "Hackaday",
-   "evergreen": false,
+   "feed": "Atlas Obscura",
+   "evergreen": true,
    "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/gesture-controls-main.png",
-   "summary_from": "page"
+   "image": "https://img.atlasobscura.com/1IliEFaSUTbaf9aEaXmHyiFI-ALOPsALbnUym7IrwkA/rs:fill:300:200:1/g:ce/c:1822:1215:nowe:197:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xZTgx/NGQ2YS01MzE0LTQ4/N2YtYWFjMC00ZWEz/MTQ5NWI5MGI2NDYy/YzkzNjEwNTM1NmJh/ZDFfMTAwMDEwMTUx/NC5qcGc.jpg",
+   "summary_from": "feed"
   },
   {
    "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents - Microsoft",
@@ -1082,27 +1507,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-   "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "An artist’s concept depicting a Voyager spacecraft. Credit: NASA/JPL-Caltech Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight this historic milestone with two events. On Tuesday, Nov. 17, NASA invites the world to participate in “Shine Bright for Voyager’s Light-Day” by creating a symbolic wave of golden light encircling the planet after sunset. NASA has created a website that enables smart phones and tablets to flash “VG",
-   "published": "2026-11-10T13:22-06:00",
-   "tags": [
-    "Voyager 1",
-    "Heliophysics",
-    "Heliophysics Division",
-    "Jet Propulsion Laboratory",
-    "NASA Headquarters",
-    "Voyager 2"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048",
-   "summary_from": "feed"
-  },
-  {
    "title": "How to Build a Police State. “Bukele didn’t declare a...",
    "link": "https://kottke.org/26/11/0049962-how-to-build-a-police-sta",
    "source": "Kottke",
@@ -1116,17 +1520,24 @@
    "summary_from": "feed"
   },
   {
-   "title": "First Direct Measurement of Cosmic Hydrogen Could Change How We Map the Universe",
-   "link": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "The MeerKLASS international collaboration achieves the first direct measurement of the large-scale clustering of cosmic hydrogen in the Universe.",
-   "published": "2026-11-10T13:01-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
+   "title": "Now Yourself: The Elusive Science of What the Present Moment Is Made of and How It Makes You Who You Are",
+   "link": "https://www.themarginalian.org/2026/11/10/jo-marchant-now/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "“Whatever has happened, whatever is going to happen in the world, it is the living moment that contains the sum of the excitement, this moment in which we touch life and all the energy of the past and future,” Muriel Rukeyser wrote in one of the greatest books of all time . “Fearlessness is what love seeks [which] exists only in the complete calm that can no longer be shaken by events expected of the future,” Hannah Arendt wrote in another of them , “hence the only valid tense is the present, the Now.” But upon closer inspection, now — this elementary particle of eternity, this tiny and total locus of the living moment, this constant that is never the same — turns out to be more elusive than",
+   "published": "2026-11-10T13:05-06:00",
+   "tags": [
+    "science",
+    "books",
+    "culture",
+    "Jo Marchant",
+    "music",
+    "philosophy"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
    "tier": "main",
-   "image": "https://www.universetoday.com/article_images/demo_sky_image_20261110_185831.png",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/06/now_marchant.jpg?fit=320%2C479&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -1149,11 +1560,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Doctor Who episode removed from BBC iPlayer amid David Walliams allegations - News Shopper",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmpnVUVUSUVlYndsdkxnekhkZndxTFladHhrNmRad1AzNFBuak11VEk1QzdxMXJYM2hqT1NHaXJrbkswaEpkZXlScjlRYVBxc1A4dHBxZ1hDZDdNTVZ5dHd4OFkyRDN6eXJmdm5vWm1iMjJaY2lYQW4ya3lVS1ZnWDNnbHFhb3l0d0Nab0luN3VZNU5zNlBaRHdyX3NVM1BtS2djbTVCeDZCR1VmdGc?oc=5",
-   "source": "News Shopper",
+   "title": "Doctor Who episode removed from BBC iPlayer amid David Walliams allegations - Harrow Times",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3dCOUE5R2NfaFNiX05iQTlSRmc2bm9PNi1kSkV1Q1BUUzN5RGNFdTV0RWdUZ3JZTXFtR28xQVh5TTlBeWx4bzhBejNjS1ZET05UbFI4Z1BMUS1GUWtHRVQwbVF3Y1JaajA2bmswTWxZdENvTTJ0bkYzNmlnbHE0ZVI3a2p6UlliTlJjNFhjcEpsT2NlT2c?oc=5",
+   "source": "Harrow Times",
    "category": "Science Fiction",
-   "summary": "Doctor Who episode removed from BBC iPlayer amid David Walliams allegations News Shopper",
+   "summary": "Doctor Who episode removed from BBC iPlayer amid David Walliams allegations Harrow Times",
    "published": "2026-11-10T12:44-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
@@ -1205,47 +1616,6 @@
    "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "How CRISPR Could Mark Mutated Cancer Cells for Termination",
-   "link": "https://hackaday.com/2026/11/10/how-crispr-could-mark-mutated-cancer-cells-for-termination/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Over the past decades CRISPR, short for “clustered regularly interspaced short palindromic repeats”, has become somewhat of a household name, holding the promise of directly addressing genetic mutations by effectively removing, silencing, or even fixing them. Yet the original purpose of CRISPR is slightly less cute and cuddly: the evolutionary origin of these DNA sequences is that of a core component of the prokaryotic immune system. In most medical applications today we only try to use CRISPR to detect sequences and then apply enzymes such as the well-known Cas9 to cut DNA at specific locations in the process of gene-editing. In a recent study (paywalled, bioRxiv pre-print ) by Jingkun Zheng et al. in Nature such benign enzymes are dropped for Cas12a2, which turns a detection event into the release of a DNA-destroy enzyme as the molecular equivalent of a guided missile. The pitched use case here is the detection of cancer-cell specific mutations in the DNA, following which the tumor cells will be instantly shredded from the inside. This could theoretically provide a cure for many cancer types, but should we expect to see this kind of therapy approved any time soon? What we call CRISPR is quite literally what the name says: clustered occurrences of repeats with spacers made of genetic code fragments in the prokaryotic DNA. These can be considered to be the memory of the prokaryotic immune system, with genetic sequences from e.g. invasive viruses and bacteriophages embedded in the organism’s own DNA as these spacers. In prokaryotic organisms like bacteria these CRISPR arrays are accompanied by multiple CRISPR-associated systems (CAS, or Cas): genes that are translated into proteins which are associated with these CRISPR arrays. Of these, CRISPR-associated protein 9 ( Cas",
-   "published": "2026-11-10T12:00-06:00",
-   "tags": [
-    "Hackaday Columns",
-    "Science",
-    "cancer",
-    "CRISPR",
-    "CRISPR CaS9"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2020/11/DNAscissors.jpg",
-   "summary_from": "page"
-  },
-  {
-   "title": "A Fitting Conclusion: In the Hall of the Martian King by John Barnes",
-   "link": "https://reactormag.com/a-fitting-conclusion-in-the-hall-of-the-martian-king-by-john-barnes/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Books Front Lines and Frontiers A Fitting Conclusion: In the Hall of the Martian King by John Barnes The third and final installment of the Jak Jinnaka series By Alan Brown Published on November 10, 2026 In this bi-weekly series reviewing classic science fiction and fantasy books, Alan Brown looks at the front lines and frontiers of the field; books about soldiers and spacers, scientists and engineers, explorers and adventurers. Stories full of what Shakespeare used to refer to as “alarums and excursions”: battles, chases, clashes, and the stuff of excitement. Today, I’m taking a look at the third and final book of John Barnes’ Jak Jinnaka trilogy, In the Hall of the Martian King . I started",
-   "published": "2026-11-10T12:00-06:00",
-   "tags": [
-    "Blog",
-    "classic science fiction",
-    "Front Lines and Frontiers",
-    "In the Hall of the Martian King",
-    "John Barnes",
-    "Science Fiction"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/martian-king-header-740x407.png",
    "summary_from": "feed"
   },
   {
@@ -1377,19 +1747,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Winners chosen for pheasant and turkey stamp contests - The Pilot Independent",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc293bWRaRmZpeGtWU2NQVW1EU2dqZS1HNDItSTlWZjl1RmFSMGxveHhpcGh5S3dpUDlUamE0UVZxTVVMcmRxbEZ3c1hmRFNOTEd4Snc0emJ2QkV5WmNNVk5MRjdpZlNZSDV5SFhYTmFuM0ZiTjllalZTUWEzYnhnNDhvT0VQZUZPWFFPWnhiZ3ZMWHJyU1RucTNyS2ZOV05Cc0tlOFVqLWktWVR1SFBod1lxU0lWMEY2YTU2RVRnQUFfeXRiUllLNlpKb2c3Q3JTblE?oc=5",
-   "source": "The Pilot Independent",
-   "category": "Minnesota and Nature",
-   "summary": "Winners chosen for pheasant and turkey stamp contests The Pilot Independent",
-   "published": "2026-11-10T10:24-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Reading The Wheel of Time: Nynaeve Learns about the Tower and Herself in Towers of Midnight (Part 15)",
    "link": "https://reactormag.com/reading-the-wheel-of-time-nynaeve-learns-about-the-tower-and-herself-in-towers-of-midnight-part-15/",
    "source": "Reactor",
@@ -1454,29 +1811,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Jo Walton’s Reading List: October 2026",
-   "link": "https://reactormag.com/jo-waltons-reading-list-october-2026/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Book Recommendations Jo Walton Reads Jo Walton’s Reading List: October 2026 Cherryh, Christie, Tolkien’s poetry, AI Overlords, and a tribute to Le Guin! By Jo Walton Published on November 10, 2026 October began in Florence and ended in Chicago, with excursions by train to Milan, Strasbourg, Cardiff, and Edinburgh. I went to the Stranimondi convention in Milan, which was a ton of fun. I read fourteen books, many of them on trains and some of them on the plane back across the Atlantic, and some of them were great. Curse of Bronze — Tansy Rayner Roberts (2020) Cosy fantasy in which a girl inherits a house from her cursebreaking aunt and shenanigans ensue. Very clearly the beginning of a series,",
-   "published": "2026-11-10T09:00-06:00",
-   "tags": [
-    "Blog",
-    "C.J. Cherryh",
-    "J.R.R. Tolkien",
-    "Jo Walton Reads",
-    "Jonathan Strahan",
-    "Tansy Rayner Roberts",
-    "Ursula K. Le Guin",
-    "Yoon Ha Lee"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/jo-waltons-reading-list-october-2026-2-740x407.png",
-   "summary_from": "feed"
-  },
-  {
    "title": "Grissom Air Museum in Peru, Indiana",
    "link": "https://www.atlasobscura.com/places/grissom-air-museum",
    "source": "Atlas Obscura",
@@ -1532,28 +1866,6 @@
    "feed": "Kottke",
    "evergreen": true,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Revealing Headspace, a New Romantic Sci-Fi by Jill Tew",
-   "link": "https://reactormag.com/cover-reveal-headspace-by-jill-tew/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Books cover reveals Revealing Headspace , a New Romantic Sci-Fi by Jill Tew A swoony second-chance romance arriving May 2027 By Reactor Published on November 10, 2026 Photo credit: Nicole Tyler Photo credit: Nicole Tyler We’re thrilled to share the cover of Jill Tew’s Headspace , a romantic space opera available May 11, 2027 from Bindery Books / Mareas Books. Captain Nix Rowland can navigate anything: black holes, solar wars, deep space. Her soon-to-be ex-husband? That’s another problem entirely. Nix Rowland is fine on her own, thanks. As captain of the Atalanta, she carried her crew through the Solar Wars, and when the resistance got pummeled into space dust, Nix charted the crew’s path awa",
-   "published": "2026-11-10T08:30-06:00",
-   "tags": [
-    "Blog",
-    "Bindery Books",
-    "cover reveals",
-    "Headspace",
-    "Jill Tew",
-    "romance",
-    "Space Opera"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/Headspace-Jill-Tew-740x474.png",
    "summary_from": "feed"
   },
   {
@@ -1761,7 +2073,7 @@
    "summary_from": "feed"
   },
   {
-   "title": "What Makes You Yourself: Earth’s Largest Living Organism and the Paradox of Personhood",
+   "title": "What Makes You Yourself: Posidonia Australis, Pando, and the Paradox of Personhood",
    "link": "https://www.themarginalian.org/2026/11/09/pando/",
    "source": "The Marginalian",
    "category": "Curious Discoveries",
@@ -2102,19 +2414,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Award-winning photographer Stephen Voss is making a book...",
-   "link": "https://kottke.org/26/11/0049952-making-a-book-about-the-w",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Award-winning photographer Stephen Voss is making a book about the world’s largest data-center hub in Northern Virginia . “Forests have disappeared. Empty fields have become enormous buildings.”",
-   "published": "2026-11-09T12:33-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
    "source": "OpenAI",
@@ -2125,27 +2424,6 @@
    "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Babylon 5 Rewatch: Crusade’s “The Path of Sorrows”",
-   "link": "https://reactormag.com/babylon-5-rewatch-crusades-the-path-of-sorrows/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Column Babylon 5 Rewatch Babylon 5 Rewatch: Crusade ’s “The Path of Sorrows” A mysterious sphere prompts Gideon and the others to relive traumatic moments from their past. By Keith R.A. DeCandido Published on November 9, 2026 Credit: Warner Bros. Television Credit: Warner Bros. Television “The Path of Sorrows” Written by J. Michael Staczynski Directed by Michael Vejar Production number 109 Original air date: June 30, 1999 It was the dawn of the third age… Excalibur is on a world that Galen recommended because it allegedly has healing stuff on it. However, there’s a giant door, which Nafeel can’t get into. It’s covered in glyphs in multiple languages, all of which Eilerson translates to the s",
-   "published": "2026-11-09T12:00-06:00",
-   "tags": [
-    "Blog",
-    "Babylon 5",
-    "Babylon 5 Rewatch",
-    "Crusade",
-    "J. Michael Straczynski",
-    "Science Fiction"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/Babylon-5-Crusade-Path-of-Sorrows-01-740x493.png",
    "summary_from": "feed"
   },
   {
@@ -2169,19 +2447,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/03/conversationswithcarlsagan.jpg?fit=320%2C495&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Computer Chips Are the Most Magnificent Things Humanity...",
-   "link": "https://kottke.org/26/11/0049953-computer-chips-are-the-mo",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Computer Chips Are the Most Magnificent Things Humanity Has Ever Made . “The phone in your pocket is several orders of magnitude more sophisticated than the computers used for the Apollo mission. One AirPod could easily calculate a path to the moon.”",
-   "published": "2026-11-09T11:45-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2213,19 +2478,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/Mmc8CoO5ZU5GEwznaX8d66SanaJbpqDcS_qGttQYFks/rs:fill:300:200:1/g:ce/c:1647:1098:nowe:30:130/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85NWJl/YzIxZC0yM2Y5LTQw/NDQtOWE2Zi1iZDcy/ZjJmMzRlOWIxNWQ5/MGYzYTk0OWM0M2I2/ZDBfTm92YV9TY290/aWFfRFNDMDczNjlf/LV9NYXN0b2Rvbl9S/aWRnZV8oMzU5MTMx/NDM5NjUpLmpwZw.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "A YouTuber discovered that most videos contain inaudible...",
-   "link": "https://kottke.org/26/11/0049951-most-videos-contain-inaud",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "A YouTuber discovered that most videos contain inaudible background audio that can be geolocated by using airplane flight data . Incredible. I wonder how long the NSA has known about this though…",
-   "published": "2026-11-09T10:55-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2265,19 +2517,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "10 TV Shows That Wanted To Be Doctor Who - WhatCulture.com",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4NTFoMlkwMkhlMGxfMGl2NHJEclRmRDQ4LVliVTlvQ0gyR1dKbnh0UnhSRkdMZ1lTamgyOXpXU0k2blk1YTlpZm92V0M5bEhKbno5MGVLaXlFWVF1ZFBZb3JINUNIX3hnX1d0UnJLQVNoZw?oc=5",
-   "source": "WhatCulture.com",
-   "category": "Science Fiction",
-   "summary": "10 TV Shows That Wanted To Be Doctor Who WhatCulture.com",
-   "published": "2026-11-09T09:47-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Disney's unaired Doctor Who spinoff was supposed to have multiple sequels - Winter is Coming",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUjZuUEhJNk8wZldXSjdUNmtvYi15dk5FanNrR1NFamFCeE1OMXhRUnEzWFFHVFoxS0x1UVRyUUZLb2Vtcjd1cUlDZ2Q2TGNQYnB6U1U1Qlg5clUyUFNZeXhnamR5djktNUFibGVnWHNEcUtFUHRQanZlVENYWGdiekFkUQ?oc=5",
    "source": "Winter is Coming",
@@ -2287,19 +2526,6 @@
    "tags": [],
    "feed": "Google News Doctor Who",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Winners of the 2026 Photomicrography Competition",
-   "link": "https://kottke.org/26/11/winners-of-the-2026-photomicrography-competition",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Ok, I’m gonna use the word gobsmacking here because I think it’s completely appropriate. This image of an inkjet printer laying down ink on a piece of paper is gobsmacking. Like what?! You can check out photographer Ole Bielfeldt’s behind-the-scenes process on Instagram ; he built a whole custom rig to capture this composite image. The biggest challenge was speed and lighting. The printhead, in the printer, moves at a very high speed over the paper. Simultaneously, the ink droplets get injected at around 20 m/s. So to capture the ink droplets mid air and get my lens close enough, this required me to build a custom setup where, instead of the printhead moving over the paper, the paper moved b",
-   "published": "2026-11-09T09:41-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -2360,19 +2586,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/6iEtfuqkkfAlNCO2EZIjbmi9GmNpOiqDSCgmpW-qZJc/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jYzlm/MDM5YS0wZWJlLTRl/MDMtYjI5ZS01NjFj/YmI3N2Q1ZTlmMTk0/MGY3YmQ5OTEwMTVj/NGFfSU1HXzUyNzQu/anBlZw.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Dark Forestry. “What defense against this onslaught of...",
-   "link": "https://kottke.org/26/11/0049908-dark-forestry",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Dark Forestry . “What defense against this onslaught of talking machines? Craft, and ‘the nobility of a day’s work’, once-proud heraldry against inconsiderate design and careless release cycles, are threadbare banners in winter winds.”",
-   "published": "2026-11-09T08:55-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2507,19 +2720,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Low-level flights to image geology over NE Iowa, SE Minnesota - Community Newspaper Group",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVnUzVzdPUUxsT1pZcVNlR3JVc25PN3MyQmdJRTFabU9ZcW1qS21vTGZKbjFLZzd6SjdzOFY4M2hWTndRejdDeUZKQWU5Q3QyQ3o2eWdnRVA5aUx0bUVKV1lIQk5yX2FJTDZnN1NIU2t6a1ZCckxoT2FDQUVJT0NFd0JyNk83SFVHM2lxNzVIQ0VwaS1QZ3ZYRzJHcThGUDhmcXlaTE1nbmRnRU9YSkRILW93ZzV3N1dYLWdlYzlnRFp1SVNidjRGMDBWWjJ1N3JaQ3J2cEJ2MzdNcGxvdW9McVhnQVJFMXJ3Q0txY2RfcDFjdzNSTjVJSTR3Tl9WVG1XeTZz?oc=5",
-   "source": "Community Newspaper Group",
-   "category": "Minnesota and Nature",
-   "summary": "Low-level flights to image geology over NE Iowa, SE Minnesota Community Newspaper Group",
-   "published": "2026-11-09T00:00-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Pixel Scroll 11/8/26 Damn, I Can’t Read This Verse For The Life O’ Me, But Not ’Cause I’m Blind, Drunk Or Mean. No, JJ Said It Was Too Spoilery, And Encoded It In ROT13",
    "link": "https://file770.com/pixel-scroll-11-8-26-damn-i-cant-read-this-verse/",
    "source": "File 770",
@@ -2538,19 +2738,6 @@
    ],
    "feed": "File 770",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Divorce Tapes (gift link). “The only music she...",
-   "link": "https://kottke.org/26/11/0049949-the-divorce-tapes",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "The Divorce Tapes (gift link). “The only music she listens to is heavy metal from 1986. It’s the year she still lives in. She wanted me to tell this story.” This is a tough read. (CW: rape, family trauma)",
-   "published": "2026-11-08T19:51-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -2669,19 +2856,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Doctor Who: RTD on His Spinoff Ideas & Having More \"Wars\" Planned - Bleeding Cool News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGFjd1NMVTgtSnNpdE5DUi1NRFdmcUxoUDYzUEZxaTdDdlFXQkdma0NHelJIeHo5bThXS3o5WUNpc2dzTVN3OU1LTWx5a1dRd3VFOS05ZUVfSnk1LUlLTzNVMF9hMEtRZTlidS1vY3g1SlIyY2s5NWRJaWFicTU4NzJoUk85a2tSZ1VfZGJfOGRkRFU?oc=5",
-   "source": "Bleeding Cool News",
-   "category": "Science Fiction",
-   "summary": "Doctor Who: RTD on His Spinoff Ideas & Having More \"Wars\" Planned Bleeding Cool News",
-   "published": "2026-11-08T07:37-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Nexus 1.22.0 Shows Solar Flare Absorption the way NOAA Sees it - Amateur Radio Daily",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ycmoxMm1iNWRLRlJxN3RTZ3Rjb0N5dGhuc1lHRmV3N245em5wc1hDLTlrTE1NYk1TdEFxVnBjMThvTXNsc3ZoM3JFVzRoZGNab3NxeHQ0T08wSmd3V1pzTVdMOE8xSzFJTkU3OTRWUjlGTTYxNXp3dXNYZw?oc=5",
    "source": "Amateur Radio Daily",
@@ -2792,28 +2966,15 @@
    "summary_from": "feed"
   },
   {
-   "title": "Will the northern lights be visible tonight? Possibly in the far northern US, with a minor storm forecast - Nacionale",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmVyTy13WWxYUGc5Znp0OFhRZjQ2Mm9JWElWSFA2Nkk2dzZ3cUE3MlZHRmtITVJOWkNTaFh5SF9QbkQ0dUtvd3Z1Vm92M3I1c2lySkNGOS1Ka0wyRF9DSWJfZF8xVVp5VnJYTTJNWTk3b0pNMzlSS0NzZGxKR2dnN1Jqclk5X3gxeFd5MlBBQ1ItVWhFRWtaUWhsaUUyZUoxU00zSjNEN1A1Zy12c2hnSUEyM0hjaF9yeVJreVR0LThWdUZM?oc=5",
-   "source": "Nacionale",
+   "title": "Northern lights alert! Auroras may spark over Canada tonight due to solar wind - The Weather Network",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnJvckpSdy1kNHZjck1VSEM4ci1ObVlyTTBqOFV4V2FMV3ZzRzNYRXlRaUZGMm83dnRPU2VLZWkxREpXVXBMdkotVWdldmpEWFBXNXY1SmpmWE1QQ2dlQU5aMW1zUzQ5Y2JMUnVId2VnSXAtUkxPX3Fjc1NibGtEd1ljcTJDR1ViZlhIUW5meWRRdERJUjUtamRxRi1saVFRRGtqdk96ZW16bXB0LWhmTUl0WGczZnlPVFhlQVpGem1lUnVFdFF2N05OSmFEYmlDb0ZVdklpNjA?oc=5",
+   "source": "The Weather Network",
    "category": "Space Weather and Aurora",
-   "summary": "Will the northern lights be visible tonight? Possibly in the far northern US, with a minor storm forecast Nacionale",
-   "published": "2026-11-06T20:20-06:00",
+   "summary": "Northern lights alert! Auroras may spark over Canada tonight due to solar wind The Weather Network",
+   "published": "2026-11-06T17:09-06:00",
    "tags": [],
-   "feed": "Google News aurora",
+   "feed": "Google News space weather",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "They found a chunk of Mars in the Sahara Desert. A recent...",
-   "link": "https://kottke.org/26/11/0049945-they-found-a-chunk-of-mar",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "They found a chunk of Mars in the Sahara Desert . A recent reveals that a rock found a few years ago in Mali is more than 4.1 billion years old and “has a mix of igneous minerals that tells a story about how [Mars’] crust formed”.",
-   "published": "2026-11-06T16:00-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -2828,20 +2989,6 @@
    "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Fuente de los Niños Miones in Guadalajara, Mexico",
-   "link": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "Framed by traditional black wrought ironwork, the Fuente de los Niños Miones delights passersby in Guadalajara's Historic Center, right in the Plaza Tapatía . This sculptural gem attracts curious travelers with its peculiar charm and a touch of urban cheekiness . Designed to celebrate the joy of childhood, the artwork was created by sculptor Miguel Miramontes and installed in 1982 . It sits on Morelos Street, right next to the mysterious \"Devil's Corner\" ( Rincón del Diablo ), an alleyway shrouded in enigmatic local legends . Visitors often stop and smile at the sight of these four child sculptures playing merrily with water . The most whimsical feature of the ensemble is the water jets spro",
-   "published": "2026-11-06T15:00-06:00",
-   "tags": [],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/1h_uKqpelbiYZqDMwBp_Zq-w_f3YbwKKcN1fP2oCx0A/rs:fill:300:200:1/g:ce/c:921:614:nowe:37:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81ZGE4/MzhhZS1mOTZjLTQy/ZDItYTQ3MC0yNDc2/YTZjNDljODljNjk2/Yjc0ZmI1OTNjNzA2/ZDNfQm95c0ZvdW50/YWluTW9yZWxvc1N0/R0RMLmpwZw.jpg",
    "summary_from": "feed"
   },
   {
@@ -2894,22 +3041,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
-   "link": "https://www.atlasobscura.com/places/tarrafal-concentration-camp",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "The camp opened in 1936, when the first group of about 150 prisoners arrived from Lisbon: communists, anarchists, trade unionists and sailors who had mutinied against Salazar's dictatorship. The location was chosen deliberately. It was isolated, hot, short on clean water and plagued by malaria. Prisoners called it the \"Campo da Morte Lenta,\" the Camp of Slow Death. More than 30 Portuguese inmates died here, among them Bento Gonçalves, secretary-general of the Portuguese Communist Party. The most feared place was the \"frigideira\" (frying pan), a windowless concrete punishment cell where temperatures soared under the tropical sun and men were held for days or weeks on bread and water. Internat",
-   "published": "2026-11-06T13:00-06:00",
-   "tags": [
-    "prisons"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/HQD0dAy92w0k558VwYgnkIRGEPRU9aWLsFcMSjnllV8/rs:fill:300:200:1/g:ce/c:3904:2602:nowe:380:2348/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mYWIw/MjkxYS1lN2Q5LTQw/MDUtOGE4Zi1jNTQ0/M2FkYTY1MTExNzI3/NGVjOWQyYjFmYjQ4/NjdfSU1HXzQ3ODIu/anBlZw.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Geomagnetic storm could light up night sky - Yahoo News Canada",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSUxVYnhjYWxsZU12QTM2dDBJN0hfTk14cl9jZzVtelhZbXZmdEF1TWpVZmE4NlJkdUNiQ3NxTGR2bjBvczlkZ1Vpek9kMXJQejREcGNIa3Q2bm92VG11R1dYUEFOVXR5VDFha3JNbm9VWFhtcVZVQS1ORTFGWWJxWjBn?oc=5",
    "source": "Yahoo News Canada",
@@ -2933,24 +3064,6 @@
    "feed": "Google News aurora",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
-   "link": "https://www.atlasobscura.com/places/al-qasr-al-ghamedh-al-qassimi-palace",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "Sitting upon one of the hills in Ras Al Khaimah, Al Qasimi Palace, also known as Al Qasr Al Ghamedh (the Haunted Palace), is one of the UAE's most fascinating landmarks. Commissioned by the late Sheikh Abdulaziz bin Humaid Al Qasimi, construction began in 1975 and took years to complete. Although the palace was built as a grand private residence, it remained largely unoccupied for around 35 years. Over the years, stories have spread that the palace is 'haunted' and today it has a reputation as Ras Al Khaimah's \"haunted palace\". In 2019, the palace was purchased and restored. Today, visitors can explore 35 rooms filled with ornate furniture, sculptures, antiques, chandeliers, and artwork. Man",
-   "published": "2026-11-06T11:00-06:00",
-   "tags": [
-    "astrology",
-    "haunted",
-    "palaces"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/JAvyPvRYz22HJ1asdwIv2rCkrJX2QqeMLelFL2XNjMY/rs:fill:300:200:1/g:ce/c:1504:1002:nowe:0:44/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hZWQ3/YmNiZi0wZWI2LTQy/YzEtODE4Ni1iN2I4/MjMxNmE2MTUxMmI1/MWRiNTBjZWE1ODEw/ZTNfSW1hZ2UgMTAt/MTAtMjAyNiBhdCAx/MC4xNuKAr1BNICgz/KS5wbmc.png",
    "summary_from": "feed"
   },
   {
@@ -2997,59 +3110,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Marianne Moore on the Three Elements of Persuasive Writing",
-   "link": "https://www.themarginalian.org/2026/11/06/marianne-moore-predilections-writing/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "Several years ago, rummaging through the archives of the Academy of American Poets, I came upon a box labeled “Ballots 1950” — the record of the secret vote by the chancellors the year the Academy’s prestigious fellowship was awarded to E.E. Cummings, catapulting him into renown . The voting process is a black box — no one outside the Academy ever finds out who else is in the running and by how much the winner wins. Leafing through the ballots, one other name appeared over and over, so much so that I was impelled to count. Marianne Moore had lost by one vote, never knowing how close she had come. It would be many more years until, at 77, she was finally awarded the fellowship. Long before th",
-   "published": "2026-11-06T09:13-06:00",
-   "tags": [
-    "culture",
-    "books",
-    "Marianne Moore",
-    "out of print",
-    "poetry",
-    "writing"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/04/predilections_mariannemoore.jpg?fit=320%2C469&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Northern lights alert! Auroras may spark over Canada tonight due to solar wind - The Weather Network",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnJvckpSdy1kNHZjck1VSEM4ci1ObVlyTTBqOFV4V2FMV3ZzRzNYRXlRaUZGMm83dnRPU2VLZWkxREpXVXBMdkotVWdldmpEWFBXNXY1SmpmWE1QQ2dlQU5aMW1zUzQ5Y2JMUnVId2VnSXAtUkxPX3Fjc1NibGtEd1ljcTJDR1ViZlhIUW5meWRRdERJUjUtamRxRi1saVFRRGtqdk96ZW16bXB0LWhmTUl0WGczZnlPVFhlQVpGem1lUnVFdFF2N05OSmFEYmlDb0ZVdklpNjA?oc=5",
-   "source": "The Weather Network",
-   "category": "Space Weather and Aurora",
-   "summary": "Northern lights alert! Auroras may spark over Canada tonight due to solar wind The Weather Network",
-   "published": "2026-11-06T09:09-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Statue of Lord Laddu Gopal in Agra, India",
-   "link": "https://www.atlasobscura.com/places/26-foot-statue-of-lord-laddu-gopal",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "Standing along Agra’s Yamuna River Promenade, the giant 26-foot-tall Lord Laddu Gopal statue is hard to miss. Created by the Agra Municipal Corporation as part of its \"Waste to Wonder\" initiative, the sculpture was built using more than two tonnes of discarded iron and steel, turning scrap metal into a striking piece of public art. It features a striking peacock feather that towers over the Ambedkar Bridge. The statue represents Lord Krishna in his child form and celebrates Agra’s connection to the Braj region. Located near the Yamuna View Point, it has become a popular attraction for both locals and tourists. The statue is a great reminder of how waste materials can be transformed into some",
-   "published": "2026-11-06T09:00-06:00",
-   "tags": [
-    "recycling",
-    "hinduism",
-    "gods",
-    "statues"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/NnWE03UkkvAPkOulHK_xpEDJWDLLGY2763MPV33OavY/rs:fill:300:200:1/g:ce/c:1076:717:nowe:50:72/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80YzJi/YWMwYy1kNTY5LTRi/YWEtYjk1Yy1kNmZk/NDVmNzI3MWNlMDc0/YmQ3MTgwZmFmODhj/NjlfSW1hZ2UgMTAt/MTAtMjAyNiBhdCAx/MC41NeKAr1BNLnBu/Zw.png",
-   "summary_from": "feed"
-  },
-  {
    "title": "Earth's Gravity May Have Kept the Early Moon's Volcanic Heart Beating",
    "link": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating",
    "source": "Universe Today",
@@ -3061,20 +3121,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/PIA14011_fig1_20261106_144229.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "'Big Bang' Fix Puts Voyager Across the 'One Light-Day' Mark",
-   "link": "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Flashback to 1977. Jimmy Carter was U.S. president, Star Wars was a box office hit, and the two Voyager spacecraft departed on an historic Grand Tour of the solar system. Now, teams at NASA’s Jet Propulsion Laboratory are working to keep the missions active, as they push the boundaries of interstellar space beyond the solar system.",
-   "published": "2026-11-06T05:49-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/1-Voyager_2-copy.width-1320_20261106_111427.jpg",
    "summary_from": "feed"
   },
   {
@@ -3195,20 +3241,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Asteroids' Oddball Shapes Make Deflecting Them Challenging",
-   "link": "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "In a pinch, we could use a stand-off nuclear blast to redirect a dangerous asteroid on short notice. There's no atmospheric shock wave in space, but the x-ray pulse could still deflect the space rock. But asteroids aren't round and uniform, so their weird shapes make it difficult.",
-   "published": "2026-11-05T13:26-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/PIA25329large_20261105_190026.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Help Shape the Future of .NET: Take the 2026 .NET Developer Survey",
    "link": "https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/",
    "source": "Microsoft .NET Blog",
@@ -3254,29 +3286,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Godzilla Minus Zero Is a Dark, Loud, and Emotionally Gutting Kaiju Opera",
-   "link": "https://reactormag.com/movie-review-godzilla-minus-zero-is-a-dark-loud-and-emotionally-gutting-kaiju-opera/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Movies & TV Godzilla Minus Zero Godzilla Minus Zero Is a Dark, Loud, and Emotionally Gutting Kaiju Opera Takashi Yamazaki has given us another celebration of the power of LOVE. And giant screaming monsters. By Leah Schnelbach Published on November 5, 2026 Credit: Toho Studios Credit: Toho Studios All else aside, we live in a world where the New York Film Festival hosted the U.S. premiere of Godzilla Minus Zero . I was lucky enough to see the movie twice over the course of the Festival, and I’ll admit I went in with some trepidation. How could the new film possibly live up to 2023’s Godzilla Minus One ? I’m not sure it does—it might actually surpass it? I’m still thinking about that! But if y",
-   "published": "2026-11-05T12:30-06:00",
-   "tags": [
-    "Blog",
-    "Godzilla",
-    "Godzilla Minus One",
-    "Godzilla Minus Zero",
-    "Kaiju",
-    "movie reviews",
-    "movies",
-    "Takashi Yamazaki"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/GodzillaMinusZero-740x517.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Modernize your .NET apps for Windows Arm64 with GitHub Copilot",
    "link": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/",
    "source": "Microsoft .NET Blog",
@@ -3314,20 +3323,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/09/cslewis_surprisedbyjoy.jpg?fit=320%2C482&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
-   "link": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies about 400 to 500 million years after the Big Bang. But these galaxies should have been far less common so soon after the Big Bang. Researchers may have figured this out: Powerful ultraviolet (Lyman-alpha) radiation produced by dense clusters of young stars acted like a leaf blower, driving light-blocking gas and dust out of the galaxy and thereby making the galaxies appear brighter.",
-   "published": "2026-11-05T11:11-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/Lede_LymanAlpha_c.Matt-Twombly_Simons-Foundation.jpg-1024x576_20261105_133649.jpg",
    "summary_from": "feed"
   },
   {
@@ -3427,26 +3422,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2025/11/cropped-Microsoft-Foundry.2mb-scaled-1.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Umberto Eco’s Antilibrary: Why Unread Books Are More Valuable to Our Lives than Read Ones",
-   "link": "https://www.themarginalian.org/2026/11/05/umberto-eco-antilibrary/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "How to become an “antischolar” in a culture that treats knowledge as “an ornament that allows us to rise in the pecking order.” “It is our knowledge — the things we are sure of — that makes the world go wrong and keeps us from seeing and learning,” Lincoln Steffens wrote in his beautiful 1925 essay . Piercingly true as this may be, we’ve known at least since Plato’s famous Allegory of the Cave that “most people are not just comfortable in their ignorance, but hostile to anyone who points it out.” . Although science is driven by “thoroughly conscious ignorance” and the spiritual path paved with admonitions against the illusion of thorough understanding , we cling to our knowledge — our incomp",
-   "published": "2026-11-05T07:25-06:00",
-   "tags": [
-    "culture",
-    "psychology",
-    "books",
-    "philosophy",
-    "Umberto Eco"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/03/blackswan.jpg?w=680&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -3576,19 +3551,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Flipsnack grows product signups with conversion optimization",
-   "link": "https://openai.com/ads/customers/flipsnack",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-   "published": "2026-11-04T18:45-06:00",
-   "tags": [],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Souls of Animals",
    "link": "https://www.themarginalian.org/2026/11/04/the-souls-of-animals/",
    "source": "The Marginalian",
@@ -3605,50 +3567,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/02/thesoulsofanimals.jpg?fit=320%2C492&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "A Real Boy — VisionQuest’s “Immolation”",
-   "link": "https://reactormag.com/tv-review-visionquest-immolation/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Movies & TV VisionQuest A Real Boy — VisionQuest ’s “Immolation” It’s back to the past for both the MCU and Marvel Comics’ origins… By Keith R.A. DeCandido Published on November 4, 2026 While the modern “Marvel age of comics” that started them on the road to becoming the most popular superhero comics on the planet began with the release of Fantastic Four #1 by Stan Lee & Jack Kirby in 1961, their superhero universe truly began in 1939. That was when the publisher, then called Timely, released Marvel Comics #1, an anthology that included six comics stories and one prose tale. Five of the comics stories were “The Angel” by Paul Gustavson, “The Sub-Mariner” by Bill Everett, “The Masked Rider” b",
-   "published": "2026-11-04T15:00-06:00",
-   "tags": [
-    "Blog",
-    "James Spader",
-    "Marvel Cinematic Universe",
-    "Paul Bettany",
-    "television",
-    "television recaps",
-    "television reviews",
-    "VisionQuest"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/visionquest-ep7-9-740x375.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Project Hail Mary Almost Almost Included That Plan to Nuke Antarctica",
-   "link": "https://reactormag.com/project-hail-mary-cut-scene-screenplay/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "News Project Hail Mary Project Hail Mary Almost Almost Included That Plan to Nuke Antarctica It’s one of the big scenes Drew Goddard regrets cutting from the movie By Vanessa Armstrong Published on November 4, 2026 Both Project Hail Mary and the book it is based on have been resounding successes . The novel from The Martian author Andy Weir centers on a man named Ryland Grace who is sent to the outskirts of space to save Earth from tiny alien creatures literally eating the sun. While on that mission, Grace befriends a rock-alien creature doing the same for his planet. A bromance ensues, among other things. The movie keeps this general structure, as well as the heart of the novel, which scree",
-   "published": "2026-11-04T14:10-06:00",
-   "tags": [
-    "Blog",
-    "Amazon MGM Studios",
-    "Drew Goddard",
-    "movies",
-    "news",
-    "Project Hail Mary"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/02/PHM_30245_R2_proxy_md-740x493.jpg",
    "summary_from": "feed"
   },
   {
@@ -3729,26 +3647,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "No One You Love Is Ever Dead: Hemingway on Loss and the Meaning of Life",
-   "link": "https://www.themarginalian.org/2026/11/04/hemingway-loss-letter/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "“We must live it, now, a day at a time and be very careful not to hurt each other.” Along the spectrum of losses, from the door keys to the love of one’s life , none is more unimaginable, more incomprehensible in its unnatural violation of being and time, than a parent’s loss of a child. Ernest Hemingway (July 21, 1899–July 2, 1961) was in his twenties and living in France when he befriend Gerald and Sara Murphy. The couple eventually returned to America when one of their sons fell ill, but it was their other son, Baoth, who died after a savage struggle with meningitis. Upon receiving the news, the thirty-five-year-old writer sent his friends an extraordinary letter, part consolation for and",
-   "published": "2026-11-04T06:10-06:00",
-   "tags": [
-    "culture",
-    "psychology",
-    "books",
-    "Ernest Hemingway",
-    "letters"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/05/lettersofnote_grief.jpg?fit=320%2C437&ssl=1",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Not-So-Hidden Galaxy, IC 342",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
    "source": "NASA Astronomy Picture of the Day",
@@ -3760,26 +3658,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Founding Father of Neuroscience on Solitude, the Search for Truth, and the Ideal Environment for Breakthroughs",
-   "link": "https://www.themarginalian.org/2026/11/03/cajal-science-solitude/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "“Oh comforting solitude, how favorable thou art to original thought!” “The real wealth of the Nation lies in the resources of the earth… Their administration is not properly, and cannot be, a matter of politics,” trailblazing scientist and writer Rachel Carson presciently admonished in 1953 as she made the case for protecting science, nature, and thus humanity itself from greedy and destructive political agendas. “The scientific way of thinking,” Carl Sagan wrote in his final published masterwork , “is … an essential tool for a democracy in an age of change.” Half a century before Carson and a century before Sagan, neuroscience founding father Santiago Ramón y Cajal (May 1, 1852–October 17, ",
-   "published": "2026-11-03T15:02-06:00",
-   "tags": [
-    "culture",
-    "politics",
-    "science",
-    "books",
-    "Santiago Ramón y Cajal"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/03/cajal_advice.jpg?fit=320%2C486&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -3838,26 +3716,6 @@
    "feed": "AstroBackyard",
    "evergreen": true,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "I Feel, Therefore I Am: Neuroscientist Antonio Damasio the Consciousness of the Body",
-   "link": "https://www.themarginalian.org/2026/11/03/feeling-knowing-damasio/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "“Ultimately, we are puppets of both pain and pleasure, occasionally made free by our creativity.” “A purely disembodied emotion is a nonentity,” William James wrote in his revolutionary theory of how our bodies affect our feelings just before the birth of neuroscience — a science still young, which has already revolutionized our understanding of the cosmos inside the cranium as much as the first century of telescopic astronomy revolutionized our understanding of our place in the universe. Meanwhile, ninety miles inland from William James, while Walt Whitman was redoubling his metaphysical insistence that “the body includes and is the meaning, the main concern… and is the soul,” Emily Dickins",
-   "published": "2026-11-03T10:35-06:00",
-   "tags": [
-    "culture",
-    "science",
-    "Antonio Damasio",
-    "books",
-    "neuroscience"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/12/feelingknowing_damasio.jpg?fit=320%2C468&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -3982,25 +3840,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Trial, Triumph, and the Art of the Possible: The Moving Story Behind Beethoven’s “Ode to Joy,” a Lifetime of Sorrow in the Making",
-   "link": "https://www.themarginalian.org/2026/11/02/beethoven-ode-to-joy/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "A hymn of rage, a hymn of redemption, and a timeless love letter to the possible. “Day by day I am approaching the goal which I apprehend but cannot describe,” Ludwig van Beethoven (December 16, 1770–March 26, 1827) wrote to his boyhood friend, rallying his own resilience as he began losing his hearing. A year later, shortly after completing his Second Symphony , he sent his brothers a stunning letter about the joy of suffering overcome , in which he resolved: Ah! how could I possibly quit the world before bringing forth all that I felt it was my vocation to produce? That year, he began — though he did not yet know it, as we never do — the long gestation of what would become not only his gre",
-   "published": "2026-11-02T12:53-06:00",
-   "tags": [
-    "art",
-    "culture",
-    "music",
-    "Beethoven"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/05/beethoven_mahler.jpg?resize=680%2C879&ssl=1",
-   "summary_from": "feed"
-  },
-  {
    "title": "A Satellite Company Tests “Sunlight As A Service” — Without Astronomers’ Knowledge",
    "link": "https://skyandtelescope.org/astronomy-news/astronomy-and-society/a-satellite-company-tested-sunlight-as-a-service-without-astronomers-knowledge/",
    "source": "Sky and Telescope News",
@@ -4051,23 +3890,20 @@
    "summary_from": "feed"
   },
   {
-   "title": "The Art of Being Alone: May Sarton’s Stunning 1938 Ode to Solitude",
-   "link": "https://www.themarginalian.org/2026/11/01/may-sarton-canticle-6-considerations/",
+   "title": "Meteor of Joy: The Young People’s Chorus of New York City Sings Bird Divinations",
+   "link": "https://www.themarginalian.org/2026/10/31/meteor-of-joy-paola-prestini/",
    "source": "The Marginalian",
    "category": "Curious Discoveries",
-   "summary": "“There is no place more intimate than the spirit alone.” “The best things in life happen to you when you’re alone,” artist Agnes Martin reflected in her final years. “Oh comforting solitude, how favorable thou art to original thought!” wrote the founding father of neuroscience in his advice to young scientists . The poet Elizabeth Bishop believed that everyone should experience at least one prolonged period of solitude in life. For in true solitude, as Wendell Berry so memorably observed , “one’s inner voices become audible [and] in consequence, one responds more clearly to other lives” — an intuitive understanding of what psychologists have since found: that “fertile solitude” is the basic ",
-   "published": "2026-11-01T07:38-06:00",
+   "summary": "Children know the deepest truths about life, the elemental knowledge we unlearn in the act of living, those inarticulable truths music alone helps us remember. To hear children sing the secret wisdom of the heart is to be in the presence of something truer and more transcendent than any of our poems and postulates can touch — the ultimate affirmation of our aliveness, emanating Richard Powers’s beautiful and bittersweet assertion that “the use of music is to remind us how short a time we have a body.” To celebrate twenty years of The Marginalian , composer extraordinaire Paola Prestini set six of her favorite bird divinations to music, which the Young People’s Chorus of New York City brought",
+   "published": "2026-10-31T13:01-05:00",
    "tags": [
     "culture",
-    "books",
-    "May Sarton",
-    "poetry",
-    "SoundCloud"
+    "music"
    ],
    "feed": "The Marginalian",
    "evergreen": true,
    "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/11/innerlandscape_maysarton.jpg?fit=320%2C488&ssl=1",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/choir_cards.jpg?resize=680%2C456&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -4085,6 +3921,42 @@
    "summary_from": "feed"
   },
   {
+   "title": "What Is Your Refugium?",
+   "link": "https://www.themarginalian.org/2026/10/29/horse-chestnut-refugium/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "For courage, says Bulgarian folk wisdom instructs, keep a horse chestnut in your pocket. Even as a child, I was mistrustful of superstition. But every autumn, I would pick up dozens of them from the sidewalks of Sofia and fill my pockets — not as a spell against fear but as an ode to joy. Conkers, as the English call them, spun me up in delight — shiny as mahogany, smooth as river stones, tiny planets from some other universe, the wonder-smitten eyes of some prehistoric creature. I didn’t know then that they are emblems of life’s irrepressible insistence on itself — miniature monuments to the stubborn creativity of survival. Illustration from Die Baume und Straucher des Waldes by by Gustav H",
+   "published": "2026-10-29T18:48-05:00",
+   "tags": [
+    "culture",
+    "science"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://www.themarginalian.org/wp-content/uploads/2026/09/aforestlanguage-320x448.avif",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Most Important Thing to Remember About Your Mother",
+   "link": "https://www.themarginalian.org/2026/10/28/florida-scott-maxwell-mother/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "“It is not easy to give closeness and freedom, safety plus danger.” One of the hardest realizations in life, and one of the most liberating, is that our mothers are neither saints nor saviors — they are just people who, however messy or painful our childhood may have been, and however complicated the adult relationship, have loved us the best way they knew how, with the cards they were dealt and the tools they had. It is a whole life’s work to accept this elemental fact, and a life’s triumph to accept it not with bitterness but with love. How to make that liberating shift of perspective is what the playwright, suffragist, and psychologist Florida Scott-Maxwell (September 14, 1883–March 6, 19",
+   "published": "2026-10-28T19:06-05:00",
+   "tags": [
+    "culture",
+    "books",
+    "Florida Scott-Maxwell",
+    "philosophy"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/01/floridascottmaxwell_themeasureofmydays.jpg?fit=320%2C492&ssl=1",
+   "summary_from": "feed"
+  },
+  {
    "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
    "link": "https://publicdomainreview.org/essay/wonderful-weather",
    "source": "Public Domain Review",
@@ -4099,6 +3971,28 @@
    "summary_from": "feed"
   },
   {
+   "title": "What It Takes to Be Free",
+   "link": "https://www.themarginalian.org/2026/10/27/freedom/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "We spend our lives trying to find our power and our freedom. It is not easy: We live in a culture that has distorted the meaning and measure of power, confusing visibility with value, status with substance, attention with love; we live in a universe where free will may be an illusion , where chance deals the vast majority of the cards — the family and epoch we are born into, the body and biochemistry we live in, the people we cross paths with, the accidents of chemistry and happenstance we call love. The great double-edged question is how to keep power from becoming a prison and how much freedom we can find between the narrow parameters of our givens. But somewhere deep down, in the marrow o",
+   "published": "2026-10-27T19:02-05:00",
+   "tags": [
+    "culture",
+    "psychology",
+    "Iris Murdoch",
+    "James Baldwin",
+    "Karen Horney",
+    "Maya Angelou",
+    "philosophy"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/05/SummerRedBird_suffering1.jpg",
+   "summary_from": "feed"
+  },
+  {
    "title": "Albrecht Dürer’s Monument to the Vanquished Peasants (1525)",
    "link": "https://publicdomainreview.org/collection/monument-to-the-vanquished-peasants",
    "source": "Public Domain Review",
@@ -4110,6 +4004,27 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://pdr-assets.b-cdn.net//collections/monument-to-the-vanquished-peasants/vnderweysungderm00drer_0102-edit-thumb.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "20 Favorite Children’s Books from 20 Years of The Marginalian",
+   "link": "https://www.themarginalian.org/2026/10/25/20-childrens-books/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "“Anyone who writes down to children is simply wasting his time,” E.B. White insisted . “You have to write up, not down. Children are demanding. They are the most attentive, curious, eager, observant, sensitive, quick, and generally congenial readers on earth.” Both as a reader of them and as a writer of them , I have never considered “children’s books” a separate category of literature: The best children’s books are works of philosophy in disguise, shining a sidewise gleam on the fundamental questions we live with, articulating in the language of children, which is the language of great simplicity and great profundity, the most complex truths about being human. But reducing a lifetime of rea",
+   "published": "2026-10-25T15:13-05:00",
+   "tags": [
+    "art",
+    "culture",
+    "best of",
+    "books",
+    "children's books",
+    "illustration"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/thelittleprince_original.jpg?w=325&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -4283,21 +4198,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "October 2026 Night Sky: What to See",
-   "link": "https://astrobackyard.com/october-2026-astronomy/",
-   "source": "AstroBackyard",
-   "category": "Astrophotography",
-   "summary": "October gets off to a busy start, with several of the month’s best astronomy events packed into the first ten days. Saturn reaches opposition on October 4, the Moon passes Mars and Jupiter over the following two mornings, and the Draconid meteor shower arrives just before the October 10 New Moon. That New Moon also... The post October 2026 Night Sky: What to See appeared first on AstroBackyard .",
-   "published": "2026-10-01T12:35-05:00",
-   "tags": [
-    "Celestial Events"
-   ],
-   "feed": "AstroBackyard",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Philip Sidney and the Extreme (Dis)graces of the Parenthesis",
    "link": "https://publicdomainreview.org/essay/philip-sidney-and-the-extreme-disgraces-of-the-parenthesis",
    "source": "Public Domain Review",
@@ -4393,34 +4293,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://pdr-assets.b-cdn.net//collections/metamorphosis-early-modern-flap-book/PN970_A63_S36_1836_0003-thumb.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Ties that Bind: Central Asian Ikat (ca. 19th century)",
-   "link": "https://publicdomainreview.org/collection/central-asian-ikat",
-   "source": "Public Domain Review",
-   "category": "Curious Discoveries",
-   "summary": "Vibrant textiles from the dazzling Timurid metropolis of Bukhara.",
-   "published": "2026-09-08T07:57-05:00",
-   "tags": [],
-   "feed": "Public Domain Review",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://pdr-assets.b-cdn.net//collections/central-asian-ikat/multimedia-121655.original-thumb.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-   "link": "https://publicdomainreview.org/essay/ars-notoria",
-   "source": "Public Domain Review",
-   "category": "Curious Discoveries",
-   "summary": "Centuries before Neo instantly mastered Kung Fu in The Matrix , medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track advanced learning. Anne Lawrence-Mathers investigates the Ars notoria , its supposed powers, and the demonic influence it had upon some users.",
-   "published": "2026-07-29T09:08-05:00",
-   "tags": [],
-   "feed": "Public Domain Review",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://pdr-assets.b-cdn.net//essays/ars-notoria/dedupmrg1191555822_IE4927965_FL5354893-edit-thumb.jpg",
    "summary_from": "feed"
   },
   {
@@ -4611,11 +4483,37 @@
    "summary_from": "feed"
   },
   {
+   "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+   "link": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+   "source": "Google AI Developers Blog",
+   "category": "AI and Agents",
+   "summary": "A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose—alongside agent SDKs for Python, TypeScript, and Dart. The release introduces bidirectional function calls, swappable inference formats, and secure data binding to help teams seamlessly integrate generative UI into their product stacks.",
+   "published": null,
+   "tags": [],
+   "feed": "Google AI Developers Blog",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
    "link": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
    "source": "Google AI Developers Blog",
    "category": "AI and Agents",
    "summary": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT for cross-platform open-weight model integration. This local pipeline seamlessly pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4 to enable real-time streaming transcription and low-latency synthesis.",
+   "published": null,
+   "tags": [],
+   "feed": "Google AI Developers Blog",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
+   "link": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+   "source": "Google AI Developers Blog",
+   "category": "AI and Agents",
+   "summary": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage attention compute and memory bottlenecks without materializing full key-value sequences in high-bandwidth memory. Developers can adopt these capabilities in MaxText v0.2.4 to achieve high Model FLOPs Utilization (MFU) across large-scale model training workflows.",
    "published": null,
    "tags": [],
    "feed": "Google AI Developers Blog",
@@ -4642,19 +4540,6 @@
    "source": "Google AI Developers Blog",
    "category": "AI and Agents",
    "summary": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual devices, developers can efficiently scale complex training architectures and seamlessly handle dynamic workloads like reinforcement learning post-training.",
-   "published": null,
-   "tags": [],
-   "feed": "Google AI Developers Blog",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
-   "link": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
-   "source": "Google AI Developers Blog",
-   "category": "AI and Agents",
-   "summary": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage attention compute and memory bottlenecks without materializing full key-value sequences in high-bandwidth memory. Developers can adopt these capabilities in MaxText v0.2.4 to achieve high Model FLOPs Utilization (MFU) across large-scale model training workflows.",
    "published": null,
    "tags": [],
    "feed": "Google AI Developers Blog",
@@ -4850,19 +4735,6 @@
    "source": "Google AI Developers Blog",
    "category": "AI and Agents",
    "summary": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph visualization, split-pane views, and per-node trace overlays to catch export regressions and verify hardware delegation. These tools enable engineering teams to transparently debug execution graphs and pinpoint cycle-level latency bottlenecks locally.",
-   "published": null,
-   "tags": [],
-   "feed": "Google AI Developers Blog",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
-   "link": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
-   "source": "Google AI Developers Blog",
-   "category": "AI and Agents",
-   "summary": "This post announces native PyTorch backends for vLLM and SGLang powered by TorchTPU, enabling developers to run and optimize serving workloads using familiar PyTorch tools. Built in collaboration with open-source project maintainers, these engines include optimized TPU kernel implementations, production-ready features like KV cache management with TPU Sync, and disaggregated serving. Public benchmarks demonstrate state-of-the-art performance and industry-leading cost efficiency on Ironwood TPU across long-context and agentic workloads.",
    "published": null,
    "tags": [],
    "feed": "Google AI Developers Blog",
