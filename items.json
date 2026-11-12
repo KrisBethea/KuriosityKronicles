@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths",
+    "link": "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/ChiYan-Primary-Art-1-1536x864_20261111_184441.jpg",
+    "title": "The Ice Giants' Strange and Shifting Magnetic Fields",
+    "category": "Astronomy and Space",
+    "dept": "from the planetary dynamo dept.",
+    "reasoning": "Uranus and Neptune have long puzzled astronomers with magnetic fields that bear little resemblance to Earth's orderly dipole. New modeling suggests these chaotic fields may change on surprisingly short timescales compared to our last visit from Voyager 2. It is a fascinating look at the dynamic interiors of the solar system's ice giants.",
+    "summary": "New research suggests that the messy, tilted magnetic fields of Uranus and Neptune may change on very short timescales, potentially looking quite different than they did during Voyager 2's flybys in the 1980s. These findings highlight how little we still know about the unique interiors of our solar system's ice giants.",
+    "added": "2026-11-11T18:58:46-06:00"
+  },
+  {
+    "id": "https://astrobackyard.com/seestar-s30-plus-review/",
+    "link": "https://astrobackyard.com/seestar-s30-plus-review/",
+    "source": "AstroBackyard",
+    "title": "Seestar S30 Plus Review: A New Entry-Level Smart Telescope",
+    "category": "Astrophotography",
+    "dept": "from the automated aperture dept.",
+    "reasoning": "Smart telescopes are rapidly transforming how backyard astronomers capture deep-sky objects without spending a fortune. This review of the Seestar S30 Plus offers a realistic look at what an affordable, app-controlled 30mm apochromatic setup can achieve for beginners.",
+    "summary": "The Seestar S30 Plus bridges the gap between ultra-portable smart scopes and traditional astrophotography gear with a $499 price tag. Featuring a 30mm aperture and dual cameras, it gives beginners an accessible way to image deep-sky targets from the backyard.",
+    "added": "2026-11-11T18:57:46-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/",
+    "link": "https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/10/EVbatteries.jpg",
+    "title": "Data Shows Used EV Batteries Are Holding Up Better Than Expected",
+    "category": "DotNet and Development",
+    "dept": "from the state-of-charge dept.",
+    "reasoning": "Skepticism around battery longevity has been a persistent talking point for electric vehicles, but empirical data tells a much more encouraging story. Diagnostic testing from hundreds of thousands of real-world vehicles provides valuable insight into actual degradation rates over time.",
+    "summary": "Analysis of more than 500,000 battery tests across popular electric vehicle models reveals that packs are degrading far more slowly than critics anticipated. Diagnostics companies utilizing rapid OBD tests are finding that used EV batteries retain health much better than feared.",
+    "added": "2026-11-11T18:56:46-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/",
+    "link": "https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/3D-printed-whistle-modular.jpg",
+    "title": "Modular, 3D-Printed Train Whistles for Your Inner Conductor",
+    "category": "DotNet and Development",
+    "dept": "from the resonant chamber dept.",
+    "reasoning": "There is something inherently delightful about well-engineered mechanical projects that serve a purely whimsical purpose. This 3D-printable, modular train whistle lets makers swap resonant chambers on the fly to replicate historic steam whistle chimes.",
+    "summary": "A clever 3D-printing project offers a modular 3-inch train whistle with adjustable bell caps to change resonant notes on the fly. By tweaking the chamber dimensions, makers can switch between authentic historic steam whistle chimes using common FDM printers.",
+    "added": "2026-11-11T18:55:46-06:00"
+  },
+  {
+    "id": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
+    "link": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
+    "source": "Atlas Obscura",
+    "image": "https://img.atlasobscura.com/x0-cBeAaRCG8uwV62juYK_ns4yj_LdiOuNK5FrhVw9Y/rs:fill:300:200:1/g:ce/c:1597:1064:nowe:859:321/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NTY4/NzdmMy05ZGJjLTQ3/ODYtYmE2NC05OWY3/NjViZDdlMTM4OThi/OGNlNTc3OTkxOThj/NjVfUEExODMyMDAu/anBn.jpg",
+    "title": "The Invisible Lamplighter of The Hague",
+    "category": "Curious Discoveries",
+    "dept": "from the bronze age dept.",
+    "reasoning": "Hidden urban art pieces that celebrate forgotten historical professions are always worth highlighting. This charming bronze sculpture in The Hague captures a lamplighter mid-climb from an era before automated electricity took over.",
+    "summary": "Tucked away in an alleyway in The Hague, a bronze sculpture titled De Lantaarnopsteker depicts a lamplighter scrambling up a lamp post. Created by Dutch sculptor Loek Bos, the artwork immortalizes the historic trade of manually lighting city streets before automated electricity.",
+    "added": "2026-11-11T18:54:46-06:00"
+  },
+  {
+    "id": "https://kottke.org/26/11/techno-marching-band",
+    "link": "https://kottke.org/26/11/techno-marching-band",
+    "source": "Kottke",
+    "title": "MEUTE: The 11-Piece Techno Marching Band",
+    "category": "Wildcard",
+    "dept": "from the acoustic bassline dept.",
+    "reasoning": "Bridging the gap between electronic club music and traditional marching band instrumentation is a wonderfully eccentric creative pursuit. It is a refreshing antidote to algorithmic monotony.",
+    "summary": "MEUTE is an 11-piece German marching band that swaps synthesizers and laptops for tubas, trombones, and drum kits to perform electronic music acoustically. Their unique arrangements bring a surprisingly rich physical energy to modern techno tracks.",
+    "added": "2026-11-11T18:53:46-06:00"
+  },
+  {
     "id": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
     "link": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
     "source": "Universe Today",

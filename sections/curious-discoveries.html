@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Curious Discoveries | Kuriosity Kronicles</title>
+<meta name="description" content="Stories about space, code, and the wonderfully unexpected, selected with AI.">
+<link rel="alternate" type="application/rss+xml" title="Kuriosity Kronicles" href="../feed.xml">
+<link rel="icon" type="image/svg+xml" href="../favicon.svg">
+<style>
+:root{--orange:#8062c5;--orange-ink:#6843ae;--orange-bar:#6a4c9e;--orange-bar-ink:#ffffff;--orange-soft:#efeafa;--orange-rule:#aa91db;--blue:#2d638b;--blue-visited:#7d50ac;
+--bar-ink:#ffffff;--bg:#fbf9ff;--panel:#f5f0ff;--ink:#251e38;--muted:#625a78;--rule:#d9d0ec;--quote:#f1ecfb}
+@media (prefers-color-scheme:dark){:root{--orange:#b69aff;--orange-ink:#c9b2ff;--orange-bar:#44316f;--orange-bar-ink:#f6f1ff;--orange-soft:#231e3a;--orange-rule:#7260a3;
+--blue:#8fd9ec;--blue-visited:#c7a9f4;--bar-ink:#ffffff;--bg:#100f1b;--panel:#1b1930;--ink:#eeeafb;
+--muted:#aaa3c2;--rule:#3c3559;--quote:#242039}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Verdana,Geneva,"DejaVu Sans",sans-serif}
+a{color:var(--blue)}a:visited{color:var(--blue-visited)}
+header.masthead{background:var(--bg);padding:18px 16px 10px;border-bottom:5px solid var(--orange);max-width:1180px;margin:0 auto}
+.masthead .logo{font:bold 2.6rem/1 Georgia,"Times New Roman",serif;letter-spacing:-1px;color:var(--orange-ink);text-decoration:none}
+.masthead .logo:visited{color:var(--orange-ink)}
+.masthead .mark{width:46px;height:46px;vertical-align:-8px;margin-right:10px}
+.masthead .tag{display:block;font-size:.85rem;color:var(--blue);margin-top:4px;font-style:italic}
+nav.topnav{max-width:1180px;margin:0 auto;padding:6px 16px;font-size:.8rem;border-bottom:1px solid var(--rule)}
+nav.topnav a,nav.topnav a:visited{color:var(--blue);margin-right:16px;text-decoration:none;font-weight:bold}
+nav.topnav a:hover{text-decoration:underline}
+.wrap{display:grid;grid-template-columns:180px minmax(0,1fr) 220px;gap:20px;max-width:1180px;margin:0 auto;padding:16px}
+aside .box{background:var(--panel);border:1px solid var(--rule);border-top:3px solid var(--orange);margin-bottom:16px}
+aside .box h3{margin:0;color:var(--orange-ink);font-size:.78rem;padding:6px 8px 0;text-transform:uppercase;letter-spacing:.06em}
+aside .box div{padding:6px 8px 8px;font-size:.82rem}
+aside ul{list-style:none;margin:0;padding:0}aside li{padding:2px 0}
+aside li.on a{font-weight:bold}
+.day{font:bold .8rem Verdana,sans-serif;color:var(--blue);margin:24px 0 10px;text-transform:uppercase;letter-spacing:.06em}
+.day:first-child{margin-top:0}
+article{margin-bottom:28px;border:1px solid var(--rule);border-radius:0 8px 0 0}
+article h2{margin:0;background:var(--orange-bar);color:var(--orange-bar-ink);font-size:1.05rem;padding:7px 12px;line-height:1.35;border-radius:0 7px 0 0;display:flex;align-items:center;gap:10px}
+article h2 a{flex:1}
+.icon{width:24px;height:24px;flex:none;color:var(--orange-bar-ink)}
+.icon.side{width:14px;height:14px;vertical-align:-2px;margin-right:5px;color:var(--orange-ink)}
+article h2 a,article h2 a:visited{color:var(--orange-bar-ink);text-decoration:none}
+article h2 a:hover{text-decoration:underline}
+.meta{font-size:.78rem;color:var(--muted);padding:6px 12px 0}
+.meta .sec{font-weight:bold;color:var(--blue);text-decoration:none}
+.dept{font-size:.78rem;color:var(--orange-ink);padding:0 12px 6px;font-style:italic}
+.body{padding:4px 12px;overflow:hidden}
+.body img{float:right;width:240px;max-width:45%;height:auto;margin:4px 0 8px 12px;border:1px solid var(--rule);border-radius:4px}
+.note{margin:6px 0}
+.summary{margin:8px 0;padding:8px 12px;background:var(--quote);border-left:3px solid var(--orange-rule)}
+.more{font-size:.82rem;padding:4px 12px 10px;font-weight:bold}
+.more span{font-weight:normal;color:var(--muted)}
+.older{margin:8px 0 24px;font-weight:bold;font-size:.9rem}
+form.search{display:flex;gap:8px;margin:0 0 6px}
+form.search input{flex:1;min-width:0;font:inherit;padding:8px 10px;border:1px solid var(--rule);border-radius:6px;background:var(--panel);color:var(--ink)}
+form.search select{font:inherit;padding:8px;border:1px solid var(--rule);border-radius:6px;background:var(--panel);color:var(--ink);max-width:45%}
+.stat{color:var(--muted);font-size:.85rem;margin:0 0 14px}
+.older-stuff li.od{font-weight:bold;color:var(--orange-ink);text-transform:uppercase;font-size:.7rem;letter-spacing:.05em;margin-top:6px}
+.older-stuff li{line-height:1.35;padding:2px 0}
+.fortune{font-style:italic;color:var(--ink);margin:0 auto 12px;max-width:40rem;font-size:.85rem}
+.fortune span{color:var(--muted);font-style:normal}
+footer{max-width:1180px;margin:0 auto;border-top:4px solid var(--orange);color:var(--muted);font-size:.75rem;text-align:center;padding:14px 16px 28px}
+@media (max-width:900px){.wrap{grid-template-columns:minmax(0,1fr)}.left{order:2}.right{order:3}main{order:1}
+.body img{width:100%;max-width:100%;float:none;margin:4px 0 10px;max-height:240px;object-fit:cover}}
+</style></head><body>
+<header class="masthead"><a class="logo" href="../index.html"><img src="../favicon.svg" alt="" class="mark">Kuriosity Kronicles</a><span class="tag">Across Space, Time, and the Internet.</span></header>
+<nav class="topnav"><a href="../index.html">Home</a><a href="../archive/index.html">Archive</a><a href="../search.html">Search</a><a href="../feed.xml">RSS</a><a href="#about">About</a></nav>
+<div class="wrap">
+<aside class="left"><div class="box"><h3>Sections</h3><div><ul><li class=""><a href="../index.html">All stories</a> (18)</li><li class=""><svg class="icon side" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="7" width="14" height="13" rx="3"/><circle cx="9" cy="13" r="1"/><circle cx="15" cy="13" r="1"/><path d="M12 3v4m-3 10h6"/></svg><a href="../sections/ai-and-agents.html">AI and Agents</a> (1)</li><li class=""><svg class="icon side" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><path d="M4 12h16M12 4a12 12 0 0 0 0 16M12 4a12 12 0 0 1 0 16"/></svg><a href="../sections/astronomy-and-space.html">Astronomy and Space</a> (6)</li><li class=""><svg class="icon side" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><circle cx="12" cy="13" r="4"/><path d="M7 7l2-3h6l2 3"/></svg><a href="../sections/astrophotography.html">Astrophotography</a> (2)</li><li class="on"><svg class="icon side" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6m-6 3h6m-7-6a7 7 0 1 1 8 0l-1 3H9l-1-3z"/></svg><a href="../sections/curious-discoveries.html">Curious Discoveries</a> (1)</li><li class=""><svg class="icon side" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M8 5 3 12l5 7m8-14 5 7-5 7m-3-16-3 18"/></svg><a href="../sections/dotnet-and-development.html">DotNet and Development</a> (6)</li><li class=""><svg class="icon side" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 4 9v11h16V9L12 3zm0 5v7M9 13h6"/></svg><a href="../sections/science-fiction.html">Science Fiction</a> (1)</li><li class=""><svg class="icon side" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="currentColor"><path d="M16 3l3.5 8 8.5.8-6.5 5.7 2 8.5L16 21.5 8.5 26l2-8.5L4 11.8l8.5-.8z"/></svg><a href="../sections/wildcard.html">Wildcard</a> (1)</li></ul></div></div><div class="box"><h3>Archive</h3><div><ul><li class=""><a href="../archive/2026-11.html">November 2026</a> (18)</li></ul><p style="margin:6px 0 0"><a href="../archive/index.html">Every story ever</a></p></div></div></aside>
+<main><div class="day">Section: Curious Discoveries</div>
+<div class="day">Wednesday, November 11, 2026</div>
+<article id="https-www-atlasobscura-com-places-the-invisible-lamplighter-of-the-hague">
+<h2><a href="https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague" target="_blank" rel="noopener">The Invisible Lamplighter of The Hague</a><svg class="icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6m-6 3h6m-7-6a7 7 0 1 1 8 0l-1 3H9l-1-3z"/></svg></h2>
+<div class="meta">Posted by the Editor on Wednesday November 11, 2026 @6:54PM in <a class="sec" href="../sections/curious-discoveries.html">Curious Discoveries</a></div>
+<div class="dept">from the bronze age dept.</div>
+<div class="body">
+<img src="https://img.atlasobscura.com/x0-cBeAaRCG8uwV62juYK_ns4yj_LdiOuNK5FrhVw9Y/rs:fill:300:200:1/g:ce/c:1597:1064:nowe:859:321/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NTY4/NzdmMy05ZGJjLTQ3/ODYtYmE2NC05OWY3/NjViZDdlMTM4OThi/OGNlNTc3OTkxOThj/NjVfUEExODMyMDAu/anBn.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">
+<p class="note">Hidden urban art pieces that celebrate forgotten historical professions are always worth highlighting. This charming bronze sculpture in The Hague captures a lamplighter mid-climb from an era before automated electricity took over.</p>
+<div class="summary">Tucked away in an alleyway in The Hague, a bronze sculpture titled De Lantaarnopsteker depicts a lamplighter scrambling up a lamp post. Created by Dutch sculptor Loek Bos, the artwork immortalizes the historic trade of manually lighting city streets before automated electricity.</div>
+</div>
+<div class="more"><a href="https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague" target="_blank" rel="noopener">Read the rest of this story</a> <span>(Atlas Obscura)</span></div>
+</article></main>
+<aside class="right">
+<div class="box" id="about"><h3>About</h3><div>A personalized collection of astronomy, space weather, astrophotography, C# development,
+AI agents, science fiction, Minnesota nature and surprising discoveries.
+Picked automatically from public source feeds, with a note on why.</div></div>
+<div class="box"><h3>From Nur’s Neat</h3><div><ul><li style="margin-bottom:7px"><a href="https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough" target="_blank" rel="noopener noreferrer">A hot Jupiter stops transiting, and a hidden neighbour takes the blame</a></li><li style="margin-bottom:7px"><a href="https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor" target="_blank" rel="noopener noreferrer">Chandra catches a supernova impostor feeding off a hidden companion</a></li><li style="margin-bottom:7px"><a href="https://kottke.org/26/11/0049955-scientists-have-identifie" target="_blank" rel="noopener noreferrer">The gentoo penguin turns out to be four species, the first new penguin in a century</a></li><li style="margin-bottom:7px"><a href="https://www.10000birds.com/rough-legged-hawk.htm?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rough-legged-hawk" target="_blank" rel="noopener noreferrer">The Rough-legged Hawk, the late-season prize at the hawk watch</a></li><li style="margin-bottom:7px"><a href="https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague" target="_blank" rel="noopener noreferrer">A bronze lamplighter, forever mid-climb, in a hidden courtyard in The Hague</a></li></ul><p style="margin:9px 0 0"><a href="https://neat.stoat.fans/" target="_blank" rel="noopener noreferrer">Visit Neat</a></p></div></div>
+<div class="box"><h3>Subscribe</h3><div>Point any feed reader at <a href="../feed.xml">feed.xml</a>.</div></div>
+
+<div class="box"><h3>Last updated</h3><div>Wednesday November 11, 2026 @6:54PM</div></div>
+</aside></div>
+<footer><div class="fortune" id="fortune">The interesting question is rarely the one on the exam.</div><script>fetch("../fortunes.json").then(function(r){return r.json()}).then(function(f){var p=f[Math.floor(Math.random()*f.length)],e=document.getElementById("fortune");e.textContent=p[0];if(p[1]){var s=document.createElement("span");s.textContent=" — "+p[1];e.appendChild(s)}}).catch(function(){})</script>Kuriosity Kronicles. All stories link to their original sources; notes and summaries are written fresh.
+No ads, no comments, no outrage.</footer>
+</body></html>
