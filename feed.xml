@@ -2,11 +2,87 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Kuriosity Kronicles</title>
-<link>https://KrisBethea.github.io/kuriosity-kronicles/</link>
+<link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
-<atom:link href="https://KrisBethea.github.io/kuriosity-kronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 11 Nov 2026 17:33:25 +0000</lastBuildDate>
-<image><url>https://KrisBethea.github.io/kuriosity-kronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/kuriosity-kronicles/</link></image>
+<atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Thu, 12 Nov 2026 00:58:47 +0000</lastBuildDate>
+<image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>The Ice Giants' Strange and Shifting Magnetic Fields</title>
+<link>https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths</guid>
+<pubDate>Wed, 11 Nov 2026 18:58:46 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Uranus and Neptune have long puzzled astronomers with magnetic fields that bear little resemblance to Earth's orderly dipole. New modeling suggests these chaotic fields may change on surprisingly short timescales compared to our last visit from Voyager 2. It is a fascinating look at the dynamic interiors of the solar system's ice giants.</description>
+<content:encoded><![CDATA[<p><small>from the planetary dynamo dept.</small></p>
+<p><em>Uranus and Neptune have long puzzled astronomers with magnetic fields that bear little resemblance to Earth&#x27;s orderly dipole. New modeling suggests these chaotic fields may change on surprisingly short timescales compared to our last visit from Voyager 2. It is a fascinating look at the dynamic interiors of the solar system&#x27;s ice giants.</em></p>
+<p><img src="https://www.universetoday.com/article_images/ChiYan-Primary-Art-1-1536x864_20261111_184441.jpg" alt=""></p>
+<p>New research suggests that the messy, tilted magnetic fields of Uranus and Neptune may change on very short timescales, potentially looking quite different than they did during Voyager 2&#x27;s flybys in the 1980s. These findings highlight how little we still know about the unique interiors of our solar system&#x27;s ice giants.</p>
+<p><a href="https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Seestar S30 Plus Review: A New Entry-Level Smart Telescope</title>
+<link>https://astrobackyard.com/seestar-s30-plus-review/</link>
+<guid isPermaLink="false">https://astrobackyard.com/seestar-s30-plus-review/</guid>
+<pubDate>Wed, 11 Nov 2026 18:57:46 -0600</pubDate>
+<category>Astrophotography</category>
+<description>Smart telescopes are rapidly transforming how backyard astronomers capture deep-sky objects without spending a fortune. This review of the Seestar S30 Plus offers a realistic look at what an affordable, app-controlled 30mm apochromatic setup can achieve for beginners.</description>
+<content:encoded><![CDATA[<p><small>from the automated aperture dept.</small></p>
+<p><em>Smart telescopes are rapidly transforming how backyard astronomers capture deep-sky objects without spending a fortune. This review of the Seestar S30 Plus offers a realistic look at what an affordable, app-controlled 30mm apochromatic setup can achieve for beginners.</em></p>
+<p>The Seestar S30 Plus bridges the gap between ultra-portable smart scopes and traditional astrophotography gear with a $499 price tag. Featuring a 30mm aperture and dual cameras, it gives beginners an accessible way to image deep-sky targets from the backyard.</p>
+<p><a href="https://astrobackyard.com/seestar-s30-plus-review/">Read it</a> · Astrophotography · AstroBackyard</p>]]></content:encoded>
+</item>
+<item>
+<title>Data Shows Used EV Batteries Are Holding Up Better Than Expected</title>
+<link>https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/</guid>
+<pubDate>Wed, 11 Nov 2026 18:56:46 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Skepticism around battery longevity has been a persistent talking point for electric vehicles, but empirical data tells a much more encouraging story. Diagnostic testing from hundreds of thousands of real-world vehicles provides valuable insight into actual degradation rates over time.</description>
+<content:encoded><![CDATA[<p><small>from the state-of-charge dept.</small></p>
+<p><em>Skepticism around battery longevity has been a persistent talking point for electric vehicles, but empirical data tells a much more encouraging story. Diagnostic testing from hundreds of thousands of real-world vehicles provides valuable insight into actual degradation rates over time.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/10/EVbatteries.jpg" alt=""></p>
+<p>Analysis of more than 500,000 battery tests across popular electric vehicle models reveals that packs are degrading far more slowly than critics anticipated. Diagnostics companies utilizing rapid OBD tests are finding that used EV batteries retain health much better than feared.</p>
+<p><a href="https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Modular, 3D-Printed Train Whistles for Your Inner Conductor</title>
+<link>https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/</guid>
+<pubDate>Wed, 11 Nov 2026 18:55:46 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>There is something inherently delightful about well-engineered mechanical projects that serve a purely whimsical purpose. This 3D-printable, modular train whistle lets makers swap resonant chambers on the fly to replicate historic steam whistle chimes.</description>
+<content:encoded><![CDATA[<p><small>from the resonant chamber dept.</small></p>
+<p><em>There is something inherently delightful about well-engineered mechanical projects that serve a purely whimsical purpose. This 3D-printable, modular train whistle lets makers swap resonant chambers on the fly to replicate historic steam whistle chimes.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/3D-printed-whistle-modular.jpg" alt=""></p>
+<p>A clever 3D-printing project offers a modular 3-inch train whistle with adjustable bell caps to change resonant notes on the fly. By tweaking the chamber dimensions, makers can switch between authentic historic steam whistle chimes using common FDM printers.</p>
+<p><a href="https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>The Invisible Lamplighter of The Hague</title>
+<link>https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague</link>
+<guid isPermaLink="false">https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague</guid>
+<pubDate>Wed, 11 Nov 2026 18:54:46 -0600</pubDate>
+<category>Curious Discoveries</category>
+<description>Hidden urban art pieces that celebrate forgotten historical professions are always worth highlighting. This charming bronze sculpture in The Hague captures a lamplighter mid-climb from an era before automated electricity took over.</description>
+<content:encoded><![CDATA[<p><small>from the bronze age dept.</small></p>
+<p><em>Hidden urban art pieces that celebrate forgotten historical professions are always worth highlighting. This charming bronze sculpture in The Hague captures a lamplighter mid-climb from an era before automated electricity took over.</em></p>
+<p><img src="https://img.atlasobscura.com/x0-cBeAaRCG8uwV62juYK_ns4yj_LdiOuNK5FrhVw9Y/rs:fill:300:200:1/g:ce/c:1597:1064:nowe:859:321/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NTY4/NzdmMy05ZGJjLTQ3/ODYtYmE2NC05OWY3/NjViZDdlMTM4OThi/OGNlNTc3OTkxOThj/NjVfUEExODMyMDAu/anBn.jpg" alt=""></p>
+<p>Tucked away in an alleyway in The Hague, a bronze sculpture titled De Lantaarnopsteker depicts a lamplighter scrambling up a lamp post. Created by Dutch sculptor Loek Bos, the artwork immortalizes the historic trade of manually lighting city streets before automated electricity.</p>
+<p><a href="https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague">Read it</a> · Curious Discoveries · Atlas Obscura</p>]]></content:encoded>
+</item>
+<item>
+<title>MEUTE: The 11-Piece Techno Marching Band</title>
+<link>https://kottke.org/26/11/techno-marching-band</link>
+<guid isPermaLink="false">https://kottke.org/26/11/techno-marching-band</guid>
+<pubDate>Wed, 11 Nov 2026 18:53:46 -0600</pubDate>
+<category>Wildcard</category>
+<description>Bridging the gap between electronic club music and traditional marching band instrumentation is a wonderfully eccentric creative pursuit. It is a refreshing antidote to algorithmic monotony.</description>
+<content:encoded><![CDATA[<p><small>from the acoustic bassline dept.</small></p>
+<p><em>Bridging the gap between electronic club music and traditional marching band instrumentation is a wonderfully eccentric creative pursuit. It is a refreshing antidote to algorithmic monotony.</em></p>
+<p>MEUTE is an 11-piece German marching band that swaps synthesizers and laptops for tubas, trombones, and drum kits to perform electronic music acoustically. Their unique arrangements bring a surprisingly rich physical energy to modern techno tracks.</p>
+<p><a href="https://kottke.org/26/11/techno-marching-band">Read it</a> · Wildcard · Kottke</p>]]></content:encoded>
+</item>
 <item>
 <title>Hot Jupiter Vanishes from Sight After Gravitational Tug from Unseen Neighbor</title>
 <link>https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough</link>
