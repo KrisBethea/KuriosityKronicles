@@ -2,58 +2,105 @@ name: Curate news with Gemini (free tier)
 
 on:
   schedule:
-    # Three editions daily in Chicago local time, including DST.
+    # Primary editions, Chicago time (automatic DST handling).
     - cron: "43 6,12,17 * * *"
       timezone: "America/Chicago"
+    # Staggered backups. Most exit before Gemini is called.
+    - cron: "13 7,8,13,14,18,19 * * *"
+      timezone: "America/Chicago"
+    - cron: "47 7,13,18 * * *"
+      timezone: "America/Chicago"
+  # Independently scheduled collector runs provide another recovery trigger.
+  workflow_run:
+    workflows: ["Collect feeds"]
+    types: [completed]
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Force another Gemini edition in the current slot (normally leave unchecked)"
+        type: boolean
+        default: false
+        required: false
 
 permissions:
   contents: write
   pages: write
   id-token: write
 
+# Shares a group with collect.yml, avoiding overlapping edits to items/seen/state.
 concurrency:
   group: news-main
   cancel-in-progress: false
 
 jobs:
   curate:
-    permissions:
-      contents: write
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 15
+    outputs:
+      publish_due: ${{ steps.commit.outputs.site_changed }}
     steps:
-      - name: Checkout
+      - name: Checkout latest main
         uses: actions/checkout@v4
         with:
+          ref: main
           persist-credentials: true
 
+      - name: Test edition guard
+        run: python3 -I curator/test_slot_guard.py
+
+      - name: Check whether an edition is due
+        id: guard
+        env:
+          IS_MANUAL: ${{ github.event_name == 'workflow_dispatch' }}
+          FORCE_RUN: ${{ inputs.force || false }}
+        run: |
+          args=()
+          if [[ "$IS_MANUAL" == "true" ]]; then args+=(--manual); fi
+          if [[ "$FORCE_RUN" == "true" ]]; then args+=(--force); fi
+          python3 -I curator/slot_guard.py check "${args[@]}"
+
       - name: Curate from sanitized pool
+        if: steps.guard.outputs.should_run == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python3 -I curator/curate.py
 
       - name: Validate and build
+        if: steps.guard.outputs.should_run == 'true'
         env:
           SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
         run: |
           python3 -I check_picks.py
           python3 -I build_feed.py
 
-      - name: Commit selected stories
+      - name: Record completed edition
+        if: steps.guard.outputs.should_run == 'true'
+        env:
+          SLOT: ${{ steps.guard.outputs.slot }}
+        run: python3 -I curator/slot_guard.py mark --slot "$SLOT"
+
+      - name: Commit edition and completion marker
+        id: commit
+        if: steps.guard.outputs.should_run == 'true'
         run: |
           git config user.name "curiosity-editor"
           git config user.email "curiosity-editor@users.noreply.github.com"
           git add -A
+          if git diff --cached --quiet -- items.json; then
+            echo "site_changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "site_changed=true" >> "$GITHUB_OUTPUT"
+          fi
           if git diff --cached --quiet; then
-            echo "No new stories to commit."
+            echo "Nothing to commit."
             exit 0
           fi
-          git commit -m "Curate stories $(TZ=America/Chicago date +'%Y-%m-%d %H:%M %Z')"
+          git commit -m "Curate edition $(TZ=America/Chicago date +'%Y-%m-%d %H:%M %Z')"
           git pull --rebase origin main
           git push origin main
 
   publish:
     needs: curate
-    if: success()
+    if: ${{ needs.curate.result == 'success' && needs.curate.outputs.publish_due == 'true' }}
     uses: ./.github/workflows/publish.yml
