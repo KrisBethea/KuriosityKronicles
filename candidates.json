@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T16:41-06:00",
+ "generated": "2026-11-12T01:10-06:00",
  "count": 275,
  "sources": {
   "Astronomy and Space | NASA Science": {
@@ -24,14 +24,14 @@
   "Astronomy and Space | Universe Today": {
    "url": "https://www.universetoday.com/feed",
    "ok": true,
-   "kept": 17,
+   "kept": 16,
    "entries": 20,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 3,
+   "seen_or_dup": 4,
    "no_title_or_link": 0
   },
   "Astronomy and Space | ESA Space Science": {
@@ -69,13 +69,13 @@
   "Space Weather and Aurora | Google News space weather": {
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 12,
-   "entries": 72,
+   "kept": 14,
+   "entries": 75,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 60,
+   "old": 61,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -83,12 +83,12 @@
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 4,
-   "entries": 44,
+   "entries": 45,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 40,
+   "old": 41,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -101,27 +101,27 @@
   "Astrophotography | AstroBackyard": {
    "url": "https://astrobackyard.com/feed/",
    "ok": true,
-   "kept": 3,
+   "kept": 2,
    "entries": 3,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Astrophotography | NASA Astronomy Picture of the Day": {
    "url": "https://science.nasa.gov/feed/apod-basic/",
    "ok": true,
-   "kept": 7,
+   "kept": 6,
    "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 20,
-   "seen_or_dup": 3,
+   "seen_or_dup": 4,
    "no_title_or_link": 0
   },
   "Astrophotography | Sky and Telescope Observing": {
@@ -172,14 +172,14 @@
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 6,
+   "kept": 5,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
@@ -224,8 +224,8 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 6,
-   "entries": 58,
+   "kept": 7,
+   "entries": 59,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -289,13 +289,13 @@
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 9,
-   "entries": 27,
+   "kept": 10,
+   "entries": 29,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 18,
+   "old": 19,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -322,7 +322,7 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Curious Discoveries | Damn Interesting": {
@@ -361,11 +361,169 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   }
  },
  "items": [
+  {
+   "title": "A LEGO 3D Printer",
+   "link": "https://hackaday.com/2026/11/11/a-lego-3d-printer/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "LEGO building blocks are a great toy, but every so often a hacker decides to take the little bricks outside of the toy room and make them an integral part of a build. [Adam Turaj] took that idea further than most with his Studprint, a 3D printer that’s 92% LEGO . We aren’t just talking LEGO bricks making up part of the frame here, or even the bed — though that’s obviously the case — but [Adam] goes so far that even the motion system is using LEGO leadscrews to drive the axes of this printer. Is it particularly capable? Well, no. He’s not boasting of a remarkable bed size or high speeds here because that’s really not the point. The point is that he made a printer in LEGO and if you don’t see the fun in that, we don’t know what to tell you. The whole project is open source, and includes the CAD files for the handful of non-LEGO bits you’ll need to mount the electronics, steppers and such. With an unheated bed of ABS bricks, you’re going to be limited in filament choices, but [Adam] has at least made a Benchy, which is all anyone really needs, right? In light of recent work, we can might suggest that the printer is also a pick-and-place machine . If you want to turn the phrase “LEGO 3D Printer” around, we have seen 3D Printed LEGO before as well . We’d be remiss not to note that this isn’t the first printer to use the ubiquitous building blocks we’ve seen, though this one keeps with the regular filament and extruder rather than hot glue like the 2013 version. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-12T00:00-06:00",
+   "tags": [
+    "3d Printer hacks",
+    "3d printer",
+    "lego",
+    "LEGO 3d printer"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/Studprint-lego-3dprinter-feat.jpeg",
+   "summary_from": "page"
+  },
+  {
+   "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and Spica Meet Explanation: Not all those who wander are lost. A night sky example is that planets wander, and in fact the very word “planet” comes from “wandering star” in Greek. As planets shift relative to fixed stars , they may appear from our perspective to get closer to other astronomical objects. Such meetings are called conjunctions . They don’t",
+   "published": "2026-11-11T23:05-06:00",
+   "tags": [
+    "APOD"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg?w=1638&h=2048&fit=clip&crop=faces%2Cfocalpoint",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Scotland’s Flow Country",
+   "link": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "Earth Observatory Science Earth Observatory Scotland’s Flow Country Earth Earth Observatory Image of the Day EO Explorer Topics More Content About Search March 4, 2024 Compared to ecosystems in many other parts of the world, the blanket bogs of the Flow Country in northern Scotland are unassuming—soggy, treeless landscapes dominated by hummocky mosses, grasses, and heathers. Yet, to ecologists, the seemingly desolate areas are nothing short of extraordinary. The bogs store tremendous quantities of carbon . That’s because their soils are so waterlogged that microbes cannot fully break down dead plant material, a process that would otherwise release carbon dioxide. Instead, partially decayed p",
+   "published": "2026-11-11T23:01-06:00",
+   "tags": [
+    "Earth Observatory",
+    "Land Cover",
+    "Landsat 8 / LDCM (Landsat Data Continuity Mission)",
+    "Surface Water",
+    "Vegetation"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304.jpg?w=720&h=600&fit=clip&crop=faces%2Cfocalpoint",
+   "summary_from": "feed"
+  },
+  {
+   "title": "A recent documentary called Capturing Bigfoot offers...",
+   "link": "https://kottke.org/26/11/0049976-capturing-bigfoot",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "A recent documentary called Capturing Bigfoot offers proof that the famous clip of Bigfoot was a hoax in the form of “a lost 16mm film shot in 1966, the year before the famous Bigfoot footage, and what it shows is a kind of rehearsal for it.”",
+   "published": "2026-11-11T21:56-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "It’s Elite, For The Commodore Pet",
+   "link": "https://hackaday.com/2026/11/11/its-elite-for-the-commodore-pet/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "A few times in the life of someone interested in technology, there comes along something which after seeing it, you know the field is never going to be the same again. For a teenage future Hackaday writer this came in seeing Elite , on a BBC Micro. Nowadays an open world game is normal, but in the mid-1980s it was mind-blowing. Of course, such a powerful piece of software couldn’t be ported to any old computer, so owners of less capable machines were left envious of their more well-heeled friends. It will be a surprise to Commodore Pet owners then, that over four decades later, [David Given] has ported the game to their platform . It’s not such a leap, as the Pet has the same (albeit slower) 6502 as the BBC Micro, and the game requires the Commodore machine to have 32k of memory. So what you get is Elite , but with the Pet’s block graphics rather than the higher-resolution you’d have seen on the newer machines. He admits it doesn’t play well and that the code is something of a mess, but we suspect 32k Pet owners in 2026 won’t be too bothered by this. All the code and disk images are there in the repository, and you can see it at work in the video below the break. Meanwhile if you’re curious about the Elite codebase, you can take a look at it yourself . Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-11T21:00-06:00",
+   "tags": [
+    "Games",
+    "Retrocomputing",
+    "Commodore PET",
+    "Elite",
+    "pet"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/pet-elite-featured.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Pixel Scroll 11/11/26 Pitch Pixel With His Pals Scroller And Paddlefile In Another Exciting Adventure, The Case Of The Appertaining Explorer!",
+   "link": "https://file770.com/pixel-scroll-11-11-26-pitch-pixel/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "(1) OTHER AUTHORS INTERPRET HARRISON’S BOOKER PRIZE. [Item by Steven French.] Ishiguro, Miéville and VanderMeer weigh in on the whole “is it SF, is it literary, who cares?” debate: “Does M John Harrison’s Booker win mean science fiction is finally accepted … Continue reading →",
+   "published": "2026-11-11T20:24-06:00",
+   "tags": [
+    "Pixel Scroll",
+    "Artemis",
+    "Booker Prize",
+    "China Miéville",
+    "Edie Stern",
+    "Fanac.org",
+    "Iain M. Banks",
+    "Jean-Luc Picard"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Udaipur scientists unravel solar mystery: Three solar observatory scientists analyse data from Aditya-L1 an... - Bhaskar English",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmRXYThFcnQtSVZ4Y0U2dHpwLVdHTGtWTl9MaG5ienZad1dTN2gtdFdDekZuN284MlNmd0s1NXVqWE5WSjdtWnFHMVd2UEZRb00wemFLQ1FlNk9yU2NLcjZIdXA4RE9JMHlsUFlCcUJfVDExSi1ObGx0eXo4ZEhNWUd5Xy11bG5jRFcwdGZCUS0telAybVJoZUc0aDVYbGQ0elNHV056WGYxYWEwLUswZkNFdFl1VkQyc3d1bXRTRXBia1JRQ0lpVUlIZ2LSAdIBQVVfeXFMTzN5cmRsMWZHTFA1WGkwNWk5VjhTc1hTQlJRYUZzemN3WGY1bVVpRXVPN25IU1lTaG5DX3k5WWdMWk5RWXQtYWhiY1o5dVN6bFM2QnRIakY1VGFaLVZrVkdFY1RUbXFOeTljZjU5M1QxOHpwMnhuNEZpLW5LbmozUFY0cWliYXBPOVJlZUw2d3NIejZQVHp4bXFEc0UwWWtZcWJZYkFHM3cyRU9ndHB3NWJzc0Y0cktqRGZxaDZMcTZkcWo4Y2dOeVBvcVd5RzlCejVn?oc=5",
+   "source": "Bhaskar English",
+   "category": "Space Weather and Aurora",
+   "summary": "Udaipur scientists unravel solar mystery: Three solar observatory scientists analyse data from Aditya-L1 an... Bhaskar English",
+   "published": "2026-11-11T20:19-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+   "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "Curiosity Navigation Curiosity Home Science News and Features Multimedia Mars Missions Mars Home 2 min read Curiosity Blog, Sols 5063-5069 Rocks and Chips NASA’s Mars rover Curiosity acquired this image of chip-shaped crystal forms using its Mars Hand Lens Imager (MAHLI), located on the turret at the end of the rover’s robotic arm, on November 7, 2026, Sol 5067 of the Mars Science Laboratory Mission, at 14:07:35 UTC. NASA/JPL-Caltech/MSSS Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containin",
+   "published": "2026-11-11T18:41-06:00",
+   "tags": [
+    "Blogs"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg?w=480&h=480&fit=clip&crop=faces%2Cfocalpoint",
+   "summary_from": "feed"
+  },
+  {
+   "title": "FLOSS Weekly Episode 883: Telnet Broke Us",
+   "link": "https://hackaday.com/2026/11/11/floss-weekly-episode-883-telnet-broke-us/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "This week Jonathan chats with Sattyam Jain about Agent Audit Kit and Agent Airlock. We’re in a brave new world, where anyone can use AI to generate an AI agent. But what keeps those builds secure? And what can we do to prevent AI jailbreaking where it matters? Listen to find out! Did you know you can watch the live recording of the show right on our YouTube Channel ? Have someone you’d like us to interview? Let us know, or have the guest contact us! Take a look at the schedule here . If you’d rather read along, here’s the transcript for this week’s episode . Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-11T18:00-06:00",
+   "tags": [
+    "Hackaday Columns",
+    "Podcasts",
+    "Agentic AI",
+    "FLOSS Weekly"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg",
+   "summary_from": "page"
+  },
   {
    "title": "Gilbert + Tobin rethinks the business of law with AI",
    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -398,71 +556,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/10/visionquest-101-02-740x423.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Ice Giants' Magnetic Fields are Very Strange Compared to Earth's",
-   "link": "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Uranus and Neptune, the Solar System's ice giants, have interiors unlike the other planets. As a result, they also have magnetic fields unlike the others. They're messy and tilted, and Voyager 2, the only spacecraft to even flyby them, showed us how messy they are. New research uses models to try to understand what's going on with the pair of planets and their weird fields, and found that it's likely they change on very short timescales. They could already be much different than when Voyager 2 visited in the late 1980s.",
-   "published": "2026-11-11T16:09-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/ChiYan-Primary-Art-1-1536x864_20261111_184441.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Techno Marching Band!",
-   "link": "https://kottke.org/26/11/techno-marching-band",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "When someone says “German techno group”, you probably have a pretty good picture in your mind. MEUTE , on the other hand, is an 11-piece techno marching band that plays electronic music with acoustic instruments: tubas, trombones, drums kits, etc. Reset (above) is a single from their new album, KOSMOS. I love this. Tags: Meute · music · remix · video",
-   "published": "2026-11-11T16:08-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Modular, 3D Printed Train Whistles For Everyone",
-   "link": "https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "If the word “train” didn’t grab your attention, you’re probably not the target audience for this project. If it did, then there is no need to explain why [AeroKoi] has come up with a modular 3″ train whistle, available on Thingiverse and well explained in the video embedded below. It’s a train whistle. Who doesn’t want their own train whistle? The great part of this design– aside from requiring less air than his earlier, larger-diameter iterations –is the modularity. With adjustable bell caps, you can alter the size of the resonant chamber and thus the notes the whistle plays on the fly. That’s the key difference between a train whistle, as used in the steam era, and a train horn as you find on a modern diesel or electric– whistles use a resonant chamber, while a horn uses a diaphragm to create the vibrations we call sound. By using the movable chamber caps to change the resonance, you can go from a Santa Fe 5 chime to a B&O 3 chime whistle by matching the measurements in the handy-dandy spreadsheet [TrainArtisan] provided– and doubling up on a couple of chimes. One excellent tip he gives in the video is to grease all the mating surfaces of the whistles with petroleum jelly, but it’s worth watching the whole thing on YouTube for both full build and tuning instructions, and to learn more than you ever thought you needed to know about whistles– he gets right into the physics of sound waves to explain exactly the limitations of trying to replicate the sound of brass steam whistles with plastic and compressed air. If you just want to hear a bunch of train whistles to see how well it works, jump to the ten minute mark. The disappointing part comes later, where he explains the airflow requirements: if you don’t have a compressor with a big tank, you can’t expect more than one",
-   "published": "2026-11-11T15:00-06:00",
-   "tags": [
-    "3d Printer hacks",
-    "Musical Hacks",
-    "3d printed",
-    "3d printed musical instruments",
-    "steam trains",
-    "whistle"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/3D-printed-whistle-modular.jpg",
-   "summary_from": "page"
-  },
-  {
-   "title": "The Invisible Lamplighter in The Hague, Netherlands",
-   "link": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "If you ever find yourself wandering the quiet, postcard-perfect alleyways of The Hague, keep your eyes peeled around streetlamp height. Tucked into the charming cobbled sanctuary of Mallemolen , you’ll spot a gentleman mid-climb on a lamp post, his coat tails flying out behind him as if caught in a sudden gust of wind. This isn't a modern street performer or an overly ambitious late-night reveler—it’s De Lantaarnopsteker ( The Lamplighter ), a delightful bronze creation brought to life by Dutch sculptor Loek Bos in 2008. Before automated electricity ruined all the fun, keeping a city lit required a dedicated fleet of lamplighters who spent their evenings dashing through the chill with long t",
-   "published": "2026-11-11T15:00-06:00",
-   "tags": [
-    "lamppost",
-    "sculptures"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/x0-cBeAaRCG8uwV62juYK_ns4yj_LdiOuNK5FrhVw9Y/rs:fill:300:200:1/g:ce/c:1597:1064:nowe:859:321/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NTY4/NzdmMy05ZGJjLTQ3/ODYtYmE2NC05OWY3/NjViZDdlMTM4OThi/OGNlNTc3OTkxOThj/NjVfUEExODMyMDAu/anBn.jpg",
    "summary_from": "feed"
   },
   {
@@ -530,6 +623,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/The-Devils-movie-740x451.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Bodies Of Water Defend Golden Skate As MNRD Season 23 Opens Saturday - KDHL Radio",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83Y19zNUd0emJ2WDlHajFabUtxa2NEcXJPYUpUQWdFM3lYbGp0WXBEZF8zeXdMZUMxb05hcndORndsem13RnRPbVZMYnkyT1lSQ0NJNXMyWl9udzZJNlJraThWWTZpZE9TaTNoVWRMNTBnRG9U?oc=5",
+   "source": "KDHL Radio",
+   "category": "Minnesota and Nature",
+   "summary": "Bodies Of Water Defend Golden Skate As MNRD Season 23 Opens Saturday KDHL Radio",
+   "published": "2026-11-11T13:18-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -770,22 +876,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Seestar S30 Plus Review: The Entry-Level Smart Telescope",
-   "link": "https://astrobackyard.com/seestar-s30-plus-review/",
-   "source": "AstroBackyard",
-   "category": "Astrophotography",
-   "summary": "The Seestar S30 Plus is a compact, app-controlled smart telescope with a 30mm aperture, four-element apochromatic optics, and 2K imaging through both its deep-sky and wide-angle cameras. At $499 USD, it sits between the original Seestar S30 and S30 Pro, offering beginners another affordable way to start photographing space. My imaging sessions with the S30... The post Seestar S30 Plus Review: The Entry-Level Smart Telescope appeared first on AstroBackyard .",
-   "published": "2026-11-11T10:50-06:00",
-   "tags": [
-    "Reviews",
-    "Smart Telescopes"
-   ],
-   "feed": "AstroBackyard",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Chandra X-Ray Observatory Unmasks a Supernova Impostor",
    "link": "https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor",
    "source": "Universe Today",
@@ -895,28 +985,6 @@
    "tier": "main",
    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Default.webp",
    "summary_from": "feed"
-  },
-  {
-   "title": "EV Batteries Are Proving Hardier Than Expected",
-   "link": "https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Batteries have a habit of quietly getting worse. Anyone who has nursed an old smartphone through its final years knows the routine—it leaves the house at 100% and is begging for a charger by lunchtime. It’s no surprise, then, that one of the most common worries about electric cars is what happens to the pack after a few years and a lot of kilometres. Nobody wants to buy a used EV only to discover it can barely make it across town. Fears around battery degradation and high replacement costs were the catch cry of many EV doomers over the years. The good news is that we now have a pretty big pile of data on the question. Austrian battery diagnostics company Aviloo has crunched the results of more than 500,000 tests on used EVs covering 20 popular models from the likes of Tesla, Volkswagen, Hyundai and Nissan. The data thus far tells us that EV batteries are holding up far better than the naysayers would have you believe. As a company specializing in battery diagnostics, Aviloo has developed what it calls the “FLASH” test, which is a 3-minute test performed on the battery via an EV’s OBD port. Rather than relying on a vehicle’s dashboard to report battery state of health, which would vary between manufacturers depending on methodology, the FLASH test is an independent test that is run the same way across different makes and models. Running over 3 minutes, it captures data available over the OBD port, such as pack voltage, individual cell voltages, and temperature deviations. It collates these figures, and runs them through a model that compares with with Aviloo’s back end database of data from tests on other similar vehicles, and comes up with a State of Health (SoH) percentage indicative of the battery’s expected capacity compared to when it was new. Aviloo’s study took in",
-   "published": "2026-11-11T09:00-06:00",
-   "tags": [
-    "Current Events",
-    "Featured",
-    "Original Art",
-    "battery",
-    "electric vehicle",
-    "ev",
-    "EV battery"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/10/EVbatteries.jpg",
-   "summary_from": "page"
   },
   {
    "title": "Seven Shady and Shadowy Fantasy Noirs",
@@ -1037,27 +1105,6 @@
    "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "Why Engineers are Forced to Create Junk Designs",
-   "link": "https://hackaday.com/2026/11/11/why-engineers-are-forced-to-create-junk-designs/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "It’s become a bit of a platitude to state that products were manufactured better in ‘the olden days’, but as [The Meandrous Engineer] covers in a recent video essay , the truth is a lot more greyscale and nuanced than something so trite. The very short version is that it is the dominant culture of a nation in which products are manufactured that determines how many shortcuts and potential product life-shortening decisions are made. This same culture works its way down into company culture, including the engagement of the so-called C-suite with the engineers and folk who keep the now mostly automated manufacturing lines running, as well as vice-versa. Old-school die-cast models and incandescent light bulbs saw their own series of manufacturing shortcuts, including a pre-World War 2 scandal about the artificial limiting of the lifespan of lightbulbs so that customers would buy more of them. This foreshadows what happened as soon as plastics and computer-aided design and manufacturing came on the scene. Post-WW2, people like W. Edwards Deming were welcome guests in Japan and other rebuilding nations, introducing the Lean method of manufacturing which was at the time not deemed desirable in a post-war USA. For Japan, South Korea and other nations in the region this meant a boom in manufacturing, with a quality level that would ultimately trounce that of their Western equivalents. The argument here is that Japan’s culture of efficiency, of respect for materials and loyalty both to one’s company and its workers is why this method produces much better results, with better working conditions than in nations with a different culture. This is exemplified by e.g. former Nintendo president [Satoru Iwata] taking a 50% pay cut in 2014 rather than lay off any people. Although plastics",
-   "published": "2026-11-11T06:00-06:00",
-   "tags": [
-    "History",
-    "Repair Hacks",
-    "engineering",
-    "essay",
-    "manufacturing",
-    "right to repair"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/junk_engineering_the_meandrous_engineer_youtube.jpg",
-   "summary_from": "page"
   },
   {
    "title": "BBC confirms removal of TV shows featuring David Walliams - including Doctor Who episode and Little Britain - Radio Times",
@@ -1232,24 +1279,6 @@
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
    "summary_from": "feed"
-  },
-  {
-   "title": "Print & Place: Add Embedded Electronics While FDM Printing",
-   "link": "https://hackaday.com/2026/11/10/print-place-add-embedded-electronics-while-fdm-printing/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Although combining electronics and 3D-printed structures is fairly common, this usually entails some level of manual assembly. This contrasts strongly with the Print & Place approach demonstrated by [Oliver Child] et al. in their research article titled Print & Place: Using a 3D printer for Continuous Assembly of Electronic Devices . An accompanying video is also provided which covers all the basics and showing a few ways in which a regular FDM printer can be used without modifications to embed these components. Rather than requiring a custom tool head the thermoplastic is used as a temporary adhesive to pick up parts that are placed in a printed tray elsewhere on the build plate. This parts tray is created parametrically before being printed. Following this an operator has to populate this tray with the requisite parts so that the print head can pick them up when they are needed. This is done during the printing of the actual parts, with regular G-code added to move the head over to the needed part before using a bit of extruded plastic to adhere to it and lift it to its new home. Subsequently these parts can be printed over to fully embed them, with this method supporting a range of parts. In the three demonstrations everything from small pre-populated PCBs to strips of conductive wire and braid were used together with rivets to provide paths between conductive traces. Of course, with this being an open loop system you can expect many of the typical issues here, ranging from pick failures, placement misalignment and contact inconsistencies, as the authors encountered during their experiments. Here one could conceivably pitch adding a camera system as on typical pick & place machines to add a feedback loop that the firmware could then use for adjustments and to signal ",
-   "published": "2026-11-10T21:00-06:00",
-   "tags": [
-    "3d Printer hacks",
-    "embedded 3d printing",
-    "pick and place"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/print_and_place_oliver_child_et_al_uist_2026.jpg",
-   "summary_from": "page"
   },
   {
    "title": "How AI is Transforming Software Development & Code Generation - Analytics Insight",
@@ -1896,6 +1925,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software - Axios",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lMHgwMGdCNDctazFZY0ZnZTRVYlhSWGxTWkU3a0RRcDN1cVdJMXNZeUNEeGJsYzUxdW5zd24tb3FWRlVKV1R5dGctdGFubHJaSzhicGRfT1Jrcl9QQ3U2dVppR2VnN0JXWFY0cnFTLUliQQ?oc=5",
+   "source": "Axios",
+   "category": "AI and Agents",
+   "summary": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software Axios",
+   "published": "2026-11-10T06:03-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Helping caregivers use AI in everyday life",
    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
    "source": "OpenAI News",
@@ -2012,25 +2054,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Autumn Mornings Bring Valley Fog",
-   "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Earth Observatory Science Earth Observatory Autumn Mornings Bring Valley Fog Earth Earth Observatory Image of the Day EO Explorer Topics More Content About Search morning afternoon A natural-color satellite image from the morning shows white fog filling a branching network of river valleys, surrounded by brown and green terrain. NASA Earth Observatory / Lauren Dauphin A false-color satellite image from the afternoon shows the same area clear of fog, with rivers and lakes in dark blue winding through bright green vegetation. NASA Earth Observatory / Lauren Dauphin morning afternoon A natural-color satellite image from the morning shows white fog filling a branching network of river valleys, s",
-   "published": "2026-11-09T23:00-06:00",
-   "tags": [
-    "Clouds",
-    "Earth Observatory",
-    "NOAA-21 (JPSS-2)",
-    "Terra"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "David Bratman (1957-2026)",
    "link": "https://file770.com/david-bratman-1957-2026/",
    "source": "File 770",
@@ -2094,36 +2117,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
-   "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Curiosity Navigation Curiosity Home Science News and Features Multimedia Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5056-5062: Charging Back Up! This image was taken by Right Navigation Camera onboard NASA’s Mars rover Curiosity on Sol 5062 (2026-11-02 05:40:15 UTC). NASA/JPL-Caltech/MSSS By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle of a drilling campaign on our target called “Nazca.” We’ve already drilled t",
-   "published": "2026-11-09T19:07-06:00",
-   "tags": [],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05062_opgs_edr_ncam_NRB_846865643EDR_S1251326NCAM00592M_.JPG?w=1024&h=512&fit=clip&crop=faces%2Cfocalpoint",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
-   "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Curiosity Navigation Curiosity Home Science News and Features Multimedia Mars Missions Mars Home 3 min read Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole This image of the Nazca drill hole was taken by Mast Camera (Mastcam) onboard NASA’s Mars rover Curiosity on Sol 5050 (2026-10-20 23:56:20 UTC). NASA/JPL-Caltech/MSSS Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and we compare them to Earth, th",
-   "published": "2026-11-09T19:05-06:00",
-   "tags": [
-    "Blogs"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05050_mcam_5050MR1101700012601677E01_DXXX.jpg?w=1328&h=1184&fit=clip&crop=faces%2Cfocalpoint",
-   "summary_from": "feed"
-  },
-  {
    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
    "link": "https://openai.com/index/cogent-security",
    "source": "OpenAI News",
@@ -2134,19 +2127,6 @@
     "Startup"
    ],
    "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Minnesota DNR announces winter walleye rules for Upper Red Lake - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalBjLWF4Qy0wQXgzSHZ5YlJxWl9sbFpfUi16cE02WFNCLXoyTVpwUGJfQ19HblBWMDR4QlEwQ1dUOUpWYlFwR1hoMklic0drUlBIbUl5OHZhS19qOWhib0xrc211OFQ3anY4UzhRYTVLX0xTRm9CNmZ2aFh4bTdsczdUMllVS0VISy0xUG1MYlQ2dEU?oc=5",
-   "source": "Yahoo",
-   "category": "Minnesota and Nature",
-   "summary": "Minnesota DNR announces winter walleye rules for Upper Red Lake Yahoo",
-   "published": "2026-11-09T16:54-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2603,6 +2583,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "SOLAR FLARE | Even More Niche and Performative - The Cornell Daily Sun",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWJVTDBpNlVIdnNtVkg3b0o1NVJ6bEdHTnpuZUo3X0VQQm9qVGN3ZGM3b3paOU1iZWZPRVBDSnFSMWRxaEZwM2hiWVpmM2RfQm9zTGxtSVVhdWp0QmotZ3N5Y09oei15VTFjcFIzM2ozelJyT2xvLVF5clg1VTVSSEFLa2dia2ZjZ1VNRGhyeEM?oc=5",
+   "source": "The Cornell Daily Sun",
+   "category": "Space Weather and Aurora",
+   "summary": "SOLAR FLARE | Even More Niche and Performative The Cornell Daily Sun",
+   "published": "2026-11-09T08:07-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Noxious Smoke Hints at Active Volcanoes on Mars",
    "link": "https://skyandtelescope.org/astronomy-news/noxious-smoke-hints-at-active-volcanoes-on-mars/",
    "source": "Sky and Telescope News",
@@ -2763,24 +2756,6 @@
    "published": "2026-11-08T16:05-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "How a Lowly Steampunk Editor Helped Prevent Meta’s Content Grab",
-   "link": "https://file770.com/how-a-lowly-steampunk-editor-helped-prevent-metas-content-grab/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "By Stephen Beale: The SF/F community has been grappling with issues surrounding generative AI ever since the launch of ChatGPT in 2022. Authors and publishers have seen their work taken without consent or compensation to train large language models from … Continue reading →",
-   "published": "2026-11-08T15:06-06:00",
-   "tags": [
-    "Poor Trufan's Almanack",
-    "Meta",
-    "Steampunk Explorer",
-    "Stephen Beale"
-   ],
-   "feed": "File 770",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3182,6 +3157,19 @@
     "Publication"
    ],
    "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Minnesota DNR celebrates evolving Minnesota Conservation Herd for National Bison Day : Nov 5, 2026 | News release - Minnesota DNR",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSVVYUUlBSWFRZDdpc2xsQVlFYnJqbWpTRVJaMDgzM0k5REhxbktaVUNVNlZYZzB5S2pNTlZXekN4NVBXcXlVdkw1eEFXTjBLdmN0UTlBZjdlTFNPckxPUWUycmFBNmg5YS1xNGx6QXowbHZVWUZQT1pRUjNSb3FOdGNyQ0h0c1U0R1R6M1JLNW03UXIzUHpPcVFHbHlzRWYyMzMzeHJWLWdJNkVGcnB1WFYxclBuMXhDa3ptVkd4clFaQQ?oc=5",
+   "source": "Minnesota DNR",
+   "category": "Minnesota and Nature",
+   "summary": "Minnesota DNR celebrates evolving Minnesota Conservation Herd for National Bison Day : Nov 5, 2026 | News release Minnesota DNR",
+   "published": "2026-11-05T16:12-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3876,20 +3864,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "A Long Cloud on Mars",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-   "source": "NASA Astronomy Picture of the Day",
-   "category": "Astrophotography",
-   "summary": "APOD: 2026 November 2 - A Long Cloud on Mars Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 2026 November 2 A Long Cloud on Mars Image Credit & Copyright : ESA , DLR , FU Berlin ; Processing & License : J. Cowart Explanation: Explanation: What’s causing this unusually long cloud on Mars ? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA ’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud fo",
-   "published": "2026-11-01T23:05-06:00",
-   "tags": [],
-   "feed": "NASA Astronomy Picture of the Day",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Meteor of Joy: The Young People’s Chorus of New York City Sings Bird Divinations",
    "link": "https://www.themarginalian.org/2026/10/31/meteor-of-joy-paola-prestini/",
    "source": "The Marginalian",
@@ -4167,6 +4141,20 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/8C6cOkQ07C6hx4_0SYNJkgiOqJ3VGYNt_-JJM0UlHso/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84ZmFlZGYzMC0x/ZGUxLTQ1Y2MtODRm/ZS0yNGEwZjI3Y2Vl/ZDEwODc0ZDE3MDU4/NzkyYWMzZWJfU2Ny/ZWVuc2hvdCAyMDI2/LTEwLTA1IGF0IDEw/LjIzLjUwIEFNLnBu/Zw.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "It All Comes Together in Chattanooga",
+   "link": "https://www.atlasobscura.com/articles/it-all-comes-together-in-chattanooga",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "Chattanooga may be best known for its natural beauty, surrounded by mountains, valleys, and the Tennessee River. This charming Appalachian city is also home to annual music festivals like the IBMA World of Bluegrass and the 3 Sisters Bluegrass Festival . The streets and venues fill with musicians and fans dedicated to upholding the traditions of bluegrass music. Chattanooga has always been a city of convergence. Long before trains arrived, the river drew people through a narrow passage in the mountains; later came traders, artists, and entrepreneurs. At festival time, bluegrass becomes the city's soundtrack, with impromptu performances and jams ranging all across town. Many of the local hot ",
+   "published": "2026-10-08T13:51-05:00",
+   "tags": [],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/GpOcqtFCI_xfjSieQEyIjHlUcOpWd-YqwZBK9qJ2hmg/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85YTEwZDQzOC1j/OWI3LTQ0YzYtOWQx/NC1lN2Y3YTAzY2Vk/YmM5NTI4ZmVlMjgw/ZTFmZTcwOWNfSU1H/XzE0MDMuanBlZw.jpg",
    "summary_from": "feed"
   },
   {
