@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12T01:10-06:00",
- "count": 275,
+ "generated": "2026-11-12T10:48-06:00",
+ "count": 276,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -56,13 +56,13 @@
   "Astronomy and Space | Sky and Telescope News": {
    "url": "https://www.skyandtelescope.com/astronomy-news/feed/",
    "ok": true,
-   "kept": 9,
+   "kept": 7,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 1,
+   "old": 3,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -70,20 +70,20 @@
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 14,
-   "entries": 75,
+   "entries": 72,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 61,
+   "old": 58,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Space Weather and Aurora | Google News aurora": {
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 4,
-   "entries": 45,
+   "kept": 3,
+   "entries": 44,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -114,14 +114,14 @@
   "Astrophotography | NASA Astronomy Picture of the Day": {
    "url": "https://science.nasa.gov/feed/apod-basic/",
    "ok": true,
-   "kept": 6,
+   "kept": 7,
    "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 20,
-   "seen_or_dup": 4,
+   "seen_or_dup": 3,
    "no_title_or_link": 0
   },
   "Astrophotography | Sky and Telescope Observing": {
@@ -172,14 +172,14 @@
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 5,
+   "kept": 6,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 2,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
@@ -212,7 +212,7 @@
    "url": "https://openai.com/news/rss.xml",
    "ok": true,
    "kept": 20,
-   "entries": 1381,
+   "entries": 1383,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -224,8 +224,8 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 7,
-   "entries": 59,
+   "kept": 8,
+   "entries": 60,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -264,12 +264,12 @@
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 14,
-   "entries": 62,
+   "entries": 63,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 48,
+   "old": 49,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -289,13 +289,13 @@
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 10,
+   "kept": 11,
    "entries": 29,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 19,
+   "old": 18,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -366,6 +366,409 @@
   }
  },
  "items": [
+  {
+   "title": "Map of New England Places Everybody Pronounces Wrong",
+   "link": "https://kottke.org/26/11/map-of-new-england-places-everybody-pronounces-wrong",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "As part of the 30 Day Map Challenge , Maxwell Howe created a map of New England places that many out-of-towners mispronounce ( Instagram ). As you would expect when you start talking about local pronunciations and accents, he’s getting some blowback: You’re mixing accent with correct pronunciation. It’s only WUH-stah if you have a non-rhotic accent. If a non-native dropped that instead of “WUH-ster” in conversation they’d sound like an asshat. Same with Lem-in-ster et al. You do this correctly when you write Concord as CON-kerd, where the local accent would have it sound like “CON-kid”…. We expect the accent on the first syllable, but not for the R to drop. Source: native new englander with ",
+   "published": "2026-11-12T10:44-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "A Very Special Episode of UltraVision — VisionQuest’s “Forever”",
+   "link": "https://reactormag.com/tv-review-visionquest-forever/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Movies & TV VisionQuest A Very Special Episode of UltraVision — VisionQuest ’s “Forever” The finale of VisionQuest is a roller-coaster ride that brings the series to a satisfying end By Keith R.A. DeCandido Published on November 12, 2026 Credit: Marvel Studios Credit: Marvel Studios Ye flipping gods, what an absolute treasure James Spader is. The finale of VisionQuest is a roller-coaster ride through a couple of different plot bits that all come together nicely, building on the seven prior episodes, and a big part of why it works so brilliantly is the magnificent work Spader is doing here. The cliffhanger last week was revealing that Jo Carrington’s partner in creating the AIs that we see al",
+   "published": "2026-11-12T10:30-06:00",
+   "tags": [
+    "Blog",
+    "James Spader",
+    "Marvel Cinematic Universe",
+    "Paul Bettany",
+    "television",
+    "television recaps",
+    "television reviews",
+    "VisionQuest"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/VisionQuest-108-01-740x423.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "A New Era for the Dawn of Life",
+   "link": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
+   "source": "Quanta Magazine",
+   "category": "Astronomy and Space",
+   "summary": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life. The post A New Era for the Dawn of Life first appeared on Quanta Magazine",
+   "published": "2026-11-12T10:20-06:00",
+   "tags": [
+    "Multimedia"
+   ],
+   "feed": "Quanta Magazine",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Ladyhawke: A Medieval Tale of Star-Crossed Lovers and Synthesizers",
+   "link": "https://reactormag.com/ladyhawke-a-medieval-tale-of-star-crossed-lovers-and-synthesizers/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Column 80s Fantasy Film Club Ladyhawke : A Medieval Tale of Star-Crossed Lovers and Synthesizers A wolf, a hawk, a monk, and a Mouse team up against an evil bishop. By Tyler Dean Published on November 12, 2026 Credit: Warner Bros. Credit: Warner Bros. In this column , we’re looking back at the 1980s as their own particular age of fantasy movies—a legacy that largely disappeared in the ’90s only to resurface in the 2000s, though in many ways, the fantasy films of the Eighties are far weirder and less polished than what we got in the aughts. In each of these articles, we’ll explore a canonical fantasy movie released between 1980 and 1989 and discuss whatever enduring legacy the film has mainta",
+   "published": "2026-11-12T10:00-06:00",
+   "tags": [
+    "Blog",
+    "80s Fantasy Film Club",
+    "Fairy Tales",
+    "fantasy",
+    "Ladyhawke",
+    "nostalgia"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/Ladyhawke-Rutger-Hauer-740x423.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Evolving Story of How Chemistry Became Biology",
+   "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+   "source": "Quanta Magazine",
+   "category": "Astronomy and Space",
+   "summary": "Around 4.6 billion years ago, some 9 billion years after the birth of the universe, a cloud of gas and dust collapsed into the familiar blinding ball in our sky. Scraps of leftover material collided and accreted into the planets of the solar system, including our own. For the next few hundred million years, Earth was a hellish, molten landscape bombarded by meteorites. As it started to cool… Source",
+   "published": "2026-11-12T09:45-06:00",
+   "tags": [
+    "Biology"
+   ],
+   "feed": "Quanta Magazine",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Default.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Rain and frost hit Northern Minnesota - KAXE",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGlEU1QtUnhfTFcwalJHVVhaQ3htUHdXWk54NlF2VXdLR3lrYTcwbmJORUdtdDBTMmN4M2JYV2pOR2pFSFZsT04tSXFHalh5RU41SmVya0QwWmYtbzZzRE9EZnN2V0dkYnc2eVl5SlBNM0JYRnl4MXZnc1gtWTBOOXkzdWFFZFYtQkVUUEZUOGR6SVd5ay0wRmI3cTBtQQ?oc=5",
+   "source": "KAXE",
+   "category": "Minnesota and Nature",
+   "summary": "Rain and frost hit Northern Minnesota KAXE",
+   "published": "2026-11-12T09:36-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Starting today at 7pm in NYC, 400 volunteers will read...",
+   "link": "https://kottke.org/26/11/0049985-400-volunteers-will-read-",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Starting today at 7pm in NYC, 400 volunteers will read Robert Caro’s The Power Broker in 10-minute increments for 4 days . They’re gonna livestream it on YouTube .",
+   "published": "2026-11-12T09:27-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Sextant: Navigating The Old Way",
+   "link": "https://hackaday.com/2026/11/12/the-sextant-navigating-the-old-way/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Navigation is easy these days, as we’ve entire complex computerized mapping systems and radio-based positioning systems to find ourselves anywhere on Earth. It might seem simple to use GPS these days, even trivial, but billions of dollars are what it took to make that happen. Back in the day, navigation was simpler, and cheaper, using a handheld device and natural objects in space instead of artificial satellites with atomic clocks. Let’s learn about the sextant, and how it did its job. For most of human history, getting lost at sea was a very real way to die. Coastlines can be followed and landmarks recognised, but once the land drops below the horizon, a crew has little more than dead reckoning to go on. You can estimate of speed, heading and elapsed time, but errors pile up the longer you go without a concrete reference as to where you are. When land is out of sight, the sky can offer that very reference point, but you have to be able to measure it accurately enough. That’s where the sextant comes in. It’s a deceptively simple instrument that is, paradoxically, somewhat difficult to understand at a glance. It’s little more than a frame, a pair of mirrors and a small telescope, which lets a navigator measure the angle between a celestial body and the horizon to a tiny fraction of a degree. Take that measurement at the right moment, work through a few tables referencing the detected angle and the time of measurement, and you’ve got your position on the globe. The sextant was predated by the octant, which dates back to the 1730s in implementation—specifically at the hands of John Hadley and Thomas Godfrey, though Isaac Newton had described such a device in unpublished papers sometime earlier. The sextant is so named for being a “sector,” an arc tracing out 1/6th of a ci",
+   "published": "2026-11-12T09:00-06:00",
+   "tags": [
+    "Featured",
+    "History",
+    "Skills",
+    "moon",
+    "navigation",
+    "sextant",
+    "sun"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2020/04/Navigating.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Backlist Bonanza: 5 Underrated Books Set in Weird Small Towns",
+   "link": "https://reactormag.com/backlist-bonanza-5-underrated-books-set-in-weird-small-towns/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Books Backlist Bonanza Backlist Bonanza: 5 Underrated Books Set in Weird Small Towns Small towns can be charming, even if there is the occasional strange ritual… By Alex Brown Published on November 12, 2026 Weird small towns are a staple of speculative fiction. A stranger comes to town and encounters a host of oddball townies and their strange traditions. Traditions that sometimes involve human sacrifice… Bleeding Violet by Dia Reeves (Portero Universe — Simon Pulse, 2009) Both of Reeves’ young adult books, Bleeding Violet and Slice of Cherry are set in the town of Portero, Texas (although they are standalone stories). Hanna is biracial, Black and white, and she’s raised by her Finnish fathe",
+   "published": "2026-11-12T09:00-06:00",
+   "tags": [
+    "Blog",
+    "Backlist Bonanza",
+    "Chuck Wendig",
+    "Dia Reeves",
+    "Freddie Kolsch",
+    "Jeffrey Cranor",
+    "Joseph Fink",
+    "reading recommendations"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/welcome-to-nightvale-art-header-740x423.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "St. Patrick’s Church in Sydney, Nova Scotia",
+   "link": "https://www.atlasobscura.com/places/st-patrick-s-church",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "Standing in the historic North End of Sydney, Nova Scotia, St. Patrick's Church is the oldest surviving Catholic church on Cape Breton Island. Behind its stone walls lies an unusual history of forbidden religious practices, forgotten burials, and reported paranormal encounters. The story begins in 1785, when Captain John Butler Wilson arrived in Sydney as the first captain of the Sydney Garrison. Although Wilson was Anglican, his wife, Margaret Coverly, was an Irish Catholic. When their infant son died, the couple faced a difficult situation: Sydney had no Catholic cemetery in which to bury their child. At the time, restrictions on Catholic landownership and religious practices made establis",
+   "published": "2026-11-12T09:00-06:00",
+   "tags": [
+    "catholic",
+    "churches"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/eEbFhDxSmUlGPKn49-vfthEPttULi8IgZPufBp4-65c/rs:fill:300:200:1/g:ce/c:800:533:nowe:0:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mMGI3/OTk2MS0zOTBjLTRm/NDYtOWEyYi0yNjRj/ZDNlZDU0ZTQyNDk5/MGRhNjFhMTZlNjQw/NWNfU3QuX1BhdHJp/Y2snc19DaHVyY2hf/KDY1NzkyNzAxNzkp/LmpwZw.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Nope, this is not at all metaphorical: “In its glory...",
+   "link": "https://kottke.org/26/11/0049977-this-is-not-at-all-metaph",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Nope, this is not at all metaphorical : “In its glory days, the S.S. United States was fast, luxurious and all but indestructible.” RIP, the United States.",
+   "published": "2026-11-12T08:20-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+   "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "Explore Hubble Hubble Home Overview Impact & Benefits Science Observatory Team Multimedia News More 5 min read NASA’s Hubble Offers Cosmic Sampler of Targets for Roman A collage of strong gravitational lenses observed by Hubble, some of which will be followed up by observations with the Roman Space Telescope, which launched in August 2026. Lenses like these will be used to investigate the evolution of galaxies and dark matter. Credit: NASA, ESA, and X. Huang (University of San Francisco); Processing: Gladys Kober (NASA/Catholic University of America) A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the grou",
+   "published": "2026-11-12T07:18-06:00",
+   "tags": [
+    "Astrophysics",
+    "Astrophysics Division",
+    "Goddard Space Flight Center",
+    "Gravitational Lensing",
+    "Hubble Space Telescope",
+    "Nancy Grace Roman Space Telescope",
+    "The Universe"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif?w=2048",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+   "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "Shuttle Endeavour’s Last Flight Was 10 Years Ago People from communities all over California watched the skies in hopes of catching a glimpse of space shuttle Endeavour as it was ferried on the NASA 747 Shu... nonadult",
+   "published": "2026-11-12T07:00-06:00",
+   "tags": [
+    "Armstrong Flight Research Center",
+    "NASA Aircraft",
+    "NASA History",
+    "People of Armstrong",
+    "People of NASA",
+    "Space Shuttle"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Robyn’s Tiny Desk Concert",
+   "link": "https://kottke.org/26/11/robyns-tiny-desk-concert",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "NPR recently welcomed Swedish pop star Robyn to their office for a Tiny Desk Concert . She sings four songs, including one of her first hits, Show Me Love. Every choice here is a tender one, down to the teardrop glued to her cheek. Every move is confident, yet comes from a place of vulnerability. Most of these arrangements play up the quiet desperation in her outsized songs, though on “Ever Again,” Robyn pulls off a magic trick by inviting us into the conversation, opening a broken heart to defiant resilience. “Light Up,” in particular, sounds revelatory, a glitchy synth banger reborn as a piano ballad. “I was looking at you like a mirror,” she sings with a catch in her throat, like an old m",
+   "published": "2026-11-12T06:05-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Tiny Transmitters Track Monarch Butterflies",
+   "link": "https://hackaday.com/2026/11/12/tiny-transmitters-track-monarch-butterflies/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Miniaturization is one thing, but how would you like to design a transmitter that attaches to a butterfly? That’s what the BlūMorpho transmitter is made to do, according to [Tom Jokinen] writing for Be Giant . Apparently, most of these butterflies have a two- to six-week life, but periodically a “super generation” spawns and lives up to nine months. This is enough time to migrate from Canada and the United States to Mexico. In Mexico, they spend the winter, and then return when the weather is more hospitable. Scientists wanted to study this migration pattern, and the tiny transmitter is exactly what they needed. You can even download an app to track the butterflies yourself. The transmitter looks like a tadpole and weighs 60 milligrams. There’s no battery, but there is a tiny solar cell. The transmitter emits a Bluetooth signal that your phone’s location services can relay. To affix the transmitter, researchers put a glassine envelope over the butterfly, weigh its wings down with something slightly heavy, and then apply eyelash glue to the transmitter. You can see the process in the video below. What else could you do with a virtually weightless Bluetooth tracker? It is possible that dedicated tracking stations could have a longer range . Impressed it’s Bluetooth, I looked into some local research on dragonflies, the transmitters they were using do very short burst transmissions that basically transmit an id, nothing else. A very tiny, very short, signal spread over a frequency such that the average receiver wouldn’t even notice the signal in the noise. With transmitters that last up to 1yr and the size of a large grain of rice, a tiny wire antenna hanging from it. No need to be alarmed, Dr. Venture, I’ll have you free in a jiffy! You’re in the hands of the Blue Morpho!",
+   "published": "2026-11-12T06:00-06:00",
+   "tags": [
+    "News",
+    "Science",
+    "Bluetooth tracker",
+    "monarch butterfly"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/butterfly.png",
+   "summary_from": "page"
+  },
+  {
+   "title": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale - London Evening Standard",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWctTFktUzFvZ0dyaFI1WkNkbWJnb243Uk92dGNNQzNsTkhaNVFYYWJMS2htOG85ZDR1MHlMVWVkYzZzdV8zT29GQ0ZCeVpDN0NEZUI5eTJrWVJkZXdxVXoySkxVczh3bDBLSmpoTnZJWS1td1JxaTZYbllpMS00anE5ZnVSR2xoczlnaTIzSEExeWJJQnVzY3pfQXhKekFjMi03Q3E5cw?oc=5",
+   "source": "London Evening Standard",
+   "category": "Science Fiction",
+   "summary": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale London Evening Standard",
+   "published": "2026-11-12T05:40-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Doctor Who props and Strictly memorabilia go on sale for BBC Children in Need - The Upcoming",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0xXdWdWTnUyQmtvOEwwQndFMkZfenl6ZUNTMnFxeFNaU3pFRGFWSmktN2dkLTd3NWtCT0RmTlhhWTRuZ09VdGJpdVd5aWNzUDh5a3dTeS1OOWZqZ3JjZkhRWEl6MEdnZlVCU3ZKcE12UGdKcVhRYXRmT3BZMU10RG9Bb09BbmR0YkF1aVBYYS1aUEp0WGhBak1lSEtzYmpKTFFKSDVGa0VDeFpQYVZXNGZwTUttUDVqM2hZ?oc=5",
+   "source": "The Upcoming",
+   "category": "Science Fiction",
+   "summary": "Doctor Who props and Strictly memorabilia go on sale for BBC Children in Need The Upcoming",
+   "published": "2026-11-12T05:07-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Deer harvest numbers available online - MessageMedia.co",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWDRubHMtVFJVWWxQY191TTdRMFh5cW5SQkpQdlluOU10SjREYktfVzk3ZVZmVnQ0WktRX2thdEFtdHJOcnhpZ052TGhpVGoxMnNJVi01czl0RkJia2dZMkFvMjBxRUpfbU1uU1llN0VqS05iNF82VEFTVlkwa2FZWnpUb3hzd29wZlFnb2Q0THYtZDcxR0t1T0hWTjBwWjc3SnppVFJ2Rm4ydkJlX1FQc0FxQU96T19PWkRHRlpRV2tPdEk?oc=5",
+   "source": "MessageMedia.co",
+   "category": "Minnesota and Nature",
+   "summary": "Deer harvest numbers available online MessageMedia.co",
+   "published": "2026-11-12T05:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "LETTERS FROM READERS - 11-11-26 - MessageMedia.co",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVDhicTBwa3NGaHFlV0pRR2VLWWhqNG1LMlZ4eTZQMEo3azFrZ2VDZF96aGd2U3Nob3ZZSzVPSFpfSmRPSjRKR1R1VkRybjBORy1oQlV2bGtUbkNneFBqc1QtOTZVemdkYlowblI5WWNFSklMU0QyOEpKa3Z2S0JlOWFyTGhWX2hXRmplczNoQkVFbnhQRlZ6YzdwbUQxbU5GTk1ON1FOR1ExdW9oblpjNlBlaXg0V2lrWlZlT1ZTdmNvbHhKZE1hWmZxdWQ?oc=5",
+   "source": "MessageMedia.co",
+   "category": "Minnesota and Nature",
+   "summary": "LETTERS FROM READERS - 11-11-26 MessageMedia.co",
+   "published": "2026-11-12T05:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale - NW Mail",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWppUmp0NW80MDNleDdZYldvWlpQZGxtREhZNXZ2Y0thVDFfaHJfLVJhVTVYTHdTSnY3NFRHRFNZdXk3OGh0ZWZDTHhnb1lTenpENXhqZzVGaHhTbXZxaWRlSS1HSS1UcDY5ZmM3STRrUUlKWkc5d3BjZ2JVeEE3ME5KaWUtWHpDNElOMXowZS1tbVlSSHlra0N0Y1ltNHFnZmtTeTdIeldSTXQyNFVCa09uWGg1Q01QU3c?oc=5",
+   "source": "NW Mail",
+   "category": "Science Fiction",
+   "summary": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale NW Mail",
+   "published": "2026-11-12T04:41-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Doctor Who's John Leeson on K9, Tom Baker, and the show's future - Radio Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HOTJ4c1R4U3pLSzN5SERVcElvSTVsWl8yTzVESzFXbGlDZ1BMdG9yOU1ENGU5WVN3M3ZIT3VVX0dSU3k4RUlXbnFROENRbEwwTERSUWdoMGtYUko1cGJfTjlVVU91WnEtQjFNTGVUOWNfSzJWV0E2OGJ3?oc=5",
+   "source": "Radio Times",
+   "category": "Science Fiction",
+   "summary": "Doctor Who's John Leeson on K9, Tom Baker, and the show's future Radio Times",
+   "published": "2026-11-12T04:05-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "AWS launches cloud emulator built entirely by AI agents - Cloud Computing News",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45Y0ZMRHZqXzlQdU0xTzk3cmRSd00wSUgzTzNmVW5YYkRuVU9NRjZpMHd2Xy11YmJsOW41ODFSQ0lXQVVfTXlSZnNVTU1zOVFvWnU5WnVpNS04eVlfbXc3cG9KdERURXE1UnNkRy1ZOE0zemNmUmdDX0t3?oc=5",
+   "source": "Cloud Computing News",
+   "category": "AI and Agents",
+   "summary": "AWS launches cloud emulator built entirely by AI agents Cloud Computing News",
+   "published": "2026-11-12T04:01-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+   "published": "2026-11-12T03:30-06:00",
+   "tags": [],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Mouse Guard Volume 1: Fall 1152: Review by April",
+   "link": "https://file770.com/mouse-guard-volume-1-fall-1152-review-by-april/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "By April: The year is 1152, treachery is afoot, and the Mouse Guard, defenders of all mice, must suss out the traitor in their midst before the Guard is destroyed. So goes the basic plot of Mouse Guard: Fall 1152, a … Continue reading →",
+   "published": "2026-11-12T03:07-06:00",
+   "tags": [
+    "Book Reviews",
+    "David Petersen"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Espresso, Meet Custom-Machined Stainless Steel Boiler",
+   "link": "https://hackaday.com/2026/11/12/espresso-meet-custom-machined-stainless-steel-boiler/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "While pondering some repairs for his Gaggia Classic Pro espresso machine, [Hans Gaensbauer] ended up machining an entirely new boiler from stainless steel. It was a nontrivial undertaking, since the boiler is an assembly that integrates not only heaters and pump connections, but one end is also the group head into which the portafilter interfaces. [Hans] had to deal with machining out the contours and pockets necessary for a portafilter to lock in securely, complete with the little screen and perforated plate responsible for even water distribution. And of course, the whole thing still has to fit into the original machine. All in all, [Hans] had some constraints to work around, making it a considerably more complex job than just milling a chamber out of a block of stainless steel. Overall he matches the original as much as possible, but since the original was cast from a mold and not designed with machining in mind, the operation is a bit tricky. This is a common issue when one changes manufacturing methods: a part designed to be molded will tend to have features that prove inconvenient for machining. In the end it’s a success, complete with brand new seals and some upgraded electric components to address an original thermostat failure. If you want to see the insides of [Hans]’ espresso machine as well as loads of pictures showing the process of machining a whole new boiler and group head, check it out. Coffee is a topic near and dear to many hackers, so there are plenty of retrofits and repairs but we’ve also seen folks go right back to square one and re-imagine entire espresso machines , rather than just single parts. Btw, wouldn’t a hand-held filter brewer (similiar to a mixer) be possible? I love the write-up – in addition to the challenges of designing and machinin",
+   "published": "2026-11-12T03:00-06:00",
+   "tags": [
+    "cooking hacks",
+    "Repair Hacks",
+    "espresso machine",
+    "machining"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/brewing-banner.png",
+   "summary_from": "page"
+  },
   {
    "title": "A LEGO 3D Printer",
    "link": "https://hackaday.com/2026/11/11/a-lego-3d-printer/",
@@ -525,6 +928,21 @@
    "summary_from": "page"
   },
   {
+   "title": "Supporting research on AI and children’s safety",
+   "link": "https://openai.com/index/children-first-declaration",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+   "published": "2026-11-11T18:00-06:00",
+   "tags": [
+    "Global Affairs"
+   ],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Gilbert + Tobin rethinks the business of law with AI",
    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
    "source": "OpenAI News",
@@ -533,6 +951,19 @@
    "published": "2026-11-11T18:00-06:00",
    "tags": [],
    "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Mason City families invited to free coat giveaway Thursday - KIMT",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ0VJcFlrZUJjVmZ0c2JHU1pTSXNoNmpGWUFoeUI4YWNIVzgxZ1J1b2xWdGg5dzVsVDhlbm4xekZUNU1JZ3NTRlFqQWtLclgwZFd2N3JFWERfWW9vTlB5SzNsVTYxX3k5NnBwYTR2R1Ntd2RrRktnNG9UTVhac2NOb3NBQzBwQmZlc3lrVDFLVXRLcTVNVmNOSmI0RTg1WndfTEN1M0tlMk5CU3A0TWxkc1FfSXVGT1Y5blladEMyUHpmWmVwaUdEbmlGenprNms?oc=5",
+   "source": "KIMT",
+   "category": "Minnesota and Nature",
+   "summary": "Mason City families invited to free coat giveaway Thursday KIMT",
+   "published": "2026-11-11T16:39-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -585,28 +1016,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Read an Excerpt From An Edge Sharp Enough by Jesse Q. Sutanto",
-   "link": "https://reactormag.com/excerpts-an-edge-sharp-enough-by-jesse-q-sutanto/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Excerpts Dark Fantasy Read an Excerpt From An Edge Sharp Enough by Jesse Q. Sutanto An assassin, a scholar, a con man, and a guard race to rediscover powerful lost magic and save their world… By Jesse Q. Sutanto Published on November 11, 2026 We’re thrilled to share an excerpt from An Edge Sharp Enough , a new dark fantast novel by Jesse Q. Sutanto publishing with Harper Voyager on November 17th. Mara has no memory of life before her assassin training behind the fortress-like walls of Tchu-Morrokhai, which has been her world since she was five. Practicing discipline and strategy, sacrifice and solitude, she has dedicated herself to resisting the Divine Empress’s plans of eradicating the all-",
-   "published": "2026-11-11T14:00-06:00",
-   "tags": [
-    "Blog",
-    "An Edge Sharp Enough",
-    "Dark Fantasy",
-    "Excerpts",
-    "fantasy",
-    "Harper Voyager",
-    "Jesse Q. Sutanto"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/An-Edge-Sharp-Enough-header-740x407.png",
-   "summary_from": "feed"
-  },
-  {
    "title": "How Ken Russell’s The Devils Went From Suppressed Masterpiece to Unlikely Hit",
    "link": "https://reactormag.com/ken-russell-the-devils-revival-explained/",
    "source": "Reactor",
@@ -623,19 +1032,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/The-Devils-movie-740x451.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Bodies Of Water Defend Golden Skate As MNRD Season 23 Opens Saturday - KDHL Radio",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83Y19zNUd0emJ2WDlHajFabUtxa2NEcXJPYUpUQWdFM3lYbGp0WXBEZF8zeXdMZUMxb05hcndORndsem13RnRPbVZMYnkyT1lSQ0NJNXMyWl9udzZJNlJraThWWTZpZE9TaTNoVWRMNTBnRG9U?oc=5",
-   "source": "KDHL Radio",
-   "category": "Minnesota and Nature",
-   "summary": "Bodies Of Water Defend Golden Skate As MNRD Season 23 Opens Saturday KDHL Radio",
-   "published": "2026-11-11T13:18-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -794,22 +1190,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "CHIP 8: The Pong Game’s Afoot!",
-   "link": "https://hackaday.com/2026/11/11/chip-8-the-pong-games-afoot/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Writing a computer game has always been hard. It is only the nature of the difficulty that changes. A modern game is as much about graphics, sound, and storytelling as it is about programming. But in the early days of computers, writing a game was a challenge because of limited graphics, slow CPUs, and tiny memory capacity. If you wanted to write a game for an early microcomputer, you generally wrote it in assembly language. BASIC was available on many machines, but it was usually too slow for anything requiring fast animation. Assembly language was fast, but it was also difficult to write, debug, and port to another machine. RCA — in particular [ Joseph Weisbecker ], the architect of the 1802 — introduced the COSMAC VIP into the primordial 1977 home video game market. In addition to using ready-made games, the idea was that you could create your own. But writing games in 1802 assembly language would be beyond most of RCA’s customers. [Weisbecker] devised CHIP-8, a tiny virtual machine. It wasn’t quite a programming language. Instead, it was a simple instruction set implemented by an interpreter running on a real computer. You wrote programs for the imaginary CHIP-8 processor, and the interpreter made them run on the actual hardware. CHIP-8 is perfect for the kind of games you’d see in those days and still has a following among those who love retro games. Today, when we think of interpreters, we often imagine something like Python, where the interpreter reads source code and figures out what to do. However, there’s another approach that was particularly attractive when memory and processor cycles were precious: threaded code. In a threaded-code interpreter, a program consists of references (like indices into a command table) to routines that perform operations. Instead ",
-   "published": "2026-11-11T12:00-06:00",
-   "tags": [
-    "Hackaday Columns"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/10/RCA_Cosmac_VIP.jpg?w=311",
-   "summary_from": "page"
-  },
-  {
    "title": "It’s a Hard-Knock Life: Tanya Pell’s Her Wicked Roots (Part 1)",
    "link": "https://reactormag.com/reading-the-weird-tanya-pell-her-wicked-roots-part-1/",
    "source": "Reactor",
@@ -890,29 +1270,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "The Drawer Every Standing Desk Needs",
-   "link": "https://hackaday.com/2026/11/11/the-drawer-every-standing-desk-needs/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Adjustable standing desks have had some ergonomic and health benefits for many people who would otherwise be sitting down all day, but those benefits come at a cost of a bit of usability. They can be more expensive, they make cable management and lighting a bit more difficult, and of course they take up more space than a normal desk. Related to that, they may have limited or no drawer space. [Super Valid Designs] decided to tackle all of these problems , while at the same time addressing the larger problem of a very disorganized workspace. The idea seems simple on its face. The desk surface would be removed from the legs and a full-sized drawer built that matches the footprint of the desk and attaches to the same points, then the surface can be put back on top of that. But this is where feature creep started to set in, although in this case it was all a net positive for the build. [Super Valid Designs] wanted a front for the drawer but, since this is where his keyboard and mouse would go, wanted it to automatically move aside so it’s not in the way. He built a clever mechanism that pivots the front down when the drawer slides out. Not only that, but the drawer locks into place when it’s halfway out in “keyboard mode” and by lifting the front and pulling the drawer further out he can access a deeper storage space further to the back of the drawer. Although adding these features in took him longer than he originally thought, the new desk is much more usable than the old while helping him eliminate some of the clutter around his workspace. Like any prototype, though, there were a few issues such as cable management (which is a problem with most standing desks) and the fact that he forgot that some of his peripherals were attached to the desk with clamps, which can’t be use",
-   "published": "2026-11-11T10:30-06:00",
-   "tags": [
-    "home hacks",
-    "cabinet",
-    "desk",
-    "drawer",
-    "keyboard",
-    "organization",
-    "slides",
-    "standing desk"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/standing-desk-main.png",
-   "summary_from": "page"
-  },
-  {
    "title": "Watch the morning fog flow like ocean waves into the town...",
    "link": "https://kottke.org/26/11/0049966-watch-the-morning-fog-flo",
    "source": "Kottke",
@@ -975,7 +1332,7 @@
    "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
    "source": "Quanta Magazine",
    "category": "Astronomy and Space",
-   "summary": "This explainer is part of Quanta Magazine’s Origins of Life Week. Check back throughout the week for more stories about one of science’s biggest unknowns. For well over 4 billion years, the fire of metabolism has powered the engines of life. The ability of cells to gather, transform, and harness chemical energy from their surroundings is the central force driving the dizzyingly complex network… Source",
+   "summary": "For well over 4 billion years, the fire of metabolism has powered the engines of life. The ability of cells to gather, transform, and harness chemical energy from their surroundings is the central force driving the dizzyingly complex network of chemical reactions that sustains living things. Metabolism is so crucial to life that some researchers believe that these reactions could have helped… Source",
    "published": "2026-11-11T09:10-06:00",
    "tags": [
     "Biology"
@@ -1107,6 +1464,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "When AI Agents Lose Focus: What Google’s Research Means for Supply Chain Operations - Logistics Viewpoints",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUw1V0ZHSlBIVndKT2pzdjM5bExOYmlBdkFoTUdITnVGUXhnSEhYaGlRWGIxMmhtZHkzeXhUSk4wb2I1cHAwVzJ5c25kR3VjT3dWUnJkSWVKWFR2cTctdVFxWHRoZ0ZLb2xvQnFJOUZHdkdvbVJQNzJVN0JRcE1NOXJ0YTFkTEQ1MDdOd0kyeDBnOW9BUEhuNjB6dFYtSTJyMFIyUGZxRUE2UG5IT1Y2Q1BvaVUyNGpNRHRKN3VOdDgyTDA?oc=5",
+   "source": "Logistics Viewpoints",
+   "category": "AI and Agents",
+   "summary": "When AI Agents Lose Focus: What Google’s Research Means for Supply Chain Operations Logistics Viewpoints",
+   "published": "2026-11-11T06:47-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "BBC confirms removal of TV shows featuring David Walliams - including Doctor Who episode and Little Britain - Radio Times",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanJ5cnFXVmxYREE5VHpJMzNtazVWc1JGdUo1SUtXM0tSRXQwU0NValZUQmd6QTFTdUItcGxZbDNVMWN0Rzhyc2lJY3BBSFUta2thUV9YRmJkQUl6VDkyMXVtc0lVbXpjU2pZU0gwUnd2TDk0RUw4ZXBfd2pYTzhkeG44VmFaOElsekxmTUFVOFF4eWxuc0xPR2FCbF9JdXR5?oc=5",
    "source": "Radio Times",
@@ -1188,19 +1558,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "In 2018, EPA began sediment cleanups on Minnesota's St. Louis River; eight years later, the final project - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNanNyLUIzb2IxN0ltdVpDalBFeV9zWmh4Q0NQS0gwZ0gwcHhLaEQ3UUFsaDdPU1FvbUFDNDFzemp5aGw0TnI0dldhS2xpZWhyTmlfRkdCMEtUcVFtMEFYWDdPVG5maXFtMDFWVnoxNGNORThHd1RTQ2JHcVpvT25pSzFKWlpsWG1GR2lPdk1Lb1ROczBPazZXVzhyXzdmRVNmOGhpQUJkU2l0MjluQjlqNzN1M0I2SUhwVVNaOXVDTklOeWpEM0hUZUlwNmk3OGpOZS1RblFlbzliZ2d6d1pwX3k5ajByZi1zWHVVa3k2UXZGdnNhUU15ckV0SW5XNjVTMGtUbExVdHhNRmV2MVFnVUtwWnA0SjNXQ05FVlZxbm5Bd2ZYOWFHb2ozSnlIQ1A4YnYxd0lwNGM0WFJKNVVNdzRJRExzR0hKcm8xTWoxbmM4U0RraTFpSUNKZm5MdkFJT21QaHJhR2pfc2VzUWJTQVNuLWxtQdIB-wJBVV95cUxPMnNkMVB1WlZaTGRvNUc1eWw2SENKWWRGa1BaQmo0b0k3cFpUVVVYVVNfT3JSa3Nuem01djVzSTBXUEJXNkxWQmhhZXVOZlUtekJNQ0VQcVlpTWIwVU1nZTJsaHJha2lkclFEQlptOE1FSjFQSzluMWpRY3VHTnZ1dVZVc3NZWUN5UkJ5bUM5eW12NktuVmx6TVpQb3NBd05DNE81SC1YOXpqSHhveXpSdWJlakh5dE80SE4tSnNxVm5xTTliSk92Z2VoTDJ0VXd3Ym5IVkE0Z1JKcWJsMG5OODh0Tm54WnVodHItazJtdTkzV1RZMkpaWkx5VXRPX3N5T3BtQ2M0cWltWHVwNExfcFlncXg1SE1saEc0QUVyYkZOYlNBTXhLZEJ1T3FPODU2SVdVQWRIN2N2a3ZSLTQxRGFjMk52aE9rQV83N2M1b3otNzdkOVBlei1xdjFTVThRdUN2aUZVcF9UTG9rX25SS0NnMnluSDJ4VUpZ?oc=5",
-   "source": "The Times of India",
-   "category": "Minnesota and Nature",
-   "summary": "In 2018, EPA began sediment cleanups on Minnesota's St. Louis River; eight years later, the final project The Times of India",
-   "published": "2026-11-11T03:15-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Baltimore SF Society Puts 5000 Books into East Baltimore",
    "link": "https://file770.com/baltimore-sf-society-puts-5000-books-into-east-baltimore/",
    "source": "File 770",
@@ -1228,19 +1585,6 @@
     "Company"
    ],
    "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Book written by former Carleton Arb groundskeeper, local artist launches - Southernminn.com",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaS1vMnhoS1NVcnlhdV96VENhZXQxRy02WlJVd1lFbXZWaFMyZE9nMzB0SzI5d0pMVGtVUV9pWUlwMy1tMEhEWkRiaEJsbXBHbktOUVppMlFkeEt1b0ttUFNsem5BZS00dDM2NlBXOWpPS08ydERNS1dweFN1cFpRbjdmcFRpVGlrdkRYVWRvZlpCLXdaNUFWZ3BKVlNNUmVvUVZmczZjQmMtWEY4ZTgtSE5SMWNwaUZXOTl4Z0JuRDFRcUJuc3pRUHVNcFczUDBCOEdXSm44b0lKclhBQzUyZk14eG5fajEySlFHcnJtcXpRSU1ZWXpVNXF4NTh6a3Vs?oc=5",
-   "source": "Southernminn.com",
-   "category": "Minnesota and Nature",
-   "summary": "Book written by former Carleton Arb groundskeeper, local artist launches Southernminn.com",
-   "published": "2026-11-11T00:00-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1278,19 +1622,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "How AI is Transforming Software Development & Code Generation - Analytics Insight",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdzFTUzVJU3VoVmloNlR0bFJXNERZN0xGTHlKTHVSUVhCWDIxVXg5NkJPZUMzYllYbXZLUkVMRkUtM0RBdHp2TGVnNWJ4QnFTazc1WUxLTHdXcTNHcXdDMDNVMjZrSUY5aGdtRFFRNmk0SURDV2djMWtpQzlmdTN5V1Y4dmxHaWtRSWFEV2hkZ1pxQnlxRThZV0g0SGxvYjAwdGtMSWg0empFUFJvMTNBS3lULWJkNWfSAcQBQVVfeXFMTzFqbUhjMVNOd1BBMXM0Z1J6Mk41Mkk2TEtsSS1fcVR4Nlg3Z3pPRU1ZVXUtTUxlYXdPQWF3MHltSDlKVmpWNnhGVWdXMUlreVVVcnM5RUpfWVZQazcwblZDUFNOa0JCUENWSzF2Ujk0Sy1mQjhlYVRrczRMbTBxVXhjRlA4cVBQZUR0ZnNOSHJ1V3pqVlFJWDNmXzhyZUVIR0c1ZnVwZ1VQUkd6ZkFTWE13akJUcXo4TlhTNDhYQjdxOTdKNg?oc=5",
-   "source": "Analytics Insight",
-   "category": "AI and Agents",
-   "summary": "How AI is Transforming Software Development & Code Generation Analytics Insight",
-   "published": "2026-11-10T21:00-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -1589,11 +1920,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Doctor Who episode removed from BBC iPlayer amid David Walliams allegations - Harrow Times",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3dCOUE5R2NfaFNiX05iQTlSRmc2bm9PNi1kSkV1Q1BUUzN5RGNFdTV0RWdUZ3JZTXFtR28xQVh5TTlBeWx4bzhBejNjS1ZET05UbFI4Z1BMUS1GUWtHRVQwbVF3Y1JaajA2bmswTWxZdENvTTJ0bkYzNmlnbHE0ZVI3a2p6UlliTlJjNFhjcEpsT2NlT2c?oc=5",
-   "source": "Harrow Times",
+   "title": "Doctor Who episode removed from BBC iPlayer amid David Walliams allegations - News Shopper",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmpnVUVUSUVlYndsdkxnekhkZndxTFladHhrNmRad1AzNFBuak11VEk1QzdxMXJYM2hqT1NHaXJrbkswaEpkZXlScjlRYVBxc1A4dHBxZ1hDZDdNTVZ5dHd4OFkyRDN6eXJmdm5vWm1iMjJaY2lYQW4ya3lVS1ZnWDNnbHFhb3l0d0Nab0luN3VZNU5zNlBaRHdyX3NVM1BtS2djbTVCeDZCR1VmdGc?oc=5",
+   "source": "News Shopper",
    "category": "Science Fiction",
-   "summary": "Doctor Who episode removed from BBC iPlayer amid David Walliams allegations Harrow Times",
+   "summary": "Doctor Who episode removed from BBC iPlayer amid David Walliams allegations News Shopper",
    "published": "2026-11-10T12:44-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
@@ -1828,7 +2159,7 @@
    "link": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
    "source": "Quanta Magazine",
    "category": "Astronomy and Space",
-   "summary": "This explainer is part of Quanta Magazine’s Origins of Life Week. Check back throughout the week for more stories about one of science’s biggest unknowns. At its core, every cell is just a bubble of chemistry sealed inside a membrane. In modern cells, that chemistry is extraordinarily complex, orchestrating some 1 billion reactions per second. Likewise, its container, the lipid membrane… Source",
+   "summary": "At its core, every cell is just a bubble of chemistry sealed inside a membrane. In modern cells, that chemistry is extraordinarily complex, orchestrating some 1 billion reactions per second. Likewise, its container, the lipid membrane, is built and maintained by elaborate biochemical mechanisms. But even the much simpler first cells would have needed a bubble too. Without a physical boundary… Source",
    "published": "2026-11-10T09:08-06:00",
    "tags": [
     "Biology"
@@ -1858,46 +2189,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "CHAPEA Crew Leaves a Mark",
-   "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "NASA The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods to counter human spaceflight risks for future Artemis and Moon Base missions. Image credit: NASA",
-   "published": "2026-11-10T08:57-06:00",
-   "tags": [],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg?w=1536",
-   "summary_from": "feed"
-  },
-  {
-   "title": "BBC confirms it will remove David Walliams shows including Little Britain - Metro.co.uk",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGk5MlREbzJ6Vzdod1NzRWZQdzd5N2RJUnlxNkJ2R05vaHQ5M18yRG94RzR3N0NfMl9qTGVpZ1pWUmdNanZsMzNlN3loM09kZFQ0NGJsZWxHaTNVTDkybm5MTXctZlRSMUtHcWw4MjhFRzd0ei1KNUhOdVNWN0FXM3c3WEp6RDNrZkw1YUxKZmN5VFAwUGgtWGpydFlqRTJZVjJtY1lOYlhGRGk1WXBGQdIBtgFBVV95cUxQTWRzdkNHZzh1b21lTkdROWd4cEFtb052Y2E3TWtBTTNSdWFqMkVtbGdyNDA5bjFzMmt1U1RURFRFMDdKSHNrdHhIUXVkcnROcEJTRzZNVmptMzdmYXJGMUM4MVN2Nkd2OFVNVzZ2NVVIeTJqNWFjVEg1UGEzY2xUWkcwYVVDMXoxUS05Tm5zcVpvdTNoemc0LU1GX2wwWGgxZFZiODZHdk15TzhfdjNwRXB3dTF0dw?oc=5",
-   "source": "Metro.co.uk",
-   "category": "Science Fiction",
-   "summary": "BBC confirms it will remove David Walliams shows including Little Britain Metro.co.uk",
-   "published": "2026-11-10T08:45-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Another banger from neal.fun: Battle Draw. Sort of an...",
-   "link": "https://kottke.org/26/11/0049963-battle-draw",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Another banger from neal.fun: Battle Draw . Sort of an open world tower defense “game”?",
-   "published": "2026-11-10T08:33-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Tiny Solar Whirlpools May Hold the Secret to the Sun’s Blistering Corona",
    "link": "https://www.universetoday.com/articles/tiny-solar-whirlpools-may-hold-the-secret-to-the-suns-blistering-corona",
    "source": "Universe Today",
@@ -1909,32 +2200,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/kh-waves-on-sun_20261110_140634.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "David Tennant and Billie Piper's 'Doctor Who: The Satan Pit Extended Cut' Heads to Cinemas - Screen Realm",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHNsOHJiUWgzYnJTSEc3SDJlcmFEa1I3Y0pORExWa3N3TXhxRk50UGhhWmYtNEpEeXRCem83RDc3WFFHNlBWRnd6eWxDUTgyTzBId0JBSG5QYm5nLVVJd1RPV2pNMUd3RzlUMjRZV1plQXJ6WEpHdFRTVWtTbkNpOU03YS1TNFpkLVJWOEV2eDBsTE5yellXLVFDZXMyNnFWYVE?oc=5",
-   "source": "Screen Realm",
-   "category": "Science Fiction",
-   "summary": "David Tennant and Billie Piper's 'Doctor Who: The Satan Pit Extended Cut' Heads to Cinemas Screen Realm",
-   "published": "2026-11-10T06:17-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software - Axios",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lMHgwMGdCNDctazFZY0ZnZTRVYlhSWGxTWkU3a0RRcDN1cVdJMXNZeUNEeGJsYzUxdW5zd24tb3FWRlVKV1R5dGctdGFubHJaSzhicGRfT1Jrcl9QQ3U2dVppR2VnN0JXWFY0cnFTLUliQQ?oc=5",
-   "source": "Axios",
-   "category": "AI and Agents",
-   "summary": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software Axios",
-   "published": "2026-11-10T06:03-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2023,6 +2288,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Quantopus Links QuEra's AI Agents To 101 Tasks, 111 Code Changes Via Quantum Computing. - Quantum Zeitgeist",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyUGVkY1dicE8zZlJfMGZXRnBoZV9Nc25rWkVMbGJnVUxWSWc5dlNKVV9pbnNuVFNsRWNfZ050bFhRTmozcVVGWVVLb2k1MWNva0VaNlpZVHdNX09ZQmoybjMybXd6ZHVKS2N4TXpWUUQ3cjNtbUdlZw?oc=5",
+   "source": "Quantum Zeitgeist",
+   "category": "AI and Agents",
+   "summary": "Quantopus Links QuEra's AI Agents To 101 Tasks, 111 Code Changes Via Quantum Computing. Quantum Zeitgeist",
+   "published": "2026-11-10T02:00-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Work at the Frontier: AI’s effect on freelance work",
    "link": "https://openai.com/index/ai-effect-on-freelance-work",
    "source": "OpenAI News",
@@ -2038,19 +2316,17 @@
    "summary_from": "feed"
   },
   {
-   "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+   "title": "Saturn Behind the Moon",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the Moon Explanation: Sometimes Saturn disappears. It doesn’t really go away, of course — it just disappears from our view when Earth’s Moon moves in front. Such a Saturn ian eclipse, more formally called an occultation , was visible in early 2025 along a small swath of Earth — from Greenland through central Europe and into northern Africa . The featu",
+   "source": "NASA Astronomy Picture of the Day",
+   "category": "Astrophotography",
+   "summary": "APOD: 2026 November 10 - Saturn Behind the Moon Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 2026 November 10 Saturn Behind the Moon Image Credit & Copyright : Roberto Ortu Explanation: Explanation: Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturn ian eclipse, more formally called an occultation , was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa . The featured image is",
    "published": "2026-11-09T23:05-06:00",
-   "tags": [
-    "APOD"
-   ],
-   "feed": "NASA News",
+   "tags": [],
+   "feed": "NASA Astronomy Picture of the Day",
    "evergreen": false,
    "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg?w=2048&h=1525&fit=clip&crop=faces%2Cfocalpoint",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg",
    "summary_from": "feed"
   },
   {
@@ -2132,6 +2408,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Minnesota DNR announces winter walleye rules for Upper Red Lake - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalBjLWF4Qy0wQXgzSHZ5YlJxWl9sbFpfUi16cE02WFNCLXoyTVpwUGJfQ19HblBWMDR4QlEwQ1dUOUpWYlFwR1hoMklic0drUlBIbUl5OHZhS19qOWhib0xrc211OFQ3anY4UzhRYTVLX0xTRm9CNmZ2aFh4bTdsczdUMllVS0VISy0xUG1MYlQ2dEU?oc=5",
+   "source": "Yahoo",
+   "category": "Minnesota and Nature",
+   "summary": "Minnesota DNR announces winter walleye rules for Upper Red Lake Yahoo",
+   "published": "2026-11-09T16:54-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "M. John Harrison Wins Booker Prize 2026",
    "link": "https://file770.com/m-john-harrison-wins-booker-prize/",
    "source": "File 770",
@@ -2160,19 +2449,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/subsurfacewater_Mars-1024x768_20261109_211716.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Crimson Star",
-   "link": "https://kottke.org/26/11/crimson-star",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Watch the Sun’s atmosphere pulse and flow in extreme UV . Images are from NASA’s Solar Dynamics Observatory and “conformed, repaired, graded, blended, rescaled & retimed” by Seán Doran, whose video work is always incredible. It would be great to see this in IMAX or some other large screen format, like in the observatory on the ship in Sunshine . Tags: Sean Doran",
-   "published": "2026-11-09T15:44-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2229,19 +2505,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "The most intense shoe salesman you’ll ever meet, a CBS...",
-   "link": "https://kottke.org/26/11/0049929-the-most-intense-shoe-sal",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "The most intense shoe salesman you’ll ever meet , a CBS News report by Charles Kuralt from 1983 about a “champion” shoe salesman.",
-   "published": "2026-11-09T14:44-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "When one pass isn’t enough: agentic mode in Azure Content Understanding",
    "link": "https://devblogs.microsoft.com/foundry/when-one-pass-isnt-enough-agentic-mode-in-azure-content-understanding/",
    "source": "Microsoft Foundry Blog",
@@ -2290,19 +2553,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/resizepia26520-perseverance-and-sherlocs-calibration-target-1200x700_20261109_194634.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Welcome Rain Falling From the Sky",
-   "link": "https://kottke.org/26/11/the-welcome-rain-falling-from-the-sky",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "I love Taiwanese artist Kuang-Yu Tsui ’s 1997 conceptual art piece The Welcome Rain Falling From the Sky but I couldn’t really tell you what it means. Something about the way people are bombarded with advertisements for consumer goods? I also couldn’t help but think of the iOS game co-created by Neven Mrgan, The Incident . Tags: art · Kuang-Yu Tsui · video",
-   "published": "2026-11-09T13:40-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2514,7 +2764,7 @@
    "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
    "source": "Quanta Magazine",
    "category": "Astronomy and Space",
-   "summary": "This explainer is part of Quanta Magazine’s Origins of Life Week. Check back throughout the week for more stories about one of science’s biggest unknowns. There’s scarcely any corner of Earth in which life hasn’t gained a foothold. Living organisms shape the clouds, the climate, even the rocks. But how life first appeared on a barren planet some 4 billion years ago remains one of the biggest… Source",
+   "summary": "There’s scarcely any corner of Earth in which life hasn’t gained a foothold. Living organisms shape the clouds, the climate, even the rocks. But how life first appeared on a barren planet some 4 billion years ago remains one of the biggest questions for science. Many researchers believe that self-replication — an ability to reliably store and copy genetic information — is life’s most core ability. Source",
    "published": "2026-11-09T09:20-06:00",
    "tags": [
     "Biology"
@@ -2523,49 +2773,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/RNA-World-cr.Mark-Belan-Default.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Five Out-of-Print Collections From the Cutting Edge of Disco-Era Science Fiction",
-   "link": "https://reactormag.com/five-out-of-print-collections-from-the-cutting-edge-of-disco-era-science-fiction/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Books reading recommendations Five Out-of-Print Collections From the Cutting Edge of Disco-Era Science Fiction Short stories from some of the newest, most exciting authors of a certain era… By James Davis Nicoll Published on November 9, 2026 The Best of Walter M. Miller, Jr. cover art by Mara McAfee The Best of Walter M. Miller, Jr. cover art by Mara McAfee An Aurora- and Hugo-nominated science fiction luminary once asked, “If someone new to SFF asked for good, recent books to read, which texts from the 1960s and 1970s should one recommend?” This is a perfectly sensible question with no subtext at all. However, there are far too many splendid brand-new SF works from fifty to sixty years ago ",
-   "published": "2026-11-09T09:00-06:00",
-   "tags": [
-    "Blog",
-    "collections",
-    "George R.R. Martin",
-    "Isaac Asimov",
-    "nostalgia",
-    "reading recommendations",
-    "Science Fiction",
-    "short fiction"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/best-of-walter-m-miller-thumbnail-2.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Mussel Village Bruinisse in Bruinisse, Netherlands",
-   "link": "https://www.atlasobscura.com/places/mussel-village-bruinisse",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "On the edge of the lowlands of Zeeland lies a village dedicated to celebrating the mussel fishing industry. A vital part of life in Bruinisse for centuries, mussel farming has long been one of the main sources of income for the local area. Bruinisse harbour is the heart of the village and is home to a large, active mussel fleet. The mussel season runs from July to April, with mussel cutters setting sail daily from the harbour to collect some of the finest mussels in the Netherlands. Mussel Boulevard runs along the dyke which protecting the village from rising waters in the estuary. At the end of this boulevard, visible from the main road, stands a large artwork in the shape of an opened muss",
-   "published": "2026-11-09T09:00-06:00",
-   "tags": [
-    "shells",
-    "fishing",
-    "seafood",
-    "fish",
-    "world's largest"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/6iEtfuqkkfAlNCO2EZIjbmi9GmNpOiqDSCgmpW-qZJc/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jYzlm/MDM5YS0wZWJlLTRl/MDMtYjI5ZS01NjFj/YmI3N2Q1ZTlmMTk0/MGY3YmQ5OTEwMTVj/NGFfSU1HXzUyNzQu/anBlZw.jpg",
    "summary_from": "feed"
   },
   {
@@ -2623,19 +2830,6 @@
     "Safety"
    ],
    "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Voyageurs National Park has a new boss — and plenty of challenges - Star Tribune",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaWY3UF9Pc1Fzc1hMWWpmN05LNDJnQlExSy1EZHNOZ2M1MGtoa25kUWVWQzk5YzYwVThRWG9KcW1pMVFaVXFUQlJLWldWX3BqZ3NqMUViYVpyQnJITXZsX3ctdEh6Z2h6dUxscXM0SlNSeGVaTnZlU1UzaTl2VHlzdThBZUs1R0lYT0hQQmt0bzRrdTFyWF9OSl9nM01FZTJxT2ZV?oc=5",
-   "source": "Star Tribune",
-   "category": "Minnesota and Nature",
-   "summary": "Voyageurs National Park has a new boss — and plenty of challenges Star Tribune",
-   "published": "2026-11-09T05:30-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2713,41 +2907,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Pixel Scroll 11/8/26 Damn, I Can’t Read This Verse For The Life O’ Me, But Not ’Cause I’m Blind, Drunk Or Mean. No, JJ Said It Was Too Spoilery, And Encoded It In ROT13",
-   "link": "https://file770.com/pixel-scroll-11-8-26-damn-i-cant-read-this-verse/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "(1) WIZARDS OF THE COAST WORKER UNIONIZATION EFFORT. The United Wizards of the Coast, the workers behind Dungeons & Dragons, D&D Beyond, Magic: The Gathering, Duel Masters, and Magic: The Gathering Arena (MTG Arena), operating in partnership with the Communications Workers of America (CWA), “represents the … Continue reading →",
-   "published": "2026-11-08T21:30-06:00",
-   "tags": [
-    "Pixel Scroll",
-    "Amal El-Mohtar",
-    "astronauts",
-    "censorship",
-    "Darrell Schweitzer",
-    "dinosaurs",
-    "Elizabeth Bear",
-    "J. J. Pierce"
-   ],
-   "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Doctor who treated victims and suspect of Krakow shooting speaks | BBC News - Modern Ghana",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1QkFhYUUzVXFDYVoxMnRmTGxWcE9yemJIMi1TNThyWXhReWRxbDVueGdFSktVX2xIUldDc0pMbzk1V1lhajQ1OHRtRmdLb2NCdERZNElUVDZ4SnViaXVv0gFcQVVfeXFMTlBMVFJKOHpMTWczc3JfNDIxSWFfRFBXeFRJTWNPOGlJTjFCdXF6ZnNHMWFpbWFRQm90dnBpeGNXeFhPLVllRnFKTVAxY2t2cEtXUnEyRVVGc0o0d1o?oc=5",
-   "source": "Modern Ghana",
-   "category": "Science Fiction",
-   "summary": "Doctor who treated victims and suspect of Krakow shooting speaks | BBC News Modern Ghana",
-   "published": "2026-11-08T18:00-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect - BBC",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xLTFRNTVxRmxXLXpQRF9qYW1udTkwVXNqUHBJMHJQS21DZk85eXFpMzN5cWVMckdzV2J5dXRRTVBJOFVkMHpET0N4eGxNOU1aeTYzTkh3UkhUZ1E?oc=5",
    "source": "BBC",
@@ -2813,19 +2972,6 @@
    "published": "2026-11-08T13:00-06:00",
    "tags": [],
    "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SdUM0TzRLaF9DUzNpOUdRS2xFNnlDVDFOem9BeDcxMnlMbWZURUJMLUY2ckROb1B4VEwwTzZTVVZPNUlYTTJzcEc1RkcwbXZKRGRWdnh4ZUJDYWxISEE?oc=5",
-   "source": "BBC",
-   "category": "Science Fiction",
-   "summary": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' BBC",
-   "published": "2026-11-08T07:40-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3029,19 +3175,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Aurora Forecast for Nov 6-8 Had Days of Warning: Coronal Hole, Not CME, Drove Storm - Tech Times",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkZWMVJCbUtSSExOYVc3NC1ud2hGbWxhMjVSNUFGejNNNDdsaDJJSUJHaXl2YWhYN1Z0UHNkRDdJaTRKWTRQNHV6aUphLXVTVUh2Z0JFVXlKNzdsM2l2d3l0NlZ6a3JRMV95UE5RVm9nOVI3a0ZBaUFUa0dJS0pHbUt4WjZUSTFuTE5Qc0pPdFEyTXJPZFNHRERQTEkyMC1mYUxyZmYtcjdGSXBGdF9GcmI3cWZaLWlBNkZkWjRzWHAxcDBMOGtv?oc=5",
-   "source": "Tech Times",
-   "category": "Space Weather and Aurora",
-   "summary": "Aurora Forecast for Nov 6-8 Had Days of Warning: Coronal Hole, Not CME, Drove Storm Tech Times",
-   "published": "2026-11-06T11:47-06:00",
-   "tags": [],
-   "feed": "Google News aurora",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars",
    "link": "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars",
    "source": "Universe Today",
@@ -3053,22 +3186,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/8hQwfNsWcwXixNayQBuQy6-750-80_20261106_143237.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "A Strange Quantum Theorem Has Killed Einstein’s Reality",
-   "link": "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/",
-   "source": "Quanta Magazine",
-   "category": "Astronomy and Space",
-   "summary": "One of a human’s earliest developmental milestones is an understanding of object permanence. It generally takes less than a year for a baby to realize that when an adult hides their face behind their hands in a game of peek-a-boo, they don’t cease to exist. There’s more to the world around us than what we perceive. This suggests — or at least, it suggested to Albert Einstein — that the world is… Source",
-   "published": "2026-11-06T09:48-06:00",
-   "tags": [
-    "Physics"
-   ],
-   "feed": "Quanta Magazine",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Death-of-Reality-cr.Samuel-Velasco-Default.webp",
    "summary_from": "feed"
   },
   {
@@ -3249,28 +3366,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/take-the-dotnet-developer-survey.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "New Godzilla Minus Zero Trailer Shows [REDACTED]",
-   "link": "https://reactormag.com/godzilla-minus-zero-trailer-king-ghidorah/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "News Godzilla Minus Zero New Godzilla Minus Zero Trailer Shows [REDACTED] This isn’t Godzilla we’re talking about… By Vanessa Armstrong Published on November 5, 2026 It’s not even an ostensible secret anymore who the new threat is in Godzilla Minus Zero . A previous trailer has teased his voice! But if you want to go into the movie cold, click away now. Otherwise… …the trailer released today gives us Ghidorah in all his glory! Here’s an image from the trailer, if you don’t want to wait: Courtesy of TOHO He looks so cute! While Godzilla Minus Zero features both Ghidorah and Godzilla (Godzilla lives!), writer-director Takashi Yamazaki has said he doesn’t view the film as a monster versus monst",
-   "published": "2026-11-05T12:53-06:00",
-   "tags": [
-    "Blog",
-    "GKids",
-    "Godzilla Minus Zero",
-    "movies",
-    "news",
-    "Toho",
-    "trailers"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-10.26.14-AM-740x499.png",
    "summary_from": "feed"
   },
   {
@@ -3497,19 +3592,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "link": "https://openai.com/index/merge-builds-with-openai",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-   "published": "2026-11-05T02:00-06:00",
-   "tags": [],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Enceladus in Silhouette",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
    "source": "NASA Astronomy Picture of the Day",
@@ -3521,21 +3603,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-   "published": "2026-11-04T20:00-06:00",
-   "tags": [
-    "Global Affairs"
-   ],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3572,22 +3639,6 @@
    "feed": "Microsoft Azure Blog",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
-   "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-   "source": "Quanta Magazine",
-   "category": "Astronomy and Space",
-   "summary": "What’s on your mind right now? You can probably answer this question without thinking too hard about it. Being aware of our own thought processes — a capacity called introspection — seems to come naturally to us. Yet among philosophers and psychologists, introspection is a subject of active debate. Some think it’s closely related to consciousness. Others argue that it’s an elaborate illusion. It’… Source",
-   "published": "2026-11-04T09:32-06:00",
-   "tags": [
-    "Computer Science"
-   ],
-   "feed": "Quanta Magazine",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Default.webp",
    "summary_from": "feed"
   },
   {
@@ -3825,42 +3876,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://media.wired.com/photos/6ada55464d8b7a36ac2c8378/master/w_1600%2Cc_limit/CLO19_azureKinectDK_017.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "A Satellite Company Tests “Sunlight As A Service” — Without Astronomers’ Knowledge",
-   "link": "https://skyandtelescope.org/astronomy-news/astronomy-and-society/a-satellite-company-tested-sunlight-as-a-service-without-astronomers-knowledge/",
-   "source": "Sky and Telescope News",
-   "category": "Astronomy and Space",
-   "summary": "The California demonstration by Reflect Orbital used spotlights to imitate sunlight-reflecting satellites. The post A Satellite Company Tests “Sunlight As A Service” — Without Astronomers’ Knowledge appeared first on Sky & Telescope .",
-   "published": "2026-11-02T07:00-06:00",
-   "tags": [
-    "Astronomy & Observing News",
-    "Astronomy and Society",
-    "Get Involved",
-    "Save Dark Skies",
-    "Light Pollution"
-   ],
-   "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Swift Observatory Ends Mission, Reenters Earth's Atmosphere",
-   "link": "https://skyandtelescope.org/astronomy-news/swift-observatory-ends-reenters-the-earths-atmosphere/",
-   "source": "Sky and Telescope News",
-   "category": "Astronomy and Space",
-   "summary": "NASA’s Swift mission will soon meet a fiery end, after more than two decades of ground-breaking science. The post Swift Observatory Ends Mission, Reenters Earth's Atmosphere appeared first on Sky & Telescope .",
-   "published": "2026-11-02T07:00-06:00",
-   "tags": [
-    "Astronomy & Observing News",
-    "Astronomy in Space with David Dickinson",
-    "Professional Telescopes"
-   ],
-   "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
