@@ -1,55 +1,66 @@
-# Editorial profile: Kris's Curiosity Dispatch (starter preferences)
+# Kuriosity Kronicles editorial profile
 
-The publication is for a curious Minnesota-based C#/.NET developer and amateur astronomer.
-This is a DRAFT starting profile; change the topics and priorities whenever you like.
+<!-- GENERATED from editorial_config.yml. Edit that file, not this one. -->
 
-## What this publication is for
-Find genuinely interesting things, clever engineering, beautiful astronomical phenomena,
-and useful insights without noise, outrage, breathless AI hype or manufactured urgency.
-Prioritize accurate, source-backed explanations over trendy hot takes.
+A curious Minnesota-based C#/.NET developer and amateur astronomer wants clear, useful, surprising science and engineering stories, without outrage or manufactured urgency.
+Prioritize curiosity, evidence, explanation, and discovery. Favor articles that explore what happened, why it happened, how it was observed or established, and what we're learning from it.
+Seek substance over sensationalism, acknowledge uncertainty, and distinguish established findings from speculation.
 
 ## High priority
-- **Astronomy and Space**: Observatories, telescopes, galaxies, planetary science,
-  NASA/ESA missions, astrophysics, satellites, and new observations. Prefer findings with
-  a clear explanation of what scientists actually learned.
-- **Space Weather and Aurora**: Solar activity, auroral substorms, coronal mass ejections,
-  forecasting, NOAA/SWPC, geomagnetic effects, GNSS, satellites and infrastructure.
-  Distinguish forecasts from observations; never exaggerate storm severity.
-- **Astrophotography**: Night-sky imaging, processing techniques, tracking mounts,
-  Seestar smart telescopes, Canon cameras, Siril, image calibration, actual observing tips.
-- **DotNet and Development**: C#, .NET 10+, Blazor, ASP.NET Core, Visual Studio,
-  SQL Server, GitHub, Azure, practical engineering, migration and real troubleshooting.
-- **AI and Agents**: Microsoft Agent Framework, AI-assisted coding, agent workflows,
-  useful LLM research and model releases, concrete demonstrations over marketing.
 
-## Also interesting
-- **Science Fiction**: Doctor Who especially, well-written science fiction, creative
-  storytelling, production news with something substantive to say.
-- **Minnesota and Nature**: Minnesota astronomy and aurora, wildlife, natural history,
-  local science and photographic opportunities. Local place should be genuinely relevant.
-- **Curious Discoveries**: old maps, forgotten inventions, fascinating history,
-  strange-but-real science, restoration and interesting technical side projects.
-- **Wildcard**: a genuinely remarkable outlier; don't force one in every batch.
+- **Astronomy and Space**: Astronomical discoveries, observatories, cosmology, spacecraft, satellites, and planetary science.
+  Interesting signals: new discovery; galaxy; planetary science; observatory; mission results.
+- **Space Weather and Aurora**: Solar flares, CMEs, geomagnetic storms, aurora, satellites and real operational impacts; distinguish observed conditions from forecasts.
+  Interesting signals: aurora; space weather; magnetosphere; NOAA SWPC; satellite effects.
+  Deprioritize: unsupported severe-storm claims.
+- **Astrophotography**: Night-sky photography, smart telescopes, image processing, observing techniques and practical equipment discoveries.
+  Interesting signals: Siril; Seestar; astrophotography; tracking mounts; image processing.
+  Deprioritize: generic product advertisements.
+- **Weather & Meteorology**: Meteorological science, major extreme-weather events, rare atmospheric phenomena, weather radar, satellites, forecasting advances, and meaningful Minnesota/Midwest storms. No daily forecast feed or political climate debate.
+  Interesting signals: tornadoes and derechos; hurricanes and atmospheric rivers; blizzards and ice storms; rare clouds and optical phenomena; radar and weather satellite technology; forecasting research; Minnesota severe weather.
+  Deprioritize: climate-policy arguments and political commentary; sensationalized predictions; routine day-to-day forecasts; unsupported storm claims.
+- **DotNet and Development**: C#, .NET, Blazor, ASP.NET Core, SQL Server, Azure, GitHub and real software engineering lessons.
+  Interesting signals: C#; .NET 10; Blazor; SQL Server; Azure; Visual Studio.
+  Deprioritize: Python-only tutorials unrelated to .NET.
+- **AI and Agents**: Working agentic AI systems, AI coding assistants, research results, engineering patterns and evaluation.
+  Interesting signals: Microsoft Agent Framework; coding agents; LLM evaluation; AI applications.
+  Deprioritize: AI hype and empty marketing claims.
+
+## Medium priority
+
+- **Science Fiction**: Doctor Who, substantive science fiction, production news and storytelling ideas.
+  Interesting signals: Doctor Who; science fiction; creative production.
+  Deprioritize: trivia with no interesting angle.
+- **Minnesota and Nature**: Minnesota science, wildlife, astronomy, field observations and unusual regional discoveries.
+  Interesting signals: Minnesota; Twin Cities; wildlife; aurora; natural history.
+  Deprioritize: routine crime or politics.
+- **Curious Discoveries**: Remarkable inventions, overlooked history, peculiar science and genuinely interesting side projects.
+  Interesting signals: forgotten technology; archaeology; restoration; scientific surprise.
+  Deprioritize: clickbait listicles.
+
+## Low priority
+
+- **Wildcard**: One genuinely fascinating surprise outside the normal categories, when deserved.
+  Interesting signals: unexpected discovery; clever invention.
+  Deprioritize: random filler.
 
 ## Avoid or minimize
-- Outrage bait, tech-industry drama, vague controversies, clickbait and SEO listicles.
-- Unsupported claims, hype dressed up as science, generic consumer product promotions.
-- Duplicate stories repeated by multiple sources, summaries too thin to verify.
-- Python-first programming tutorials when unrelated to .NET or agent concepts.
-- Unrelated politics, celebrity gossip, and sensational crime stories.
-- Paywalled material when a readable alternative exists.
+
+- Political outrage and partisan commentary
+- Sensationalism, SEO listicles and misleading clickbait
+- Unfounded speculation presented as confirmed science
+- Tech-industry drama, gossip and repetitive AI marketing
+- Generic daily forecasts and routine forecast bulletins
+- Paywalled coverage when a readable source explains the same finding
 
 ## Editorial mix
-- Choose up to 8 per run, fewer when the pool is thin. Don't pad.
-- At most 2 per category per run, unless manually submitted by the owner.
-- Spread the selections across disciplines; prioritize space and practical development.
-- Avoid two stories on the same event, even if the links differ.
-- When a source is tagged `filler`, consider it only when primary sources are thin.
-- Include evergreen material when it adds value but don't force a 50/50 split.
-- Manually submitted candidates are priority picks unless invalid or unsafe.
+
+- Choose up to 8 per edition; fewer if nothing merits publication.
+- At most 2 per category per edition; don't manufacture a balanced mix.
+- Prefer high-priority categories when equally good stories compete.
+- Read only from sanitized candidates.json; do not browse the web.
+- Avoid duplicate stories, and follow the existing RUN.md contract.
 
 ## Voice
-Short, factual summaries with a wry nerdy editorial note (2 sentences each).
-Amusing Slashdot-like `from the ... dept.` lines are welcome, but keep them fresh.
-No exaggerated certainty; don't invent details absent from the candidates.
-Use ordinary language, sharp curiosity, and restrained enthusiasm.
+
+Short, clear, accurate summaries with a lightly witty, nerdy editorial note. Original "from the ... dept." lines are welcome. No invented facts or exaggerated certainty.
