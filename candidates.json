@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12T10:48-06:00",
- "count": 276,
+ "generated": "2026-11-12T19:05-06:00",
+ "count": 269,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -24,14 +24,14 @@
   "Astronomy and Space | Universe Today": {
    "url": "https://www.universetoday.com/feed",
    "ok": true,
-   "kept": 16,
+   "kept": 14,
    "entries": 20,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 4,
+   "seen_or_dup": 6,
    "no_title_or_link": 0
   },
   "Astronomy and Space | ESA Space Science": {
@@ -69,13 +69,13 @@
   "Space Weather and Aurora | Google News space weather": {
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 14,
-   "entries": 72,
+   "kept": 9,
+   "entries": 65,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 58,
+   "old": 56,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -83,12 +83,12 @@
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 3,
-   "entries": 44,
+   "entries": 43,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 41,
+   "old": 40,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -114,14 +114,14 @@
   "Astrophotography | NASA Astronomy Picture of the Day": {
    "url": "https://science.nasa.gov/feed/apod-basic/",
    "ok": true,
-   "kept": 7,
+   "kept": 6,
    "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 20,
-   "seen_or_dup": 3,
+   "seen_or_dup": 4,
    "no_title_or_link": 0
   },
   "Astrophotography | Sky and Telescope Observing": {
@@ -133,14 +133,14 @@
   "DotNet and Development | Microsoft .NET Blog": {
    "url": "https://devblogs.microsoft.com/dotnet/feed/",
    "ok": true,
-   "kept": 4,
+   "kept": 3,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 4,
-   "seen_or_dup": 2,
+   "seen_or_dup": 3,
    "no_title_or_link": 0
   },
   "DotNet and Development | Microsoft DevBlogs": {
@@ -159,13 +159,13 @@
   "DotNet and Development | Microsoft Azure Blog": {
    "url": "https://azure.microsoft.com/en-us/blog/feed/",
    "ok": true,
-   "kept": 5,
+   "kept": 4,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 5,
+   "old": 6,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -212,7 +212,7 @@
    "url": "https://openai.com/news/rss.xml",
    "ok": true,
    "kept": 20,
-   "entries": 1383,
+   "entries": 1385,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -263,13 +263,13 @@
   "Science Fiction | Google News Doctor Who": {
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 14,
-   "entries": 63,
+   "kept": 17,
+   "entries": 67,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 49,
+   "old": 50,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -277,12 +277,12 @@
    "url": "https://news.google.com/rss/search?q=Minnesota+astronomy+OR+aurora+OR+observatory&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 57,
+   "entries": 56,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 57,
+   "old": 56,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -367,6 +367,562 @@
  },
  "items": [
   {
+   "title": "Watch That Sound: Your Own Chladni Plate",
+   "link": "https://hackaday.com/2026/11/12/watch-that-sound-your-own-chladni-plate/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "What if you could see sound? A Chladni plate uses a speaker and small particles, like sand, to give you a visual representation of sound, and [CrazyScience] shows you how to make one. The plate dates back to 1787, created by the eponymous physicist. Of course, back then, there were no speakers, so the original plate was metal with a violin bow raked across the edges. The modern version uses an ESP32, a speaker, and salt. The patterns depend on the resonance points of the plate. The device has a rotary encoder to tune different frequencies. Check it out in the video below. There’s also an OLED display to show the frequency and patterns. There is also a 3D-printed enclosure. The patterns, of course, depend on standing waves. We aren’t sure that there’s any practical value for it, but we like the way it looks. This isn’t the first time we’ve talked about Chladni . Visualizing things before the CRT was interesting, to say the least. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-12T18:00-06:00",
+   "tags": [
+    "Science",
+    "chladni plate",
+    "sound",
+    "standing wave"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/sound.png",
+   "summary_from": "page"
+  },
+  {
+   "title": "Golden Joystick Awards 2026",
+   "link": "https://file770.com/golden-joystick-awards-2026/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "The Golden Joystick Awards 2026 winners were announced on November 11. Two games won four categories: A complete list of winners follows the jump. BEST AUDIO DESIGN BEST EARLY ACCESS GAME BEST GAME ADAPTATION BEST GAME EXPANSION BEST GAME TRAILER … Continue reading →",
+   "published": "2026-11-12T17:48-06:00",
+   "tags": [
+    "Awards",
+    "Golden Joystick Awards",
+    "video games"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Euclid's First Data Release: A Stepping Stone to its 3D Map of the Sky",
+   "link": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "The ESA's Euclid Space Telescope has released its first huge batch of data. It's all part of the telescope's mission to study dark energy and dark matter. The telescope is busy creating the largest ever 3D map of the Universe with its huge 600 megapixel camera, and new images give us some highlights.",
+   "published": "2026-11-12T17:04-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/10-euclid-dr1-images-zoominfography-8k4k-4k_20261112_221355.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "A Brief-ish History of METI. Part III: The Legacy of Frank Drake & Carl Sagan",
+   "link": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iii-the-legacy-of-frank-drake-carl-sagan",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Carl Sagan and Frank Drake were pivotal to the development of the Search for Extraterrestrial Intelligence (SETI) and Messaging Extraterrestrial Intelligence (METI), as exemplified by the Pioneer Plaques and Voyager Golden Records.",
+   "published": "2026-11-12T16:04-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/2rzDuuKcnCjrLPrZnPE4qE_20261112_215436.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "We Are the River Chronicles a Minnesota History of the Mississippi River - Mpls.St.Paul Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2JrY0lQLVk5MTBqbVNISmVqUGYtTU15Q2MyQlBBYnh2UGwyRmFhZ1Q0UG02eGItbWp6XzYyNnl1VEx1Nkp2TjYwR1NHWWx0WGFtS0VyUmF0ZlIwdHpXNnd4ZS1GUmY1S21tYmdYUDFIcGp4WlYyeTVYLVZsMEtDaEtB?oc=5",
+   "source": "Mpls.St.Paul Magazine",
+   "category": "Minnesota and Nature",
+   "summary": "We Are the River Chronicles a Minnesota History of the Mississippi River Mpls.St.Paul Magazine",
+   "published": "2026-11-12T15:41-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Asteroid Bennu's Sample Delivers Another Surprise",
+   "link": "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Researchers compared the samples from asteroid Bennu with the Murchison meteorite and measured the amino acid β-alanine in both. Using new techniques, they were able to measure not only their isotopic compositions, but isotopic differences between individual atoms in the same molecule. The results show that some of the same pre-cursors to life formed in different conditions and positions in the protoplanetary disk.",
+   "published": "2026-11-12T15:16-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/nasa-s-osiris-rex-spacecraft-approaches-asteroid-101955-bennu-to-sample-its-regolith-as-seen-in-an-artist-s-conception_20261112_175013.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Richard Scarry Illustrations Paired With Karl Marx Quotes",
+   "link": "https://kottke.org/26/11/richard-scarry-illustrations-paired-with-karl-marx-quotes",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Writer and comedian Zach Mander took quotes from Karl Marx and paired them with illustrations from books by Richard Scarry like What Do People Do All Day? and Cars and Trucks and Things That Go. See also Mamdani’s Richard Scarry socialism . Tags: books · illustration · Karl Marx · politics · remix · Richard Scarry · Zach Mander",
+   "published": "2026-11-12T15:01-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Upgrade Your CoCo The Modern Way",
+   "link": "https://hackaday.com/2026/11/12/upgrade-your-coco-the-modern-way/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "The Radio Shack TRS-80 Colour Computer may never have achieved the sales volume of its competitors from Commodore or Apple, but it offered a surprisingly capable set of hardware. There were three versions, with the final one being a significant upgrade in many ways. There was no upgrade path for owners of version 1 and 2 machines to have a version 3 back in the day, but now thanks to [Felipe Antoniosi] such an upgrade is possible. How? With a Tang Nano 20K FPGA board , of course! The CoCo 3 had a paged memory system for expansion up to 512k, as well as a significantly more capable graphics chip which while compatible with the original Motorola part offered enhanced graphics. The upgrade emulates these, and connects to the CoCo via a set of daughter boards that connect to where the various motherboard chips sat. it offers an HDMI output as well as analog video and enhanced sound capability, bringing the machine firmly into the 21st century. As mods go to classic hardware, this is quite an invasive one. Whether or not you’d prefer to do this to your CoCo is up to you, but ask yourself this, would you have done this had this board been available in the 1980s? Of course you would. Meanwhile should you become bored with the CoCo, it can also be persuaded to emulate an Apple ][ . Sometimes, with these types of mods, I wonder if it’s possible to just throw the whole system on the FPGA as well. Like at some point is the mod so lopsided in compute that you’d get a better experience with an emulator. Not to entirely write off this or similar mods but it does hurt my enjoyment if it becomes that unbalanced. I have a project that I was dreaming up myself where I worried if this would be the case. Though I couldn’t grasp how much FPGA would be needed to entirely remove the middleman",
+   "published": "2026-11-12T15:00-06:00",
+   "tags": [
+    "Retrocomputing",
+    "CoCo",
+    "Tang",
+    "TRS-80 Colour Computer"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/coco-tang-featured.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "The Tar Pits in Lawton, Oklahoma",
+   "link": "https://www.atlasobscura.com/places/the-tar-pits-on-adams-hill-at-fort-sill-lawton-oklahoma-usa",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "Oklahoma is known for its oil production. Normally, oil is trapped underneath impermeable rock and must be pumped out of the ground. Sometimes there is a gap in the impermeable rock, and oil oozes out of the ground. As the gaseous part of oil evaporates, it leaves behind the solids, which become asphalt. This is the ‘tar’ found in tar pits. There are few tar pits in the world, one of which is in southwest Oklahoma on the grounds of Fort Sill. The tar pits were noted by early explorers, and the local Native Americans used to put it on saddle sores of horses. It is not as grand as the tar pits of La Brea in Los Angeles, California, but it is a tar pit nonetheless. Actually it's more of a tar '",
+   "published": "2026-11-12T15:00-06:00",
+   "tags": [
+    "environment",
+    "oil"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/BMqdcH8X2whA4iAbH7V7H6bjbDl_bvVxSfxVu2UtbaY/rs:fill:300:200:1/g:ce/c:2051:1367:nowe:0:1070/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNmE1/YzhiMC01ZGM4LTRl/ZWYtODc5Ni01MTM4/YTBhYTAwODhjYzRk/MTNhZjVkNGJjYWYz/YzlfSU1HXzc2NDEu/SlBH.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Mount Thor: $45 Million In Funding To Build Agentic AI Cloud Infrastructure Powered By Apple Silicon - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOejNsUVZzZTlDYUZWTGl2TnlRSS1Tb0Qzb2ZUcGxzV3NhRlhCODRGalVnYm1ZWEliaVFpb2tGbkRBdHRvQUN2aW5pVEVfcTZTY2dzRUs1bmViNmw1VkFhN2o0UWY2cmN5SDVLaVd1ck5RbEdjZDQtc0ZxdWdZLWpiZ1NnNkMwQjRPRlBLamlFWnl3NVhkRjA1cE5GZW5CQm5xbU11ZHd3Q1VJMHdjRTFHcEtQaWhfWkVkeWc?oc=5",
+   "source": "Pulse 2.0",
+   "category": "AI and Agents",
+   "summary": "Mount Thor: $45 Million In Funding To Build Agentic AI Cloud Infrastructure Powered By Apple Silicon Pulse 2.0",
+   "published": "2026-11-12T14:45-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "I Am Artemis Katie Spicer",
+   "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "4 Min Read I Am Artemis Katie Spicer For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. NASA’s Katie Spicer stands in front of the crew cabin prototype for Blue Origin’s Blue Moon Mark 2 lunar lander. The lander is one of two commercial human landing systems that will help safely ferry astronauts from lunar orbit to the Moon’s surface and back for the agency’s crewed Artemis missions in 2028. NASA/Bill Strafford Spicer works in the Flig",
+   "published": "2026-11-12T14:10-06:00",
+   "tags": [
+    "Artemis",
+    "General",
+    "Human Landing System Program",
+    "I Am Artemis",
+    "Johnson Space Center",
+    "Marshall Space Flight Center"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e402724-i-am-artemis-katie.jpeg?w=1536",
+   "summary_from": "feed"
+  },
+  {
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "link": "https://openai.com/business/customer-stories/amplitude",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+   "published": "2026-11-12T14:00-06:00",
+   "tags": [],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Teenage Girls Are the Real Horror in Netflix’s Vibe Heavy, Overlong The Body",
+   "link": "https://reactormag.com/tv-review-teenage-girls-are-the-real-horror-in-netflixs-the-body/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Movies & TV The Body Teenage Girls Are the Real Horror in Netflix’s Vibe Heavy, Overlong The Body The disappointment lies in how easily the show could have been more. By Lacy Baugher Milas Published on November 12, 2026 Image: Netflix Image: Netflix Your teenage years can often feel like a never-ending nightmare, which is why young adult stories that incorporate horror tropes have been so popular for decades. From shows like Buffy the Vampire Slayer and Teen Wolf , which treat the supernatural as a metaphor for adolescence, to dramas with more overtly murderous vibes like I Know What You Did Last Summer or Pretty Little Liars, there are many young adult series that navigate big feelings and ",
+   "published": "2026-11-12T14:00-06:00",
+   "tags": [
+    "Blog",
+    "Horror",
+    "Netflix",
+    "teen dramas",
+    "television",
+    "television reviews",
+    "The Body"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/the-body1-740x448.jpeg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Riding the Rails With America’s Last Train-Hoppers....",
+   "link": "https://kottke.org/26/11/0049975-riding-the-rails-with-ame",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Riding the Rails With America’s Last Train-Hoppers . “There are still people today who risk injury and arrest to climb aboard freight trains, still moving through the country in cars designed to carry things rather than people.”",
+   "published": "2026-11-12T13:58-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Can Network Science Transform Health and Nutrition?",
+   "link": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
+   "source": "Quanta Magazine",
+   "category": "Astronomy and Space",
+   "summary": "Nothing really exists in isolation. Almost every part of our lives exists in a network. Consciousness arises from what neurons do together, life from what genes and proteins do together, society from what we do together. When researchers began mapping real-world networks in the 1990s – from the World Wide Web to Hollywood actors linked by films – they found that wildly different systems shared… Source",
+   "published": "2026-11-12T13:40-06:00",
+   "tags": [
+    "Biology"
+   ],
+   "feed": "Quanta Magazine",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/JOW-S5-E12-cr.Chanelle-Nibbelink-Default-NO-LOGO.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Star Wars’ 50th Anniversary Plans Include Ralph McQuarrie Concept Art LEGO Figures",
+   "link": "https://reactormag.com/star-wars-50th-anniversary-plans-ralph-mcuarrie-concept-art-lego-figures/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "News Star Wars Star Wars’ 50th Anniversary Plans Include Ralph McQuarrie Concept Art LEGO Figures The nostalgia will run strong in 2027 By Vanessa Armstrong Published on November 12, 2026 Image: Lucasfilm / Disney Image: Lucasfilm / Disney Next year will be the 50th anniversary of the first Star Wars film hitting theaters, and you better believe that Lucasfilm is not letting the milestone go unmarked. Part of the celebration will include the original 1977 version of Star Wars heading back to theaters starting on February 19, 2027. In addition to your usual formats (including IMAX), the film will also get a “Shared Reality” rendition at certain Cosm locations, as well as Disney Concerts hosti",
+   "published": "2026-11-12T13:31-06:00",
+   "tags": [
+    "Blog",
+    "Lego",
+    "movies",
+    "news",
+    "Star Wars"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2024/01/Star-Wars-A-New-Hope-trio-740x493.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Baochip-1x: A Mostly-Open, 22nm SoC for High Assurance Applications",
+   "link": "https://hackaday.com/2026/11/12/baochip-1x-a-mostly-open-22nm-soc-for-high-assurance-applications/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "For most people, just getting any old microcontroller or system on chip (SoC) from our favorite – or cheapest – vendor is more than good enough. But if you’re really into high assurance computing where every transistor has to be accounted for, you got a bit of a problem. This is basically why [Andrew “Bunnie” Huang] pitched in and had the Baochip-1x produced . This SoC’s design is based heavily on the FPGA-based CPU in the Precursor device , which itself is claimed to be a fully verifiable communicator design. Since it does have an MMU, you can run any software on it that supports the RV32IMAC RISC-V instruction set, with a Coder’s Guide available for those who might feel interested in this SoC, along with the SystemVerilog and Verilog-based sources . In addition to the DIY assembly process, you can even get a physical hardware version, including the ‘Dabao’ evaluation board with a very Raspberry Pi Pico-shaped form factor. Inside this SoC is a single-core, 350 MHz VexRISC-V core, 4 MB resistive RAM (RRAM) and 2 MB of SRAM, along with a whole heap of security-related features. The same Bunnie Huang who developed and then abandoned Chumby? No thanks. Is this the same Baochip that got blown wide open after being the DEF CON badge this year? Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-12T13:30-06:00",
+   "tags": [
+    "Parts",
+    "bunnie",
+    "Bunnie Huang",
+    "RISC-V",
+    "vexrisc-v"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/dabao-thechip-narrow.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Heart in the Sky at NASA Kennedy",
+   "link": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "NASA/Amber Jean Notvest The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America’s 250th anniversary. Image credit: NASA/Amber Jean Notvest",
+   "published": "2026-11-12T13:12-06:00",
+   "tags": [
+    "Kennedy Space Center"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg?w=2048",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Shetland season 11 cast: who stars in Tosh's final run? - Radio Times",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aMEFDcm52elpmZnNha0lXdENYOU1uWUZBWWFlcmJwOTFvUkdTT0RYalBIYzVIN2d3WVFEck9kZzFxQ212QVJoQWhiQVA2YjBMaS1XbUFRSDhDQjh2VVRnRGw2cndWRjlCUVE4SUJDWmYzZw?oc=5",
+   "source": "Radio Times",
+   "category": "Science Fiction",
+   "summary": "Shetland season 11 cast: who stars in Tosh's final run? Radio Times",
+   "published": "2026-11-12T13:06-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Children of Blood and Bone Trailer Showcases Movie’s Soundtrack",
+   "link": "https://reactormag.com/children-of-blood-and-bone-trailer-soundtrack/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "News Children of Blood and Bone Children of Blood and Bone Trailer Showcases Movie’s Soundtrack We also see more of Thuso Mbedu as the magical Zelie By Vanessa Armstrong Published on November 12, 2026 Photo Credit: Paramount Photo Credit: Paramount We have another trailer for the feature adaptation of Tomi Adeyemi’s Children of Blood and Bone , which gives us a better look at the feel of the film, including the four characters who aim to restore magic to their land. Here’s the official synopsis: In the epic fantasy world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fi",
+   "published": "2026-11-12T13:03-06:00",
+   "tags": [
+    "Blog",
+    "adaptations",
+    "Children of Blood and Bone",
+    "movies",
+    "news",
+    "Paramount Pictures",
+    "trailers"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/CBNB_08424R-740x493.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+   "link": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale. It goes something like this: The People from Kalaallit Nunaat have always relied on animals from the sea for hunting. Their ancestors were respecting the land and the balance with the sea, but according to the tale, this balance has been lost. Today, the people take too much from the sea without respecting it, polluting it, disregarding some parts of the animal without eating it completely. The Mother of the Sea would get her hair messy with pollution, trapping the animals inside it. This would punish people for such disrespect by keeping the animals by her side, in the deep, not allowing them to go by the land. Thus hurt",
+   "published": "2026-11-12T13:00-06:00",
+   "tags": [
+    "sculptures",
+    "goddess",
+    "folktales",
+    "folklore",
+    "mythology"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/_D3PJvd-7jFrCD2z9568fNwHVXgZLCG4YU4-OxNW-3o/rs:fill:300:200:1/g:ce/c:2714:1809:nowe:1100:321/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kNGFl/YzE0OC00Nzg0LTQ1/NmMtOGRhOC03ODli/NzY4NmVkZWU4ZjAw/YmJmMWI5ODQxODNm/YmNfTW90aGVyX29m/X3RoZV9TZWFfc3Rh/dHVlX051dWsuanBn.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The corkscrew car jump from the Bond film The Man With...",
+   "link": "https://kottke.org/26/11/0049970-was-extensively-modelled-",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "The corkscrew car jump from the Bond film The Man With The Golden Gun was extensively modelled on a computer in 1974 . “McHenry took all the measurements and simulated the stunt using the equations of the 18th-century mathematician Leonhard Euler.”",
+   "published": "2026-11-12T12:48-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Solving the Space Junk Crisis Isn't Just About Counting Trash—It’s About Control and Economics",
+   "link": "https://www.universetoday.com/articles/solving-the-space-junk-crisis-isnt-just-about-counting-trashits-about-control-and-economics",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "If people ever think about cleaning up space debris, they typically think of something equivalent to a giant garbage truck in the sky, collecting lost astronaut tools and dead satellites then hauling them back down to Earth to be deposited in a landfill. But dealing with space debris doesn’t work that way, and a new paper, available in pre-print on arXiv from Dr. Slava Turyshev of NASA’s Jet Propulsion Laboratory, who we typically cover for his work on the Solar Gravitational Lens idea, makes a good argument as to why.",
+   "published": "2026-11-12T12:42-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/ADRAS-J_Phase_I_20261112_184230.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Latter Episodes of The Rings of Power’s Season 3 Premiere Drive the Drama Forward",
+   "link": "https://reactormag.com/the-latter-episodes-of-the-rings-of-powers-season-3-premiere-drive-the-drama-forward/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Movies & TV The Lord of the Rings: The Rings of Power The Latter Episodes of The Rings of Power ’s Season 3 Premiere Drive the Drama Forward Some big changes afoot, though perhaps not the ones we expected… By Sylas K Barrett Published on November 12, 2026 Image: Ben Rothstein/Prime Image: Ben Rothstein/Prime While the first two episodes of The Rings of Power season three dragged quite a bit, episodes three and four have picked up the pacing, and have a lot more to say. References to The Lord of the Rings films abound, friendships are explored, and humor is attempted in “The Secret Fire” and “Gundabad.” Recap — “The Secret Fire” Image: Ben Rothstein/Prime Khamûl returns to Rhûn to confront th",
+   "published": "2026-11-12T12:30-06:00",
+   "tags": [
+    "Blog",
+    "LOTR: TROP recaps",
+    "television",
+    "television recaps",
+    "television reviews",
+    "The Lord of the Rings",
+    "The Lord of the Rings: The Rings of Power"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/lotr-trop-s3ep34-1-740x493.jpeg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Euclid Space Telescope Is Filling Its Treasure Chest",
+   "link": "https://skyandtelescope.org/astronomy-news/euclid-space-telescope-is-filling-its-treasure-chest/",
+   "source": "Sky and Telescope News",
+   "category": "Astronomy and Space",
+   "summary": "With 30 times more sky surveyed and thousands of new strong-lens candidates found, the European satellite’s latest data release lays the groundwork for cosmology breakthroughs. The post Euclid Space Telescope Is Filling Its Treasure Chest appeared first on Sky & Telescope .",
+   "published": "2026-11-12T12:01-06:00",
+   "tags": [
+    "Astronomy & Observing News",
+    "Cosmology",
+    "Euclid"
+   ],
+   "feed": "Sky and Telescope News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Just Use QWIIC Already",
+   "link": "https://hackaday.com/2026/11/12/just-use-qwiic-already/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Years ago, I wrote an article describing different I2C-on-a-connector ecosystems , explaining their strengths, weaknesses, and implementation details, as well as piling on a heap of fun stories. Looking back at it, it’s a great reference article, if I do say so myself. In particular, I highlighted QWIIC, which is a Sparkfun-borne standard for putting 3.3 V I2C on a JST-SH (or compatible) 4-pin connector. I’ve since implemented a fair bit of QWIIC, and grew to like it so much more. I’m here to explain to you why you ought to be putting those JST-SH connectors in everything you design that touches I2C, all the cool things they let you do, where to buy a lot of cheap cables at once, and all the references you could need. I will also tell you about my USB pinout for QWIIC, something you should definitely know about. There’s myriads of devices that speak I2C, and all of them are incredibly useful. Environmental sensors, GPIO expanders, ADCs, PWM chips, motor drivers, LED drivers, small displays, GPS and LoRa chips, voltage and current sensors, memory chips, TPMs, touchpads, NFC readers… You can go to any hobbyist storefront, search for QWIIC compatible sensors, and find gadgets most fitting to a project of yours. I’m not making an argument that you should buy QWIIC devices for everything, even if it’s convenient, because this is not Buy-a-Day. I haven’t intentionally bought anything branded QWIIC to date, either. Instead, standardize on QWIIC for your I2C expansion slots, and use it wherever possible – turns out that it makes things incredibly easy. Standardizing on QWIIC has helped me make development, debugging, and wireup of all of my I2C-powered devices a breeze. In short, I’ve found QWIIC to be a great solution to lots of I2C-shaped (and USB-shaped!) problems. Here’s ju",
+   "published": "2026-11-12T12:00-06:00",
+   "tags": [
+    "Hackaday Columns",
+    "hardware",
+    "how-to",
+    "i2c",
+    "qwiic",
+    "qwusb"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/10/hadimg_use_qwiic_feat.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "“Today’s rich people are richer than ever, and that seems...",
+   "link": "https://kottke.org/26/11/0049979-that-seems-to-have-made-t",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "“Today’s rich people are richer than ever, and that seems to have made them worse than ever . More shameless. More out of touch. Less empathetic. Thinner-skinned. And…angrier. They’re people who consider equality for others oppression for themselves.”",
+   "published": "2026-11-12T11:59-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NASA Ames Stars of the Month: November 2026",
+   "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer at Blue Marble in the Space Biosciences Division on the LEIA (Lunar Explorer Instrument for space biology Applications) team. Alyssa is recognized for technical excellence, dedication and boundless support to the rest of the team. She goes above and beyond in contributing to LEIA every day and has be",
+   "published": "2026-11-12T11:54-06:00",
+   "tags": [
+    "General"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/som-november-2026-banner.jpg?w=1920",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Astrophysicists Want to Forecast When a Black Hole Launches Its Jets",
+   "link": "https://www.universetoday.com/articles/astrophysicists-want-to-forecast-when-a-black-hole-launches-its-jets",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Astrophysical jets are enormously powerful and energetic phenomena. Black holes launch them from their poles and they can extend enormous distances into space, disrupting star formation in adjacent regions. Astrophysicists want to be able to forecast when they're launched so they can understand theire extreme physics better. New research is making progress in understanding when they are triggered.",
+   "published": "2026-11-12T11:25-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/HMXB_20261112_145644.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Rings of Power Star Says Season 3 Just Had Its Own Red Wedding",
+   "link": "https://reactormag.com/the-rings-of-power-star-season-3-red-wedding/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "News The Lord of the Rings: The Rings of Power The Rings of Power Star Says Season 3 Just Had Its Own Red Wedding The star says their character’s death helped give the show a surprising jolt it needed By Matthew Byrd Published on November 12, 2026 Screenshot: Prime Video Screenshot: Prime Video Note: This article contains spoilers for The Rings of Power Season 3. Though quite a few remaining Rings of Power viewers were shocked to see Arondir die so early in the show’s third season , Arondir actor Ismael Cruz Córdova says we really shouldn’t be that surprised. In an interview with TV Insider , he explains that he kind of always knew that he was living on borrowed time. “It’s the Rings of Powe",
+   "published": "2026-11-12T11:21-06:00",
+   "tags": [
+    "Blog",
+    "fantasy",
+    "news",
+    "Prime Video",
+    "Rings of Power",
+    "television",
+    "The Lord of the Rings",
+    "The Rings of Power"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2024/07/rings-of-power-ring-feature-740x493.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "US doctor kills building manager after long-running dispute over mould, police say - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3OEZFaF8xaGF1MmVleV9pS1dPUnl1TnB1RWdUQjhsUFlrdEF3blN5Q3JfSXhISzlMaUtCaVhjQnBJM21weVpoNU85QXVvdDV1ZnEtOE1mUHBDMUtuMkE?oc=5",
+   "source": "BBC",
+   "category": "Science Fiction",
+   "summary": "US doctor kills building manager after long-running dispute over mould, police say BBC",
+   "published": "2026-11-12T11:03-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hey, Why Does the Cat in the Hat Need a Job?",
+   "link": "https://reactormag.com/hey-why-does-the-cat-in-the-hat-need-a-job/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Featured Essays The Cat in the Hat Hey, Why Does the Cat in the Hat Need a Job? Does anyone else notice this oddly depressing pattern in children’s entertainment? By Emmet Asher-Perrin Published on November 12, 2026 Credit: Warner Bros. Animation Credit: Warner Bros. Animation The Cat in the Hat has long been regarded as one of Doctor Seuss’ most beloved children’s books, which is saying something, given the sheer volume of Seuss’ work. That Hollywood has difficulty adapting these stories should come as no surprise—they are ideal as they are, brief and often humorous narratives that impart a piece of wisdom or two, whether it’s about protecting the environment, personal taste, Cold War escal",
+   "published": "2026-11-12T11:00-06:00",
+   "tags": [
+    "Blog",
+    "animated movies",
+    "Bill Hader",
+    "children's fiction",
+    "children’s movies",
+    "Dr. Seuss",
+    "Illumination",
+    "Minions"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/cat-inthe-hat2-740x435.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Dodder Rhino in Dublin, Ireland",
+   "link": "https://www.atlasobscura.com/places/the-dodder-rhino",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "There are plenty of creatures to spot along Dublin's River Dodder, but few walkers expect to encounter a rhinoceros. Standing on a plinth in the middle of the river near Classon's Bridge is a remarkably lifelike, life-size bronze rhino that has become one of Milltown's strangest landmarks. The animal appeared seemingly overnight in 2002, with no plaque explaining who created it, who put it there, or why a rhinoceros was chosen. Contemporary reports noted that nobody had claimed responsibility, and the nearby Dropping Well pub denied being behind its mysterious arrival. The pub nevertheless embraced its unusual neighbour, even running a competition to give the creature a name. Suggestions inc",
+   "published": "2026-11-12T11:00-06:00",
+   "tags": [
+    "rivers",
+    "sculptures",
+    "animals"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/d26NFgxNW8avqHMT2y6xKTYezvw6iyb-tFuKNSw1NxY/rs:fill:300:200:1/g:ce/c:2583:1722:nowe:750:382/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MTY0/MmYzNy04NjAwLTQx/ZmItYmVmMC0zMzBi/NDVmNWZhMjk4MWU4/YzllYTk0NWQzOWE0/NjJfMzg0MHB4LVRo/ZV9SaGlub19Pbl9U/aGVfUml2ZXJfKE1p/bGx0b3duKS5qcGc.jpg",
+   "summary_from": "feed"
+  },
+  {
    "title": "Map of New England Places Everybody Pronounces Wrong",
    "link": "https://kottke.org/26/11/map-of-new-england-places-everybody-pronounces-wrong",
    "source": "Kottke",
@@ -378,6 +934,48 @@
    "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
+  },
+  {
+   "title": "How to Hear the Song of Life",
+   "link": "https://www.themarginalian.org/2026/11/12/song-of-the-cedars/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "“When we have learned how to listen to trees,” Hermann Hesse wrote in one of his least known, most beautiful essays , “then the brevity and the quickness and the childlike hastiness of our thoughts achieve an incomparable joy. Whoever has learned how to listen to trees no longer wants to be a tree. He wants to be nothing except what he is. That is home. That is happiness.” To be ourselves is rooted in the recognition that, rather than a tree, a self is a forest ; to be at home in the world is rooted in the recognition that a forest is a self. While indigenous cultures have known this since the dawn of knowledge, we are only just beginning to unlearn everything we have been taught by the eras",
+   "published": "2026-11-12T10:38-06:00",
+   "tags": [
+    "art",
+    "culture",
+    "music",
+    "activism",
+    "books",
+    "Cosmo Sheldrake",
+    "Giuliana Furci",
+    "illustration"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/songofthecedars_cover0.jpg?fit=320%2C471&ssl=1",
+   "summary_from": "feed"
+  },
+  {
+   "title": "USB-C Hub or Nintendo Switch 2 Dock? Relax, It’s Both!",
+   "link": "https://hackaday.com/2026/11/12/usb-c-hub-or-nintendo-switch-2-dock-relax-its-both/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "[Nozomi] travels with a Nintendo Switch 2, but the official dock is bulky and doesn’t seem to be made for travel. USB-C hubs with displays are common, but they won’t work with the Switch. Not without a little hacking , anyway. It was obvious that the hub wasn’t too far off. It will charge the Switch, so Power Delivery was working. A sniffer showed that even the DisplayPort initialization happened. A little flashing on the hub allowed it to complete the proprietary protocol, and that made TV mode work, but HDR was washed out. [Nozomi] theorized it was a mismatched color space, so that required a patch for a different chip. Another flash forces the right color tag for HDR TV, but there would have to be another patch for HDR DP. That patch doesn’t exist. Variable refresh rate also does not work. We didn’t find the actual code for the patches, but we still thought the detective work was worth the read. Some people don’t want a more portable dock, but a less portable one . Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-12T10:30-06:00",
+   "tags": [
+    "Nintendo Hacks",
+    "Reverse Engineering",
+    "nintendo switch dock",
+    "USB C"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/usbc.png",
+   "summary_from": "page"
   },
   {
    "title": "A Very Special Episode of UltraVision — VisionQuest’s “Forever”",
@@ -461,7 +1059,7 @@
    "source": "KAXE",
    "category": "Minnesota and Nature",
    "summary": "Rain and frost hit Northern Minnesota KAXE",
-   "published": "2026-11-12T09:36-06:00",
+   "published": "2026-11-12T09:34-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
    "evergreen": false,
@@ -544,6 +1142,27 @@
    "summary_from": "feed"
   },
   {
+   "title": "Place, Personhood, and the Hippocampus: The Fascinating Science of Magnetism, Autonoeic Consciousness, and What Makes Us Who We Are",
+   "link": "https://www.themarginalian.org/2026/11/12/wayfinding-m-r-oconnor/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "“Often the places we grow up in… influence how we perceive and conceptualize the world, give us metaphors to live by, and shape the purpose that drives us.” “Place and a mind may interpenetrate till the nature of both is altered,” the Scottish mountaineer and poet Nan Shepherd wrote in her lyrical love letter to her native Highlands, echoing an ancient intuition about how our formative physical landscapes shape our landscapes of thought and feeling. The word “genius” in the modern sense, after all, originates in the Latin phrase genius loci — “the spirit of a place.” I find myself thinking about Shepherd as I return to the Bulgarian mountains of my own childhood, trekking the same paths with",
+   "published": "2026-11-12T08:46-06:00",
+   "tags": [
+    "culture",
+    "psychology",
+    "science",
+    "books",
+    "M.R. O'Connor",
+    "maps"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/09/wayfinding_oconnor.jpg?fit=320%2C495&ssl=1",
+   "summary_from": "feed"
+  },
+  {
    "title": "Nope, this is not at all metaphorical: “In its glory...",
    "link": "https://kottke.org/26/11/0049977-this-is-not-at-all-metaph",
    "source": "Kottke",
@@ -554,28 +1173,6 @@
    "feed": "Kottke",
    "evergreen": true,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-   "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Explore Hubble Hubble Home Overview Impact & Benefits Science Observatory Team Multimedia News More 5 min read NASA’s Hubble Offers Cosmic Sampler of Targets for Roman A collage of strong gravitational lenses observed by Hubble, some of which will be followed up by observations with the Roman Space Telescope, which launched in August 2026. Lenses like these will be used to investigate the evolution of galaxies and dark matter. Credit: NASA, ESA, and X. Huang (University of San Francisco); Processing: Gladys Kober (NASA/Catholic University of America) A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the grou",
-   "published": "2026-11-12T07:18-06:00",
-   "tags": [
-    "Astrophysics",
-    "Astrophysics Division",
-    "Goddard Space Flight Center",
-    "Gravitational Lensing",
-    "Hubble Space Telescope",
-    "Nancy Grace Roman Space Telescope",
-    "The Universe"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif?w=2048",
    "summary_from": "feed"
   },
   {
@@ -612,23 +1209,19 @@
    "summary_from": "feed"
   },
   {
-   "title": "Tiny Transmitters Track Monarch Butterflies",
-   "link": "https://hackaday.com/2026/11/12/tiny-transmitters-track-monarch-butterflies/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Miniaturization is one thing, but how would you like to design a transmitter that attaches to a butterfly? That’s what the BlūMorpho transmitter is made to do, according to [Tom Jokinen] writing for Be Giant . Apparently, most of these butterflies have a two- to six-week life, but periodically a “super generation” spawns and lives up to nine months. This is enough time to migrate from Canada and the United States to Mexico. In Mexico, they spend the winter, and then return when the weather is more hospitable. Scientists wanted to study this migration pattern, and the tiny transmitter is exactly what they needed. You can even download an app to track the butterflies yourself. The transmitter looks like a tadpole and weighs 60 milligrams. There’s no battery, but there is a tiny solar cell. The transmitter emits a Bluetooth signal that your phone’s location services can relay. To affix the transmitter, researchers put a glassine envelope over the butterfly, weigh its wings down with something slightly heavy, and then apply eyelash glue to the transmitter. You can see the process in the video below. What else could you do with a virtually weightless Bluetooth tracker? It is possible that dedicated tracking stations could have a longer range . Impressed it’s Bluetooth, I looked into some local research on dragonflies, the transmitters they were using do very short burst transmissions that basically transmit an id, nothing else. A very tiny, very short, signal spread over a frequency such that the average receiver wouldn’t even notice the signal in the noise. With transmitters that last up to 1yr and the size of a large grain of rice, a tiny wire antenna hanging from it. No need to be alarmed, Dr. Venture, I’ll have you free in a jiffy! You’re in the hands of the Blue Morpho!",
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "link": "https://openai.com/business/customer-stories/gondola",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
    "published": "2026-11-12T06:00-06:00",
    "tags": [
-    "News",
-    "Science",
-    "Bluetooth tracker",
-    "monarch butterfly"
+    "Startup"
    ],
-   "feed": "Hackaday",
+   "feed": "OpenAI News",
    "evergreen": false,
    "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/butterfly.png",
-   "summary_from": "page"
+   "summary_from": "feed"
   },
   {
    "title": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale - London Evening Standard",
@@ -636,7 +1229,7 @@
    "source": "London Evening Standard",
    "category": "Science Fiction",
    "summary": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale London Evening Standard",
-   "published": "2026-11-12T05:40-06:00",
+   "published": "2026-11-12T05:37-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
    "evergreen": false,
@@ -678,19 +1271,6 @@
    "published": "2026-11-12T05:00-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale - NW Mail",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWppUmp0NW80MDNleDdZYldvWlpQZGxtREhZNXZ2Y0thVDFfaHJfLVJhVTVYTHdTSnY3NFRHRFNZdXk3OGh0ZWZDTHhnb1lTenpENXhqZzVGaHhTbXZxaWRlSS1HSS1UcDY5ZmM3STRrUUlKWkc5d3BjZ2JVeEE3ME5KaWUtWHpDNElOMXowZS1tbVlSSHlra0N0Y1ltNHFnZmtTeTdIeldSTXQyNFVCa09uWGg1Q01QU3c?oc=5",
-   "source": "NW Mail",
-   "category": "Science Fiction",
-   "summary": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale NW Mail",
-   "published": "2026-11-12T04:41-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -751,44 +1331,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Espresso, Meet Custom-Machined Stainless Steel Boiler",
-   "link": "https://hackaday.com/2026/11/12/espresso-meet-custom-machined-stainless-steel-boiler/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "While pondering some repairs for his Gaggia Classic Pro espresso machine, [Hans Gaensbauer] ended up machining an entirely new boiler from stainless steel. It was a nontrivial undertaking, since the boiler is an assembly that integrates not only heaters and pump connections, but one end is also the group head into which the portafilter interfaces. [Hans] had to deal with machining out the contours and pockets necessary for a portafilter to lock in securely, complete with the little screen and perforated plate responsible for even water distribution. And of course, the whole thing still has to fit into the original machine. All in all, [Hans] had some constraints to work around, making it a considerably more complex job than just milling a chamber out of a block of stainless steel. Overall he matches the original as much as possible, but since the original was cast from a mold and not designed with machining in mind, the operation is a bit tricky. This is a common issue when one changes manufacturing methods: a part designed to be molded will tend to have features that prove inconvenient for machining. In the end it’s a success, complete with brand new seals and some upgraded electric components to address an original thermostat failure. If you want to see the insides of [Hans]’ espresso machine as well as loads of pictures showing the process of machining a whole new boiler and group head, check it out. Coffee is a topic near and dear to many hackers, so there are plenty of retrofits and repairs but we’ve also seen folks go right back to square one and re-imagine entire espresso machines , rather than just single parts. Btw, wouldn’t a hand-held filter brewer (similiar to a mixer) be possible? I love the write-up – in addition to the challenges of designing and machinin",
-   "published": "2026-11-12T03:00-06:00",
-   "tags": [
-    "cooking hacks",
-    "Repair Hacks",
-    "espresso machine",
-    "machining"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/brewing-banner.png",
-   "summary_from": "page"
-  },
-  {
-   "title": "A LEGO 3D Printer",
-   "link": "https://hackaday.com/2026/11/11/a-lego-3d-printer/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "LEGO building blocks are a great toy, but every so often a hacker decides to take the little bricks outside of the toy room and make them an integral part of a build. [Adam Turaj] took that idea further than most with his Studprint, a 3D printer that’s 92% LEGO . We aren’t just talking LEGO bricks making up part of the frame here, or even the bed — though that’s obviously the case — but [Adam] goes so far that even the motion system is using LEGO leadscrews to drive the axes of this printer. Is it particularly capable? Well, no. He’s not boasting of a remarkable bed size or high speeds here because that’s really not the point. The point is that he made a printer in LEGO and if you don’t see the fun in that, we don’t know what to tell you. The whole project is open source, and includes the CAD files for the handful of non-LEGO bits you’ll need to mount the electronics, steppers and such. With an unheated bed of ABS bricks, you’re going to be limited in filament choices, but [Adam] has at least made a Benchy, which is all anyone really needs, right? In light of recent work, we can might suggest that the printer is also a pick-and-place machine . If you want to turn the phrase “LEGO 3D Printer” around, we have seen 3D Printed LEGO before as well . We’d be remiss not to note that this isn’t the first printer to use the ubiquitous building blocks we’ve seen, though this one keeps with the regular filament and extruder rather than hot glue like the 2013 version. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-12T00:00-06:00",
-   "tags": [
-    "3d Printer hacks",
-    "3d printer",
-    "lego",
-    "LEGO 3d printer"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Studprint-lego-3dprinter-feat.jpeg",
-   "summary_from": "page"
-  },
-  {
    "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
    "source": "NASA News",
@@ -836,26 +1378,6 @@
    "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "It’s Elite, For The Commodore Pet",
-   "link": "https://hackaday.com/2026/11/11/its-elite-for-the-commodore-pet/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "A few times in the life of someone interested in technology, there comes along something which after seeing it, you know the field is never going to be the same again. For a teenage future Hackaday writer this came in seeing Elite , on a BBC Micro. Nowadays an open world game is normal, but in the mid-1980s it was mind-blowing. Of course, such a powerful piece of software couldn’t be ported to any old computer, so owners of less capable machines were left envious of their more well-heeled friends. It will be a surprise to Commodore Pet owners then, that over four decades later, [David Given] has ported the game to their platform . It’s not such a leap, as the Pet has the same (albeit slower) 6502 as the BBC Micro, and the game requires the Commodore machine to have 32k of memory. So what you get is Elite , but with the Pet’s block graphics rather than the higher-resolution you’d have seen on the newer machines. He admits it doesn’t play well and that the code is something of a mess, but we suspect 32k Pet owners in 2026 won’t be too bothered by this. All the code and disk images are there in the repository, and you can see it at work in the video below the break. Meanwhile if you’re curious about the Elite codebase, you can take a look at it yourself . Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-11T21:00-06:00",
-   "tags": [
-    "Games",
-    "Retrocomputing",
-    "Commodore PET",
-    "Elite",
-    "pet"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/pet-elite-featured.jpg",
-   "summary_from": "page"
   },
   {
    "title": "Pixel Scroll 11/11/26 Pitch Pixel With His Pals Scroller And Paddlefile In Another Exciting Adventure, The Case Of The Appertaining Explorer!",
@@ -909,25 +1431,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "FLOSS Weekly Episode 883: Telnet Broke Us",
-   "link": "https://hackaday.com/2026/11/11/floss-weekly-episode-883-telnet-broke-us/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "This week Jonathan chats with Sattyam Jain about Agent Audit Kit and Agent Airlock. We’re in a brave new world, where anyone can use AI to generate an AI agent. But what keeps those builds secure? And what can we do to prevent AI jailbreaking where it matters? Listen to find out! Did you know you can watch the live recording of the show right on our YouTube Channel ? Have someone you’d like us to interview? Let us know, or have the guest contact us! Take a look at the schedule here . If you’d rather read along, here’s the transcript for this week’s episode . Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-11T18:00-06:00",
-   "tags": [
-    "Hackaday Columns",
-    "Podcasts",
-    "Agentic AI",
-    "FLOSS Weekly"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2021/06/Pipewire.jpg",
-   "summary_from": "page"
-  },
-  {
    "title": "Supporting research on AI and children’s safety",
    "link": "https://openai.com/index/children-first-declaration",
    "source": "OpenAI News",
@@ -956,24 +1459,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Mason City families invited to free coat giveaway Thursday - KIMT",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ0VJcFlrZUJjVmZ0c2JHU1pTSXNoNmpGWUFoeUI4YWNIVzgxZ1J1b2xWdGg5dzVsVDhlbm4xekZUNU1JZ3NTRlFqQWtLclgwZFd2N3JFWERfWW9vTlB5SzNsVTYxX3k5NnBwYTR2R1Ntd2RrRktnNG9UTVhac2NOb3NBQzBwQmZlc3lrVDFLVXRLcTVNVmNOSmI0RTg1WndfTEN1M0tlMk5CU3A0TWxkc1FfSXVGT1Y5blladEMyUHpmWmVwaUdEbmlGenprNms?oc=5",
-   "source": "KIMT",
-   "category": "Minnesota and Nature",
-   "summary": "Mason City families invited to free coat giveaway Thursday KIMT",
-   "published": "2026-11-11T16:39-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "VisionQuest‘s Post-Credits Scene Wasn’t Marvel’s Idea",
+   "title": "VisionQuest’s Post-Credits Scene Wasn’t Marvel’s Idea",
    "link": "https://reactormag.com/visionquest-post-credits-scene-explained-marvel/",
    "source": "Reactor",
    "category": "Science Fiction",
-   "summary": "News VisionQuest VisionQuest ‘s Post-Credits Scene Wasn’t Marvel’s Idea There may or may not be a resolution to that post-credits scene By Matthew Byrd Published on November 11, 2026 Photo Credit: Disney+ Photo Credit: Disney+ A funny thing happened on the way to f inishing up VisionQuest . The show featured not one but two post-credits scenes (Marvel shows, you are so crazy). As usual, each of these sequences seemingly offered a tease of what is to come in future Marvel stories. The first post-credits scene shows Ultron roaming the world in the form of Thornton. It’s revealed that he possesses Jocasta’s hard drive and nanobots, which suggests that he could decide to revive Jocasta and poten",
+   "summary": "News VisionQuest VisionQuest ’s Post-Credits Scene Wasn’t Marvel’s Idea There may or may not be a resolution to that post-credits scene By Matthew Byrd Published on November 11, 2026 Photo Credit: Disney+ Photo Credit: Disney+ A funny thing happened on the way to f inishing up VisionQuest . The show featured not one but two post-credits scenes (Marvel shows, you are so crazy). As usual, each of these sequences seemingly offered a tease of what is to come in future Marvel stories. The first post-credits scene shows Ultron roaming the world in the form of Thornton. It’s revealed that he possesses Jocasta’s hard drive and nanobots, which suggests that he could decide to revive Jocasta and poten",
    "published": "2026-11-11T16:14-06:00",
    "tags": [
     "Blog",
@@ -987,6 +1477,47 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/10/visionquest-101-02-740x423.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "True Love Will Find You in the End: Kurt Vonnegut on When to Stop Trying and When to Try Again",
+   "link": "https://www.themarginalian.org/2026/11/11/vonnegut-marriage-divorce/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "Climbing the Andes one windy January afternoon, watching peak after peek emerge on the horizon like giant mounds of moss, I found myself wondering about the clear line toward the top where the green ends and the reddish-brown of the barren rock begins, wondering how the trees and shrubs know when to stop, how far to keep pushing, where the point is past which the conditions become too inhospitable for growth, for flourishing, for survival. This may be the hardest equation to balance in all of existence: when to keep trying and when to stop. Nowhere is it more confounding, because nowhere is the calculus of reason more haunted by emotion, than in our intimate relationships. There, all the var",
+   "published": "2026-11-11T15:09-06:00",
+   "tags": [
+    "culture",
+    "books",
+    "Kurt Vonnegut",
+    "letters",
+    "love"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/11/vonnegutletters2.jpg?fit=201%2C300&ssl=1",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Intimate in the Infinite and the Responsibility of Rapture",
+   "link": "https://www.themarginalian.org/2026/11/11/diane-ackerman-the-planets/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "It could have been otherwise. That one defiant particle of matter could have never broken free from the equipoise of antimatter to sound the first note of something out of the mute nothingness, singing a universe into being. The universe could have withheld gravity, could have never compacted those first few atoms into a common center to bud the first star, could have never bloomed with billions of them. But here we are, circling a middling star in a modest solar system on a rocky planet replete with mountains and music, lichen and love, and on it the mirror the universe invented to contemplate itself: this shimmering consciousness. It can be hard to bear, the weight of wonder, hard to hold ",
+   "published": "2026-11-11T14:57-06:00",
+   "tags": [
+    "culture",
+    "science",
+    "books",
+    "Diane Ackerman",
+    "Marginalian Editions",
+    "poetry"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/02/ackerman_planets_cover.jpg?fit=320%2C453&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -1085,19 +1616,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Ex-OpenAI and Anduril engineers build AI agents for hardware-software development - The American Bazaar",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2VQdkYxZ29sbTdDQXc0LWtaNERDYUxYNmlhRlJOenVmSlZTbnFrWF9vTV9DTmg3Q0RmY0dLZld2VjJmb2lOdWZMQVZsbk9VWU9uWEtaOGVJTC1lSElRYnB2aGVyOFJJcVhkUWlodlJKWDVQYmZDNWg4cUNmRnJhbHZYYjRYZi1CVUhvTW9PWjhwY2JLUlNpTUZQd2N3bmN0?oc=5",
-   "source": "The American Bazaar",
-   "category": "AI and Agents",
-   "summary": "Ex-OpenAI and Anduril engineers build AI agents for hardware-software development The American Bazaar",
-   "published": "2026-11-11T12:37-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Rings of Power Opens Season 3 With New Characters and a Time Jump",
    "link": "https://reactormag.com/the-lord-of-the-rings-the-rings-of-power-opens-season-3-with-new-characters-and-a-time-jump/",
    "source": "Reactor",
@@ -1147,11 +1665,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Content Understanding adds GPT-5.6, GPT-6, and GPT-6.1: Choose the right model for your workload",
+   "title": "Content Understanding adds GPT-6.1, 6, and 5.6: Choose the right model for your workload",
    "link": "https://devblogs.microsoft.com/foundry/content-understanding-adds-gpt-5-6-gpt-6-and-gpt-6-1-choose-the-right-model-for-your-workload/",
    "source": "Microsoft Foundry Blog",
    "category": "AI and Agents",
-   "summary": "It’s important to say that outcomes vary widely depending on the task. Pick some options based on our evaluations, then test these choices on your own task. The best balance varies with the content and the work you need done. Run the same request once per candidate, then compare the extracted results and the response’s usage data. Start with the balanced recommendation, add the lower-cost option, and include the best-quality model only when the remaining accuracy gap matters to the workflow. The post Content Understanding adds GPT-5.6, GPT-6, and GPT-6.1: Choose the right model for your workload appeared first on Microsoft Foundry Blog .",
+   "summary": "It’s important to say that outcomes vary widely depending on the task. Pick some options based on our evaluations, then test these choices on your own task. The best balance varies with the content and the work you need done. Run the same request once per candidate, then compare the extracted results and the response’s usage data. Start with the balanced recommendation, add the lower-cost option, and include the best-quality model only when the remaining accuracy gap matters to the workflow. The post Content Understanding adds GPT-6.1, 6, and 5.6: Choose the right model for your workload appeared first on Microsoft Foundry Blog .",
    "published": "2026-11-11T12:24-06:00",
    "tags": [
     "Microsoft Foundry"
@@ -1211,20 +1729,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Asteroid Mining Will Crash the Platinum Market, But That’s Good News for Earth",
-   "link": "https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Science fiction authors have been dreaming of robotic spacecraft harvesting fortunes from asteroids for decades. Humanity is slowly getting closer to that reality. But if you ask asteroid mining skeptics, they will usually ask one specific question - what happens to the prices of all those rare materials once someone actually brings them back? A pair of system dynamicists from MIT directly tackled that question with a new paper titled Will AstroForge Collapse the PGM Market?",
-   "published": "2026-11-11T11:06-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/PIA21275_-_Psyche_Artists_Concept_20261111_170620.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "“I Made a Film in Excel, and I Don’t Know Why”",
    "link": "https://kottke.org/26/11/i-made-a-film-in-excel-and-i-dont-know-why",
    "source": "Kottke",
@@ -1253,20 +1757,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/VJnQoJCQwrXCF44Oc_FrB5ZnpWmBTVcblA8qOCnGZOQ/rs:fill:300:200:1/g:ce/c:1205:803:nowe:2313:586/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xMmEy/MzdiYi0zZDNlLTQ0/MWEtYWIxMC1lMzY5/ZTYzMGZkOGQ5MDY5/ZTFjZTU4YTQ5MGJi/MDNfSU1HXzY1Mzku/SlBH.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Chandra X-Ray Observatory Unmasks a Supernova Impostor",
-   "link": "https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Some stars, called Luminous Blue Variables, can be confused with supernovae explosions. They exhibit similar outbursts, but unlike supernovae, which explode once and then are gone forever, these stars have periodic outbursts. New research found that one of these 'supernova impostors' is in a binary relationship with a black hole or a neutron star, and that explains its periodic outbursts.",
-   "published": "2026-11-11T10:41-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/at2016blu_labeled_20261111_140315.jpg",
    "summary_from": "feed"
   },
   {
@@ -1302,29 +1792,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/brazil-jonathan-pryce-740x423.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Read Receipts: Dystopia Is Back, Baby!",
-   "link": "https://reactormag.com/read-receipts-dystopia-is-back-baby/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Books Read Receipts Read Receipts: Dystopia Is Back, Baby! “I actually think it is a recession indicator” By Reactor Published on November 11, 2026 Books Read Receipts Read Receipts: Dystopia Is Back, Baby! “I actually think it is a recession indicator” By Reactor Published on November 11, 2026 We are so pleased to share this week’s episode of Read Receipts, all about the current wave of dystopian fiction. Today’s episode features Chloe Gong ( The StrangeLoom Trilogy ), Ava Reid ( Winterveil , Fable at the End of the World ), and J. Elle ( The Heart Trials ) discussing the influence of the 2000s Golden Age of YA dystopia, social media’s impact on literature, and writing for teen readers. Vie",
-   "published": "2026-11-11T09:30-06:00",
-   "tags": [
-    "Blog",
-    "Ava Reid",
-    "Chloe Gong",
-    "dystopian fiction",
-    "J. Elle",
-    "Podcasts",
-    "Reactor Podcasts",
-    "Read Receipts"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/10/Read-Receipts-Horizontal-Banner-1400-x-700-740x370.png",
    "summary_from": "feed"
   },
   {
@@ -1364,19 +1831,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/absolon-creed-cover-art-header-740x423.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "‘Doctor Who’s ‘Sherlock’ Replacement Officially Returns for New Release - Collider",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUpJbkh0T2pVQ0ctajl6WmpkMVc5MXZPR0tsOFFZTkE2SzBMS0RGaEM2VVpJS2lSQUpXc01UVTV6RUtadWdqU25Gd1FuREJudHJpUGdoR3hqSGlGUENoRUFoMFhId0F2WURNTmpnalN0Skc2WkNrTlo1N0xZbzNPV1pEU1VLM0o2eHc?oc=5",
-   "source": "Collider",
-   "category": "Science Fiction",
-   "summary": "‘Doctor Who’s ‘Sherlock’ Replacement Officially Returns for New Release Collider",
-   "published": "2026-11-11T09:00-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -1438,19 +1892,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Report: Space weather threatens uninsured losses across the globe - Business Insurance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXl5UDktTGlOTkZFYXlPRndBa2kwb0E2Rmk4N081bjJEQ28tMWNINldCR2NaNGxwY1lHaDhlTDU4b1JJb0ZfY2xaMlplYmxfQWwzenBWVExDWnM1QXpieFJnc181NlI5MkNtcUszSnVkcHNOTmc3QWlPbkVDQndXeWp1dXhOTjZXQmVTdFZIYkdKdk9Tam00Z1Rfa0paVzFo?oc=5",
-   "source": "Business Insurance",
-   "category": "Space Weather and Aurora",
-   "summary": "Report: Space weather threatens uninsured losses across the globe Business Insurance",
-   "published": "2026-11-11T08:20-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Could a modern chess engine on a Pentium have defeated...",
    "link": "https://kottke.org/26/11/0049965-could-a-modern-chess-engi",
    "source": "Kottke",
@@ -1496,32 +1937,6 @@
    "category": "Minnesota and Nature",
    "summary": "Minnesota’s wilds on wide display in new nature film Star Tribune",
    "published": "2026-11-11T05:30-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Space Weather Forecasting Market Is Expected to Grow Rapidly at a 9.7% CAGR Until 2030 - openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGpjQkR3SW9fbm5KRjFDSGR3ZWdDSHgySHVMam5VYmRoOVltN0hVSXNsZVp0ZWt5Sk5CQmIxTUtPaWlsRU4xYVRvOW9pSGtmemVPdFczRlhCUVNGREI1VXZtNmYydTlDQTNaOHJDSjlXdk5lOHVOTUlXVnlyeVpZQm1uMW1HZ0Y5ZlZkY0FRc2FtY3dkeFdEQmdBbE1YOEVBTEE?oc=5",
-   "source": "openPR.com",
-   "category": "Space Weather and Aurora",
-   "summary": "The Space Weather Forecasting Market Is Expected to Grow Rapidly at a 9.7% CAGR Until 2030 openPR.com",
-   "published": "2026-11-11T05:21-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Goodbye Lake Superior, So Long Lake Minnetonka: This Minnesota Gem Is A Freshwater Fishing Paradise - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUxGVFY5MWhXb3lYOHhESElBVW9sVzRkY3Vzd3RtSkc0bUQtMUNMcEhhVHp0eWxvdS1SZGJWUERaVlhSM29neDFjcmdaMkUyNDJValJoLWJMSF9hTUxMc1ZsVWNob3AxemI4c1dCUkJzMnc3SEhmUGhONXMtdXZDSnR4UG9CWGpJdWhZV3JZVTFGVDhqcHZPcVBnclVmQmF2UkNnVHUwUXZGSDNZcDAwMA?oc=5",
-   "source": "Yahoo",
-   "category": "Minnesota and Nature",
-   "summary": "Goodbye Lake Superior, So Long Lake Minnetonka: This Minnesota Gem Is A Freshwater Fishing Paradise Yahoo",
-   "published": "2026-11-11T04:15-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
    "evergreen": false,
@@ -1590,22 +2005,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 4449: Small Galaxy, Big Impact Explanation: Don’t judge a galaxy by its size. Our home galaxy, the Milky Way , is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies , are about 1/10th the size of the Milky Way and only contain a few billion stars. They are also th",
-   "published": "2026-11-10T23:05-06:00",
-   "tags": [
-    "APOD"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&h=1320&fit=clip&crop=faces%2Cfocalpoint",
-   "summary_from": "feed"
-  },
-  {
    "title": "Water Surges Into Navajo Reservoir",
    "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
    "source": "NASA News",
@@ -1642,6 +2041,19 @@
     "Jeremy Zentner"
    ],
    "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Science Museum of Minnesota creates regional network of science centers - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemlieXhfWlFiY1NfeXNXV1pLbU1TUk1iMU9SOTljRW5mdXl1b0syTHcwSU9fbmFVR3ZpbW9yYWRQanhXMjg4c2YxRjVTaTloZGwyS0pRclFHSHhzRlIxV1BpWUdTUHhlWF9VaDRVOGgwVHhiaGJvVlFjSkRhLWJJN2pWUVZvY3hLSDhJQ1E0cVJ4VFBD?oc=5",
+   "source": "Yahoo",
+   "category": "Minnesota and Nature",
+   "summary": "Science Museum of Minnesota creates regional network of science centers Yahoo",
+   "published": "2026-11-10T19:27-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1817,29 +2229,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Secret Princesses and Traitors in Exile: Romantasy Report for November and December 2026",
-   "link": "https://reactormag.com/romantasy-report-for-november-and-december-2026/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Books Romantasy Report Secret Princesses and Traitors in Exile: Romantasy Report for November and December 2026 Lightning strikes twice with these 20 romantasies! By Natalie Zutter Published on November 10, 2026 As fall fades into winter, this latest Romantasy Report is a veritable cornucopia of offerings. There’s a cozy fantasy inspired by a certain missing Russian princess; two, count-em-two, contemporary romances starring Thor Odinson; paranormal rom-com takes on dream architects and dating apps for vampires; teen fantasy heroes who have to grow the eff up; and more than one why-choose romance. Whether you’re looking to curl up with a cozy read or a super-dark one, every mood is represent",
-   "published": "2026-11-10T14:00-06:00",
-   "tags": [
-    "Blog",
-    "A.K. Mulford",
-    "A.T. Rainach",
-    "Alexandra Vasti",
-    "Andi Epimoni",
-    "Blake Blessing",
-    "Brigid Kemmerer",
-    "Catriona Moran"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/Romantasy-Report-Nov-2026-740x465.png",
-   "summary_from": "feed"
-  },
-  {
    "title": "ALMA Reveals a Jet of Cool Gas from a Microquasar",
    "link": "https://www.universetoday.com/articles/alma-reveals-a-jet-of-cool-gas-from-a-microquasar",
    "source": "Universe Today",
@@ -1863,19 +2252,6 @@
    "tags": [],
    "feed": "Google News Doctor Who",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "How to Build a Police State. “Bukele didn’t declare a...",
-   "link": "https://kottke.org/26/11/0049962-how-to-build-a-police-sta",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "How to Build a Police State . “Bukele didn’t declare a dictatorship on day one. He built toward it incrementally, each step framed in the language of anti-corruption, public safety or efficiency.”",
-   "published": "2026-11-10T13:11-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1933,22 +2309,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-   "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "(March 15, 2026) — The International Space Station orbits 267 miles above a cloudy Atlantic Ocean southwest of Cape Town, South Africa. The Kibo laboratory module’s External Platform and the Canadarm2 robotic arm highlight the top foreground above Earth’s terminator—the line between night and day—in this photograph taken at approximately 6:36 a.m. local time. Credit: ESA/Sophie Adenot NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscos",
-   "published": "2026-11-10T12:06-06:00",
-   "tags": [
-    "Johnson Space Center"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg?w=2048",
-   "summary_from": "feed"
-  },
-  {
    "title": "Is This the Star Cluster That Helped Make the Milky Way?",
    "link": "https://skyandtelescope.org/astronomy-news/is-this-the-star-cluster-that-helped-make-the-milky-way/",
    "source": "Sky and Telescope News",
@@ -1962,32 +2322,6 @@
    ],
    "feed": "Sky and Telescope News",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Studying solar storms from the bottom of the world - News Center - The University of Texas at Arlington - The University of Texas at Arlington",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2s0eFVQV3JQWEkyclA5dEdyN01DUzZWQUdBVlpVSW9tRFBTcFZCLWpxaHNVamEyVnctcUlqVkNmaXdLVWdtYzNScDBERTlhaHZHUXNabjNucjFtQktScHdxMW5NLUhUMHdhcFNCMmFMWDN5Zkp0QXl2VGhmek04UzJya0NGWlR2R25wMlllWUY3YTZMZG95M2RuTnM1M08tc3c?oc=5",
-   "source": "The University of Texas at Arlington",
-   "category": "Space Weather and Aurora",
-   "summary": "Studying solar storms from the bottom of the world - News Center - The University of Texas at Arlington The University of Texas at Arlington",
-   "published": "2026-11-10T12:01-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "How Much Wealth Does It Take to be Safe in the United States?",
-   "link": "https://kottke.org/26/11/how-much-wealth-does-it-take-to-be-safe-in-the-united-states",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Pulitzer Prize winning journalist and illustrator Mona Chalabi’s new book is about wealth inequality in America. Ten Lives: How What We Have Shapes Who We Are ( Amazon ) follows ten people with ten different incomes, from the bottom 10% to the top 10% and everything in-between: For five years, data journalist Mona Chalabi followed them all, documenting how wealth shaped their feelings, their choices, their identities, and their insecurities. She researched the data behind their taxes, groceries, inheritances, and so much more to understand the systems that keep people stuck. But then, she too found herself facing the same fears, when her mother’s sudden illness and subsequent medical bills t",
-   "published": "2026-11-10T11:56-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -2081,19 +2415,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Great title for an article about London’s invasive...",
-   "link": "https://kottke.org/26/11/0049950-the-pollycrisis",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Great title for an article about London’s invasive parakeet population: The Pollycrisis . “Do we want tens of thousands of Himalayan parrots squabbling all over our cities?”",
-   "published": "2026-11-10T10:41-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "David Walliams' Doctor Who Ep, Little Britain Gone From BBC iPlayer - Bleeding Cool News",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjNHRTBHYTM1TnpNMjNvYjNqdkN5RlM4eEV3RmJJX0dSNThIRE9iN2xWWGpPUkVZTWNTT2d3OEpmVlgtdk50VUpQMldRMDRMQklEa3RKaGxISWZPRktoa1E4S09OZzY1TThkMGhfSlhxTlhickt5X0x1MEdBUGJ6YXVSTWF5YjREYndYVmVPSHc4QnotNUFiWmpB?oc=5",
    "source": "Bleeding Cool News",
@@ -2103,41 +2424,6 @@
    "tags": [],
    "feed": "Google News Doctor Who",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Reading The Wheel of Time: Nynaeve Learns about the Tower and Herself in Towers of Midnight (Part 15)",
-   "link": "https://reactormag.com/reading-the-wheel-of-time-nynaeve-learns-about-the-tower-and-herself-in-towers-of-midnight-part-15/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Books The Wheel of Time Reading The Wheel of Time: Nynaeve Learns about the Tower and Herself in Towers of Midnight (Part 15) It’s time to test Nynaeve for the Shawl… By Sylas K Barrett Published on November 10, 2026 I am so excited for this week’s Reading The Wheel of Time. We are covering chapter 20 of Towers of Midnight , in which Nynaeve takes her test for the shawl—or, as she puts it, her test to prove that she is worthy of the shawl she already has. We’re going to see some really impressive stuff from Nynaeve in this chapter, from her characteristic stubbornness and stone-cold will to the newfound self-restraint that she has learned to employ… when she thinks the situation deserves it.",
-   "published": "2026-11-10T10:00-06:00",
-   "tags": [
-    "Blog",
-    "Brandon Sanderson",
-    "Epic Fantasy",
-    "Reading The Wheel of Time",
-    "Robert Jordan",
-    "The Wheel of Time",
-    "Towers of Midnight"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2021/11/ReadingWOT_TOMbook13-740x407.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "100 Big Unanswered Scientific Questions",
-   "link": "https://kottke.org/26/11/100-big-unanswered-scientific-questions",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "The NY Times recently asked 100 scientists from across dozens of disciplines: “What is a big unanswered question in your field?” Here are some of their questions that caught my eye: 4. When and where did the cognitive capacities that made language, mathematics and complex societies possible first emerge? 9. Why does full writing — complete sentences that can make sense to readers out of context — appear so late in human history? 37. Why are humans the only species with a chin? 40. What is dark matter? 48. Do organisms use quantum effects, such as entanglement and superposition? 54. Will we ever decipher Linear A, Cypro-Minoan and other important ancient scripts? 61. What would be the global ",
-   "published": "2026-11-10T09:44-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -2189,6 +2475,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "BBC confirms it will remove David Walliams shows including Little Britain - Metro.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGk5MlREbzJ6Vzdod1NzRWZQdzd5N2RJUnlxNkJ2R05vaHQ5M18yRG94RzR3N0NfMl9qTGVpZ1pWUmdNanZsMzNlN3loM09kZFQ0NGJsZWxHaTNVTDkybm5MTXctZlRSMUtHcWw4MjhFRzd0ei1KNUhOdVNWN0FXM3c3WEp6RDNrZkw1YUxKZmN5VFAwUGgtWGpydFlqRTJZVjJtY1lOYlhGRGk1WXBGQdIBtgFBVV95cUxQTWRzdkNHZzh1b21lTkdROWd4cEFtb052Y2E3TWtBTTNSdWFqMkVtbGdyNDA5bjFzMmt1U1RURFRFMDdKSHNrdHhIUXVkcnROcEJTRzZNVmptMzdmYXJGMUM4MVN2Nkd2OFVNVzZ2NVVIeTJqNWFjVEg1UGEzY2xUWkcwYVVDMXoxUS05Tm5zcVpvdTNoemc0LU1GX2wwWGgxZFZiODZHdk15TzhfdjNwRXB3dTF0dw?oc=5",
+   "source": "Metro.co.uk",
+   "category": "Science Fiction",
+   "summary": "BBC confirms it will remove David Walliams shows including Little Britain Metro.co.uk",
+   "published": "2026-11-10T08:45-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Tiny Solar Whirlpools May Hold the Secret to the Sun’s Blistering Corona",
    "link": "https://www.universetoday.com/articles/tiny-solar-whirlpools-may-hold-the-secret-to-the-suns-blistering-corona",
    "source": "Universe Today",
@@ -2200,6 +2499,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/kh-waves-on-sun_20261110_140634.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "David Tennant and Billie Piper's 'Doctor Who: The Satan Pit Extended Cut' Heads to Cinemas - Screen Realm",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHNsOHJiUWgzYnJTSEc3SDJlcmFEa1I3Y0pORExWa3N3TXhxRk50UGhhWmYtNEpEeXRCem83RDc3WFFHNlBWRnd6eWxDUTgyTzBId0JBSG5QYm5nLVVJd1RPV2pNMUd3RzlUMjRZV1plQXJ6WEpHdFRTVWtTbkNpOU03YS1TNFpkLVJWOEV2eDBsTE5yellXLVFDZXMyNnFWYVE?oc=5",
+   "source": "Screen Realm",
+   "category": "Science Fiction",
+   "summary": "David Tennant and Billie Piper's 'Doctor Who: The Satan Pit Extended Cut' Heads to Cinemas Screen Realm",
+   "published": "2026-11-10T06:17-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2313,20 +2625,6 @@
    "feed": "OpenAI News",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Saturn Behind the Moon",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
-   "source": "NASA Astronomy Picture of the Day",
-   "category": "Astrophotography",
-   "summary": "APOD: 2026 November 10 - Saturn Behind the Moon Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 2026 November 10 Saturn Behind the Moon Image Credit & Copyright : Roberto Ortu Explanation: Explanation: Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturn ian eclipse, more formally called an occultation , was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa . The featured image is",
-   "published": "2026-11-09T23:05-06:00",
-   "tags": [],
-   "feed": "NASA Astronomy Picture of the Day",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg",
    "summary_from": "feed"
   },
   {
@@ -2466,24 +2764,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Drunken Lampposts in Halifax, Nova Scotia",
-   "link": "https://www.atlasobscura.com/places/drunken-lampposts-halifax",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "Along the Halifax Waterfront in Nova Scotia, a group of lampposts appears to have had a little too much to drink. Commonly known as the \"Drunken Lampposts,\" these unusual public art installations bring a humorous twist to the city's lively nightlife. Created by NSCAD University alumni Chris Hanson and Hendrika Sonnenberg, the installations are officially titled \"Fountain: and :Get Drunk, Fall Down.\" The sculptures transform ordinary streetlights into humanlike characters, portraying the less-than-graceful behaviour often seen on city streets after a night of drinking. In Fountain, a lamppost leans over the edge of the pier, spraying a stream of water into Halifax Harbour as though relieving ",
-   "published": "2026-11-09T15:00-06:00",
-   "tags": [
-    "sculptures",
-    "lamppost",
-    "public art"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/j26qiJn2rsgouh7V9AVoKd5PxnEmYMOQC7WdkflOaR8/rs:fill:300:200:1/g:ce/c:923:615:nowe:19:1/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lMmVi/MDA5Ny03ZDljLTQw/MjMtYWYwOS04NDRi/MmIwMTExZmU4NDBl/N2YyZDVlMzg5ODVi/M2VfSU1HXzU2MjMu/anBlZw.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Fox Trailer: Olivia Colman Is a Talking Fox With a Magical Hole That Changes Women",
    "link": "https://reactormag.com/the-fox-trailer-olivia-colman/",
    "source": "Reactor",
@@ -2571,65 +2851,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Jurassic Jungle Boat Ride in Pigeon Forge, Tennessee",
-   "link": "https://www.atlasobscura.com/places/jurassic-jungle-boat-ride",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "Just outside of Dollywood is a relatively nondescript building squished between many other independently operated tourist traps and minor amusement park attractions. Out of all of these offerings for family vacationers though, the Jurassic Jungle Boat Ride seems to be particularly infamous among theme park enthusiasts. This ride has often been touted among thrill seekers and ride enthusiasts as one of the worst attractions in the country. One of the first things one would see upon approaching the Jurassic Jungle Boat Ride is actually a small crowd waiting in the queue to get on the ride — however, this is an illusion, as these are instead mannequins set up outside the load station to give th",
-   "published": "2026-11-09T13:00-06:00",
-   "tags": [
-    "dinosaur parks",
-    "dinosaurs",
-    "amusement parks"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/KuUJWbXcnies7-udl7NG1G9yx15TKvlS3YtbV2OlUPI/rs:fill:300:200:1/g:ce/c:1176:784:nowe:30:252/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81MWY2/OGEzNS1iYTc0LTRm/N2MtODliZi0yZWI5/N2NmZmZlZWY3NWMx/ZTZiMzAzNDU4ZWUx/M2FfSU1HXzk5MTIu/anBn.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Godzilla Minus Zero Team Names the Classic Monsters They Want to Bring Back Next",
-   "link": "https://reactormag.com/godzilla-minus-zero-classic-monsters-sequels/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "News Godzilla Minus Zero Godzilla Minus Zero Team Names the Classic Monsters They Want to Bring Back Next We don’t know if there will be a third Takashi Yamazaki Godzilla movie, but it sure is fun to speculate By Matthew Byrd Published on November 9, 2026 Photo Credit: Toho Photo Credit: Toho At the risk of boiling down Godzilla Minus Zero to giant monster fights (which director Takashi Yamazaki would prefer we didn’t do ), giant monster fights are pretty cool. And while there is no guarantee that Yamazaki and crew will make another Godzilla movie, the team did recently discuss which giant monsters they would love to see in a hypothetical third movie. Here were their responses: Takayuki Ueki",
-   "published": "2026-11-09T12:52-06:00",
-   "tags": [
-    "Blog",
-    "movies",
-    "news",
-    "Science Fiction"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/Mothra-3-740x424.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "James Gunn Says He’s “Relieved” to Step Down as DC Studios Co-Head After “Trying” Four Years",
-   "link": "https://reactormag.com/james-gunn-dc-studios-exit-statement/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "News DC Studios James Gunn Says He’s “Relieved” to Step Down as DC Studios Co-Head After “Trying” Four Years Jeremy Latcham, who started at Marvel back in 2004, will take over DC film, television, and animation By Vanessa Armstrong Published on November 9, 2026 James Gunn photo credit: Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons; Peter Safran photo: U.S. Embassy in the Philippines, Public domain, via Wikimedia Commons James Gunn photo credit: Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons; Peter Safran photo: U.S. Embassy in the Philippines, Public domain, via Wikimedia Commons Today we found out that, starting December 1, James Gunn and Peter Safran will no longer be overseeing D",
-   "published": "2026-11-09T12:51-06:00",
-   "tags": [
-    "Blog",
-    "DC Studios",
-    "James Gunn",
-    "movies",
-    "news",
-    "Peter Safran",
-    "television"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/James-Gunn-and-Peter-Safran-740x493.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "An Artificial CORTEX to Guide Satellite Rescue Missions",
    "link": "https://www.universetoday.com/articles/an-artificial-cortex-to-guide-satellite-rescue-missions",
    "source": "Universe Today",
@@ -2694,23 +2915,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Marvin the Mastodon in Stewiacke, Nova Scotia",
-   "link": "https://www.atlasobscura.com/places/marvin-the-mastodon",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "Standing high above the highway in Stewiacke, Nova Scotia, is Marvin the Mastodon, a life-sized replica of a prehistoric giant that once roamed the region. Measuring 14 feet tall and 22 feet long, the enormous statue was erected at Mastodon Ridge in January 1995 to commemorate a remarkable discovery made just a few years earlier. In 1991, while excavating a sinkhole at the National Gypsum Quarry near Milford, an excavator operator noticed a tusk and bones protruding from the earth. Further excavation uncovered the partial skeletons of two mastodons, an adult and a juvenile, along with the remains of numerous other plants and animals that had accumulated in the sinkhole over thousands of year",
-   "published": "2026-11-09T11:00-06:00",
-   "tags": [
-    "statues",
-    "extinct animals"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/Mmc8CoO5ZU5GEwznaX8d66SanaJbpqDcS_qGttQYFks/rs:fill:300:200:1/g:ce/c:1647:1098:nowe:30:130/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85NWJl/YzIxZC0yM2Y5LTQw/NDQtOWE2Zi1iZDcy/ZjJmMzRlOWIxNWQ5/MGYzYTk0OWM0M2I2/ZDBfTm92YV9TY290/aWFfRFNDMDczNjlf/LV9NYXN0b2Rvbl9S/aWRnZV8oMzU5MTMx/NDM5NjUpLmpwZw.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Sunspot AR4566 Doubles in Size While Facing Earth as NOAA Keeps M-Class Flare Odds at 60% - Nature World News",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcGNKa0hQNXV0ZFJfRHBjN2dSTVdvVU5CMzVFQ0t2c3VsU0dHNkYtYW56QmNDUWdheVJfSlV6VzdOVzVtRG54SjhlSnEwWWlTcjd2TXlPb2xvOGNqUWZiT1p4UHZXcW9VVWhYcTdqN3JCY29ISVY1Vnh0bVlBOWR6SE5CbURfQzlxWFQ0ZVlYRGxOLWhtZ1A2Si1lUzRFM19fOFBOVE85MXdmSzRmR0xUMHpDc3BuVkZpNFpyazhjekhOSEd5LVpKUVJpdUpnckhjcnBtOWdn?oc=5",
    "source": "Nature World News",
@@ -2721,29 +2925,6 @@
    "feed": "Google News aurora",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Not Your Usual Cat Cozy: The Joe Grey Mysteries",
-   "link": "https://reactormag.com/not-your-usual-cat-cozy-the-joe-grey-mysteries/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Books SFF Bestiary Not Your Usual Cat Cozy: The Joe Grey Mysteries Even in the realm of paranormal mysteries, Joe Grey is quite unique… By Judith Tarr Published on November 9, 2026 This series is not what I expected at all. The marketing copy for Shirley Rousseau Murphy’s twenty-one Joe Grey mystery novels (and one novella) presents them as cat cozies: cozy mysteries starring cats, in the vein of Lillian Jackson Braun’s Cat Who… series . Cozies are a popular subgenre of mystery. They feature an amateur sleuth, usually female (think Jessica Fletcher or Miss Marple), but it may also be a male, as in the Braun series. The cat in the cat cozy may be a more or less normal cat who solves mysteries",
-   "published": "2026-11-09T10:00-06:00",
-   "tags": [
-    "Blog",
-    "cats",
-    "cozy mysteries",
-    "detective fiction",
-    "Joe Grey Mysteries",
-    "Mysteries",
-    "SFF Bestiary",
-    "Shirley Rousseau Murphy"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/cat-on-the-edge-header-740x407.png",
    "summary_from": "feed"
   },
   {
@@ -2760,22 +2941,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Did Life Begin in an RNA World?",
-   "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-   "source": "Quanta Magazine",
-   "category": "Astronomy and Space",
-   "summary": "There’s scarcely any corner of Earth in which life hasn’t gained a foothold. Living organisms shape the clouds, the climate, even the rocks. But how life first appeared on a barren planet some 4 billion years ago remains one of the biggest questions for science. Many researchers believe that self-replication — an ability to reliably store and copy genetic information — is life’s most core ability. Source",
-   "published": "2026-11-09T09:20-06:00",
-   "tags": [
-    "Biology"
-   ],
-   "feed": "Quanta Magazine",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/RNA-World-cr.Mark-Belan-Default.webp",
-   "summary_from": "feed"
-  },
-  {
    "title": "A Stellar Odd Couple at an Unusual Stage of Evolution",
    "link": "https://www.universetoday.com/articles/a-stellar-odd-couple-at-an-unusual-stage-of-evolution",
    "source": "Universe Today",
@@ -2787,19 +2952,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/Figura2_20261109_162512.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "SOLAR FLARE | Even More Niche and Performative - The Cornell Daily Sun",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWJVTDBpNlVIdnNtVkg3b0o1NVJ6bEdHTnpuZUo3X0VQQm9qVGN3ZGM3b3paOU1iZWZPRVBDSnFSMWRxaEZwM2hiWVpmM2RfQm9zTGxtSVVhdWp0QmotZ3N5Y09oei15VTFjcFIzM2ozelJyT2xvLVF5clg1VTVSSEFLa2dia2ZjZ1VNRGhyeEM?oc=5",
-   "source": "The Cornell Daily Sun",
-   "category": "Space Weather and Aurora",
-   "summary": "SOLAR FLARE | Even More Niche and Performative The Cornell Daily Sun",
-   "published": "2026-11-09T08:07-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2832,37 +2984,6 @@
    "feed": "OpenAI News",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "When AI gets a hold of your book: Guest Post by Jonathan Cowie",
-   "link": "https://file770.com/when-ai-gets-a-hold-of-your-book-guest-post-by-jonathan-cowie/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "By Jonathan Cowie: Am feeling a little guilty, as Mike has already kindly let me have one bite at the cherry. See last month’s post. Anyway, here goes. I love researching to write and writing itself, but – some may be … Continue reading →",
-   "published": "2026-11-09T03:15-06:00",
-   "tags": [
-    "Poor Trufan's Almanack",
-    "artificial intellgence",
-    "Jonathan Cowie"
-   ],
-   "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Nearby Dwarf Galaxies Show Surprising Lack Of Oxygen, Says Paper",
-   "link": "https://www.universetoday.com/articles/nearby-dwarf-galaxies-show-surprising-lack-of-oxygen-says-paper",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "A new study of more than three dozen dwarf galaxies has surprised researchers with just how little oxygen they have been able to retain over cosmic time. The results reveal that we still have major gaps in our understanding of galaxy evolution.",
-   "published": "2026-11-09T02:11-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/STScI-01M4RST3TGWT2T53FVXQBSP75D_1_20261109_080246.jpg",
    "summary_from": "feed"
   },
   {
@@ -2977,6 +3098,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SdUM0TzRLaF9DUzNpOUdRS2xFNnlDVDFOem9BeDcxMnlMbWZURUJMLUY2ckROb1B4VEwwTzZTVVZPNUlYTTJzcEc1RkcwbXZKRGRWdnh4ZUJDYWxISEE?oc=5",
+   "source": "BBC",
+   "category": "Science Fiction",
+   "summary": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life' BBC",
+   "published": "2026-11-08T07:40-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Nexus 1.22.0 Shows Solar Flare Absorption the way NOAA Sees it - Amateur Radio Daily",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ycmoxMm1iNWRLRlJxN3RTZ3Rjb0N5dGhuc1lHRmV3N245em5wc1hDLTlrTE1NYk1TdEFxVnBjMThvTXNsc3ZoM3JFVzRoZGNab3NxeHQ0T08wSmd3V1pzTVdMOE8xSzFJTkU3OTRWUjlGTTYxNXp3dXNYZw?oc=5",
    "source": "Amateur Radio Daily",
@@ -3004,48 +3138,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "How to Harness Your Existential Wanderlust",
-   "link": "https://www.themarginalian.org/2026/11/07/rockwell-kent-wilderness-wanderlust/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "“Wander where you will over all the world, from every valley seeing forever new hills calling you to climb them, from every mountain top farther peaks enticing you… until you stand one day on the last peak on the border of the interminable sea, stopped by the finality of that.” “Man * is by Nature a migratory animal,” the elderly Frederick Douglass reflected in an 1887 speech about his global travels. “It does not appear that he was intended to dwell forever in any one locality. He is a born traveler.” A generation after him, Maya Angelou observed that “you only are free when you realize you belong no place — you belong every place — no place at all.” Partway in time between Douglass and Ang",
-   "published": "2026-11-07T18:35-06:00",
-   "tags": [
-    "art",
-    "culture",
-    "psychology",
-    "books",
-    "creativity",
-    "diaries",
-    "philosophy",
-    "Rockwell Kent"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/02/rockwellkent_wilderness1936.jpg?fit=320%2C439&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Albert Camus on Stubbornness and Creativity",
-   "link": "https://www.themarginalian.org/2026/11/07/albert-camus-writing/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "“There is no greatness without a little stubbornness… Works of art are not born in flashes of inspiration but in a daily fidelity.” Three years after he became the second-youngest laureate of the Nobel Prize, awarded him for literature that “with clear-sighted earnestness illuminates the problems of the human conscience,” Albert Camus (November 7, 1913–January 4, 1960) died in a car crash with an unused train ticket to the same destination in his pocket. The writings he left behind — about the key to strength of character , about creativity as resistance , about the antidotes to the absurdity of life , about happiness as our moral obligation — endure as a living testament to Mary Shelley’s c",
-   "published": "2026-11-07T11:20-06:00",
-   "tags": [
-    "culture",
-    "Albert Camus",
-    "books",
-    "writing"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/11/albertcamus_essays.jpg?fit=263%2C388&ssl=1",
-   "summary_from": "feed"
-  },
-  {
    "title": "Where could the Northern Lights be visible Friday night? NOAA forecasts aurora activity across 10 U.S. states - primetimer.com",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnhFaTlJTU8xZTRPS0NNU1lHMEM2U05sYVEyTXg5WW9kZ1NIZ1V6dldXZWY5c0RfaG90a3VLLVo4SVNFZmJCMjFKM1FsRk5kMDJkUkdVLXE3aVdLanl2QWFFRzJIU3lFRDVPOTZUeHo3amFhUE9ka0EwU2EwRHZlR01tLWZXOWxXWlhIQ0RyRmhGRFhVUWlDaHBFUHpqYUNCSWNxOFFMNkxyOWJoMGY3SU9vQVlISzc3ZTlFMzF5U3dab21jT1dITl9KbUhvam9mVWNwX0F3?oc=5",
    "source": "primetimer.com",
@@ -3056,20 +3148,6 @@
    "feed": "Google News aurora",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist",
-   "link": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities found in Earth’s impact record. Or so says a well known physicist who has long championed this idea.",
-   "published": "2026-11-07T02:47-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/Comet_2021_A1_Leonard_20261107_091553.jpg",
    "summary_from": "feed"
   },
   {
@@ -3110,20 +3188,6 @@
    "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries",
-   "link": "https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Ultra-Diffuse Galaxies are strange because they're as large as the Milky Way, but have far fewer stars. It's as if they're puffed up for some reason. Determining what's going on with them could help confirm the Lambda-CDM model. A new proposed instrument for the Extremely Large Telescope could give astronomers their best look yet at these strange galaxies.",
-   "published": "2026-11-06T14:34-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/1280px-NGC_1052-DF2_a_ghostly_galaxy_lacking_dark_matter_20261106_190049.jpg",
    "summary_from": "feed"
   },
   {
@@ -3175,20 +3239,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars",
-   "link": "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "NASA's ESCAPADE mission features a pair of identical spacecraft on their way to Mars. They launched outside of the normal launch window, so they'll perform powered slingshot maneuvers to boost their speed. Once there, they'll \"fly\" in formation and study how the solar wind interacts with what remains of Mars ancient magnetosphere.",
-   "published": "2026-11-06T10:35-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/8hQwfNsWcwXixNayQBuQy6-750-80_20261106_143237.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Northern Lights Alert: 22 States May See Aurora This Weekend - Forbes",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDloZFNyb2x1ams4eVZoN3p2NkN6cUYzdUlrMlpFV0E2cTBKeFhWUWMtMzVtaDRYSm1sVkxDOVYtNENpbnFDNVQweWJIMnRoNTlKaEcyd1VibVVjVlFXVmY5WHpiMW91cFlncERoY2pNUmROZEpZR0duSnZ6WDNxa1dTS0xJWnRkWXo4MktycEtBOE5UNTdkVW5UNzhIQmJTYUlCZFA1R0Q2OGFadkFPamVTUlE4Z3M0OHc?oc=5",
    "source": "Forbes",
@@ -3199,20 +3249,6 @@
    "feed": "Google News aurora",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Earth's Gravity May Have Kept the Early Moon's Volcanic Heart Beating",
-   "link": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "We typically think of the Moon as a static, floating object that has remained the same for basically its entire lifetime, with an occasional asteroid impact serving as an exception. That understanding is grounded in physics - the Moon should have cooled rapidly after forming when a huge protoplanet hit the early Earth around 4.5 billion years ago. But, some lunar material returned from the Chang’e-5 mission was notably formed only around two billion years ago, yet appeared to be volcanic in origin. So how did a world that was supposed to have settled down without volcanism remain hot enough to create these materials more than two billion years after its violent birth? A new paper from Miao C",
-   "published": "2026-11-06T08:42-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/PIA14011_fig1_20261106_144229.jpg",
    "summary_from": "feed"
   },
   {
@@ -3333,19 +3369,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Cult.fit builds operational muscle with Codex",
-   "link": "https://openai.com/index/cultfit-builds-with-codex",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-   "published": "2026-11-05T14:00-06:00",
-   "tags": [],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Help Shape the Future of .NET: Take the 2026 .NET Developer Survey",
    "link": "https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/",
    "source": "Microsoft .NET Blog",
@@ -3366,26 +3389,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/take-the-dotnet-developer-survey.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Modernize your .NET apps for Windows Arm64 with GitHub Copilot",
-   "link": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/",
-   "source": "Microsoft .NET Blog",
-   "category": "DotNet and Development",
-   "summary": "Arm64 offers the potential for lower compute costs and more efficient infrastructure. But what would it take to get your existing .NET application running on it? The answer may be scattered across your code, dependencies, and build settings. You need to know what already supports Arm64, what needs updating, and how much work is involved. Finding those answers by hand can become a project of its own. The GitHub Copilot upgrade agent helps you move from those questions to concrete changes. It assesses your .NET projects for migration from Windows x64 or x86 to Windows Arm64, identifies blockers, creates a migration plan, and helps update your code, dependencies, and configuration. https://devb",
-   "published": "2026-11-05T12:05-06:00",
-   "tags": [
-    ".NET",
-    "AI",
-    "C#",
-    "GitHub Copilot",
-    "modernization"
-   ],
-   "feed": "Microsoft .NET Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/modernize-net-apps-for-windows-arm64.webp",
    "summary_from": "feed"
   },
   {
@@ -3577,21 +3580,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "link": "https://openai.com/index/introducing-gpt-6-cyber",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-   "published": "2026-11-05T03:00-06:00",
-   "tags": [
-    "Product"
-   ],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Enceladus in Silhouette",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
    "source": "NASA Astronomy Picture of the Day",
@@ -3659,19 +3647,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Solar Flare Alert System Helps NASA Rocket Team Decide When to Launch - NASA Science (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVpSZnVRRmNQaExrek9XZ3RGRlZ6MGdiOEcza1JfODhGOXhYY3BESldzdWY1M0hhd1kwNDl0MWtxd0RMX3ZMeHFwczdYLVBoZ3hDNHJYb2wyUDhBV1VfWVBXR0RqcS1oRVk4T0g4ZU54S09paW1ReWlnajZwM2ZtRzNlbnYwd0d1MlA3QzhIekREdFFQNFNDQUJqLVhkMHB6amRYZm5sb2l2MEVCUXk3TDdLZ2pVYTBCQi1HSFBZc0pjd3c?oc=5",
-   "source": "NASA Science (.gov)",
-   "category": "Space Weather and Aurora",
-   "summary": "Solar Flare Alert System Helps NASA Rocket Team Decide When to Launch NASA Science (.gov)",
-   "published": "2026-11-04T09:05-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Slavdom Unearthed: Marian Wawrzeniecki’s Neopagan Paintings (1891–1923)",
    "link": "https://publicdomainreview.org/collection/marian-wawrzeniecki",
    "source": "Public Domain Review",
@@ -3683,6 +3658,19 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://pdr-assets.b-cdn.net//collections/marian-wawrzeniecki/marian-wawrzeniecki-00011.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Solar Flare Alert System Helps NASA Rocket Team Decide When to Launch - NASA Science (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVpSZnVRRmNQaExrek9XZ3RGRlZ6MGdiOEcza1JfODhGOXhYY3BESldzdWY1M0hhd1kwNDl0MWtxd0RMX3ZMeHFwczdYLVBoZ3hDNHJYb2wyUDhBV1VfWVBXR0RqcS1oRVk4T0g4ZU54S09paW1ReWlnajZwM2ZtRzNlbnYwd0d1MlA3QzhIekREdFFQNFNDQUJqLVhkMHB6amRYZm5sb2l2MEVCUXk3TDdLZ2pVYTBCQi1HSFBZc0pjd3c?oc=5",
+   "source": "NASA Science (.gov)",
+   "category": "Space Weather and Aurora",
+   "summary": "Solar Flare Alert System Helps NASA Rocket Team Decide When to Launch NASA Science (.gov)",
+   "published": "2026-11-04T02:00-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3758,39 +3746,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Aditya-L1 reveals solar eruptions expand asymmetrically; improves space-weather understanding - The Hawk",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME5va19ndmNnRU8wYUhYd0U2SVM4TXRFbzBZaGtUMjU0ZVRsTGRqV3FPT1dQNW5sWlpBVUtqTG9aenF2UHVubDFGTVJGN250ZXQ1TTA3eUwxaGg2OV8tSk4wb1ZvV3FZanFuTUhJZktDTkhWTjVQTmdlbldVZWhWdXFzWDNNRzZFZEtpdFI3ZFdfNEMxbVhBWWVsbXVTT2JndmtDdnlMakI3eTFxcFBSMHJlc2VsTms2aS1rWVA1dVRmRnZrZWZN?oc=5",
-   "source": "The Hawk",
-   "category": "Space Weather and Aurora",
-   "summary": "Aditya-L1 reveals solar eruptions expand asymmetrically; improves space-weather understanding The Hawk",
-   "published": "2026-11-03T06:04-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Polyvagal Theory and the Neurobiology of Connection: The Science of Rupture, Repair, and Reciprocity",
-   "link": "https://www.themarginalian.org/2026/11/03/polyvagal-theory/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "“The mind narrates what the nervous system knows. Story follows state.” “A purely disembodied human emotion is a nonentity,” William James wrote in his pioneering 1884 theory of how our bodies affect our feelings — the first great gauntlet thrown at the Cartesian dualism of body versus mind. In the century and a half since, we have come to see how the body and the mind converge in the healing of trauma ; we have come to see consciousness itself as a full-body phenomenon . Beyond the brain, no portion of the body shapes our mental and emotional landscape more profoundly than the tenth cranial nerve — the longest nerve of the autonomic nervous system that unconsciously governs the inner workin",
-   "published": "2026-11-03T02:45-06:00",
-   "tags": [
-    "culture",
-    "psychology",
-    "science",
-    "books",
-    "love"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2024/05/polyvagal_dana.jpg?fit=320%2C487&ssl=1",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Art of Advancing with Age: Bertrand Russell on What Makes a Fulfilling Life",
    "link": "https://www.themarginalian.org/2026/11/03/how-to-grow-old-bertrand-russell/",
    "source": "The Marginalian",
@@ -3825,25 +3780,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Mars May Have Been Warmer and Wetter for Longer Than We Thought",
-   "link": "https://skyandtelescope.org/astronomy-news/mars-may-have-been-warmer-and-wetter-for-longer-than-we-thought/",
-   "source": "Sky and Telescope News",
-   "category": "Astronomy and Space",
-   "summary": "Orbiter and rover data are showing that water may have flowed more recently on the Martian surface, maybe even into the present era. The post Mars May Have Been Warmer and Wetter for Longer Than We Thought appeared first on Sky & Telescope .",
-   "published": "2026-11-02T17:32-06:00",
-   "tags": [
-    "Astronomy & Observing News",
-    "Solar System",
-    "Uncategorized",
-    "Mars",
-    "water on Mars"
-   ],
-   "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Love in the Time of Dinosaurs",
    "link": "https://www.themarginalian.org/2026/11/02/mary-morland-buckland-megalosaurus/",
    "source": "The Marginalian",
@@ -3860,22 +3796,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/marymorland_hyena.jpg?resize=680%2C529&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Platform Behind the Next AI Breakthrough",
-   "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/",
-   "source": "Microsoft Azure Blog",
-   "category": "DotNet and Development",
-   "summary": "This article has been written and paid for by Microsoft. The content is not WIRED editorial content. The content does not necessarily reflect the views of WIRED, its affiliates, or owner, and does not reflect any endorsement direct or indirect of Microsoft, its affiliates, or other clients. The next frontier of AI is coming into focus as agents take on longer, more strategic work. They can write and validate code, coordinate across systems, rebalance inventory as conditions change, manage production operations, or carry a migration from plan to completion. AI is no longer supporting one step; it is executing and reshaping the process itself. New models help drive this change by expanding wha",
-   "published": "2026-11-02T14:52-06:00",
-   "tags": [
-    "AI + machine learning"
-   ],
-   "feed": "Microsoft Azure Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://media.wired.com/photos/6ada55464d8b7a36ac2c8378/master/w_1600%2Cc_limit/CLO19_azureKinectDK_017.jpg",
    "summary_from": "feed"
   },
   {
@@ -3993,27 +3913,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://pdr-assets.b-cdn.net//collections/monument-to-the-vanquished-peasants/vnderweysungderm00drer_0102-edit-thumb.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "20 Favorite Children’s Books from 20 Years of The Marginalian",
-   "link": "https://www.themarginalian.org/2026/10/25/20-childrens-books/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "“Anyone who writes down to children is simply wasting his time,” E.B. White insisted . “You have to write up, not down. Children are demanding. They are the most attentive, curious, eager, observant, sensitive, quick, and generally congenial readers on earth.” Both as a reader of them and as a writer of them , I have never considered “children’s books” a separate category of literature: The best children’s books are works of philosophy in disguise, shining a sidewise gleam on the fundamental questions we live with, articulating in the language of children, which is the language of great simplicity and great profundity, the most complex truths about being human. But reducing a lifetime of rea",
-   "published": "2026-10-25T15:13-05:00",
-   "tags": [
-    "art",
-    "culture",
-    "best of",
-    "books",
-    "children's books",
-    "illustration"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/10/thelittleprince_original.jpg?w=325&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -4486,6 +4385,32 @@
    "summary_from": "feed"
   },
   {
+   "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
+   "link": "https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/",
+   "source": "Google AI Developers Blog",
+   "category": "AI and Agents",
+   "summary": "How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.",
+   "published": null,
+   "tags": [],
+   "feed": "Google AI Developers Blog",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
+   "link": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/",
+   "source": "Google AI Developers Blog",
+   "category": "AI and Agents",
+   "summary": "Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks, AAD successfully caught 87% of harmful instructions carried out by agents without adding runtime latency. Developers can integrate AAD alongside semantic governance and strict tool limits as part of a defense-in-depth strategy to secure agentic applications.",
+   "published": null,
+   "tags": [],
+   "feed": "Google AI Developers Blog",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
    "link": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
    "source": "Google AI Developers Blog",
@@ -4712,32 +4637,6 @@
    "source": "Google AI Developers Blog",
    "category": "AI and Agents",
    "summary": "TorchTPU integrates a native torch.device(\"tpu\") backend directly into PyTorch, allowing developers to train large-scale models on Google Cloud TPUs without rewriting code in JAX. The TorchTitan TPU fork enhances this with production-grade scaling primitives like SimpleFSDP, Graph Trainer, and custom Pallas kernels that achieve high Model Flops Utilization (MFU) across dense and MoE architectures. Developers can leverage these battle-tested optimization playbooks, recipes, and the Hugging Face modeling backend to efficiently scale their own workloads on TPU infrastructure.",
-   "published": null,
-   "tags": [],
-   "feed": "Google AI Developers Blog",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
-   "link": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
-   "source": "Google AI Developers Blog",
-   "category": "AI and Agents",
-   "summary": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference. Alongside this architecture, the release of the v1.0 open-source IREE/MLIR compiler allows developers to take models from JAX, PyTorch, and TensorFlow straight to Coral NPU hardware without writing custom assembly. Developers can now prototype and deploy these multimodal edge applications using new hardware options like the Synaptics Astra SR200 MCU series and globally available Coralboard devkits.12",
-   "published": null,
-   "tags": [],
-   "feed": "Google AI Developers Blog",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
-   "link": "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
-   "source": "Google AI Developers Blog",
-   "category": "AI and Agents",
-   "summary": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph visualization, split-pane views, and per-node trace overlays to catch export regressions and verify hardware delegation. These tools enable engineering teams to transparently debug execution graphs and pinpoint cycle-level latency bottlenecks locally.",
    "published": null,
    "tags": [],
    "feed": "Google AI Developers Blog",
