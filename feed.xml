@@ -5,8 +5,99 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 13 Nov 2026 01:05:30 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 19:43:53 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Drop-in Vintage CPU Replacements with the tranZPUter Project</title>
+<link>https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/</guid>
+<pubDate>Fri, 13 Nov 2026 13:43:52 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Breathing new life into vintage hardware using modern microcontrollers like the RP2350B and clever PIO peripherals is pure hacker craft. It's a fascinating look at keeping rare 8-bit and 16-bit systems alive when original silicon gives up the ghost.</description>
+<content:encoded><![CDATA[<p><small>from the retro-fitting silicon dept.</small></p>
+<p><em>Breathing new life into vintage hardware using modern microcontrollers like the RP2350B and clever PIO peripherals is pure hacker craft. It&#x27;s a fascinating look at keeping rare 8-bit and 16-bit systems alive when original silicon gives up the ghost.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/pico6809_pcb_top_horiz.png" alt=""></p>
+<p>The tranZPUter project uses modern FPGAs and MCUs to create drop-in replacement CPUs for vintage systems like those based on the Motorola 6809 and Z80. By leveraging the PIO peripherals of the RP2350B, makers can bypass unobtanium parts and keep classic computers running.</p>
+<p><a href="https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Chandra Unmasks Outbursts from a Massive Star</title>
+<link>https://www.nasa.gov/image-article/outbursts-from-a-massive-star/</link>
+<guid isPermaLink="false">https://www.nasa.gov/image-article/outbursts-from-a-massive-star/</guid>
+<pubDate>Fri, 13 Nov 2026 13:42:52 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Understanding the erratic behavior of hyper-massive stars 30 million light-years away gives astrophysicists a front-row seat to stellar instability. NASA's Chandra X-ray Observatory continues to unpack what makes these volatile giants tick.</description>
+<content:encoded><![CDATA[<p><small>from the high-energy astrophysics dept.</small></p>
+<p><em>Understanding the erratic behavior of hyper-massive stars 30 million light-years away gives astrophysicists a front-row seat to stellar instability. NASA&#x27;s Chandra X-ray Observatory continues to unpack what makes these volatile giants tick.</em></p>
+<p><img src="https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg?w=2048" alt=""></p>
+<p>Using NASA&#x27;s Chandra X-ray Observatory, astronomers have uncovered what triggers repeated, violent outbursts from AT 2016blu, an unstable star at least 33 times the mass of our Sun located in the spiral galaxy NGC 4559.</p>
+<p><a href="https://www.nasa.gov/image-article/outbursts-from-a-massive-star/">Read it</a> · Astronomy and Space · NASA News</p>]]></content:encoded>
+</item>
+<item>
+<title>Hacked Nixie Clock Tracks Public Transit</title>
+<link>https://hackaday.com/2026/11/13/hacked-nixie-clock-waits-for-the-bus/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/13/hacked-nixie-clock-waits-for-the-bus/</guid>
+<pubDate>Fri, 13 Nov 2026 13:41:52 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Marrying gorgeous vintage indicator tubes with modern transit APIs via a Raspberry Pi and a bit of microcontroller firmware hacking is an elite hardware-software project. It's the sort of desk accessory every developer secretly wants on their bench.</description>
+<content:encoded><![CDATA[<p><small>from the vintage glow dept.</small></p>
+<p><em>Marrying gorgeous vintage indicator tubes with modern transit APIs via a Raspberry Pi and a bit of microcontroller firmware hacking is an elite hardware-software project. It&#x27;s the sort of desk accessory every developer secretly wants on their bench.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/nixiebus_feat.jpg" alt=""></p>
+<p>A maker took a standard two-digit Nixie tube clock, traced out the pins on its STM8 microcontroller, and hooked it up to a Raspberry Pi Zero to display live countdown minutes for the local bus stop.</p>
+<p><a href="https://hackaday.com/2026/11/13/hacked-nixie-clock-waits-for-the-bus/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Shape-Shifting Robotic Slugs Inspired by Tensegrity Architecture</title>
+<link>https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds</guid>
+<pubDate>Fri, 13 Nov 2026 13:40:52 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Traditional wheeled rovers struggle with jagged planetary boulders and tight crevices, making alternative morphologies essential for future exploration. Borrowing structural design principles from architecture could give future space probes a completely new way to navigate alien worlds.</description>
+<content:encoded><![CDATA[<p><small>from the extraterrestrial crawling dept.</small></p>
+<p><em>Traditional wheeled rovers struggle with jagged planetary boulders and tight crevices, making alternative morphologies essential for future exploration. Borrowing structural design principles from architecture could give future space probes a completely new way to navigate alien worlds.</em></p>
+<p><img src="https://www.universetoday.com/article_images/videoframe_126007_20261113_170944.png" alt=""></p>
+<p>Researchers at Colorado State University&#x27;s Adaptive Robotics Lab have described a shape-shifting robot morphology based on tensegrity—a principle usually seen in architecture—designed to help rovers traverse difficult extraterrestrial terrain.</p>
+<p><a href="https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>BMDS: A Late-90s Style Desktop OS for the ESP32-P4</title>
+<link>https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/</guid>
+<pubDate>Fri, 13 Nov 2026 13:39:52 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Porting a DOS-like, POSIX-compliant operating system complete with a retro GUI to a modern dual-core RISC-V application processor is an incredible feat of weekend hacking. It explores what a contemporary desktop environment might look like if built for today's tinkering microcontrollers.</description>
+<content:encoded><![CDATA[<p><small>from the bare-metal nostalgia dept.</small></p>
+<p><em>Porting a DOS-like, POSIX-compliant operating system complete with a retro GUI to a modern dual-core RISC-V application processor is an incredible feat of weekend hacking. It explores what a contemporary desktop environment might look like if built for today&#x27;s tinkering microcontrollers.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/bmds-featured.jpg" alt=""></p>
+<p>A developer has created BMDS (Bare Metal Do Stuff), a lightweight, DOS-like operating system featuring a late-1990s desktop GUI that runs ELF binaries on Espressif&#x27;s high-end ESP32-P4 application processor.</p>
+<p><a href="https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Pensão Amor: Lisbon's Theatrical Literary Labyrinth</title>
+<link>https://www.atlasobscura.com/places/pensao-amor</link>
+<guid isPermaLink="false">https://www.atlasobscura.com/places/pensao-amor</guid>
+<pubDate>Fri, 13 Nov 2026 13:38:52 -0600</pubDate>
+<category>Curious Discoveries</category>
+<description>Exploring how historical port districts transition from gritty sailor quarters to vibrant cultural spaces is always a great bit of hidden history. Lisbon's Pink Street hides stories of writers, spies, and artists in plain sight.</description>
+<content:encoded><![CDATA[<p><small>from the maritime history dept.</small></p>
+<p><em>Exploring how historical port districts transition from gritty sailor quarters to vibrant cultural spaces is always a great bit of hidden history. Lisbon&#x27;s Pink Street hides stories of writers, spies, and artists in plain sight.</em></p>
+<p><img src="https://img.atlasobscura.com/5lx4mV4jjobzLlqQ8NXH7hHLf9e3FbQ4fk0LImO3zVU/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hODE4/Njc1NC00Mjk5LTQ3/ZDEtYjczZS0xODkw/MGM3YjVkNDRiZjcz/ODBmOTdhZWI3MGE5/NWJfUEVOU0HMg09f/QU1PUl8wMTkyICgx/KSAoMSkuanBn.jpg" alt=""></p>
+<p>Located on Lisbon&#x27;s historic Pink Street, Pensão Amor is a former 19th-century brothel in the old sailors&#x27; quarter that has been transformed into a lavish, velvet-draped venue hosting live music, poetry, and theater.</p>
+<p><a href="https://www.atlasobscura.com/places/pensao-amor">Read it</a> · Curious Discoveries · Atlas Obscura</p>]]></content:encoded>
+</item>
+<item>
+<title>Catching the 2026 Leonid Meteors</title>
+<link>https://www.universetoday.com/articles/tears-of-the-lion-catching-the-2026-leonid-meteors</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/tears-of-the-lion-catching-the-2026-leonid-meteors</guid>
+<pubDate>Fri, 13 Nov 2026 13:37:52 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Keeping tabs on annual meteor showers helps ground us in the predictable yet dynamic rhythms of our solar system. Even during non-storm years, late-November mornings offer a quiet excuse to step outside with a warm mug and look up.</description>
+<content:encoded><![CDATA[<p><small>from the midnight skywatching dept.</small></p>
+<p><em>Keeping tabs on annual meteor showers helps ground us in the predictable yet dynamic rhythms of our solar system. Even during non-storm years, late-November mornings offer a quiet excuse to step outside with a warm mug and look up.</em></p>
+<p><img src="https://www.universetoday.com/article_images/Screenshot_2026-11-11_105109_20261112_180342.png" alt=""></p>
+<p>As mid-November arrives, skywatchers are keeping an eye out for the annual Leonid meteor shower, a precursor to enhanced activity expected as the shower approaches its cyclic peak in the coming years.</p>
+<p><a href="https://www.universetoday.com/articles/tears-of-the-lion-catching-the-2026-leonid-meteors">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
 <item>
 <title>Euclid Space Telescope Releases First Massive Data Batch</title>
 <link>https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky</link>
