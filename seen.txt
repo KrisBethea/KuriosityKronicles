@@ -30,3 +30,10 @@ https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-
 https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/
 https://hackaday.com/2026/11/12/upgrade-your-coco-the-modern-way/
 https://astrobackyard.com/askar-n160/
+https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/
+https://www.nasa.gov/image-article/outbursts-from-a-massive-star/
+https://hackaday.com/2026/11/13/hacked-nixie-clock-waits-for-the-bus/
+https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds
+https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/
+https://www.atlasobscura.com/places/pensao-amor
+https://www.universetoday.com/articles/tears-of-the-lion-catching-the-2026-leonid-meteors
