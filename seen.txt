@@ -24,3 +24,9 @@ https://hackaday.com/2026/11/11/its-elite-for-the-commodore-pet/
 https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/
 https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor
 https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth
+https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky
+https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise
+https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/
+https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/
+https://hackaday.com/2026/11/12/upgrade-your-coco-the-modern-way/
+https://astrobackyard.com/askar-n160/

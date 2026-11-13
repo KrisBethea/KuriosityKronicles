@@ -1,5 +1,76 @@
 [
   {
+    "id": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
+    "link": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/10-euclid-dr1-images-zoominfography-8k4k-4k_20261112_221355.jpg",
+    "title": "Euclid Space Telescope Releases First Massive Data Batch",
+    "category": "Astronomy and Space",
+    "dept": "from the cosmic cartography dept.",
+    "reasoning": "The ESA's Euclid mission has dropped its first major data release, bringing us significantly closer to a comprehensive 3D map of the universe. For anyone tracking cosmological structures and dark matter research, this is a treasure chest of new observations.",
+    "summary": "The European Space Agency's Euclid Space Telescope has published its initial large-scale dataset captured by its 600-megapixel camera. The mission aims to chart the largest 3D map of the universe to better understand dark energy and dark matter.",
+    "added": "2026-11-12T19:05:30-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
+    "link": "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/nasa-s-osiris-rex-spacecraft-approaches-asteroid-101955-bennu-to-sample-its-regolith-as-seen-in-an-artist-s-conception_20261112_175013.jpg",
+    "title": "Asteroid Bennu Samples Deliver Fresh Prebiotic Surprises",
+    "category": "Astronomy and Space",
+    "dept": "from the organic origins dept.",
+    "reasoning": "Comparing asteroid return samples with known meteorites using atomic-level isotope techniques gives researchers a sharper window into the early solar system. It is a fantastic look at how organic precursors to life formed across different parts of the protoplanetary disk.",
+    "summary": "Researchers analyzing samples from asteroid Bennu alongside the Murchison meteorite have measured individual atomic isotope differences within the amino acid beta-alanine. The results indicate that some prebiotic building blocks formed under varying conditions in the early solar system.",
+    "added": "2026-11-12T19:04:30-06:00"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
+    "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
+    "source": "Microsoft Azure Blog",
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Cadence-Xcelium-RTLSimulation-Throughput-1-1024x575.jpg",
+    "title": "Designing Azure Silicon on Custom ARM Hardware",
+    "category": "DotNet and Development",
+    "dept": "from the bare-metal simulation dept.",
+    "reasoning": "Eating your own dog food reaches an extreme scale when a cloud provider uses its own custom ARM processors to simulate and verify future silicon chips. It is a neat look at the heavy electronic design automation workloads required to build modern infrastructure.",
+    "summary": "Microsoft is sharing early results from running electronic design automation workloads for its custom chips on Azure Cobalt 200 hardware. The massive simulation and verification jobs account for hundreds of millions of compute tasks annually.",
+    "added": "2026-11-12T19:03:30-06:00"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/",
+    "link": "https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/",
+    "source": "Microsoft DevBlogs",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Trajectories-Better-Fixes.webp",
+    "title": "Finding Developer Fixes Hiding in AI Agent Trajectories",
+    "category": "DotNet and Development",
+    "dept": "from the trace log troubleshooting dept.",
+    "reasoning": "Passing an evaluation score doesn't tell you why an automated assistant struggled with a coding task, making step-by-step trajectory logs invaluable for engineering improvements. This is a practical reality check for anyone building reliable agent workflows.",
+    "summary": "A deep dive into agent evaluation shows that final test scores often hide how many times an assistant stumbled before succeeding. Analyzing the complete trajectory of every step an agent takes provides the necessary insights to improve developer tooling.",
+    "added": "2026-11-12T19:02:30-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/12/upgrade-your-coco-the-modern-way/",
+    "link": "https://hackaday.com/2026/11/12/upgrade-your-coco-the-modern-way/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/coco-tang-featured.jpg",
+    "title": "Modernizing a Classic TRS-80 Color Computer with an FPGA",
+    "category": "DotNet and Development",
+    "dept": "from the retrofitting silicon dept.",
+    "reasoning": "Retrocomputing hardware mods rarely get more invasive or impressive than giving a vintage 1980s machine an entire system architecture upgrade via modern programmable logic. It is a brilliant piece of engineering nostalgia for anyone who loves old iron.",
+    "summary": "A hardware enthusiast has designed a Tang Nano 20K FPGA board modification that brings modern memory expansion, HDMI output, and enhanced sound to the classic Radio Shack TRS-80 Colour Computer 3.",
+    "added": "2026-11-12T19:01:30-06:00"
+  },
+  {
+    "id": "https://astrobackyard.com/askar-n160/",
+    "link": "https://astrobackyard.com/askar-n160/",
+    "source": "AstroBackyard",
+    "title": "First Look at the Askar N160 Ultra-Fast Newtonian Reflector",
+    "category": "Astrophotography",
+    "dept": "from the backyard optics dept.",
+    "reasoning": "Finding a portable telescope that balances a generous aperture with a fast focal ratio without needing a monstrous mount is always a win for backyard astrophotographers. Real-world testing notes offer a grounded perspective on new imaging gear.",
+    "summary": "A first-hand review of the Askar N160 highlights its performance as a compact, ultra-fast 160mm Newtonian reflector designed to provide high light-gathering power for backyard deep-sky imaging.",
+    "added": "2026-11-12T19:00:30-06:00"
+  },
+  {
     "id": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
     "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
     "source": "NASA News",
