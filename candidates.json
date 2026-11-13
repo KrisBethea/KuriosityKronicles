@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12T19:05-06:00",
- "count": 269,
+ "generated": "2026-11-13T06:12-06:00",
+ "count": 265,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -11,27 +11,27 @@
   "Astronomy and Space | NASA News": {
    "url": "https://www.nasa.gov/news-release/feed/",
    "ok": true,
-   "kept": 8,
+   "kept": 9,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 2,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Astronomy and Space | Universe Today": {
    "url": "https://www.universetoday.com/feed",
    "ok": true,
-   "kept": 14,
+   "kept": 12,
    "entries": 20,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 6,
+   "seen_or_dup": 8,
    "no_title_or_link": 0
   },
   "Astronomy and Space | ESA Space Science": {
@@ -56,26 +56,26 @@
   "Astronomy and Space | Sky and Telescope News": {
    "url": "https://www.skyandtelescope.com/astronomy-news/feed/",
    "ok": true,
-   "kept": 7,
+   "kept": 8,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 3,
+   "old": 2,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Space Weather and Aurora | Google News space weather": {
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 9,
-   "entries": 65,
+   "kept": 10,
+   "entries": 71,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 56,
+   "old": 61,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -101,27 +101,27 @@
   "Astrophotography | AstroBackyard": {
    "url": "https://astrobackyard.com/feed/",
    "ok": true,
-   "kept": 2,
+   "kept": 1,
    "entries": 3,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "Astrophotography | NASA Astronomy Picture of the Day": {
    "url": "https://science.nasa.gov/feed/apod-basic/",
    "ok": true,
-   "kept": 6,
+   "kept": 5,
    "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 20,
-   "seen_or_dup": 4,
+   "seen_or_dup": 5,
    "no_title_or_link": 0
   },
   "Astrophotography | Sky and Telescope Observing": {
@@ -146,27 +146,27 @@
   "DotNet and Development | Microsoft DevBlogs": {
    "url": "https://devblogs.microsoft.com/feed/",
    "ok": true,
-   "kept": 1,
+   "kept": 0,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 8,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "DotNet and Development | Microsoft Azure Blog": {
    "url": "https://azure.microsoft.com/en-us/blog/feed/",
    "ok": true,
-   "kept": 4,
+   "kept": 3,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 6,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "DotNet and Development | Hackaday": {
@@ -289,8 +289,8 @@
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 11,
-   "entries": 29,
+   "kept": 10,
+   "entries": 28,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -367,6 +367,205 @@
  },
  "items": [
   {
+   "title": "Fixing a Dead Socket LGA 1851 Mainboard with a Resistor",
+   "link": "https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Doing board level diagnosis on a PCB is hardly black magic, but some PCBs are definitely more daunting than others. The Socket LGA 1851 mainboard that [Fix the Pixel] got in for repair being one of the harder cases due to the sheer size and complexity. Adding to the excitement was having to purchase a used CPU for it off eBay to even test the board and work through the boot-up sequence to find the culprit. A basic understanding of how these mainboards power up and verify that they can move on to the next phase is essential here, starting with the power rails. Although the culprit turned out to be a single missing 5.1 Ohm resistor on an SPI clock line, you still have to reason your way through the diagnosis. For this mainboard the boardview was fortunately available, but that still doesn’t make it easy to spot components that have quietly left the chat. With the CPU and RAM installed the board doesn’t bother to boot up, with the VRM controller for the CPU’s power phases showing its enable pin to stay low. Going down the list of conditions for this pin to be pulled high the culprit was eventually found, when the PCH – the board’s chipset – never reading the BIOS chip. Checking the SPI lines on the mainboard near the BIOS chip quickly showed the knocked-off resistor on the SPI clock line. Soldering a fresh resistor in place resulted in the board happily booting up once more. Although having a boardview here available helps a lot, checking such basics like the SPI line resistors around the BIOS can be a quick checklist item before dragging out the big diagnostics guns or shelling out money for a boardview file. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is p",
+   "published": "2026-11-13T06:00-06:00",
+   "tags": [
+    "Repair Hacks",
+    "board-level repair",
+    "mainboard",
+    "motherboard"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "page"
+  },
+  {
+   "title": "Meet Ashley Zuk, Minnesota’s only female varsity boys hockey coach this season - Star Tribune",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjNqMzdJMWR6TmhfamZxYVJ4ZWdVUkl2Z09PalJUbzNxSERia3pWTHQzWDdNLVdfdDlwUGoycDdycXdfa2N3QVBRWUhjY2Nja1RtZDJvUkk5aEpsSUFCdm9KbjdoaHh1MW5PUks2TTRpeWxJTjNyT1FSNkNwdndLY2hSZ3hYbGUwdnFqNEppLU90QUR6d2dpb3ZCY1hOZ0JrNTQ4RXNoQQ?oc=5",
+   "source": "Star Tribune",
+   "category": "Minnesota and Nature",
+   "summary": "Meet Ashley Zuk, Minnesota’s only female varsity boys hockey coach this season Star Tribune",
+   "published": "2026-11-13T06:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "This Week's Sky at a Glance, November 13 – 22",
+   "link": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-november-13-22/",
+   "source": "Sky and Telescope News",
+   "category": "Astronomy and Space",
+   "summary": "Jupiter and Mars creep through their pre-dawn conjunction this week. Far lower left of them, Venus and Mercury rise to shine in early dawn. The post This Week's Sky at a Glance, November 13 – 22 appeared first on Sky & Telescope .",
+   "published": "2026-11-13T03:47-06:00",
+   "tags": [
+    "Astronomy & Observing News",
+    "Celestial News & Events",
+    "Observing",
+    "This Week's Sky At a Glance",
+    "This week's sky at a glance"
+   ],
+   "feed": "Sky and Telescope News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hosting Sir Patrick at ConJosé",
+   "link": "https://file770.com/hosting-sir-patrick-at-conjose/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "By Randy Smith: The recent death of Sir Patrick Stewart* has had my mind reaching back to the one time I met him in person. In 2002, the World Science Fiction Convention, more commonly known as “Worldcon,” was held in … Continue reading →",
+   "published": "2026-11-13T03:17-06:00",
+   "tags": [
+    "Worldcon",
+    "ConJose",
+    "Patrick Stewart",
+    "Randy Smith"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hacked Nixie Clock Waits for the Bus",
+   "link": "https://hackaday.com/2026/11/13/hacked-nixie-clock-waits-for-the-bus/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Nixie clocks have become popular enough that these days there’s no shortage of turn-key options that let you experience that warm glow with a minimum of fuss. Many still come as little more than a bare PCB, giving the purchaser some freedom to come up with their own enclosure, but at least the electronics are handled. But for [Justin Scott], putting his new two-digit Nixie clock board into a handsome box was only half the battle . He also wanted to do something a bit more interesting than just tell the time. To convert the board from a simple clock to a device that could show how many minutes until the next bus showed up at his local stop, he had to hack the firmware and establish a communication link to a Raspberry Pi to do the heavy lifting. The first step was to get a modified firmware on the clock PCB, and that required a ST-LINK V2 programmer and some time tracing out the pins on the STM8 microcontroller to determine how they controlled the various elements of the Nixie tubes. Fortunately, there were just I/O pins left over to stand up a serial link to a Raspberry Pi Zero through a level converter. On the Pi side, a Python script hits the bus API to figure out what’s coming and when. There’s some creative blinking of the decimal points to indicate what’s happening behind the scenes, but primarily the display simply shows how many minutes are left before [Justin] should be out waiting for his ride. It would be nice if all those commercial Nixie boards would talk I2C , but at least projects like this show it’s possible to get more out of them than just the time. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-13T03:00-06:00",
+   "tags": [
+    "classic hacks",
+    "clock hacks",
+    "bus",
+    "nixie tube",
+    "nixie tube clock",
+    "public transit",
+    "st-link",
+    "stm8"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/nixiebus_feat.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "A Desktop OS for the ESP32-P4",
+   "link": "https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "The ESP32-P4 is Espressif’s high-end application processor, with two blistering fast RISC-V cores for a surprisingly reasonable price. As it’s a very capable computer in its own right, there have been a range of operating systems made for it. Latest among them is [Jthwho]’s BMDS, for Bare Metal Do Stuff , which targets an Olimex board. At its heart is the FreeRTOS kernel we’ve seen in so many other similar projects, but on top is an OS which is described as being like DOS in its one-user minimally intrusive operation. It runs ELF binaries, and has some POSIX compliance, with BusyBox being a port. Perhaps most noticeable is its GUI, which provides a very slick desktop straight out of the late 1990s. We can see that had this appeared as a contemporary of Amigas, 68k Macs, and Windows 3.x, it would have immediately been a real contender. But the question is, does such an OS have a niche here in 2026? We think it might, as this processor is slowly establishing itself in a new genre of powerful machines aimed at hackers and tinkerers. Either way it’s an impressive achievement, and we look forward to seeing it develop over time. So this question will sound kind of snarky but it is 110% real. Will states like California require age verification now to use an esp32? or maybe to load an esp32 with this rtos? Fun fact. California is the only US federal state that has a German name (Kalifornien). That’s almost ironic, since bureaucracy and silly laws are a German trademark, kind of. 🥲 California is not a German name. It comes from a XVI century Spanish novel https://en.wikipedia.org/wiki/Las_sergas_de_Esplandi%C3%A1n . People previously asked the project’s author “how much time did it take to complete the project”. Nowadays we have to ask “how much tokens did it burn… I used to be",
+   "published": "2026-11-13T00:00-06:00",
+   "tags": [
+    "Software Hacks",
+    "ESP32-P4",
+    "gui",
+    "os"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/bmds-featured.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 and the Star Clouds of Andromeda Explanation: The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy’s pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed ",
+   "published": "2026-11-12T23:05-06:00",
+   "tags": [
+    "APOD"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "A Global Rebound for Mangroves",
+   "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "Earth Observatory Science Earth Observatory A Global Rebound for Mangroves Earth Earth Observatory Image of the Day EO Explorer Topics More Content About Search 2010 2026 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison 2010 2026 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison 2010 2026 Curtain Toggle 2-Up Image Details Mangroves have replaced rice fields in parts of Burma’s Myeik District. The TM (Thematic Mapper) on Landsat 5 captured the image on the left on February 14, 2010, and the OLI on Landsat 9 captured the image on the right on February 2, 2026. NASA Earth Observatory images by Michala Garrison. Scientists began using ",
+   "published": "2026-11-12T23:01-06:00",
+   "tags": [
+    "Earth Observatory",
+    "Land Cover",
+    "Surface Water",
+    "Vegetation"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_tm5_20100214.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hacking Meta’s Smart Glasses",
+   "link": "https://hackaday.com/2026/11/12/hacking-metas-smart-glasses/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Meta’s Ray-Ban smart glasses have attracted plenty of controversy in the relatively short time they have been available, given their potential for covert and unvanted surveillance. But given the chance to examine one it would be churlish to pass up on the opportunity to test its defences. Which is what [p0pcycle] did when the opportunity came her way . Given that hardware-probing was not an option, she followed the course of intercepting a software update. A little app decompilation led her to the full firmware, and she was able to probe its secrets. There’s a developer mode allowing applications to be written for the glasses, and it takes the form of an APK that loads the application code. An early firmware version would trust self-signed apps, so she could get arbitrary code on the device. From there after some trial and error she was able to expose a network listener, and there she had it. The write-up is an interesting walkthrough of the process, and ends with her reporting it through their bug bounty program. So sadly the steps outlined above won’t work on newer firmwares, but we’re guessing that won’t stop others probing this device further. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-12T21:00-06:00",
+   "tags": [
+    "Security Hacks",
+    "meta",
+    "rayban",
+    "smart glasses"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/meta-glases-featured.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Pixel Scroll 11/12/26 Scroll The Pixel On The Left Hand Side",
+   "link": "https://file770.com/pixel-scroll-11-12-26-scroll-the-pixel-on-the-left-hand-side/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "(1) SURVEY SAYS: ANSWERS FROM THE PUBLISHING INDUSTRY. Publishers Weekly’s “2026 Salary & Jobs Report” says “The median pay for the survey’s 886 respondents was $78,000, with 80% receiving a raise last year. Despite increased concerns about the impact of … Continue reading →",
+   "published": "2026-11-12T20:46-06:00",
+   "tags": [
+    "Pixel Scroll",
+    "artificial intellgence",
+    "Back to the Future",
+    "Fran Wilde",
+    "James Davis Nicoll",
+    "Michael Bishop",
+    "Poul Anderson",
+    "Publishers Weekly"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Volunteer Comet Hunter Flags Potential Sun-Grazing Comet in NOAA Space Weather Satellite Data - Tech Times",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWWNvbFNiSWhUVGhFREVQOGwtRHZNQm80ckdvd2cwZkxYQjRNdV9tcGJRWEJxLVZERmYtZ21EWmlhMG93bFdobUg5NFRieUFVTEVKTUJ6M0FVVjlwNTJKU2pfekVTd2piLVhxMFB1OWdFVE85N0ZDTnVBTTF2Snctd2EtaVFPWGhnQkRVclNZQzdHMktmSkM4NW9lV1R0WFpIVHM2aUJoZm5La3g3Z2gyVmNiZlRjbVd3Wll3bmlIZWhVTTN4Mzl1SG1CeUJfN19MNUFuQks1NHlqdUZzVHc?oc=5",
+   "source": "Tech Times",
+   "category": "Space Weather and Aurora",
+   "summary": "Volunteer Comet Hunter Flags Potential Sun-Grazing Comet in NOAA Space Weather Satellite Data Tech Times",
+   "published": "2026-11-12T20:00-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Watch That Sound: Your Own Chladni Plate",
    "link": "https://hackaday.com/2026/11/12/watch-that-sound-your-own-chladni-plate/",
    "source": "Hackaday",
@@ -403,20 +602,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Euclid's First Data Release: A Stepping Stone to its 3D Map of the Sky",
-   "link": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "The ESA's Euclid Space Telescope has released its first huge batch of data. It's all part of the telescope's mission to study dark energy and dark matter. The telescope is busy creating the largest ever 3D map of the Universe with its huge 600 megapixel camera, and new images give us some highlights.",
-   "published": "2026-11-12T17:04-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/10-euclid-dr1-images-zoominfography-8k4k-4k_20261112_221355.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "A Brief-ish History of METI. Part III: The Legacy of Frank Drake & Carl Sagan",
    "link": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iii-the-legacy-of-frank-drake-carl-sagan",
    "source": "Universe Today",
@@ -444,17 +629,16 @@
    "summary_from": "feed"
   },
   {
-   "title": "Asteroid Bennu's Sample Delivers Another Surprise",
-   "link": "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Researchers compared the samples from asteroid Bennu with the Murchison meteorite and measured the amino acid β-alanine in both. Using new techniques, they were able to measure not only their isotopic compositions, but isotopic differences between individual atoms in the same molecule. The results show that some of the same pre-cursors to life formed in different conditions and positions in the protoplanetary disk.",
-   "published": "2026-11-12T15:16-06:00",
+   "title": "Erie Strategic Ventures: Investments In Blitzy And HiddenLayer To Advance Enterprise AI Infrastructure And Security - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWTdMZEh4aEVuUzRVVGpsMHAzcVM3Y18xVHhwMXd3WGtlY3RSS3ZVUWpCRllybDZVbFlPckptQzAtaEJPVFpOaFY3UERkQ3FNMDE5V2ZtdjhrTk1QT2NQSFd5b2lKOVpKZW02Yk5RSEwydm1icjNxSWtzLTdZU2dZZEJXRU0tS1NnR1VDbDFZM2pQRHlRZTZLQ1k0RDZEODZfanlDZEJnRnZncHRGaDRzb2N6ODc0d29vLWkwVVFkR2JxaUJZQ2oyYjByN1BEaUU?oc=5",
+   "source": "Pulse 2.0",
+   "category": "AI and Agents",
+   "summary": "Erie Strategic Ventures: Investments In Blitzy And HiddenLayer To Advance Enterprise AI Infrastructure And Security Pulse 2.0",
+   "published": "2026-11-12T15:15-06:00",
    "tags": [],
-   "feed": "Universe Today",
+   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
-   "image": "https://www.universetoday.com/article_images/nasa-s-osiris-rex-spacecraft-approaches-asteroid-101955-bennu-to-sample-its-regolith-as-seen-in-an-artist-s-conception_20261112_175013.jpg",
    "summary_from": "feed"
   },
   {
@@ -469,25 +653,6 @@
    "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "Upgrade Your CoCo The Modern Way",
-   "link": "https://hackaday.com/2026/11/12/upgrade-your-coco-the-modern-way/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "The Radio Shack TRS-80 Colour Computer may never have achieved the sales volume of its competitors from Commodore or Apple, but it offered a surprisingly capable set of hardware. There were three versions, with the final one being a significant upgrade in many ways. There was no upgrade path for owners of version 1 and 2 machines to have a version 3 back in the day, but now thanks to [Felipe Antoniosi] such an upgrade is possible. How? With a Tang Nano 20K FPGA board , of course! The CoCo 3 had a paged memory system for expansion up to 512k, as well as a significantly more capable graphics chip which while compatible with the original Motorola part offered enhanced graphics. The upgrade emulates these, and connects to the CoCo via a set of daughter boards that connect to where the various motherboard chips sat. it offers an HDMI output as well as analog video and enhanced sound capability, bringing the machine firmly into the 21st century. As mods go to classic hardware, this is quite an invasive one. Whether or not you’d prefer to do this to your CoCo is up to you, but ask yourself this, would you have done this had this board been available in the 1980s? Of course you would. Meanwhile should you become bored with the CoCo, it can also be persuaded to emulate an Apple ][ . Sometimes, with these types of mods, I wonder if it’s possible to just throw the whole system on the FPGA as well. Like at some point is the mod so lopsided in compute that you’d get a better experience with an emulator. Not to entirely write off this or similar mods but it does hurt my enjoyment if it becomes that unbalanced. I have a project that I was dreaming up myself where I worried if this would be the case. Though I couldn’t grasp how much FPGA would be needed to entirely remove the middleman",
-   "published": "2026-11-12T15:00-06:00",
-   "tags": [
-    "Retrocomputing",
-    "CoCo",
-    "Tang",
-    "TRS-80 Colour Computer"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/coco-tang-featured.jpg",
-   "summary_from": "page"
   },
   {
    "title": "The Tar Pits in Lawton, Oklahoma",
@@ -782,27 +947,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Just Use QWIIC Already",
-   "link": "https://hackaday.com/2026/11/12/just-use-qwiic-already/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Years ago, I wrote an article describing different I2C-on-a-connector ecosystems , explaining their strengths, weaknesses, and implementation details, as well as piling on a heap of fun stories. Looking back at it, it’s a great reference article, if I do say so myself. In particular, I highlighted QWIIC, which is a Sparkfun-borne standard for putting 3.3 V I2C on a JST-SH (or compatible) 4-pin connector. I’ve since implemented a fair bit of QWIIC, and grew to like it so much more. I’m here to explain to you why you ought to be putting those JST-SH connectors in everything you design that touches I2C, all the cool things they let you do, where to buy a lot of cheap cables at once, and all the references you could need. I will also tell you about my USB pinout for QWIIC, something you should definitely know about. There’s myriads of devices that speak I2C, and all of them are incredibly useful. Environmental sensors, GPIO expanders, ADCs, PWM chips, motor drivers, LED drivers, small displays, GPS and LoRa chips, voltage and current sensors, memory chips, TPMs, touchpads, NFC readers… You can go to any hobbyist storefront, search for QWIIC compatible sensors, and find gadgets most fitting to a project of yours. I’m not making an argument that you should buy QWIIC devices for everything, even if it’s convenient, because this is not Buy-a-Day. I haven’t intentionally bought anything branded QWIIC to date, either. Instead, standardize on QWIIC for your I2C expansion slots, and use it wherever possible – turns out that it makes things incredibly easy. Standardizing on QWIIC has helped me make development, debugging, and wireup of all of my I2C-powered devices a breeze. In short, I’ve found QWIIC to be a great solution to lots of I2C-shaped (and USB-shaped!) problems. Here’s ju",
-   "published": "2026-11-12T12:00-06:00",
-   "tags": [
-    "Hackaday Columns",
-    "hardware",
-    "how-to",
-    "i2c",
-    "qwiic",
-    "qwusb"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/10/hadimg_use_qwiic_feat.jpg",
-   "summary_from": "page"
-  },
-  {
    "title": "“Today’s rich people are richer than ever, and that seems...",
    "link": "https://kottke.org/26/11/0049979-that-seems-to-have-made-t",
    "source": "Kottke",
@@ -959,25 +1103,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "USB-C Hub or Nintendo Switch 2 Dock? Relax, It’s Both!",
-   "link": "https://hackaday.com/2026/11/12/usb-c-hub-or-nintendo-switch-2-dock-relax-its-both/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "[Nozomi] travels with a Nintendo Switch 2, but the official dock is bulky and doesn’t seem to be made for travel. USB-C hubs with displays are common, but they won’t work with the Switch. Not without a little hacking , anyway. It was obvious that the hub wasn’t too far off. It will charge the Switch, so Power Delivery was working. A sniffer showed that even the DisplayPort initialization happened. A little flashing on the hub allowed it to complete the proprietary protocol, and that made TV mode work, but HDR was washed out. [Nozomi] theorized it was a mismatched color space, so that required a patch for a different chip. Another flash forces the right color tag for HDR TV, but there would have to be another patch for HDR DP. That patch doesn’t exist. Variable refresh rate also does not work. We didn’t find the actual code for the patches, but we still thought the detective work was worth the read. Some people don’t want a more portable dock, but a less portable one . Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-12T10:30-06:00",
-   "tags": [
-    "Nintendo Hacks",
-    "Reverse Engineering",
-    "nintendo switch dock",
-    "USB C"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/usbc.png",
-   "summary_from": "page"
-  },
-  {
    "title": "A Very Special Episode of UltraVision — VisionQuest’s “Forever”",
    "link": "https://reactormag.com/tv-review-visionquest-forever/",
    "source": "Reactor",
@@ -1078,28 +1203,6 @@
    "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "The Sextant: Navigating The Old Way",
-   "link": "https://hackaday.com/2026/11/12/the-sextant-navigating-the-old-way/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Navigation is easy these days, as we’ve entire complex computerized mapping systems and radio-based positioning systems to find ourselves anywhere on Earth. It might seem simple to use GPS these days, even trivial, but billions of dollars are what it took to make that happen. Back in the day, navigation was simpler, and cheaper, using a handheld device and natural objects in space instead of artificial satellites with atomic clocks. Let’s learn about the sextant, and how it did its job. For most of human history, getting lost at sea was a very real way to die. Coastlines can be followed and landmarks recognised, but once the land drops below the horizon, a crew has little more than dead reckoning to go on. You can estimate of speed, heading and elapsed time, but errors pile up the longer you go without a concrete reference as to where you are. When land is out of sight, the sky can offer that very reference point, but you have to be able to measure it accurately enough. That’s where the sextant comes in. It’s a deceptively simple instrument that is, paradoxically, somewhat difficult to understand at a glance. It’s little more than a frame, a pair of mirrors and a small telescope, which lets a navigator measure the angle between a celestial body and the horizon to a tiny fraction of a degree. Take that measurement at the right moment, work through a few tables referencing the detected angle and the time of measurement, and you’ve got your position on the globe. The sextant was predated by the octant, which dates back to the 1730s in implementation—specifically at the hands of John Hadley and Thomas Godfrey, though Isaac Newton had described such a device in unpublished papers sometime earlier. The sextant is so named for being a “sector,” an arc tracing out 1/6th of a ci",
-   "published": "2026-11-12T09:00-06:00",
-   "tags": [
-    "Featured",
-    "History",
-    "Skills",
-    "moon",
-    "navigation",
-    "sextant",
-    "sun"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2020/04/Navigating.jpg",
-   "summary_from": "page"
   },
   {
    "title": "Backlist Bonanza: 5 Underrated Books Set in Weird Small Towns",
@@ -1229,7 +1332,7 @@
    "source": "London Evening Standard",
    "category": "Science Fiction",
    "summary": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale London Evening Standard",
-   "published": "2026-11-12T05:37-06:00",
+   "published": "2026-11-12T05:40-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
    "evergreen": false,
@@ -1892,6 +1995,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Report: Space weather threatens uninsured losses across the globe - Business Insurance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXl5UDktTGlOTkZFYXlPRndBa2kwb0E2Rmk4N081bjJEQ28tMWNINldCR2NaNGxwY1lHaDhlTDU4b1JJb0ZfY2xaMlplYmxfQWwzenBWVExDWnM1QXpieFJnc181NlI5MkNtcUszSnVkcHNOTmc3QWlPbkVDQndXeWp1dXhOTjZXQmVTdFZIYkdKdk9Tam00Z1Rfa0paVzFo?oc=5",
+   "source": "Business Insurance",
+   "category": "Space Weather and Aurora",
+   "summary": "Report: Space weather threatens uninsured losses across the globe Business Insurance",
+   "published": "2026-11-11T08:20-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Could a modern chess engine on a Pentium have defeated...",
    "link": "https://kottke.org/26/11/0049965-could-a-modern-chess-engi",
    "source": "Kottke",
@@ -2005,25 +2121,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Water Surges Into Navajo Reservoir",
-   "link": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Earth Observatory Science Earth Observatory Water Surges Into Navajo… Earth Earth Observatory Image of the Day EO Explorer Topics More Content About Search September 20, 2026 November 7, 2026 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison September 20, 2026 November 7, 2026 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison September 20, 2026 November 7, 2026 Curtain Toggle 2-Up Back-to-back extreme rain events inundated the Four Corners region of the U.S. Southwest in late October and early November 2026. The storms alleviated short-term drought conditions in the Southwest but caused river levels to spike to record or near-record",
-   "published": "2026-11-10T23:01-06:00",
-   "tags": [
-    "Earth Observatory",
-    "Floods",
-    "Landsat 9",
-    "Surface Water"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20260920.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Pixel Scroll 11/10/26 Moon Pixel, Written In A File, I’m Scrolling You In Style, Someday…",
    "link": "https://file770.com/pixel-scroll-11-10-26-moon-pixel/",
    "source": "File 770",
@@ -2115,19 +2212,6 @@
    "tags": [],
    "feed": "Kottke",
    "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The shift from SDLC to ADLC: How the human role is changing in software development - SC Media",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYmVVR3NwcU0zZ1V5T182RjVnTDBrU2J6T3VQT0tLbWRrNGpCeFJ2SmRBZXNSXzZjVEJITlR0bnlJQjNVeTdXNmxoVUtmNTNFeXpsbWdGNE9acHVlcTB0WW9LUUpsNjllUElDSkREcHBDUmJSVTRrbGZoTG4yelBWdklDZ0lET0M4SWg2ZGs3MFVOc3pnVDVtSVNKdlY4bjBOcjBhSVVvUFpZWFlBcGRwMjNmb1dPUQ?oc=5",
-   "source": "SC Media",
-   "category": "AI and Agents",
-   "summary": "The shift from SDLC to ADLC: How the human role is changing in software development SC Media",
-   "published": "2026-11-10T15:53-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -2648,28 +2732,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Pixel Scroll 11/9/26 Another Pixeling, Another Scroll, A Chance For Filers To Say (World,) Hello",
-   "link": "https://file770.com/pixel-scroll-11-9-26-another-pixeling/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "(1) MEEPLE-A-THON GOES BUST. Kansas City’s Meeple-A-Thon was planned for November 8-9. In the middle of the first day one of the show runners started winding down operations, and announced the second day was canceled entirely. A Gaming Nexus writer … Continue reading →",
-   "published": "2026-11-09T20:39-06:00",
-   "tags": [
-    "Pixel Scroll",
-    "Aliette de Bodard",
-    "Archive of Our Own",
-    "Bambi",
-    "Clarion West",
-    "Daniel Dern",
-    "dinosaurs",
-    "Helen Marshall"
-   ],
-   "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "What Makes You Yourself: Posidonia Australis, Pando, and the Paradox of Personhood",
    "link": "https://www.themarginalian.org/2026/11/09/pando/",
    "source": "The Marginalian",
@@ -2701,36 +2763,6 @@
     "Startup"
    ],
    "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Minnesota DNR announces winter walleye rules for Upper Red Lake - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalBjLWF4Qy0wQXgzSHZ5YlJxWl9sbFpfUi16cE02WFNCLXoyTVpwUGJfQ19HblBWMDR4QlEwQ1dUOUpWYlFwR1hoMklic0drUlBIbUl5OHZhS19qOWhib0xrc211OFQ3anY4UzhRYTVLX0xTRm9CNmZ2aFh4bTdsczdUMllVS0VISy0xUG1MYlQ2dEU?oc=5",
-   "source": "Yahoo",
-   "category": "Minnesota and Nature",
-   "summary": "Minnesota DNR announces winter walleye rules for Upper Red Lake Yahoo",
-   "published": "2026-11-09T16:54-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "M. John Harrison Wins Booker Prize 2026",
-   "link": "https://file770.com/m-john-harrison-wins-booker-prize/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "British sff author M. John Harrison has won the Booker Prize 2026 for his thirteenth novel, The End of Everything, a dystopian satire that probes the limits of human understanding. Harrison received £50,000 and a trophy at a ceremony held … Continue reading →",
-   "published": "2026-11-09T16:51-06:00",
-   "tags": [
-    "Awards",
-    "Booker Prize",
-    "M. John Harrison"
-   ],
-   "feed": "File 770",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3015,19 +3047,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "UMN art-science installation redefines success through algae and lichen - The Minnesota Daily",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM2x1Zjg0RHdwVHRBdi1jcWhxYkloTzhjWjhYZzVWenhyc29TcEk3dXJvQmx6Q21KWDRWWEYtQ3hhdm56ZGU0NTFqaEphbVdaTjI2eEMxYXgzUFg2X1JIMVZwYkxfUUZHWFRxVWJKeTMzeng3a3o0MENQXzQxWldZbWxYbTJxUERvRDhYUDc2ZFlGZGhYdnJZeFNhUHQ2MUJZVVdNY2lTX0RzUG5BTW1hUEtSTnZhR3lqOFFUeGk5Qk1nbjBsYzZ6WEVzYk9fNlhnNXRz?oc=5",
-   "source": "The Minnesota Daily",
-   "category": "Minnesota and Nature",
-   "summary": "UMN art-science installation redefines success through algae and lichen The Minnesota Daily",
-   "published": "2026-11-09T01:37-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect - BBC",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xLTFRNTVxRmxXLXpQRF9qYW1udTkwVXNqUHBJMHJQS21DZk85eXFpMzN5cWVMckdzV2J5dXRRTVBJOFVkMHpET0N4eGxNOU1aeTYzTkh3UkhUZ1E?oc=5",
    "source": "BBC",
@@ -3221,19 +3240,6 @@
     "AI + machine learning"
    ],
    "feed": "Microsoft Azure Blog",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Geomagnetic storm could light up night sky - Yahoo News Canada",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSUxVYnhjYWxsZU12QTM2dDBJN0hfTk14cl9jZzVtelhZbXZmdEF1TWpVZmE4NlJkdUNiQ3NxTGR2bjBvczlkZ1Vpek9kMXJQejREcGNIa3Q2bm92VG11R1dYUEFOVXR5VDFha3JNbm9VWFhtcVZVQS1ORTFGWWJxWjBn?oc=5",
-   "source": "Yahoo News Canada",
-   "category": "Space Weather and Aurora",
-   "summary": "Geomagnetic storm could light up night sky Yahoo News Canada",
-   "published": "2026-11-06T12:18-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3453,40 +3459,6 @@
    "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
-   "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
-   "source": "Microsoft Azure Blog",
-   "category": "DotNet and Development",
-   "summary": "Every Azure chip Microsoft has built started as electronic design automation (EDA) jobs used to design, test, and validate silicon before it is manufactured. This includes simulation sweeps that run for days, verification regressions that fan out across thousands of cores overnight, and physical signoff runs that use hundreds of gigabytes of memory for a single block. Together, these workloads account for hundreds of millions of compute jobs each year. Today we’re sharing early results from our next step in that evolution: running EDA workloads on Azure Cobalt 200 , Azure’s custom compute infrastructure built on the Arm Neoverse CSS V3. In our silicon design environment, the evaluated EDA wo",
-   "published": "2026-11-05T10:00-06:00",
-   "tags": [
-    "Compute"
-   ],
-   "feed": "Microsoft Azure Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Cadence-Xcelium-RTLSimulation-Throughput-1-1024x575.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Your best AX fixes are hiding in agent trajectories",
-   "link": "https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/",
-   "source": "Microsoft DevBlogs",
-   "category": "DotNet and Development",
-   "summary": "An eval score tells you whether the agent finished the task. To improve how agents work with your product, you need to see where they struggled, and that’s in the trajectory, the record of every step the agent took and why. Agents are persistent. They guess another URL after a 404 and try values until an error goes away, so the struggle rarely shows up in the score. We saw this when we evaluated Dev Proxy , a local proxy that intercepts your app’s HTTP requests. We asked GitHub Copilot Chat with Claude Sonnet 5.5 and no extensions, five times, to write a CI script that uses the Dev Proxy API to record which GitHub APIs a Node.js tool calls. All five scripts worked. Yet the trajectories showe",
-   "published": "2026-11-05T09:40-06:00",
-   "tags": [
-    "AI",
-    "Agent Experience",
-    "AX"
-   ],
-   "feed": "Microsoft DevBlogs",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Trajectories-Better-Fixes.webp",
    "summary_from": "feed"
   },
   {
@@ -3766,20 +3738,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Comet PanSTARRs and Rainbow Meteor",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
-   "source": "NASA Astronomy Picture of the Day",
-   "category": "Astrophotography",
-   "summary": "APOD: 2026 November 3 - Comet PanSTARRs and Rainbow Meteor Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 2026 November 3 Comet PanSTARRs and Rainbow Meteor Image Credit & Copyright : Eddy Metais Explanation: Explanation: Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor . Comet C/2025 R3 (PanSTARRS",
-   "published": "2026-11-02T23:05-06:00",
-   "tags": [],
-   "feed": "NASA Astronomy Picture of the Day",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Love in the Time of Dinosaurs",
    "link": "https://www.themarginalian.org/2026/11/02/mary-morland-buckland-megalosaurus/",
    "source": "The Marginalian",
@@ -3997,22 +3955,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/kbWK5wcb9s35ps9-QHRQvrSaKSWZbh77llreNB9c2UY/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9hNWZlZWFkMS01/NjAwLTQwYzQtYjc0/Yy0yYTMwOTIwNTgy/MDJmMmQzZjVlZmJh/NjUxZDY1ZGJfU2Ny/ZWVuc2hvdCAyMDI2/LTEwLTE0IGF0IDEy/LjU4LjQ3IFBNLnBu/Zw.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Askar N160 First Look",
-   "link": "https://astrobackyard.com/askar-n160/",
-   "source": "AstroBackyard",
-   "category": "Astrophotography",
-   "summary": "In this Askar N160 review, I’ll share my experience using this compact, ultra-fast Newtonian reflector for backyard astrophotography. With a 160mm aperture and an f/3.4 focal ratio with its included coma corrector, it promises plenty of light-gathering power without a massive setup. I spent about two months testing the N160 before sharing my first impressions,... The post Askar N160 First Look appeared first on AstroBackyard .",
-   "published": "2026-10-14T10:47-05:00",
-   "tags": [
-    "Equipment",
-    "Telescopes"
-   ],
-   "feed": "AstroBackyard",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
