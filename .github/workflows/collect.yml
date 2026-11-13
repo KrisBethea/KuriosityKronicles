@@ -8,6 +8,11 @@ on:
     - cron: "17 */4 * * *"    # every four hours (UTC)
   workflow_dispatch:          # the "Run workflow" button
 
+  push:
+    paths:
+      - "editorial_config.yml"
+      - "editorial_control.py"
+
 permissions:
   contents: write             # push to this repo only
 
@@ -22,6 +27,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Load editorial settings
+        run: |
+          python3 -m pip install "PyYAML>=6,<7"
+          python3 -I editorial_control.py sync
+
       - name: Check the sanitiser
         run: python3 -I collector/test_sanitise.py
 
@@ -31,14 +46,15 @@ jobs:
       - name: Commit candidates
         run: |
           # ignore the timestamp line so an unchanged pool makes no commit
-          if git diff --quiet -I '"generated"' -- candidates.json submit.txt collector/held.json; then
+          if git diff --quiet -I '"generated"' -- candidates.json submit.txt collector/held.json profile.md collector/sources.txt; then
+
             echo "No change."
             exit 0
           fi
           n=$(python3 -c "import json;print(json.load(open('candidates.json'))['count'])")
           git config user.name "neat-collector"
           git config user.email "neat-collector@users.noreply.github.com"
-          git add candidates.json submit.txt collector/held.json
+          git add candidates.json submit.txt collector/held.json profile.md collector/sources.txt
           git commit -m "Collect feeds: $n candidates"
           git pull --rebase origin main
           git push

@@ -23,12 +23,15 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parent
+# Read approved categories from editorial_config.yml.
+sys.path.insert(0, str(ROOT))
+from editorial_control import category_names
+   
 LOCAL_TZ = ZoneInfo("America/Chicago")
 WINDOW_HOURS = 3
 
-CATEGORIES = {
-    'Astronomy and Space', 'Space Weather and Aurora', 'Astrophotography', 'DotNet and Development', 'AI and Agents', 'Science Fiction', 'Minnesota and Nature', 'Curious Discoveries', 'Wildcard', 'Meta'
-}
+CATEGORIES = category_names()
+   
 URL_IN_TEXT = re.compile(r"(https?://|www\.|\b[a-z0-9-]+\.(com|org|net|io|co|uk|edu|gov)/)", re.I)
 DEPT = re.compile(r"^from the [A-Za-z0-9'’ -]+ dept\.$")
 LIMITS = {"title": (5, 200), "source": (2, 80), "dept": (12, 90),

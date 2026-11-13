@@ -1,0 +1,255 @@
+# KURIOSITY KRONICLES: YOUR SINGLE EDITORIAL SETTINGS FILE
+# Edit this file on GitHub when you want new interests, priorities or RSS sources.
+# Keep indentation as shown (two spaces). Never put API keys here.
+# enabled: false turns a topic off for FUTURE collection; old published stories remain.
+# priority guides Gemini's choices; keywords are editorial signals, not live web searches.
+# sources must be actual RSS/Atom/RDF feeds (Google News RSS search links also work).
+# Sources in this file replace collector/sources.txt during GitHub Actions runs.
+# A new category appears on your site once Gemini publishes a story in it.
+
+version: 1
+editor:
+  purpose: >
+    A curious Minnesota-based C#/.NET developer and amateur astronomer
+    wants clear, useful, surprising science and engineering stories,
+    without outrage or manufactured urgency.
+
+    Prioritize curiosity, evidence, explanation, and discovery.
+    Favor articles that explore what happened, why it happened,
+    how it was observed or established, and what we're learning
+    from it.
+
+    Seek substance over sensationalism, acknowledge uncertainty,
+    and distinguish established findings from speculation.
+
+  voice: Short, clear, accurate summaries with a lightly witty, nerdy editorial note. Original "from the ...
+    dept." lines are welcome. No invented facts or exaggerated certainty.
+  avoid:
+    - Political outrage and partisan commentary
+    - Sensationalism, SEO listicles and misleading clickbait
+    - Unfounded speculation presented as confirmed science
+    - Tech-industry drama, gossip and repetitive AI marketing
+    - Generic daily forecasts and routine forecast bulletins
+    - Paywalled coverage when a readable source explains the same finding
+topics:
+  - name: Astronomy and Space
+    enabled: true
+    priority: high
+    description: Astronomical discoveries, observatories, cosmology, spacecraft, satellites, and planetary
+      science.
+    keywords:
+      - new discovery
+      - galaxy
+      - planetary science
+      - observatory
+      - mission results
+    avoid: []
+    sources:
+      - name: NASA Science
+        url: https://science.nasa.gov/feed/
+      - name: NASA News
+        url: https://www.nasa.gov/news-release/feed/
+      - name: Universe Today
+        url: https://www.universetoday.com/feed
+      - name: ESA Space Science
+        url: https://www.esa.int/rssfeed/Our_Activities/Space_Science
+      - name: Quanta Magazine
+        url: https://api.quantamagazine.org/feed/
+      - name: Sky and Telescope News
+        url: https://www.skyandtelescope.com/astronomy-news/feed/
+  - name: Space Weather and Aurora
+    enabled: true
+    priority: high
+    description: Solar flares, CMEs, geomagnetic storms, aurora, satellites and real operational impacts; distinguish
+      observed conditions from forecasts.
+    keywords:
+      - aurora
+      - space weather
+      - magnetosphere
+      - NOAA SWPC
+      - satellite effects
+    avoid:
+      - unsupported severe-storm claims
+    sources:
+      - name: Google News space weather
+        url: https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en
+      - name: Google News aurora
+        url: https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en
+      - name: NASA Science
+        url: https://science.nasa.gov/feed/
+  - name: Astrophotography
+    enabled: true
+    priority: high
+    description: Night-sky photography, smart telescopes, image processing, observing techniques and practical
+      equipment discoveries.
+    keywords:
+      - Siril
+      - Seestar
+      - astrophotography
+      - tracking mounts
+      - image processing
+    avoid:
+      - generic product advertisements
+    sources:
+      - name: AstroBackyard
+        url: https://astrobackyard.com/feed/
+        flags:
+          - evergreen
+      - name: NASA Astronomy Picture of the Day
+        url: https://science.nasa.gov/feed/apod-basic/
+      - name: Sky and Telescope Observing
+        url: https://www.skyandtelescope.com/observing/rss
+        flags:
+          - evergreen
+  - name: Weather & Meteorology
+    enabled: true
+    priority: high
+    description: Meteorological science, major extreme-weather events, rare atmospheric phenomena, weather
+      radar, satellites, forecasting advances, and meaningful Minnesota/Midwest storms. No daily forecast feed
+      or political climate debate.
+    keywords:
+      - tornadoes and derechos
+      - hurricanes and atmospheric rivers
+      - blizzards and ice storms
+      - rare clouds and optical phenomena
+      - radar and weather satellite technology
+      - forecasting research
+      - Minnesota severe weather
+    avoid:
+      - climate-policy arguments and political commentary
+      - sensationalized predictions
+      - routine day-to-day forecasts
+      - unsupported storm claims
+    sources:
+      - name: Google News severe weather science
+        url: https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en
+      - name: Google News unusual weather
+        url: https://news.google.com/rss/search?q=%22rare+weather%22+OR+%22atmospheric+phenomenon%22+OR+%22unusual+cloud%22&hl=en-US&gl=US&ceid=US:en
+      - name: Google News major storms
+        url: https://news.google.com/rss/search?q=%22tornado%22+OR+%22derecho%22+OR+%22blizzard%22+OR+%22atmospheric+river%22&hl=en-US&gl=US&ceid=US:en
+      - name: Google News Minnesota and Midwest weather
+        url: https://news.google.com/rss/search?q=%22Minnesota%22+%22severe+weather%22+OR+%22Midwest%22+%22winter+storm%22&hl=en-US&gl=US&ceid=US:en
+      - name: Google News NOAA weather science
+        url: https://news.google.com/rss/search?q=%22NOAA%22+%22weather+radar%22+OR+%22weather+satellite%22+OR+%22forecast+model%22&hl=en-US&gl=US&ceid=US:en
+  - name: DotNet and Development
+    enabled: true
+    priority: high
+    description: C#, .NET, Blazor, ASP.NET Core, SQL Server, Azure, GitHub and real software engineering lessons.
+    keywords:
+      - C#
+      - .NET 10
+      - Blazor
+      - SQL Server
+      - Azure
+      - Visual Studio
+    avoid:
+      - Python-only tutorials unrelated to .NET
+    sources:
+      - name: Microsoft .NET Blog
+        url: https://devblogs.microsoft.com/dotnet/feed/
+      - name: Microsoft DevBlogs
+        url: https://devblogs.microsoft.com/feed/
+      - name: Microsoft Azure Blog
+        url: https://azure.microsoft.com/en-us/blog/feed/
+      - name: Hackaday
+        url: https://hackaday.com/feed/
+        flags:
+          - fulltext
+  - name: AI and Agents
+    enabled: true
+    priority: high
+    description: Working agentic AI systems, AI coding assistants, research results, engineering patterns and
+      evaluation.
+    keywords:
+      - Microsoft Agent Framework
+      - coding agents
+      - LLM evaluation
+      - AI applications
+    avoid:
+      - AI hype and empty marketing claims
+    sources:
+      - name: Microsoft Foundry Blog
+        url: https://devblogs.microsoft.com/foundry/feed/
+      - name: Google AI Developers Blog
+        url: https://developers.googleblog.com/feeds/posts/default
+      - name: OpenAI News
+        url: https://openai.com/news/rss.xml
+      - name: Google News AI agents
+        url: https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en
+  - name: Science Fiction
+    enabled: true
+    priority: medium
+    description: Doctor Who, substantive science fiction, production news and storytelling ideas.
+    keywords:
+      - Doctor Who
+      - science fiction
+      - creative production
+    avoid:
+      - trivia with no interesting angle
+    sources:
+      - name: Reactor
+        url: https://reactormag.com/feed/
+      - name: File 770
+        url: https://file770.com/feed/
+      - name: Google News Doctor Who
+        url: https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en
+  - name: Minnesota and Nature
+    enabled: true
+    priority: medium
+    description: Minnesota science, wildlife, astronomy, field observations and unusual regional discoveries.
+    keywords:
+      - Minnesota
+      - Twin Cities
+      - wildlife
+      - aurora
+      - natural history
+    avoid:
+      - routine crime or politics
+    sources:
+      - name: Google News Minnesota astronomy
+        url: https://news.google.com/rss/search?q=Minnesota+astronomy+OR+aurora+OR+observatory&hl=en-US&gl=US&ceid=US:en
+      - name: Google News Minnesota nature
+        url: https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en
+  - name: Curious Discoveries
+    enabled: true
+    priority: medium
+    description: Remarkable inventions, overlooked history, peculiar science and genuinely interesting side
+      projects.
+    keywords:
+      - forgotten technology
+      - archaeology
+      - restoration
+      - scientific surprise
+    avoid:
+      - clickbait listicles
+    sources:
+      - name: Public Domain Review
+        url: https://publicdomainreview.org/rss.xml
+        flags:
+          - evergreen
+      - name: Atlas Obscura
+        url: https://www.atlasobscura.com/feeds/latest
+        flags:
+          - evergreen
+      - name: Damn Interesting
+        url: https://www.damninteresting.com/feed/
+        flags:
+          - evergreen
+      - name: The Marginalian
+        url: https://www.themarginalian.org/feed/
+        flags:
+          - evergreen
+  - name: Wildcard
+    enabled: true
+    priority: low
+    description: One genuinely fascinating surprise outside the normal categories, when deserved.
+    keywords:
+      - unexpected discovery
+      - clever invention
+    avoid:
+      - random filler
+    sources:
+      - name: Kottke
+        url: https://feeds.kottke.org/main
+        flags:
+          - evergreen

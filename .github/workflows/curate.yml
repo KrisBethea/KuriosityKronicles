@@ -59,6 +59,18 @@ jobs:
           if [[ "$IS_MANUAL" == "true" ]]; then args+=(--manual); fi
           if [[ "$FORCE_RUN" == "true" ]]; then args+=(--force); fi
           python3 -I curator/slot_guard.py check "${args[@]}"
+          
+      - name: Set up Python for editorial settings
+        if: steps.guard.outputs.should_run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Load editorial settings
+        if: steps.guard.outputs.should_run == 'true'
+        run: |
+          python3 -m pip install "PyYAML>=6,<7"
+          python3 -I editorial_control.py sync
 
       - name: Curate from sanitized pool
         if: steps.guard.outputs.should_run == 'true'
