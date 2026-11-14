@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time",
+    "link": "https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/261114-starship5_20261114_214058.jpg",
+    "title": "SpaceX Catches Starship From Orbit for First Time",
+    "category": "Astronomy and Space",
+    "dept": "from the orbital acrobatics dept.",
+    "reasoning": "Retrieving a second-stage rocket via midair capture is an astonishing engineering feat that pushes reusable rocketry into uncharted territory. This successful maneuver caps a rigorous 22.5-hour orbital test flight with unprecedented precision.",
+    "summary": "SpaceX successfully brought back its Starship rocket's second stage for a first-ever midair capture at the launch pad during a record-setting orbital test flight.",
+    "added": "2026-11-14T17:55:07-06:00"
+  },
+  {
+    "id": "https://astrobackyard.com/ngc-7331-galaxy/",
+    "link": "https://astrobackyard.com/ngc-7331-galaxy/",
+    "source": "AstroBackyard",
+    "title": "NGC 7331: Galaxy Facts, Photos, and Astrophotography Tips",
+    "category": "Astrophotography",
+    "dept": "from the tilted island dept.",
+    "reasoning": "Exploring deep-sky targets like NGC 7331 offers backyard astronomers a rewarding challenge in capturing distant spiral structures and background galaxies. It highlights practical observing techniques for bringing out subtle cosmic detail.",
+    "summary": "NGC 7331 is a stunning spiral galaxy located approximately 45 million light-years away in the constellation Pegasus, serving as a classic target for deep-sky astrophotography.",
+    "added": "2026-11-14T17:54:07-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/",
+    "link": "https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/score_perfect.png",
+    "title": "Reverse Engineering Score Perfect to Rescue Music Files",
+    "category": "DotNet and Development",
+    "dept": "from the binary archaeology dept.",
+    "reasoning": "Preserving legacy file formats when application development ceases is one of the most stubborn challenges in digital archiving. This multi-year deep dive into native code demonstrates the sheer persistence required to keep historical data accessible.",
+    "summary": "After music notation software development ceased, a dedicated developer spent four years reverse-engineering the binary file structure of Score Perfect to rescue historical files.",
+    "added": "2026-11-14T17:53:07-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/",
+    "link": "https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/CO2-sensors.png",
+    "title": "Making CO2 Sensors Fail Visibly, Not Silently",
+    "category": "DotNet and Development",
+    "dept": "from the sensible sensors dept.",
+    "reasoning": "Silent sensor failures are a silent hazard in home automation, often masquerading as healthy, unchanging flat lines. This clever configuration fix uses ESPHome and visible fault indicators to ensure broken hardware cannot hide behind assumed good data.",
+    "summary": "A clever Home Assistant and ESPHome tweak ensures that carbon dioxide sensors flash a visible warning LED rather than quietly displaying stale, unchanging readings when failing.",
+    "added": "2026-11-14T17:52:07-06:00"
+  },
+  {
+    "id": "https://www.atlasobscura.com/places/xuan-phong-church",
+    "link": "https://www.atlasobscura.com/places/xuan-phong-church",
+    "source": "Atlas Obscura",
+    "image": "https://img.atlasobscura.com/EwFGy2aVM3JfekANBl3grTP3E0qrCa-84CHDiHpyqQE/rs:fill:300:200:1/g:ce/c:1076:717:nowe:0:303/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zMzk2/MmJlMS1hMmU4LTQ5/OTQtYTc0ZC1iMjBj/N2FhY2FjNTJiZmZh/ODgyZGJiYTllYjgw/OGVfMTAwMDAxMjIx/OC5wbmc.png",
+    "title": "Xuan Phong Church and Its Ancient Cham Heritage",
+    "category": "Curious Discoveries",
+    "dept": "from the architectural cross-pollination dept.",
+    "reasoning": "History often leaves behind unexpected physical bridges between vastly different eras and traditions. This rural sanctuary creatively reuses ancient medieval bricks and mimics traditional tower silhouettes to blend disparate cultures.",
+    "summary": "Erected around 1890 using repurposed ancient Cham bricks, Xuan Phong Church in Vietnam uniquely blends Catholic history with medieval Champa architecture.",
+    "added": "2026-11-14T17:51:07-06:00"
+  },
+  {
+    "id": "https://kottke.org/26/11/0049960-solving-the-feynman-resta",
+    "link": "https://kottke.org/26/11/0049960-solving-the-feynman-resta",
+    "source": "Kottke",
+    "title": "Solving the Feynman Restaurant Problem",
+    "category": "Wildcard",
+    "dept": "from the optimal ordering dept.",
+    "reasoning": "Applying rigorous mathematical strategies to everyday dilemmas like menu selection is a delightful exercise in optimization. It turns a casual meal into a structured exploration of personal preference.",
+    "summary": "The Feynman restaurant problem explores how many dishes one should sample at an establishment before settling on a permanent favorite order for all future visits.",
+    "added": "2026-11-14T17:50:07-06:00"
+  },
+  {
     "id": "https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/",
     "link": "https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/",
     "source": "Hackaday",
