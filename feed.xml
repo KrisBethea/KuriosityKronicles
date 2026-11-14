@@ -5,8 +5,84 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 13 Nov 2026 19:43:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 00:53:31 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Running the X Window System on an ESP32 Microcontroller</title>
+<link>https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/</guid>
+<pubDate>Fri, 13 Nov 2026 18:53:31 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Bringing a vintage X11 server to a tiny microcontroller with an IPS panel proves that some architectures simply refuse to die. It is a wonderfully quirky hardware hack that reminds us how lightweight old protocols can be when paired with modern embedded chips.</description>
+<content:encoded><![CDATA[<p><small>from the window manager dept.</small></p>
+<p><em>Bringing a vintage X11 server to a tiny microcontroller with an IPS panel proves that some architectures simply refuse to die. It is a wonderfully quirky hardware hack that reminds us how lightweight old protocols can be when paired with modern embedded chips.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/WoodlandX11_d196a1.jpg" alt=""></p>
+<p>Developers have successfully ported a core X Window System server, Woodland X11, to run on an ESP32-S3 microcontroller paired with a touch display. While it skips extensions and keyboards, it handles classic X applications like xclock and xeyes with surprising smoothness over a wired or Wi-Fi network connection.</p>
+<p><a href="https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Astrophysicists Cross Stupendously Large Black Holes Off the Dark Matter List</title>
+<link>https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes</guid>
+<pubDate>Fri, 13 Nov 2026 18:52:31 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Ruling out another hypothetical candidate brings researchers one step closer to solving one of physics' greatest enduring mysteries. It is a great example of how modern observational constraints continue to narrow down the viable parameter space for dark matter.</description>
+<content:encoded><![CDATA[<p><small>from the cosmic ledger dept.</small></p>
+<p><em>Ruling out another hypothetical candidate brings researchers one step closer to solving one of physics&#x27; greatest enduring mysteries. It is a great example of how modern observational constraints continue to narrow down the viable parameter space for dark matter.</em></p>
+<p><img src="https://www.universetoday.com/article_images/08_PRISMA_PI_stupendous_black_holes_20261113_200612.jpg" alt=""></p>
+<p>New research indicates that primordial black holes known as SLABs, or Stupendously Large Black Holes, cannot account for the universe&#x27;s missing dark matter. Astrophysicists continue ruling out exotic theoretical candidates as they search for the true nature of dark matter.</p>
+<p><a href="https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>LOFAR Delivers the Deepest Low-Frequency Radio Image of the Sky</title>
+<link>https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date</guid>
+<pubDate>Fri, 13 Nov 2026 18:51:31 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>High-resolution radio astronomy opens a fascinating window into the early universe by capturing subtle signals that optical telescopes miss. This milestone highlights the power of international telescope arrays in mapping our cosmic neighborhood.</description>
+<content:encoded><![CDATA[<p><small>from the low-frequency wavelengths dept.</small></p>
+<p><em>High-resolution radio astronomy opens a fascinating window into the early universe by capturing subtle signals that optical telescopes miss. This milestone highlights the power of international telescope arrays in mapping our cosmic neighborhood.</em></p>
+<p><img src="https://www.universetoday.com/article_images/image_9980e-LOFAR-Galaxies_20261113_212839.jpg" alt=""></p>
+<p>An international team using the Low Frequency Array has produced the sharpest and most sensitive radio image of the low-frequency sky to date. The detailed survey reveals new insights into galactic structures and cosmic evolution across distant epochs.</p>
+<p><a href="https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Fixing a Dead Socket LGA 1851 Motherboard with a Single Resistor</title>
+<link>https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/</guid>
+<pubDate>Fri, 13 Nov 2026 18:50:31 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Board-level hardware repair requires genuine detective work, logic reasoning, and a steady hand with a soldering iron. Tracing power rails to find a missing passive component is a masterclass in modern electronic troubleshooting.</description>
+<content:encoded><![CDATA[<p><small>from the component-level triage dept.</small></p>
+<p><em>Board-level hardware repair requires genuine detective work, logic reasoning, and a steady hand with a soldering iron. Tracing power rails to find a missing passive component is a masterclass in modern electronic troubleshooting.</em></p>
+<p>A hardware troubleshooter successfully resurrected a complex Socket LGA 1851 motherboard by tracing power rails and discovering a single missing 5.1 Ohm resistor on an SPI clock line. The repair demonstrates the meticulous methodology required for diagnosing modern multi-phase motherboards.</p>
+<p><a href="https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Hera Spacecraft Peeks at Asteroid Moonlet After DART Impact</title>
+<link>https://skyandtelescope.org/astronomy-news/spacecraft-investigates-asteroid-after-impact/</link>
+<guid isPermaLink="false">https://skyandtelescope.org/astronomy-news/spacecraft-investigates-asteroid-after-impact/</guid>
+<pubDate>Fri, 13 Nov 2026 18:49:31 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Following up on humanity's first planetary defense test with dedicated spacecraft observations turns science fiction into rigorous planetary science. It offers a rare chance to study how an asteroid's morphology changed after a high-speed collision.</description>
+<content:encoded><![CDATA[<p><small>from the kinetic impact aftermath dept.</small></p>
+<p><em>Following up on humanity&#x27;s first planetary defense test with dedicated spacecraft observations turns science fiction into rigorous planetary science. It offers a rare chance to study how an asteroid&#x27;s morphology changed after a high-speed collision.</em></p>
+<p>Europe&#x27;s Hera spacecraft has arrived at the Dimorphos-Didymos asteroid system to conduct a detailed close-up investigation following NASA&#x27;s DART kinetic impact test. The mission will measure the structural aftermath and surface changes resulting from the collision.</p>
+<p><a href="https://skyandtelescope.org/astronomy-news/spacecraft-investigates-asteroid-after-impact/">Read it</a> · Astronomy and Space · Sky and Telescope News</p>]]></content:encoded>
+</item>
+<item>
+<title>The Areni-1 Cave Shoe Survives in Pristine Condition</title>
+<link>https://www.atlasobscura.com/places/the-areni-1-cave-shoe</link>
+<guid isPermaLink="false">https://www.atlasobscura.com/places/the-areni-1-cave-shoe</guid>
+<pubDate>Fri, 13 Nov 2026 18:48:31 -0600</pubDate>
+<category>Curious Discoveries</category>
+<description>Finding exceptionally preserved organic artifacts from over five millennia ago offers an intimate glimpse into prehistoric daily life. The accidental preservation by animal dung layers is a delightful quirk of archaeological luck.</description>
+<content:encoded><![CDATA[<p><small>from the ancient footwear dept.</small></p>
+<p><em>Finding exceptionally preserved organic artifacts from over five millennia ago offers an intimate glimpse into prehistoric daily life. The accidental preservation by animal dung layers is a delightful quirk of archaeological luck.</em></p>
+<p><img src="https://img.atlasobscura.com/vPVzGzynJOHdEtndzfMpkQqokYpoN8zspgYjZPUpFgA/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kZTMx/ZmNiNS05Nzk5LTQy/OTAtYmYyOS01NjAw/M2YwYTZiM2VmM2Yx/MmU2MjgwY2E0Zjky/MjBfNzI3NzYuanBn.jpg" alt=""></p>
+<p>Discovered in a cool, dry cave environment sealed by layers of sheep dung, a 5,600-year-old leather shoe remains in near-perfect condition. Crafted from a single piece of cowhide and stuffed with grass, the ancient footwear provides a tangible link to Chalcolithic civilization.</p>
+<p><a href="https://www.atlasobscura.com/places/the-areni-1-cave-shoe">Read it</a> · Curious Discoveries · Atlas Obscura</p>]]></content:encoded>
+</item>
 <item>
 <title>Drop-in Vintage CPU Replacements with the tranZPUter Project</title>
 <link>https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/</link>

@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/",
+    "link": "https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/WoodlandX11_d196a1.jpg",
+    "title": "Running the X Window System on an ESP32 Microcontroller",
+    "category": "DotNet and Development",
+    "dept": "from the window manager dept.",
+    "reasoning": "Bringing a vintage X11 server to a tiny microcontroller with an IPS panel proves that some architectures simply refuse to die. It is a wonderfully quirky hardware hack that reminds us how lightweight old protocols can be when paired with modern embedded chips.",
+    "summary": "Developers have successfully ported a core X Window System server, Woodland X11, to run on an ESP32-S3 microcontroller paired with a touch display. While it skips extensions and keyboards, it handles classic X applications like xclock and xeyes with surprising smoothness over a wired or Wi-Fi network connection.",
+    "added": "2026-11-13T18:53:31-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes",
+    "link": "https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/08_PRISMA_PI_stupendous_black_holes_20261113_200612.jpg",
+    "title": "Astrophysicists Cross Stupendously Large Black Holes Off the Dark Matter List",
+    "category": "Astronomy and Space",
+    "dept": "from the cosmic ledger dept.",
+    "reasoning": "Ruling out another hypothetical candidate brings researchers one step closer to solving one of physics' greatest enduring mysteries. It is a great example of how modern observational constraints continue to narrow down the viable parameter space for dark matter.",
+    "summary": "New research indicates that primordial black holes known as SLABs, or Stupendously Large Black Holes, cannot account for the universe's missing dark matter. Astrophysicists continue ruling out exotic theoretical candidates as they search for the true nature of dark matter.",
+    "added": "2026-11-13T18:52:31-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date",
+    "link": "https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/image_9980e-LOFAR-Galaxies_20261113_212839.jpg",
+    "title": "LOFAR Delivers the Deepest Low-Frequency Radio Image of the Sky",
+    "category": "Astronomy and Space",
+    "dept": "from the low-frequency wavelengths dept.",
+    "reasoning": "High-resolution radio astronomy opens a fascinating window into the early universe by capturing subtle signals that optical telescopes miss. This milestone highlights the power of international telescope arrays in mapping our cosmic neighborhood.",
+    "summary": "An international team using the Low Frequency Array has produced the sharpest and most sensitive radio image of the low-frequency sky to date. The detailed survey reveals new insights into galactic structures and cosmic evolution across distant epochs.",
+    "added": "2026-11-13T18:51:31-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/",
+    "link": "https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/",
+    "source": "Hackaday",
+    "title": "Fixing a Dead Socket LGA 1851 Motherboard with a Single Resistor",
+    "category": "DotNet and Development",
+    "dept": "from the component-level triage dept.",
+    "reasoning": "Board-level hardware repair requires genuine detective work, logic reasoning, and a steady hand with a soldering iron. Tracing power rails to find a missing passive component is a masterclass in modern electronic troubleshooting.",
+    "summary": "A hardware troubleshooter successfully resurrected a complex Socket LGA 1851 motherboard by tracing power rails and discovering a single missing 5.1 Ohm resistor on an SPI clock line. The repair demonstrates the meticulous methodology required for diagnosing modern multi-phase motherboards.",
+    "added": "2026-11-13T18:50:31-06:00"
+  },
+  {
+    "id": "https://skyandtelescope.org/astronomy-news/spacecraft-investigates-asteroid-after-impact/",
+    "link": "https://skyandtelescope.org/astronomy-news/spacecraft-investigates-asteroid-after-impact/",
+    "source": "Sky and Telescope News",
+    "title": "Hera Spacecraft Peeks at Asteroid Moonlet After DART Impact",
+    "category": "Astronomy and Space",
+    "dept": "from the kinetic impact aftermath dept.",
+    "reasoning": "Following up on humanity's first planetary defense test with dedicated spacecraft observations turns science fiction into rigorous planetary science. It offers a rare chance to study how an asteroid's morphology changed after a high-speed collision.",
+    "summary": "Europe's Hera spacecraft has arrived at the Dimorphos-Didymos asteroid system to conduct a detailed close-up investigation following NASA's DART kinetic impact test. The mission will measure the structural aftermath and surface changes resulting from the collision.",
+    "added": "2026-11-13T18:49:31-06:00"
+  },
+  {
+    "id": "https://www.atlasobscura.com/places/the-areni-1-cave-shoe",
+    "link": "https://www.atlasobscura.com/places/the-areni-1-cave-shoe",
+    "source": "Atlas Obscura",
+    "image": "https://img.atlasobscura.com/vPVzGzynJOHdEtndzfMpkQqokYpoN8zspgYjZPUpFgA/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kZTMx/ZmNiNS05Nzk5LTQy/OTAtYmYyOS01NjAw/M2YwYTZiM2VmM2Yx/MmU2MjgwY2E0Zjky/MjBfNzI3NzYuanBn.jpg",
+    "title": "The Areni-1 Cave Shoe Survives in Pristine Condition",
+    "category": "Curious Discoveries",
+    "dept": "from the ancient footwear dept.",
+    "reasoning": "Finding exceptionally preserved organic artifacts from over five millennia ago offers an intimate glimpse into prehistoric daily life. The accidental preservation by animal dung layers is a delightful quirk of archaeological luck.",
+    "summary": "Discovered in a cool, dry cave environment sealed by layers of sheep dung, a 5,600-year-old leather shoe remains in near-perfect condition. Crafted from a single piece of cowhide and stuffed with grass, the ancient footwear provides a tangible link to Chalcolithic civilization.",
+    "added": "2026-11-13T18:48:31-06:00"
+  },
+  {
     "id": "https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/",
     "link": "https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/",
     "source": "Hackaday",
