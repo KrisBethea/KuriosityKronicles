@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-14T05:28-06:00",
- "count": 278,
+ "generated": "2026-11-14T12:00-06:00",
+ "count": 276,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -56,13 +56,13 @@
   "Astronomy and Space | Sky and Telescope News": {
    "url": "https://www.skyandtelescope.com/astronomy-news/feed/",
    "ok": true,
-   "kept": 8,
+   "kept": 7,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 1,
+   "old": 2,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
@@ -70,12 +70,12 @@
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 7,
-   "entries": 68,
+   "entries": 65,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 61,
+   "old": 58,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -147,12 +147,12 @@
    "url": "https://news.google.com/rss/search?q=%22rare+weather%22+OR+%22atmospheric+phenomenon%22+OR+%22unusual+cloud%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 1,
-   "entries": 56,
+   "entries": 57,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 55,
+   "old": 56,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -173,12 +173,12 @@
    "url": "https://news.google.com/rss/search?q=%22Minnesota%22+%22severe+weather%22+OR+%22Midwest%22+%22winter+storm%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 37,
+   "entries": 36,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 37,
+   "old": 36,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -186,12 +186,12 @@
    "url": "https://news.google.com/rss/search?q=%22NOAA%22+%22weather+radar%22+OR+%22weather+satellite%22+OR+%22forecast+model%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 41,
+   "entries": 40,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 41,
+   "old": 40,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -224,27 +224,27 @@
   "DotNet and Development | Microsoft Azure Blog": {
    "url": "https://azure.microsoft.com/en-us/blog/feed/",
    "ok": true,
-   "kept": 3,
+   "kept": 2,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 6,
+   "old": 7,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 5,
+   "kept": 6,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 2,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
@@ -289,13 +289,13 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 7,
+   "kept": 8,
    "entries": 59,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 52,
+   "old": 51,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -328,21 +328,21 @@
   "Science Fiction | Google News Doctor Who": {
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 15,
-   "entries": 65,
+   "kept": 14,
+   "entries": 62,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 50,
+   "old": 48,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Minnesota and Nature | Google News Minnesota astronomy": {
    "url": "https://news.google.com/rss/search?q=Minnesota+astronomy+OR+aurora+OR+observatory&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 1,
-   "entries": 58,
+   "kept": 0,
+   "entries": 57,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -432,6 +432,99 @@
  },
  "items": [
   {
+   "title": "Delaware EF-1 tornado damage and path mapped – 4.4 miles in 10 minutes - Delawareonline.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOVVKdGRTaFFZMjVKZ0ZsWVdKZHJBcnkxaktxeW4tRWFLMzZUNXpXWWJ2X3NVUGNJUkZMMGFheDFTb3B0cmFIemtSRVpoNVB5SWtPVTR2YjdGcWZMMFNpZzBJckROWEJCRjdaeVdsRy1qNWI1WmtqeUpwTnoyWWhkT0tKQVVXdG5zOVdKZGk3WWpsZEJ5bi1pZlBWd1NMMWUxUWNIeVNUOFpaeGNldm5hVU9uWTNHd2xYajlJV1JMcUJPUUZfb1NyQVdFam9fNm9fcDkwTF9wbzRicFpKZ2RBazJSM3g?oc=5",
+   "source": "Delawareonline.com",
+   "category": "Weather & Meteorology",
+   "summary": "Delaware EF-1 tornado damage and path mapped – 4.4 miles in 10 minutes Delawareonline.com",
+   "published": "2026-11-14T09:49-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "IRis Learning Remote Has Five Buttons, Supports Thousands of Devices",
+   "link": "https://hackaday.com/2026/11/14/iris-learning-remote-has-five-buttons-supports-thousands-of-devices/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Universal IR remotes able to learn codes from existing devices were once popular consumer items as well as DIY projects, but they could become quite complex themselves, sometimes with a dizzying number of buttons. [Nicolas Ruiz Neiman]’s IRis project carries the concept further with features that leverage modern parts and tools to deliver a more focused end result. IRis keeps things clean and simple with four directional buttons, a single OK key, and a small OLED screen. IRis can learn and save IR codes and is compatible with the .ir file format, meaning it can read from an absolutely massive collection of codes intended for the Flipper Zero . There’s also a “Be Gone” feature that mass-sends a power signal for every device in a category, re-implementing the functionality of the classic TV-B-Gone. Hardware consists of an ESP32-WROOM-32 board, the aforementioned OLED, an IR receiver module, IR emitters, some switches, and a power supply integrating an 18650 lithium-ion cell and charger. One thing that’s pretty interesting is the detailed test suite, which runs simulated hardware via key presses on every screen to ensure the UI is working right. The enclosure also includes the CAD files in STEP format, which means modifications are a breeze. I would think a “back” button, a dedicated power button and a volume button (or wheel) would add a lot of service for not a lot of real estate. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-14T09:00-06:00",
+   "tags": [
+    "Wireless Hacks",
+    "ESP32",
+    "ir",
+    "tv-b-gone",
+    "universal remote",
+    "weekend project"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/IRis-remote-banner.png",
+   "summary_from": "page"
+  },
+  {
+   "title": "An oral history of the the day Kirk Cousins went down at Lambeau Field - Pioneer Press",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlhhOGw5QXlEd05PVm5DcnFRdEdMM2xWU1prTjc2bUl5RjVPYWgtMDlqVm5PSmhPcEZPR2F2OXJUZ2ZQWkwxZ3N2VWNaWDEzQ2Q2MzBMZ2VOREQ2bl8yTUNMVk42Vy14UVdHd0kzT3NGbkE3RVNEanRCRFRzYnd4akxpaWdJNHVvNExDcVVTb2JZQVdrdmZOa1BIdDN2Zk5SZjdheHVqVzlmYVpIV0E?oc=5",
+   "source": "Pioneer Press",
+   "category": "Minnesota and Nature",
+   "summary": "An oral history of the the day Kirk Cousins went down at Lambeau Field Pioneer Press",
+   "published": "2026-11-14T09:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Atmospheric river: West Coast storms, heavy rain, snow - The Weather Channel",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmE1T3hXckRzcjl1UVpYQlFzWUdkZzFyUXNLOHlNOTNKbFh6aWtoemFYbHQyeFdkVDBmcnBHdUN6UHFKdnNmaEJGREl0QjVUaDRGaXpxTnFWWF9wQmlZOVpTeWdLLURSV0ZoR3RoT092RWRTR1BtdVpsbndWSHlvMThoT283UGR6OGRPRHhSV05LVEdRelZ6NEJ5blRVcERsdzFkVmI5V2JSQXNxTjhoWDBPYw?oc=5",
+   "source": "The Weather Channel",
+   "category": "Weather & Meteorology",
+   "summary": "Atmospheric river: West Coast storms, heavy rain, snow The Weather Channel",
+   "published": "2026-11-14T07:40-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Free admission to Minnesota state parks on Black Friday - KFGO",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVJBX3lWWExrU3VyYmoyQjFvaUUtb3NUMmdvaEVKTlI5andiZGFjVFdiT085WmVmdDNNTExLZTNtUHE4dkNGQktDcVlvNlItV2pHLWZBS0FmTkN3T3hpdTRqWURyNlE1aDJkTWRXdjQwZFRud0lfMHQ1Vy1BcDRMV01pdGtUVlJ3M1RMQQ?oc=5",
+   "source": "KFGO",
+   "category": "Minnesota and Nature",
+   "summary": "Free admission to Minnesota state parks on Black Friday KFGO",
+   "published": "2026-11-14T06:54-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Reverse Engineering Score Perfect to Rescue its Files",
+   "link": "https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "There are myriad challenges associated with data preservation – bit rot, loss of metadata, and hardware failures, among others – but one of the hardest is making sure that the data remains usable as software goes out of date. [Maarten Tromp]’s father, for instance, had been using the Score Perfect music notation program for years, but since development ceased in 2012, the files would eventually need to be transferred to more modern software. To do this, [Maarten] undertook a four-year project to reverse-engineer the structure of Score Perfect’s files. Score Perfect was first released in 1990 for Atari and later ported to Windows, and after version four, it switched to a different file format. It had the option to export to MusicXML, but it only exported notes, not chords, lyrics, or other important details. [Maarten] first tried disassembling the program itself to find the file structure; he had hoped that the Visual Basic code might have been compiled to P-code, which is relatively easy to disassemble, but it had been compiled to native code. Interestingly, through version four, the program had been written for Atari and ran in Windows through a simple emulator. It wasn’t fully rewritten for Windows until later. After some investigation into the file-export function with Ghidra, he moved on to reverse-engineering the file format itself. This consumed the majority of the project’s time. To investigate the file’s structure, [Maarten] would start by creating an empty file in the program, make one change, and compare the difference in the file written. This gradually revealed the organization of information — the file was arranged into blocks containing different kinds of information, such as measures and notes, and tags, which provided supplemental information. Once again",
+   "published": "2026-11-14T06:00-06:00",
+   "tags": [
+    "Software Hacks",
+    "binary file",
+    "file format",
+    "file formats",
+    "reverse engineering"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/score_perfect.png",
+   "summary_from": "page"
+  },
+  {
    "title": "Those weird bumps on Minnesota’s trees have stories to tell - Star Tribune",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOTJRRkRiWTExaF9hNnlTX2ZiYXdWc3BRSmI3MWxuYVlUc0tOZTZCMjcyNHM4LU5wNlpZbkVBN0hTQkRpUDNaNjlpRTJpY1BNUWlfZkYwYnBMX0tvY3lOa3oweHpFUG1NY0wxYnBkdHNZS0R0NW1pdnRRazJqaWp5MGVGMFY5dnYzYk1Ld1NWWHlMWFBBQTZ5VjltOGRQb0lpZlVnTTB3?oc=5",
    "source": "Star Tribune",
@@ -453,45 +546,6 @@
    "published": "2026-11-14T04:54-06:00",
    "tags": [],
    "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale - London Evening Standard",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWctTFktUzFvZ0dyaFI1WkNkbWJnb243Uk92dGNNQzNsTkhaNVFYYWJMS2htOG85ZDR1MHlMVWVkYzZzdV8zT29GQ0ZCeVpDN0NEZUI5eTJrWVJkZXdxVXoySkxVczh3bDBLSmpoTnZJWS1td1JxaTZYbllpMS00anE5ZnVSR2xoczlnaTIzSEExeWJJQnVzY3pfQXhKekFjMi03Q3E5cw?oc=5",
-   "source": "London Evening Standard",
-   "category": "Science Fiction",
-   "summary": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale London Evening Standard",
-   "published": "2026-11-14T04:40-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Hail, high winds and a tornado may hit Southeast Texas this weekend - Chron",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWThydG90eWZvLUo0UXJ6cjBCTllqcXNzQnVCWEcyb3BpODduVUdfSHowRUNNS3lsbjZYa01icE9LRlZ0dVJ1elBueFpVaGdteDJXeVMzUFN1RlBlTkJjeXNZbHFxOFo4UHlvLWFaUk5GSVBWSTNNc0thblJ4S1NvRUh0SVRaVkZxTWpRTjlEbmhxNnJO?oc=5",
-   "source": "Chron",
-   "category": "Weather & Meteorology",
-   "summary": "Hail, high winds and a tornado may hit Southeast Texas this weekend Chron",
-   "published": "2026-11-14T03:48-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Eunice Lydia Walker Obituary (2026) - Aurora, MN - Mesabi Tribune - Legacy | Obituary",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVkNVYzAwdjA5bkdSc0djTFlWRVhfS1M0THJYekpRSElfdkxxQjZuT3B2aHJSSXk4b05EUTF2UFE3NFlESFRtSmVXMDFsZG5KRDRldHRzWmhILWRSbGU0cFk1UTRnQ21pb3NVOEFuNXc5ZlBiaEdPTXc4cV9NVDZRdTRQR1ZnZlRHQV9mWmREbExETS1NSVQyVEJUUDA?oc=5",
-   "source": "Legacy | Obituary",
-   "category": "Minnesota and Nature",
-   "summary": "Eunice Lydia Walker Obituary (2026) - Aurora, MN - Mesabi Tribune Legacy | Obituary",
-   "published": "2026-11-14T03:29-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota astronomy",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -537,19 +591,6 @@
    "summary_from": "page"
   },
   {
-   "title": "National Weather Service confirms strength of Thursday's Christiana-area tornado - WDEL",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaHRUdTVQSmhfR1lDV3g2Ri01NWJrSVlQSFFZYkozVHBQMGtuSl9HUThpSjRvNWppQXZwd1hYTGRRdFlUVFNNZjdDMHRtclFGV1hpdUEtdGg3dEE1RVJ3Vk5Cekp4ZmpxaWFsXzNhQWt3bi0tRmN6OUthQWR0VHVJLUc2Wm5NX200bWlrSktWcUVTWTUyaW03dUYzUFk4ZzEwdkVwUjVHMmMyM0lVVGVmRW9xZEpXUEl6S1VVQkVONm9TcG9hNm83R1oxR2tCSnF2WF9ZcUtiTkRMNWdxZ3ZaZUVyMk03OERJVWlZ?oc=5",
-   "source": "WDEL",
-   "category": "Weather & Meteorology",
-   "summary": "National Weather Service confirms strength of Thursday's Christiana-area tornado WDEL",
-   "published": "2026-11-13T23:34-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Apollo 12 and Surveyor 3",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-14-apollo-12-and-surveyor-3/",
    "source": "NASA Astronomy Picture of the Day",
@@ -581,19 +622,6 @@
    "tier": "main",
    "image": "https://hackaday.com/wp-content/uploads/2017/05/c.jpg",
    "summary_from": "page"
-  },
-  {
-   "title": "WoW: Forever Hotfixes - November 13, 2026 — World of Warcraft - Blizzard News",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHBmVzBILTBVckw4aXFGbmJBdldsRmNBakI2ZlpkN041d2RlT2MyQTl1T3ZrbVB2V0s2Wkd6YUZ1WDRSS3l4bVRBNWNEeDlfVDZpdndEUTFoekVHSEwtd0lCb24xc2tsWkFMZ05SU20yNTJZQ3RwaDFaZEdQQ1J0SVFJMmdtcTI1cFQxTl81aw?oc=5",
-   "source": "Blizzard News",
-   "category": "Weather & Meteorology",
-   "summary": "WoW: Forever Hotfixes - November 13, 2026 — World of Warcraft Blizzard News",
-   "published": "2026-11-13T20:58-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
   },
   {
    "title": "Delaware tornado confirmed at EF-1, 'peak' damage in Chapman Woods: NWS - Delawareonline.com",
@@ -645,11 +673,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Severe weather update: Risk of severe storms for Sydney and Brisbane - The Bureau of Meteorology",
+   "title": "Severe weather update: Risk of severe storms for Sydney and Brisbane | The Bureau of Meteorology - The Bureau of Meteorology",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWJTTFBhUUNTckhpMGc0eHUxa0hFMzBWSmtJSHQ5QkwtV2lBSlVkOFRxbkpNWGFKUFFaMnV0dTlDWktUdHhfOGY2TGlta2lnazBLMHVTb1dzbFhjZmxWVTUwX1lQV00wRlBPSEVWQWRkdHpZWWF1cHE0a1FXc3RfMGo5WmdTTzFHamVHSW45clp2NkZRSzd5WmhzMlA?oc=5",
    "source": "The Bureau of Meteorology",
    "category": "Weather & Meteorology",
-   "summary": "Severe weather update: Risk of severe storms for Sydney and Brisbane The Bureau of Meteorology",
+   "summary": "Severe weather update: Risk of severe storms for Sydney and Brisbane | The Bureau of Meteorology The Bureau of Meteorology",
    "published": "2026-11-13T18:08-06:00",
    "tags": [],
    "feed": "Google News severe weather science",
@@ -724,19 +752,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "N.J. tornado packed 100 mph winds, ripped roof off house and caused barn to collapse - NJ.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmZaWUlCYnctZEhFSUstRFlxdm5pdU1reTBBMEJsY09URnN3aHR2UXU2Tl95VDJYTzgyVUpLYzlxNG5aZ2t6a0RoQTJFWXpBbGRkWW5ydElDVnplMVBET25rc0djNU1veVZxeTRVMF9FY2l6dmNza3dXU3Z0b2dadjVCWHFJOEFNRmpmTnR2NUpTOU5UeDhScjhuNlljUVZmei11a0xGM01aTWxnRlc3dThEMDNubExva1hqZml3?oc=5",
-   "source": "NJ.com",
-   "category": "Weather & Meteorology",
-   "summary": "N.J. tornado packed 100 mph winds, ripped roof off house and caused barn to collapse NJ.com",
-   "published": "2026-11-13T15:55-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "A Literary Map of the United States",
    "link": "https://kottke.org/26/11/a-literary-map-of-the-united-states",
    "source": "Kottke",
@@ -784,20 +799,7 @@
    "source": "Duluth News Tribune",
    "category": "Minnesota and Nature",
    "summary": "Black Friday one of four free state park days in Minnesota Duluth News Tribune",
-   "published": "2026-11-13T14:27-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Minnesota-Founded Softies Missed Oprah’s 2026 List After 9 Years Straight - 106.9 KROC",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XcGRqZjlWNF9nSC1HeUpsVWVVSHpXM3ZxUzRfWndkczdpVFo2UHlZcldFeGJTSlNkVENpanVfZFhzUlczRnExUmhOSC1aMkN4bUJrQ1pLRXdSOUpjVWw1RnZyZTE2VUdjRGc?oc=5",
-   "source": "106.9 KROC",
-   "category": "Minnesota and Nature",
-   "summary": "Minnesota-Founded Softies Missed Oprah’s 2026 List After 9 Years Straight 106.9 KROC",
-   "published": "2026-11-13T14:02-06:00",
+   "published": "2026-11-13T14:25-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
    "evergreen": false,
@@ -877,6 +879,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Gopher football visits Penn State (AUDIO) - Minnesota News Network",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WU0Z5TzRLUHdlTnJCQ3RJT0xuZVdKa0Y4MDVQTHkwY2N0WGNpU3FFdzcwREpEei0zZEN5aVpNMWQ4bDJ5blRra3p6SFJzZ2JwT09lbWlhTlU5THkxQXJabVpSTnY2TXhSeUhoWGRfZXQzMGVtc0pENElVSm44QQ?oc=5",
+   "source": "Minnesota News Network",
+   "category": "Minnesota and Nature",
+   "summary": "Gopher football visits Penn State (AUDIO) Minnesota News Network",
+   "published": "2026-11-13T12:19-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "The long-lost source for a sample in Craig Mack’s Flava...",
    "link": "https://kottke.org/26/11/0049991-the-long-lost-source-for-",
    "source": "Kottke",
@@ -886,19 +901,6 @@
    "tags": [],
    "feed": "Kottke",
    "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Chesterfield tornado rated EF-1 with 100 mph winds - News12 | New Jersey",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS2VjLVlHbDNDSjZlaHZZZ0NwSU9DbEpfVVlSWlNSS09fMnIycGZKSnY0aHVMYWh0TGdITnZ2Ui1vOGNRY1Y1NGNXbklCVmJ6QnNKYzFGVmRhbWM5eHNDV1k0WmFCYnVjU0l4OFN4R1Q0bjFGVmI4Q0ZtNldEVXhMVmdKVmVUcVE4VUxoOHZ0QmExOHZTZDZIaDNXZGNHZmM4dllzN2I3TXF5UmM?oc=5",
-   "source": "News12 | New Jersey",
-   "category": "Weather & Meteorology",
-   "summary": "Chesterfield tornado rated EF-1 with 100 mph winds News12 | New Jersey",
-   "published": "2026-11-13T11:58-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -915,24 +917,6 @@
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/eso1438b_20261113_173311.jpg",
    "summary_from": "feed"
-  },
-  {
-   "title": "Hackaday Podcast Episode 394: Linux in Weird Places, Yet More Hidden SDRs, and a Supercon Wrapup",
-   "link": "https://hackaday.com/2026/11/13/hackaday-podcast-episode-394-linux-in-weird-places-yet-more-hidden-sdrs-and-a-supercon-wrapup/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Hackaday Editors Elliot Williams and Tom Nardi are back from Supercon, and they’ve got plenty of thoughts to share about it. But before they discuss this weekend’s higlights, they’ll cover the recent scuttling of the legendary SS United States , the discovery of even more hidden software-defined radios in everyday gadgets, Linux running on Kindles and microcontrollers, and a Game Boy flash cart that’s not designed for playing games. You’ll also hear about LEGO 3D printers, finding out where a video was recorded by the sound of the airplanes in the background, and a website that lets you listen in on the satellites flying over your house. Check out the links if you want to follow along, and as always, tell us what you think about this episode in the comments! Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-13T11:30-06:00",
-   "tags": [
-    "Hackaday Columns",
-    "Podcasts",
-    "Hackaday Podcast"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg",
-   "summary_from": "page"
   },
   {
    "title": "Friday the 13th Producer Explains Why Steve Miner Was Chosen to Bring Back Jason",
@@ -1020,19 +1004,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Tornado damage in Chesterfield after wild NJ storms - New Jersey 101.5",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yVHNMY1dPWERmemgxbE1kWjM1TVNoa19rUUphSHJybktqNUhhN2YwWTNMaE1lcnNmWW5BRGxXLTNoN2pFTEVnclg5eVJvcThfOVJLUmdrZVVlY3NUVWxqcnNCWW5PNEtaSDg4?oc=5",
-   "source": "New Jersey 101.5",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado damage in Chesterfield after wild NJ storms New Jersey 101.5",
-   "published": "2026-11-13T10:58-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "MINNEAPOLIMEDIA PRESENTS | This Weekend in the Twin Cities™: November 13–15, 2026 - MinneapoliMedia",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkF0eGJJRlRERUU3VmZfTm9QMzJ2UWpiRC1jdzNNYmVadkR3bFZfN1hVQ0J5bjRXOUpKWUl5WFpUeUhCdUlCRVlXTTRnRmtmazQxWVdrT1J0Rlk4Y1FxR054V0k0TDF4dVc1WE5TV3ozYnVMMG1WeGhJem1xbnBWdTUtWkYxNnZzeGJKSjVqZWhxYnh2VFBOS25jb3NBckl0WGcxRm15eWJNTGRSTDRsN3l2TnBqdmtmLW1PZUVlaEtHeXZU?oc=5",
    "source": "MinneapoliMedia",
@@ -1075,19 +1046,6 @@
    "tags": [],
    "feed": "Kottke",
    "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Did a tornado hit NJ? NWS surveys damage after severe storms - Asbury Park Press",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0NxOVZEQ25CaC1wYjRtM08yQlRybG5LRG5SSm01ZU1GYnJ0OVZvei1adnpGQlNHUUI3c0llVndkUXhTUWRTQzRMamU4N05NbzlMeGxLRmowNFRMRmlVTmhDeDBGYk91UVBCLWpQYkxVcnZCaGhCTkMxT1l4UzdUb1JVYnhOWVhlNFJROFk2NGFUNGtmMzFqWVY5Ql9sQXpGRDJXUlNSaDR6MFY0?oc=5",
-   "source": "Asbury Park Press",
-   "category": "Weather & Meteorology",
-   "summary": "Did a tornado hit NJ? NWS surveys damage after severe storms Asbury Park Press",
-   "published": "2026-11-13T09:43-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1193,6 +1151,19 @@
    "published": "2026-11-13T08:09-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NWS surveys damage after tornadoes touch down in Delaware, NJ - NBC10 Philadelphia",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWpVNzVmVzFDVENZNDFmV0NnTkJfMmpiTkxaWFNEeWZuMUlaSUpoSXljOTlaVm05MXU3OEx2d3BqMzAxVjdKVUg2TFJoRExoVTdpN29jbVRiZkhnREZaTGdzTDZhMnhXMXNXNkxMUUZNblVxNU9USjg5d0VWTEVUbHZNRkp1YTFNOVJjNjZ1aWFKWXVIR04wUTh6X0ZJWTV3aTlSdUV1bjBHY0F2di0tVjE4Vm4ydkV2aFlrYlZLUkpuNG9Q0gHMAUFVX3lxTE53MnhueU82NlNEZktVSzYwLU5qREViejN3VTF2SWNpQ3JSakI3X2dSYjhpZVJLd0pQV2UxbWpOLVpjbXdmZFF2WTl0dHFGei0tMS1ydE9wZWlpUXBHbWMxUUF1NU1zb2ZBb2U3OTI5b1p2N1JoM2hQODlrNU9OSmpMd3V6NnJhcWNvemd1MmU4Q0NsWHJ6V1pVeHg0cE9hcFpjUUlUejlJQTNwRk44cWRQclJmakRkWEhpNW1CLWdreFl1c0xuYzNRelo1QQ?oc=5",
+   "source": "NBC10 Philadelphia",
+   "category": "Weather & Meteorology",
+   "summary": "NWS surveys damage after tornadoes touch down in Delaware, NJ NBC10 Philadelphia",
+   "published": "2026-11-13T06:10-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1387,6 +1358,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "National Weather Service confirms tornadoes in Delaware and New Jersey - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkk5Y0tRVFZPb2JLYzBfMGxmQWdxMUV2b1RYTjdqcWFhUE9TQ0FwLWJhZktDeUFZUEZuYzhrS3FXb2o4azFSVGJpYkJlWGJ0X01hSU1LUXl5a0VjQTkwZ1JJdm56Vi1UQ0k4TldNQmMzOTM1c2lUUXlobG51NGUtVnUwZFdJQ1NNMG11bWNmQTc?oc=5",
+   "source": "CBS News",
+   "category": "Weather & Meteorology",
+   "summary": "National Weather Service confirms tornadoes in Delaware and New Jersey CBS News",
+   "published": "2026-11-12T16:39-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "A Brief-ish History of METI. Part III: The Legacy of Frank Drake & Carl Sagan",
    "link": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iii-the-legacy-of-frank-drake-carl-sagan",
    "source": "Universe Today",
@@ -1409,6 +1393,32 @@
    "published": "2026-11-12T15:41-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Flash flood warning, tornado watch issued for New Castle County - Delawareonline.com",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRXRneXNHNUZzV2hSRFJ0NkYzVUI5Mm5sLVlELXBGUkItS3hTaDBYUEU0aUVyUzBQdHVWWnNlYTJNZjNqdm5XREF4TzFVQmdURG82a3hSY3lhR2cybmRQTnlIRHgzMHpaU2FVVjJFWkZvbUducmhuN3RxWk5uczJnUjV6dzU0by1SeXBoWDRQTzI1OGZKeVBKLVJsZEVwWFktZE1YMW5GWS1DMGVBY0h4UFduUjVsWEdxUjRYbDQ1SmxvOTB5T2x0MlZodHRZbm9zLVRnNE53?oc=5",
+   "source": "Delawareonline.com",
+   "category": "Weather & Meteorology",
+   "summary": "Flash flood warning, tornado watch issued for New Castle County Delawareonline.com",
+   "published": "2026-11-12T15:40-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Erie Strategic Ventures: Investments In Blitzy And HiddenLayer To Advance Enterprise AI Infrastructure And Security - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWTdMZEh4aEVuUzRVVGpsMHAzcVM3Y18xVHhwMXd3WGtlY3RSS3ZVUWpCRllybDZVbFlPckptQzAtaEJPVFpOaFY3UERkQ3FNMDE5V2ZtdjhrTk1QT2NQSFd5b2lKOVpKZW02Yk5RSEwydm1icjNxSWtzLTdZU2dZZEJXRU0tS1NnR1VDbDFZM2pQRHlRZTZLQ1k0RDZEODZfanlDZEJnRnZncHRGaDRzb2N6ODc0d29vLWkwVVFkR2JxaUJZQ2oyYjByN1BEaUU?oc=5",
+   "source": "Pulse 2.0",
+   "category": "AI and Agents",
+   "summary": "Erie Strategic Ventures: Investments In Blitzy And HiddenLayer To Advance Enterprise AI Infrastructure And Security Pulse 2.0",
+   "published": "2026-11-12T15:15-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1441,6 +1451,19 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/BMqdcH8X2whA4iAbH7V7H6bjbDl_bvVxSfxVu2UtbaY/rs:fill:300:200:1/g:ce/c:2051:1367:nowe:0:1070/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNmE1/YzhiMC01ZGM4LTRl/ZWYtODc5Ni01MTM4/YTBhYTAwODhjYzRk/MTNhZjVkNGJjYWYz/YzlfSU1HXzc2NDEu/SlBH.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Tornado warning issued for Burlington County - Courier-Post",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEVkcF9fTnFxR3dfRVVjZzJ1S1V5ZXBIUmdtY19mUVh1bGlFTFJ3cFBDSURWWC1LcXJBY3RvOVNJaWVGRmFxUTdLSEp3bWhGWExrRV9mTFM4UllFeExHdjRqekU4WS13elNtemt1ZzdUdktqd3VjZ2J0akhlUDdHd3hsd0M0Sm1ndGNIeTVR?oc=5",
+   "source": "Courier-Post",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado warning issued for Burlington County Courier-Post",
+   "published": "2026-11-12T14:58-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -1575,6 +1598,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg?w=2048",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Tornadoes and flash flooding hit New York, Delaware, Pennsylvania - The Weather Channel",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGl0Y1dhOXctMmJZYTNkWHMyQkc2c3ZkZEpaVlVZUUFad2dkT1dwb0lBa0Z4Qm5LbHY2SVV2TFRhM2ZwV0VzaXB5S1daOU9DZHFrZy1PZm1idzRQUUN0N2hNZmlpeklNSERMLTlESGpVY1lxckF5MUo2dk1SbEpIXzVLYmxqVUhvVm1La0x3Z3I4a0QwenRR?oc=5",
+   "source": "The Weather Channel",
+   "category": "Weather & Meteorology",
+   "summary": "Tornadoes and flash flooding hit New York, Delaware, Pennsylvania The Weather Channel",
+   "published": "2026-11-12T13:11-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2132,19 +2168,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Deer harvest numbers available online - MessageMedia.co",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWDRubHMtVFJVWWxQY191TTdRMFh5cW5SQkpQdlluOU10SjREYktfVzk3ZVZmVnQ0WktRX2thdEFtdHJOcnhpZ052TGhpVGoxMnNJVi01czl0RkJia2dZMkFvMjBxRUpfbU1uU1llN0VqS05iNF82VEFTVlkwa2FZWnpUb3hzd29wZlFnb2Q0THYtZDcxR0t1T0hWTjBwWjc3SnppVFJ2Rm4ydkJlX1FQc0FxQU96T19PWkRHRlpRV2tPdEk?oc=5",
-   "source": "MessageMedia.co",
-   "category": "Minnesota and Nature",
-   "summary": "Deer harvest numbers available online MessageMedia.co",
-   "published": "2026-11-12T05:00-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "LETTERS FROM READERS - 11-11-26 - MessageMedia.co",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVDhicTBwa3NGaHFlV0pRR2VLWWhqNG1LMlZ4eTZQMEo3azFrZ2VDZF96aGd2U3Nob3ZZSzVPSFpfSmRPSjRKR1R1VkRybjBORy1oQlV2bGtUbkNneFBqc1QtOTZVemdkYlowblI5WWNFSklMU0QyOEpKa3Z2S0JlOWFyTGhWX2hXRmplczNoQkVFbnhQRlZ6YzdwbUQxbU5GTk1ON1FOR1ExdW9oblpjNlBlaXg0V2lrWlZlT1ZTdmNvbHhKZE1hWmZxdWQ?oc=5",
    "source": "MessageMedia.co",
@@ -2153,6 +2176,19 @@
    "published": "2026-11-12T05:00-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale - The Irish News",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVUhkMF8tVzhSTHNCQnF2WXEzYkhMQTZLa0lTQl80dl9HSjRKSm9DTWR3NjdNaVAtcEliVkRVLWt6TnB6aURhT05rSkdaZ2RQN3BSZ3ViVFJBa1RJb3FHVEdTS3dtLTdpb2NESlVOVmpBb1FVTVlXaEtUeUQ4WE9pNzNrWmVRQjVrQzVlRHJ4b1JVMmVJVEZJWENTUzN6ZXJ6RWU2QVdQZEFja1haTzhBWHlKeWJiVldoNjZQSDhVRktwUXZLT3FSWGxhODVwVWcxSVI4ajUyY3N3aUdt?oc=5",
+   "source": "The Irish News",
+   "category": "Science Fiction",
+   "summary": "Strictly, Doctor Who and Bluey memorabilia lead Children In Need charity sale The Irish News",
+   "published": "2026-11-12T04:36-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2832,19 +2868,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Science Museum of Minnesota Gets $2.5M for Rural STEM Centers - Hoodline",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT21Sa3haMU80UHM2dWhld2kzSHRTQU9CdURFYW5EdGNZREQzUEtHd1FxV3l0eEFlM3pFbUNrZ2YzY3ZFXzludEZzY0JELVFnNXlIbE9HcmdONUp5T0lBbGxTUXhKYnBVM1VVb1I5N2hBd21YVVdjZ1FlOUY2Z3FuclhFU3VxTy1sYnBrZkpFMXR0Q09VSXNqdzc1RFFIa2R6S3hjUjFyaklEa1k?oc=5",
-   "source": "Hoodline",
-   "category": "Minnesota and Nature",
-   "summary": "Science Museum of Minnesota Gets $2.5M for Rural STEM Centers Hoodline",
-   "published": "2026-11-10T15:17-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents - Microsoft",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlNjTUF0Y25aSFFVcW9xV2FTaWNDOC1IU3Z2T21vWkhjakw4NjZvSzFyWE5QdmNoXzRWa1E2LV8xWnZJSzVWNEhIdFh2NXJvN01wUEhXY0ZsamtXcE8yUFI2end5OC1VdFdqTEJHZ210eTBUTFVpR2o3Yi0tYkJ1LW4xbFVGSG5FNXRIWGFsdlFKdjFBcngzdmpyQ0hfQjdjZkdEYWxqdGNnWU9WS3BqbUh0dndHV2M?oc=5",
    "source": "Microsoft",
@@ -3082,19 +3105,6 @@
    "category": "Science Fiction",
    "summary": "Doctor Who episode featuring David Walliams removed from BBC iPlayer TV Zone UK",
    "published": "2026-11-10T09:08-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "BBC confirms it will remove David Walliams shows including Little Britain - Metro.co.uk",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGk5MlREbzJ6Vzdod1NzRWZQdzd5N2RJUnlxNkJ2R05vaHQ5M18yRG94RzR3N0NfMl9qTGVpZ1pWUmdNanZsMzNlN3loM09kZFQ0NGJsZWxHaTNVTDkybm5MTXctZlRSMUtHcWw4MjhFRzd0ei1KNUhOdVNWN0FXM3c3WEp6RDNrZkw1YUxKZmN5VFAwUGgtWGpydFlqRTJZVjJtY1lOYlhGRGk1WXBGQdIBtgFBVV95cUxQTWRzdkNHZzh1b21lTkdROWd4cEFtb052Y2E3TWtBTTNSdWFqMkVtbGdyNDA5bjFzMmt1U1RURFRFMDdKSHNrdHhIUXVkcnROcEJTRzZNVmptMzdmYXJGMUM4MVN2Nkd2OFVNVzZ2NVVIeTJqNWFjVEg1UGEzY2xUWkcwYVVDMXoxUS05Tm5zcVpvdTNoemc0LU1GX2wwWGgxZFZiODZHdk15TzhfdjNwRXB3dTF0dw?oc=5",
-   "source": "Metro.co.uk",
-   "category": "Science Fiction",
-   "summary": "BBC confirms it will remove David Walliams shows including Little Britain Metro.co.uk",
-   "published": "2026-11-10T08:45-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
    "evergreen": false,
@@ -3865,40 +3875,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/02/thesoulsofanimals.jpg?fit=320%2C492&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
-   "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
-   "source": "Microsoft Azure Blog",
-   "category": "DotNet and Development",
-   "summary": "Takeaway : Azure Failure Prediction and Detection (AFPD) is Microsoft Azure’s end-to-end system aiming to catch hardware failures before they interrupt a workload, not after. Across the Azure fleet, AFPD has improved the prevention of hardware-related VM interruptions by 36% . SAP workloads offer a compelling example of AFPD’s value, illustrating why preventing interruptions matters for mission-critical services. But AFPD isn’t specific to SAP: it operates across General Purpose, Specialized Compute, HPC/AI, and select Storage workloads, making SAP’s experience a window into Azure’s broader approach to reliability for mission-critical third-party services. To learn more, watch our companion ",
-   "published": "2026-11-04T10:00-06:00",
-   "tags": [
-    "Compute",
-    "Advancing reliability",
-    "Azure HPC"
-   ],
-   "feed": "Microsoft Azure Blog",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Sunlight Pulverizes Asteroids That Come Too Close",
-   "link": "https://skyandtelescope.org/astronomy-news/sunlight-pulverizes-asteroids-that-come-too-close/",
-   "source": "Sky and Telescope News",
-   "category": "Astronomy and Space",
-   "summary": "Asteroids that come too close to the Sun don't last long. Now astronomers think they might know why. The post Sunlight Pulverizes Asteroids That Come Too Close appeared first on Sky & Telescope .",
-   "published": "2026-11-04T09:26-06:00",
-   "tags": [
-    "Astronomy & Observing News",
-    "Solar System",
-    "Comets & Asteroids"
-   ],
-   "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
