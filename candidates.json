@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-14T12:00-06:00",
- "count": 276,
+ "generated": "2026-11-14T17:54-06:00",
+ "count": 273,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -24,14 +24,14 @@
   "Astronomy and Space | Universe Today": {
    "url": "https://www.universetoday.com/feed",
    "ok": true,
-   "kept": 8,
+   "kept": 7,
    "entries": 20,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 12,
+   "seen_or_dup": 13,
    "no_title_or_link": 0
   },
   "Astronomy and Space | ESA Space Science": {
@@ -82,13 +82,13 @@
   "Space Weather and Aurora | Google News aurora": {
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 1,
-   "entries": 43,
+   "kept": 0,
+   "entries": 41,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 42,
+   "old": 41,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -101,27 +101,27 @@
   "Astrophotography | AstroBackyard": {
    "url": "https://astrobackyard.com/feed/",
    "ok": true,
-   "kept": 1,
+   "kept": 2,
    "entries": 3,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 2,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Astrophotography | NASA Astronomy Picture of the Day": {
    "url": "https://science.nasa.gov/feed/apod-basic/",
    "ok": true,
-   "kept": 5,
+   "kept": 4,
    "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 20,
-   "seen_or_dup": 5,
+   "seen_or_dup": 6,
    "no_title_or_link": 0
   },
   "Astrophotography | Sky and Telescope Observing": {
@@ -134,12 +134,12 @@
    "url": "https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 3,
-   "entries": 14,
+   "entries": 13,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 11,
+   "old": 10,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -147,12 +147,12 @@
    "url": "https://news.google.com/rss/search?q=%22rare+weather%22+OR+%22atmospheric+phenomenon%22+OR+%22unusual+cloud%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 1,
-   "entries": 57,
+   "entries": 56,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 56,
+   "old": 55,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -237,14 +237,14 @@
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 6,
+   "kept": 5,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
@@ -329,12 +329,12 @@
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 14,
-   "entries": 62,
+   "entries": 63,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 48,
+   "old": 49,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -355,12 +355,12 @@
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 14,
-   "entries": 32,
+   "entries": 31,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 18,
+   "old": 17,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -387,7 +387,7 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 3,
+   "seen_or_dup": 4,
    "no_title_or_link": 0
   },
   "Curious Discoveries | Damn Interesting": {
@@ -426,11 +426,187 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   }
  },
  "items": [
+  {
+   "title": "National Weather Service confirms strength of Thursday's Christiana-area tornado - WDEL",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaHRUdTVQSmhfR1lDV3g2Ri01NWJrSVlQSFFZYkozVHBQMGtuSl9HUThpSjRvNWppQXZwd1hYTGRRdFlUVFNNZjdDMHRtclFGV1hpdUEtdGg3dEE1RVJ3Vk5Cekp4ZmpxaWFsXzNhQWt3bi0tRmN6OUthQWR0VHVJLUc2Wm5NX200bWlrSktWcUVTWTUyaW03dUYzUFk4ZzEwdkVwUjVHMmMyM0lVVGVmRW9xZEpXUEl6S1VVQkVONm9TcG9hNm83R1oxR2tCSnF2WF9ZcUtiTkRMNWdxZ3ZaZUVyMk03OERJVWlZ?oc=5",
+   "source": "WDEL",
+   "category": "Weather & Meteorology",
+   "summary": "National Weather Service confirms strength of Thursday's Christiana-area tornado WDEL",
+   "published": "2026-11-14T17:30-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Man seriously injured as community clears tornado debris in Burlington County - NBC10 Philadelphia",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPekFBUTJFOGI1ZHJtd3NHclBQdEtKR1NNYXVzTWxzaWIya2ZKanNnWmFGQldPcndrY0w0QkRMTkUwYW51ZE1HeHRMRDlxOVVwQWo2QThJVEVVTmttT2gxNFEtVUdFRDkyM0Q4Sk5VMUtOMFJqYl9BSFUyYzUzYUk5NXl6MzZPNnNteWhHalJfWnA2UTRXandNeXRkRVRQOFl1UXkzMy1XbDB5TFdDa1RjQWEzUjd0OXdiNF9pRXZpaGQ5c1dDTTlNb9IB0AFBVV95cUxOblVnWEFWTUFMa2JxNE9BYnRuSHRULUpqaWZXa0I4MmtHSVpfVllrZlR2UU5fRDFUZzlxakNydmRPYmw1OC1UR3pQVWZ4WTAtZE5MRkZHQ0RRcFRQbks2UmN1M1RXRmR5N0lHWDBLU0hpeW92ZFRqYjBMVTFfbDBERmdqWnFZV21tazZrMnZUX0ozSGVFN01IbmctU2xSUnE2Y0VMTjJlQkhQODdvUU9RVHBUa0RvcWlHT2hJMldTekR6N2tMZUNyZEpOSnBsQXZh?oc=5",
+   "source": "NBC10 Philadelphia",
+   "category": "Weather & Meteorology",
+   "summary": "Man seriously injured as community clears tornado debris in Burlington County NBC10 Philadelphia",
+   "published": "2026-11-14T17:13-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NGC 7331: Galaxy Facts, Photos, and Astrophotography Tips",
+   "link": "https://astrobackyard.com/ngc-7331-galaxy/",
+   "source": "AstroBackyard",
+   "category": "Astrophotography",
+   "summary": "NGC 7331 is a spiral galaxy in the constellation Pegasus, approximately 45 million light-years from Earth. Also known as Caldwell 30, this tilted island of stars is a rewarding telescope target and a beautiful subject for deep-sky astrophotography. Its bright central bulge, dark dust lanes, and surrounding background galaxies give the field an incredible sense... The post NGC 7331: Galaxy Facts, Photos, and Astrophotography Tips appeared first on AstroBackyard .",
+   "published": "2026-11-14T16:51-06:00",
+   "tags": [
+    "Galaxies"
+   ],
+   "feed": "AstroBackyard",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The First Foreign Astronaut Will Visit China's Tiangong Space Station in Two Weeks",
+   "link": "https://www.universetoday.com/articles/the-first-foreign-astronaut-will-visit-chinas-tiangong-space-station-in-two-weeks",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "The China Manned Space Agency (CMSA) will be taking a Pakistani astronaut to Tiangong as part of the Shenzou 24 mission, marking the first time a foreign astronaut has been to the station.",
+   "published": "2026-11-14T16:07-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/7669676e1891466db2253a58801d0c3c_20261114_220234.jpeg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Baby, She's Back! SpaceX Catches a Starship From Orbit for First Time",
+   "link": "https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "SpaceX brought back its Starship rocket's second stage for a first-ever midair capture at its launch pad, capping a record-setting, 22.5-hour orbital flight test.",
+   "published": "2026-11-14T15:40-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/261114-starship5_20261114_214058.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The State Parks Where You Share The Trail With Hunters - WorldAtlas",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnJPZk9fdEVleldWYjI0dl81cGtaX20yMXJPQzk4VFJWRFJaaFpnRXZNaWI5ZFJkbW1wbnZSdmJUMmFRc0lCQlFqTjR1RWd1NTdhN1N1YWtObmU4OUhQcDRTZUkyUVlBazRsZHYyUzhGa3ZaX2FZZ1VZaDBzMXp6OFh2bjhhNVJpQTFpdkVqNTQzNndmZnNERDBvTXk4UFk?oc=5",
+   "source": "WorldAtlas",
+   "category": "Minnesota and Nature",
+   "summary": "The State Parks Where You Share The Trail With Hunters WorldAtlas",
+   "published": "2026-11-14T15:30-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Storm dumps several inches of snow on Sierra. Here’s how much more is expected - Sacramento Bee",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiRW5mTGt0NjM4aEliVF8yVHlEQV9iR25DR1daUmVjbHlsTnhabkk2dzdGTWlfdFlvQ0gtdlZZMF9UbnloeTVXMjZqMzJQZFdzQmRlNExnNFpWQ1EycGNXTXZkTGl3T0VPeGRMTEs1a9IBb0FVX3lxTFBLT0tLVjNkeVgtWlItWkZDa3oyT3hGZ3ZoU21EX04xM3VWZEJ4aWViTGwxcTk3bG94RGVKM0VWdTl6b0VOczBJMlhTekV4b0tVTk1PY01JQzczRUtYMDRjZUdEakpuMVcwU3Y2V2YxZw?oc=5",
+   "source": "Sacramento Bee",
+   "category": "Weather & Meteorology",
+   "summary": "Storm dumps several inches of snow on Sierra. Here’s how much more is expected Sacramento Bee",
+   "published": "2026-11-14T15:06-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Warm Analog DSP, on the ESP",
+   "link": "https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "We love audio, and we love messing around with it. So when [mircemk] wrote in with his latest audio-mangling device, we had to give it a look. It’s a tube-sound processor implemented in an ESP32 with a WM8960 handling the audio side of things. Tubes are expensive, power hungry, and a general pain in the posterior, so there is incentive to DIY it yourself with DSP. The whole setup is mounted in a Tektronix-inspired case that would be at home on the workbench or in the living room. What’s ironic about the tube sound is that it’s essentially a nonlinear distortion of the audio, but it’s a distortion that can sound better than the undistorted signal. (Take that, engineering!) Push-pull transistor amplifiers tend to distort the top and bottom end of the signal similarly, while tubes round off the tops more than the bottoms. [mircemk] lets you tweak this transfer function, and displays it nicely on the screen. But there’s one more important way that tubes color the sound — they respond slowly to rapidly changing signals — and [mircemk] says he implemented that as well. We couldn’t find that part of the distortion accounted for in the code , but maybe you can? Anyway, this is a fantastic audio project, and it just goes to show you how far you can go with some simple parts and clever programming. Indeed, we’ve seen this rig before, with different code that made it a parametric EQ. Once you’ve got the sound turned into numbers, you can math anything at it. You are propagating one of many unfounded prejudices about vacuum tubes. In many cases, both tube-based amplifiers and tubes used as switching elements can be implemented with anode voltages as low as 12 volts. There is no reason to demonize the process of learning about tube circuits. Please be kind and respectful to help mak",
+   "published": "2026-11-14T15:00-06:00",
+   "tags": [
+    "Musical Hacks",
+    "audio",
+    "audiophile",
+    "dsp",
+    "ESP32",
+    "tube",
+    "tube sound"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/9847301794483913575.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Cannon Falls’ Warren Formo to posthumously receive Minnesota Farm Bureau Distinguished Service to Agriculture Award - Cannon Falls Beacon",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNejlSNnB3eTY5U05fNF9MVWNicGpWTzBiUU9vRl9QWlJoQzg3STZBQnhidUFaazJMNzh2NVJuLTBqdmszY0VxM2xZalBZbTQ0OHRUWE1FTFFYVFpncFJTYWFRLTViMjB4QURvNXoxdC13MndHQ29reXZXeDl2N0xLekxndDJQWVo3T09naG54dTdnaHIwUWZTeHdiQy1UNWFLakdyWGpFYVZIaVZ4NVlITVZPRmRVTE5EdVdrRm4wVDhXdG1scWFvOURTU28tbW9jLWU3VGdLRlE5NkJoQ3JGTHBFdWZISmkwVlBXY0t0YjdfbXpnVUhWcFMzWGpDZVB1UmJsdDJXdDNBaEVTMjRTdll2b09NTi1xcm9lQWFJYTdXbFNoVFR1YnZYcHc5MklOOGlsTHJYbw?oc=5",
+   "source": "Cannon Falls Beacon",
+   "category": "Minnesota and Nature",
+   "summary": "Cannon Falls’ Warren Formo to posthumously receive Minnesota Farm Bureau Distinguished Service to Agriculture Award Cannon Falls Beacon",
+   "published": "2026-11-14T15:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "A Hazeltine 1420 Lives Again",
+   "link": "https://hackaday.com/2026/11/14/a-hazeltine-1420-lives-again/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "There was a time when buying a computer also meant picking out a compatible terminal. There were many to choose from, some good and some bad. While we were partial to TeleVideo, other well-known names included Lear Siegler and ADDS. There was also Hazeltine, a well-known brand that could emulate many other terminals. [The Byte Attic] had an unusable Hazeltine 1420, and finally got around to getting it working again . As you might expect, the old terminal was full of suspect capacitors. A power transistor was also missing, hinting that someone had been robbing this unit to fix another. In addition to fixing the device, the plan was to improve it with switching regulators. These old terminals generated a lot of heat with linear regulators. The power supplies were often the major issue with these kinds of devices, and scorch marks under the bridge rectifiers didn’t bode well, either. Another concern: the chips that hold the character sets and some other logic are unobtainable. If they were dead, there would be virtually no way to replace them. The plan was to read them, if possible, and design replacements for the day they did fail. If it wasn’t already too late. There are tons of pictures, and we appreciated that the post documents several early decisions that came back to bite them later. We know that feeling all too well. It is a long read with a happy ending. The ROMs did work, but because they are so prone to failure and so hard to replace, they went into storage and were replaced with an adapter using modern components. And the morale of the story is that most old computers are trash that got tossed into the e-waste bin not because they didn’t have enough time to ripen with age, but because from the beginning they were trash designed by clueless imbeciles overseen by",
+   "published": "2026-11-14T12:00-06:00",
+   "tags": [
+    "Repair Hacks",
+    "Retrocomputing",
+    "glass tty",
+    "hazeltine",
+    "terminal"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/haze.png",
+   "summary_from": "page"
+  },
+  {
+   "title": "Someone dumped 40 old mattresses near a Minnesota wildlife refuge - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSmRoazF1c2R5ZUkzVEJCTlJDc1NKdE15bTRBcVRFUEtIbk5RWHpwVzREUnJKTktRN1J5eldRa2tUd3NQWUdEMmYwYmhxaXg5Nm9aMW4zZVJmeS1NcERsZUJlY1cxd0JwbHZkOW8yTEhHT1RNQzNtTUdXQ3lLbl9EWkJ0ZF9sSllSckpB?oc=5",
+   "source": "Yahoo",
+   "category": "Minnesota and Nature",
+   "summary": "Someone dumped 40 old mattresses near a Minnesota wildlife refuge Yahoo",
+   "published": "2026-11-14T10:56-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Minnesota park is named the International Dark Sky Place of the Year - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3VmRFBGdGFKMF93Z3NFWGxyd1RmdWtMZXAzZno4M3VJdUdNamo1b3dfRW0tUzNRXzJRSGFuYU5kczVNNG9KODJER2RCcmZJMmVuamxRdV90NlpQczhWamx1akM3ZFgwTzBLNFV4QVp5OE9OemRJRFd6d1ZYWW5lZm82bE5LMWg0WHExcmtIclVRTFhLVEZSR0cyWURxc2M?oc=5",
+   "source": "Yahoo",
+   "category": "Minnesota and Nature",
+   "summary": "Minnesota park is named the International Dark Sky Place of the Year Yahoo",
+   "published": "2026-11-14T10:18-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
   {
    "title": "Delaware EF-1 tornado damage and path mapped – 4.4 miles in 10 minutes - Delawareonline.com",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOVVKdGRTaFFZMjVKZ0ZsWVdKZHJBcnkxaktxeW4tRWFLMzZUNXpXWWJ2X3NVUGNJUkZMMGFheDFTb3B0cmFIemtSRVpoNVB5SWtPVTR2YjdGcWZMMFNpZzBJckROWEJCRjdaeVdsRy1qNWI1WmtqeUpwTnoyWWhkT0tKQVVXdG5zOVdKZGk3WWpsZEJ5bi1pZlBWd1NMMWUxUWNIeVNUOFpaeGNldm5hVU9uWTNHd2xYajlJV1JMcUJPUUZfb1NyQVdFam9fNm9fcDkwTF9wbzRicFpKZ2RBazJSM3g?oc=5",
@@ -466,42 +642,23 @@
    "summary_from": "page"
   },
   {
-   "title": "An oral history of the the day Kirk Cousins went down at Lambeau Field - Pioneer Press",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVlhhOGw5QXlEd05PVm5DcnFRdEdMM2xWU1prTjc2bUl5RjVPYWgtMDlqVm5PSmhPcEZPR2F2OXJUZ2ZQWkwxZ3N2VWNaWDEzQ2Q2MzBMZ2VOREQ2bl8yTUNMVk42Vy14UVdHd0kzT3NGbkE3RVNEanRCRFRzYnd4akxpaWdJNHVvNExDcVVTb2JZQVdrdmZOa1BIdDN2Zk5SZjdheHVqVzlmYVpIV0E?oc=5",
-   "source": "Pioneer Press",
-   "category": "Minnesota and Nature",
-   "summary": "An oral history of the the day Kirk Cousins went down at Lambeau Field Pioneer Press",
-   "published": "2026-11-14T09:00-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
+   "title": "Embrace Your Obsessions: Susan Orlean on the Antidote to the Meaninglessness of Life",
+   "link": "https://www.themarginalian.org/2026/11/14/susan-orlean-orchid-thief/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "Every great book, whatever its subject or genre or style, is about one thing only: the eternal question of what gives meaning to our tiny, transient lives. And every answer given, however faintly whispered, points to one thing only: the quality of attention we pay to those lives. If attention is the lever of love , the particular — the sacred specificity of something small and singular, something easy to overlook — is its fulcrum . “Love quells fear,” Octavia Butler wrote in contemplating creativity , “and a sweet and powerful positive obsession blunts pain, diverts rage, and engages each of us in the greatest, the most intense of our chosen struggles.” Our highly clinical culture, with its ",
+   "published": "2026-11-14T08:31-06:00",
+   "tags": [
+    "culture",
+    "psychology",
+    "books",
+    "philosophy",
+    "Susan Orlean"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Atmospheric river: West Coast storms, heavy rain, snow - The Weather Channel",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmE1T3hXckRzcjl1UVpYQlFzWUdkZzFyUXNLOHlNOTNKbFh6aWtoemFYbHQyeFdkVDBmcnBHdUN6UHFKdnNmaEJGREl0QjVUaDRGaXpxTnFWWF9wQmlZOVpTeWdLLURSV0ZoR3RoT092RWRTR1BtdVpsbndWSHlvMThoT283UGR6OGRPRHhSV05LVEdRelZ6NEJ5blRVcERsdzFkVmI5V2JSQXNxTjhoWDBPYw?oc=5",
-   "source": "The Weather Channel",
-   "category": "Weather & Meteorology",
-   "summary": "Atmospheric river: West Coast storms, heavy rain, snow The Weather Channel",
-   "published": "2026-11-14T07:40-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Free admission to Minnesota state parks on Black Friday - KFGO",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVJBX3lWWExrU3VyYmoyQjFvaUUtb3NUMmdvaEVKTlI5andiZGFjVFdiT085WmVmdDNNTExLZTNtUHE4dkNGQktDcVlvNlItV2pHLWZBS0FmTkN3T3hpdTRqWURyNlE1aDJkTWRXdjQwZFRud0lfMHQ1Vy1BcDRMV01pdGtUVlJ3M1RMQQ?oc=5",
-   "source": "KFGO",
-   "category": "Minnesota and Nature",
-   "summary": "Free admission to Minnesota state parks on Black Friday KFGO",
-   "published": "2026-11-14T06:54-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/orhidthief.jpg?fit=320%2C466&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -570,60 +727,6 @@
    "summary_from": "page"
   },
   {
-   "title": "ESP32 Flight Tracker on Apple CRT",
-   "link": "https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Sometimes we’re most taken by what’s on the screen; sometimes the screen itself is the most interesting part of the project. In this case, it’s the latter. That’s no slight against [Virtual-Bet-4566], whose ESP32-based flight tracker looks very nice– but a big part of what it makes it so nice is that it’s displaying the ADS-B flight data on an old green-phosphor monitor from the Apple II days. He’s using an ESP32-WROOM-32, which gives him both the wifi connection needed to grab aircraft locations and flight details– including photos of individual aircraft, when available from Planespotters.net– but crucially has an 8-bit digital-analong-converter that he’s using to drive the composite input on the old Apple monitor. Not all of the expansive ESP32 family have that feature, but at this point you might as well call ESP32 a brand of MCU than a family given the vast differences between them. Since composite video doesn’t need much power, he’s connected the dev board directly to the monitor. It’s that delicious combination of the old and new that really gets us vibing. Speaking of vibing, yes, this whole thing was vibe-coded, as [Virtual-Bet] freely admits in the Reddit thread. LLMs seem to be really good at making these flight tracking apps, to judge from other posts on that site, but this one stands out for its display method. He’s also apparently got weather and his own local sensor data incorporated in the wifi-controlled display application, and isn’t interested in sharing the code since you could prompt it yourself. Fair enough. We’ve seen composite-out from the ESP32 family before, more than once — which is probably how the LLM knew to pull it off–but there’s just something about that green glow . For retro, (lol) the screen is a work of art. That font is great for the",
-   "published": "2026-11-14T00:00-06:00",
-   "tags": [
-    "Misc Hacks",
-    "composite video",
-    "CRT display",
-    "ESP32-WROOM-32",
-    "flight tracker",
-    "llm-assisted project",
-    "vibe coding"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "page"
-  },
-  {
-   "title": "Apollo 12 and Surveyor 3",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-14-apollo-12-and-surveyor-3/",
-   "source": "NASA Astronomy Picture of the Day",
-   "category": "Astrophotography",
-   "summary": "APOD: 2026 November 14 - Apollo 12 and Surveyor 3 Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 2026 November 14 Apollo 12 and Surveyor 3 Image Credit & Copyright : Apollo 12 , Alan Bean - Stereo Image Copyright: Kevin Frank Explanation: Explanation: Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph shows Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landed at the site on the inside slope of a small crater about 2 1/2",
-   "published": "2026-11-13T23:05-06:00",
-   "tags": [],
-   "feed": "NASA Astronomy Picture of the Day",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/KF-ApAn48-7133-4.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Borland C++ 2.0 Compiler Source Reconstructed",
-   "link": "https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "As the successor to Turbo C++, Borland C++ was a staple of professional IDEs for C and C++ development, starting with the initial 2.0 release in 1991. Being a commercial project the original source code for the toolchains were naturally not made available by Borland, but thanks to the efforts of [Abedegno] we have now got what is claimed to be a byte-perfect recreation , in the sense that the binaries compiled using the toolchain are identical to the original toolchain. The process of creating the source from the original toolchain binaries is detailed in a separate document , including the use of [Abedgno]’s Claude Code-based Exhume tool to assist in the effort. Having the source code for BC++ 2.0 available is probably most useful for projects that deal with DOS-based software from the same era, as well as for purely historic interest reason. When BC++ 2.0 was released, the C programming language had only just seen itself standardized in the form of C89, and C++’s initial standard in 1998 was still years away. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-13T21:00-06:00",
-   "tags": [
-    "Reverse Engineering",
-    "Software Development",
-    "Borland",
-    "c++"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2017/05/c.jpg",
-   "summary_from": "page"
-  },
-  {
    "title": "Delaware tornado confirmed at EF-1, 'peak' damage in Chapman Woods: NWS - Delawareonline.com",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVkpLeGF3Tlk0anlpNjR5bktNMWVSUFRFcUNfUUxUT3pfMmtUNG9ld0pNY1UzZ0JwLXlUZ1NRWE9YSnh2TjNtcG54emtFQkRId2hWbjRhTXZIa015RFNaLS1rclpHelNHMzlzNU1HcXJ6SktLVW9rQzNpUzU2MDZsS3AwSG8tTVl1YnkzTTNSdVY2dm15cU9zbUFvVUs5S2NWX2JEaXlNeHdWX3pwenY5b2pkbE4xZ0tSNjJSTVZCb01qV2w5S3FCWjd0VVF0Ym9ZWnEzbUFxUnV2dw?oc=5",
    "source": "Delawareonline.com",
@@ -659,17 +762,16 @@
    "summary_from": "feed"
   },
   {
-   "title": "When Einstein's Gravitational Waves Meet Newton's Tides",
-   "link": "https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "A researcher at Freie Universität Berlin has developed a theoretical framework for searching high-precision measurements for possible relativistic traces in lunar tides.",
-   "published": "2026-11-13T18:35-06:00",
+   "title": "Science Museum of Minnesota announces job cuts, new initiatives amid $4.64M budget gap for 2027 - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkQ2SE00UW9Jekg0SE1pY19RX3N3SlY4djI3VW5zNTBmZzNYZHl4R293cGpoanVjUGJNTExnN21UYTk0c1dMbmJ2MGtXUnJtRGpGaU9WeTA5Ml9wRkxsWUpLSG9BeUJ1bUJlWU1rZnA2Vk5hamNrbGJsSnB2UjNQRUpSeG1xR0s0Q21aNVg1Qjc?oc=5",
+   "source": "Yahoo",
+   "category": "Minnesota and Nature",
+   "summary": "Science Museum of Minnesota announces job cuts, new initiatives amid $4.64M budget gap for 2027 Yahoo",
+   "published": "2026-11-13T18:42-06:00",
    "tags": [],
-   "feed": "Universe Today",
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
-   "image": "https://www.universetoday.com/article_images/wd_05_20260615_101144_20261114_003414.jpg",
    "summary_from": "feed"
   },
   {
@@ -681,19 +783,6 @@
    "published": "2026-11-13T18:08-06:00",
    "tags": [],
    "feed": "Google News severe weather science",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Gary Releases August Derecho Storm Report That Includes Recovery Plan - Capital B Gary",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTBBbTVqaE1vaVBicWlJQmk2V18tS2Z6NnBvTXo2S2ZoV1N5SGtDRGc0ZWtUX1NGMFNWYjRBVmZnTGRrY3ozU2NidDlRSnUtaTQxdDd1Y0F3RlZLZ3dGMXhFb3dkMnhvaTluV0I1bEkyWFM0em1MWVJ5TzFsWEN4bTRLOGhEbHc?oc=5",
-   "source": "Capital B Gary",
-   "category": "Weather & Meteorology",
-   "summary": "Gary Releases August Derecho Storm Report That Includes Recovery Plan Capital B Gary",
-   "published": "2026-11-13T17:30-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -752,19 +841,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "A Literary Map of the United States",
-   "link": "https://kottke.org/26/11/a-literary-map-of-the-united-states",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "From Big Think and Pop Charts, A Literary Map of America that “highlights the real and imagined settings of hundreds of books”. Frank Jacobs takes a closer look at some of the imaginary places on the map , including Sleepy Hollow, Lake Wobegon, Brokeback Mountain, and F. Scott Fitzgerald’s East Egg and West Egg. There are many ways to read this map: as a peculiar road map of the United States, a potted history of the same, a metatext of American literature, a guide to American literary genres and their centers of gravity, and more. I will get to at least some of them later, but for now, I want to examine the effect that scholars call broadly “imaginative geography,” more precisely “toponymic",
-   "published": "2026-11-13T15:48-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Solving the Feynman restaurant problem, i.e. how many...",
    "link": "https://kottke.org/26/11/0049960-solving-the-feynman-resta",
    "source": "Kottke",
@@ -776,22 +852,6 @@
    "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "Using a Toothbrush’s NFC chip to Unlock a Computer",
-   "link": "https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Depending on which type of electric toothbrush you are using, the replaceable brushes may contain an NFC chip that the handle and possibly base station uses to track various details, such as time spent brushing and when to replace the brush. The Philips Sonicare of [Circuit Helper] is one such unit, with its NFC chip tracking aspects like runtime and pressure . Unsurprisingly it’s easy enough to read and write this same NFC chip with a PN532 NFC reader and ESP32-S3 MCU. This reveals data fields for everything from brush type, to total runtime and expected lifetime, inviting a bit of experimentation on how certain usage patterns affects these data fields. This much is perhaps not too shocking, but the fun part is what you can do with the chip after you have figured out how to write to its memory. How to unlock these units and their NXP NTAG213 IC has been figured out a few years ago already, so the hardest part was to figure out what to do with this information. The demonstrated use case in the video is to unlock an Apple Macbook, which is maybe a bit too niche. Also demonstrated is taking the chip and its antenna out of the brush, which turns out to be quite easy. Perhaps salvaging just this one part of the brush is the more practical and hygienic option, as who doesn’t like building up a strategic supply of ‘free’ NFC chips? I’ve been looking into getting nfc/rfid (keyboard wedge) unlock working in Linux (specifically fedora based) and I’ve had no luck Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-13T15:00-06:00",
-   "tags": [
-    "Reverse Engineering"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/toothbrush-snf-featured_d95783.jpg",
-   "summary_from": "page"
   },
   {
    "title": "Black Friday one of four free state park days in Minnesota - Duluth News Tribune",
@@ -905,20 +965,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
-   "link": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "The Cosmic Noon was when the Universe's Stelliferous Era Began, and star formation was prodigious during that epoch. But since then, star formation has slowed to a relative crawl, despite the fact that we can watch them forming in regions throughout the Milky Way. What happened to the hydrogen gas that forms stars? New research found clues in a particulary dense galaxy cluster.",
-   "published": "2026-11-13T11:51-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/eso1438b_20261113_173311.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Friday the 13th Producer Explains Why Steve Miner Was Chosen to Bring Back Jason",
    "link": "https://reactormag.com/why-friday-the-13th-is-bringing-back-director-steve-miner-after-more-than-40-years/",
    "source": "Reactor",
@@ -962,23 +1008,6 @@
    "feed": "Kottke",
    "evergreen": true,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Sue Metal T-Rex Statue in Faith, South Dakota",
-   "link": "https://www.atlasobscura.com/places/sue-metal-t-rex-statue",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "At the edge of the South Dakota prairie, a scrap-metal Tyrannosaurus rex rises from the small town of Faith. A tribute to one of the most famous dinosaurs ever unearthed. Built from recycled tractors and agricultural materials, this sculpture honors Sue, the largest and most complete T. rex fossil discovered in the United States. The original skeleton now resides in Chicago's Field Museum. Faith proudly calls itself the \"T. rex Capital of the World,\" a title rooted in the fossil-rich lands nearby. Sue was discovered on August 12, 1990, by fossil hunter Sue Hendrickson while working with the Black Hills Institute on the Cheyenne River Reservation. The skeleton, found in the Hell Creek Formati",
-   "published": "2026-11-13T11:00-06:00",
-   "tags": [
-    "sculptures",
-    "dinosaurs"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/NAp92Yf-8hkCBA-795J-nH64wtU0y2s4qRVQ7Csa27g/rs:fill:300:200:1/g:ce/c:2480:1653:nowe:1169:267/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84YmNk/MjU2YS04NGEyLTQx/MjYtYjdjMy1iMDVl/ZTgxNDdmNGFiNWJh/MDgxODU4YzM4NDI1/MDhfMzg0MHB4LVQt/UmV4X19TdWVfLmpw/Zw.jpg",
    "summary_from": "feed"
   },
   {
@@ -1156,19 +1185,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "NWS surveys damage after tornadoes touch down in Delaware, NJ - NBC10 Philadelphia",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWpVNzVmVzFDVENZNDFmV0NnTkJfMmpiTkxaWFNEeWZuMUlaSUpoSXljOTlaVm05MXU3OEx2d3BqMzAxVjdKVUg2TFJoRExoVTdpN29jbVRiZkhnREZaTGdzTDZhMnhXMXNXNkxMUUZNblVxNU9USjg5d0VWTEVUbHZNRkp1YTFNOVJjNjZ1aWFKWXVIR04wUTh6X0ZJWTV3aTlSdUV1bjBHY0F2di0tVjE4Vm4ydkV2aFlrYlZLUkpuNG9Q0gHMAUFVX3lxTE53MnhueU82NlNEZktVSzYwLU5qREViejN3VTF2SWNpQ3JSakI3X2dSYjhpZVJLd0pQV2UxbWpOLVpjbXdmZFF2WTl0dHFGei0tMS1ydE9wZWlpUXBHbWMxUUF1NU1zb2ZBb2U3OTI5b1p2N1JoM2hQODlrNU9OSmpMd3V6NnJhcWNvemd1MmU4Q0NsWHJ6V1pVeHg0cE9hcFpjUUlUejlJQTNwRk44cWRQclJmakRkWEhpNW1CLWdreFl1c0xuYzNRelo1QQ?oc=5",
-   "source": "NBC10 Philadelphia",
-   "category": "Weather & Meteorology",
-   "summary": "NWS surveys damage after tornadoes touch down in Delaware, NJ NBC10 Philadelphia",
-   "published": "2026-11-13T06:10-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Meet Ashley Zuk, Minnesota’s only female varsity boys hockey coach this season - Star Tribune",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjNqMzdJMWR6TmhfamZxYVJ4ZWdVUkl2Z09PalJUbzNxSERia3pWTHQzWDdNLVdfdDlwUGoycDdycXdfa2N3QVBRWUhjY2Nja1RtZDJvUkk5aEpsSUFCdm9KbjdoaHh1MW5PUks2TTRpeWxJTjNyT1FSNkNwdndLY2hSZ3hYbGUwdnFqNEppLU90QUR6d2dpb3ZCY1hOZ0JrNTQ4RXNoQQ?oc=5",
    "source": "Star Tribune",
@@ -1177,6 +1193,19 @@
    "published": "2026-11-13T06:00-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NWS confirms 10th tornado struck near RDU on October 11, most in a single day for central NC - WRAL",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQME43eFRQcUtPcTFZc2hPMW5OR1o3V3lsTDNEYVVSSEJNUENiWEZyTWhsWGhmbWRyb1ZtWXNsa043WmJQOHBfWVhQcWRWdmV2TWMxNkRrS0FVU0N6eVZwQ05ONy10WHdnNmtNWjV6c1otUnJibmR0eHFfRERtOVZjY1JITE91WEFJNUVB?oc=5",
+   "source": "WRAL",
+   "category": "Weather & Meteorology",
+   "summary": "NWS confirms 10th tornado struck near RDU on October 11, most in a single day for central NC WRAL",
+   "published": "2026-11-13T05:06-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1601,19 +1630,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Tornadoes and flash flooding hit New York, Delaware, Pennsylvania - The Weather Channel",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGl0Y1dhOXctMmJZYTNkWHMyQkc2c3ZkZEpaVlVZUUFad2dkT1dwb0lBa0Z4Qm5LbHY2SVV2TFRhM2ZwV0VzaXB5S1daOU9DZHFrZy1PZm1idzRQUUN0N2hNZmlpeklNSERMLTlESGpVY1lxckF5MUo2dk1SbEpIXzVLYmxqVUhvVm1La0x3Z3I4a0QwenRR?oc=5",
-   "source": "The Weather Channel",
-   "category": "Weather & Meteorology",
-   "summary": "Tornadoes and flash flooding hit New York, Delaware, Pennsylvania The Weather Channel",
-   "published": "2026-11-12T13:11-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Shetland season 11 cast: who stars in Tosh's final run? - Radio Times",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aMEFDcm52elpmZnNha0lXdENYOU1uWUZBWWFlcmJwOTFvUkdTT0RYalBIYzVIN2d3WVFEck9kZzFxQ212QVJoQWhiQVA2YjBMaS1XbUFRSDhDQjh2VVRnRGw2cndWRjlCUVE4SUJDWmYzZw?oc=5",
    "source": "Radio Times",
@@ -1993,19 +2009,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Rain and frost hit Northern Minnesota - KAXE",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOGlEU1QtUnhfTFcwalJHVVhaQ3htUHdXWk54NlF2VXdLR3lrYTcwbmJORUdtdDBTMmN4M2JYV2pOR2pFSFZsT04tSXFHalh5RU41SmVya0QwWmYtbzZzRE9EZnN2V0dkYnc2eVl5SlBNM0JYRnl4MXZnc1gtWTBOOXkzdWFFZFYtQkVUUEZUOGR6SVd5ay0wRmI3cTBtQQ?oc=5",
-   "source": "KAXE",
-   "category": "Minnesota and Nature",
-   "summary": "Rain and frost hit Northern Minnesota KAXE",
-   "published": "2026-11-12T09:34-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Starting today at 7pm in NYC, 400 volunteers will read...",
    "link": "https://kottke.org/26/11/0049985-400-volunteers-will-read-",
    "source": "Kottke",
@@ -2163,19 +2166,6 @@
    "published": "2026-11-12T05:07-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "LETTERS FROM READERS - 11-11-26 - MessageMedia.co",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVDhicTBwa3NGaHFlV0pRR2VLWWhqNG1LMlZ4eTZQMEo3azFrZ2VDZF96aGd2U3Nob3ZZSzVPSFpfSmRPSjRKR1R1VkRybjBORy1oQlV2bGtUbkNneFBqc1QtOTZVemdkYlowblI5WWNFSklMU0QyOEpKa3Z2S0JlOWFyTGhWX2hXRmplczNoQkVFbnhQRlZ6YzdwbUQxbU5GTk1ON1FOR1ExdW9oblpjNlBlaXg0V2lrWlZlT1ZTdmNvbHhKZE1hWmZxdWQ?oc=5",
-   "source": "MessageMedia.co",
-   "category": "Minnesota and Nature",
-   "summary": "LETTERS FROM READERS - 11-11-26 MessageMedia.co",
-   "published": "2026-11-12T05:00-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2448,6 +2438,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "What Will Starting a Creative Career Look Like in the...",
+   "link": "https://kottke.org/26/11/0049969-what-will-starting-a-crea",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "What Will Starting a Creative Career Look Like in the Next Few Years? “We can’t keep asking where all the good designers are if we’re unwilling to help anyone become one.”",
+   "published": "2026-11-11T13:15-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "John J. McGraw Monument in Truxton, New York",
    "link": "https://www.atlasobscura.com/places/john-j-mcgraw-monument",
    "source": "Atlas Obscura",
@@ -2686,19 +2689,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Stronger than usual El Nino could do a number on Minnesota's ice fishing industry - Audacy",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TTF5dV9ONHdSOGZCWmc1ZkM2UlpBbTNpYWswdE5rdGJZMnhrWHVaYl93WHJBdTZXVUJETEFTRnlpSTY5WXNTMDBQRFk1endhVFcwLUpqSndXNDJXdEFmZWVXNDI4WTM4Mm91UnB1bDEyM2NjSU9icU1Zd0ZZQQ?oc=5",
-   "source": "Audacy",
-   "category": "Minnesota and Nature",
-   "summary": "Stronger than usual El Nino could do a number on Minnesota's ice fishing industry Audacy",
-   "published": "2026-11-11T08:21-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "BBC confirms removal of TV shows featuring David Walliams - including Doctor Who episode and Little Britain - Radio Times",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanJ5cnFXVmxYREE5VHpJMzNtazVWc1JGdUo1SUtXM0tSRXQwU0NValZUQmd6QTFTdUItcGxZbDNVMWN0Rzhyc2lJY3BBSFUta2thUV9YRmJkQUl6VDkyMXVtc0lVbXpjU2pZU0gwUnd2TDk0RUw4ZXBfd2pYTzhkeG44VmFaOElsekxmTUFVOFF4eWxuc0xPR2FCbF9JdXR5?oc=5",
    "source": "Radio Times",
@@ -2720,19 +2710,6 @@
    "published": "2026-11-11T05:30-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Space Weather Forecasting Market Is Expected to Grow Rapidly at a 9.7% CAGR Until 2030 - openPR.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGpjQkR3SW9fbm5KRjFDSGR3ZWdDSHgySHVMam5VYmRoOVltN0hVSXNsZVp0ZWt5Sk5CQmIxTUtPaWlsRU4xYVRvOW9pSGtmemVPdFczRlhCUVNGREI1VXZtNmYydTlDQTNaOHJDSjlXdk5lOHVOTUlXVnlyeVpZQm1uMW1HZ0Y5ZlZkY0FRc2FtY3dkeFdEQmdBbE1YOEVBTEE?oc=5",
-   "source": "openPR.com",
-   "category": "Space Weather and Aurora",
-   "summary": "The Space Weather Forecasting Market Is Expected to Grow Rapidly at a 9.7% CAGR Until 2030 openPR.com",
-   "published": "2026-11-11T05:21-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3009,20 +2986,6 @@
    "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Why Aging Stars Suffer A Sudden Luminosity Dip",
-   "link": "https://www.universetoday.com/articles/why-aging-stars-suffer-a-sudden-luminosity-dip",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "When low-mass stars like our Sun age, they leave the main sequence and follow the Red Giant Branch. As they ascend this branch, their luminosity steadily increases. But there's a sort of hiccup in the path called the RGB luminosity bump, where their luminosity suddenly dips. Astrophysicists have struggle to explain this, but one astrophysicist might have the answer.",
-   "published": "2026-11-10T11:22-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/STScI-01J1X25A66FJK08ZQSZP6TH1GZ_20260723_230143.jpg",
    "summary_from": "feed"
   },
   {
@@ -3362,6 +3325,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "SOLAR FLARE | Even More Niche and Performative - The Cornell Daily Sun",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWJVTDBpNlVIdnNtVkg3b0o1NVJ6bEdHTnpuZUo3X0VQQm9qVGN3ZGM3b3paOU1iZWZPRVBDSnFSMWRxaEZwM2hiWVpmM2RfQm9zTGxtSVVhdWp0QmotZ3N5Y09oei15VTFjcFIzM2ozelJyT2xvLVF5clg1VTVSSEFLa2dia2ZjZ1VNRGhyeEM?oc=5",
+   "source": "The Cornell Daily Sun",
+   "category": "Space Weather and Aurora",
+   "summary": "SOLAR FLARE | Even More Niche and Performative The Cornell Daily Sun",
+   "published": "2026-11-09T08:07-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Noxious Smoke Hints at Active Volcanoes on Mars",
    "link": "https://skyandtelescope.org/astronomy-news/noxious-smoke-hints-at-active-volcanoes-on-mars/",
    "source": "Sky and Telescope News",
@@ -3492,6 +3468,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Nexus 1.22.0 Shows Solar Flare Absorption the way NOAA Sees it - Amateur Radio Daily",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ycmoxMm1iNWRLRlJxN3RTZ3Rjb0N5dGhuc1lHRmV3N245em5wc1hDLTlrTE1NYk1TdEFxVnBjMThvTXNsc3ZoM3JFVzRoZGNab3NxeHQ0T08wSmd3V1pzTVdMOE8xSzFJTkU3OTRWUjlGTTYxNXp3dXNYZw?oc=5",
+   "source": "Amateur Radio Daily",
+   "category": "Space Weather and Aurora",
+   "summary": "Nexus 1.22.0 Shows Solar Flare Absorption the way NOAA Sees it Amateur Radio Daily",
+   "published": "2026-11-08T02:00-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Major Fireball Meteor",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
    "source": "NASA Astronomy Picture of the Day",
@@ -3563,19 +3552,6 @@
     "AI + machine learning"
    ],
    "feed": "Microsoft Azure Blog",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Northern Lights Alert: 22 States May See Aurora This Weekend - Forbes",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDloZFNyb2x1ams4eVZoN3p2NkN6cUYzdUlrMlpFV0E2cTBKeFhWUWMtMzVtaDRYSm1sVkxDOVYtNENpbnFDNVQweWJIMnRoNTlKaEcyd1VibVVjVlFXVmY5WHpiMW91cFlncERoY2pNUmROZEpZR0duSnZ6WDNxa1dTS0xJWnRkWXo4MktycEtBOE5UNTdkVW5UNzhIQmJTYUlCZFA1R0Q2OGFadkFPamVTUlE4Z3M0OHc?oc=5",
-   "source": "Forbes",
-   "category": "Space Weather and Aurora",
-   "summary": "Northern Lights Alert: 22 States May See Aurora This Weekend Forbes",
-   "published": "2026-11-06T09:13-06:00",
-   "tags": [],
-   "feed": "Google News aurora",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3703,19 +3679,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/take-the-dotnet-developer-survey.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "WVU researcher set to lead $2.7 million research project for space weather forecasting - thedaonline.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMXBwbmFPdy1SM2NHallrZWlXeTdCTFdjMm84eGQxVjBhUkliUDFGYjRNdHpQTTBjU1k4cFJIbGdQSVZ5UjE1Y2ZzSXIxX3RMS2FSbjlvMENTU2drSEZlRHpzYllBaGpnWnVCVl9ITTFVQXN2Nk01NHlqa2pzZWhIeEVBNFBoeTBjb0wyVTc1Wm1KWkV5VnRBVjY0c3FJS01GZm4xMmg1M292OWNpLUNLdUFfZjN5RWdrNHJaTG1BV2gzcVZaWjNPeEtFVHgwOFVBUFM5RzhrelZ6VkNyVE10c1JkU3hYZ29sRWRha3I2M0haTFBrQjFTV3ZCOXh1T3pmbUQ5SXNtcm0?oc=5",
-   "source": "thedaonline.com",
-   "category": "Space Weather and Aurora",
-   "summary": "WVU researcher set to lead $2.7 million research project for space weather forecasting thedaonline.com",
-   "published": "2026-11-05T12:00-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3977,23 +3940,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "What Is Your Refugium?",
-   "link": "https://www.themarginalian.org/2026/10/29/horse-chestnut-refugium/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "For courage, says Bulgarian folk wisdom instructs, keep a horse chestnut in your pocket. Even as a child, I was mistrustful of superstition. But every autumn, I would pick up dozens of them from the sidewalks of Sofia and fill my pockets — not as a spell against fear but as an ode to joy. Conkers, as the English call them, spun me up in delight — shiny as mahogany, smooth as river stones, tiny planets from some other universe, the wonder-smitten eyes of some prehistoric creature. I didn’t know then that they are emblems of life’s irrepressible insistence on itself — miniature monuments to the stubborn creativity of survival. Illustration from Die Baume und Straucher des Waldes by by Gustav H",
-   "published": "2026-10-29T18:48-05:00",
-   "tags": [
-    "culture",
-    "science"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://www.themarginalian.org/wp-content/uploads/2026/09/aforestlanguage-320x448.avif",
-   "summary_from": "feed"
-  },
-  {
    "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
    "link": "https://publicdomainreview.org/essay/wonderful-weather",
    "source": "Public Domain Review",
@@ -4243,6 +4189,20 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://pdr-assets.b-cdn.net//collections/john-arderne-sweden-scroll/arderne-scroll-thumb.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Is Alton, Illinois America’s Most Haunted Small Town?",
+   "link": "https://www.atlasobscura.com/articles/podcast-alton-illinois-haunted-town",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. Troy Taylor: There’s a story about a phantom riverboat that I always liked, about how if you heard the riverboat whistle blow on a foggy morning but you never saw the boat, that meant that someone who worked down on the docks was going to die within the next seven days. Amanda McGowan: A lot of old waterfront towns really play up the quaint and cutesy factor, you know, with a brunch cruise on a steamboat or something like that. But in Alton, Illinois, the vibe is a little bit more Widow’s Bay. Troy: Now, I don’t know how this story got started. There are rumors that it got started because of a riverboat that disap",
+   "published": "2026-09-26T08:15-05:00",
+   "tags": [],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/ZOOMyVLtGNAYf5Ny3O-ctgNdtxHatxXR8z2ZfBBcGdA/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80OWRlNTdhMS1j/MGFhLTRmN2UtOTg0/OS1mMzFlZWFiNWUw/NDg1NDAxZDI5Yjhh/NzUxYjZhOTNfOTU2/NTMwZmNmNjcyNDA2/NmNlXzk1ZWU0MWE5/LTZhMTUtNDAwYy05/ZTU0LWY2ODgzYjY5/NDJmY19lNDVhZGY1/ZjZiYzBjNWMyYTMw/YTM5ODY4ZjQ0ZWFi/Ni5qcGc.jpg",
    "summary_from": "feed"
   },
   {
