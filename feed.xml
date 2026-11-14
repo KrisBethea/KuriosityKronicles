@@ -5,8 +5,110 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 14 Nov 2026 00:53:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 18:43:54 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Borland C++ 2.0 Compiler Source Reconstructed</title>
+<link>https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/</guid>
+<pubDate>Sat, 14 Nov 2026 12:43:54 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>A developer has achieved a byte-perfect recreation of the classic Borland C++ 2.0 compiler source code. Utilizing modern tooling like Claude Code alongside historical binaries offers a fascinating glimpse into early nineties software engineering.</description>
+<content:encoded><![CDATA[<p><small>from the retro-compiling dept.</small></p>
+<p><em>A developer has achieved a byte-perfect recreation of the classic Borland C++ 2.0 compiler source code. Utilizing modern tooling like Claude Code alongside historical binaries offers a fascinating glimpse into early nineties software engineering.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2017/05/c.jpg" alt=""></p>
+<p>By reconstructing the source code of the 1991 Borland C++ 2.0 toolchain, developer Abedegno made it possible to compile binaries that match the original releases. The project documents the methodology behind reverse-engineering the vintage compiler.</p>
+<p><a href="https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>ESP32 Flight Tracker Displayed on Vintage Apple CRT Monitor</title>
+<link>https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/</guid>
+<pubDate>Sat, 14 Nov 2026 12:42:54 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Combining modern Wi-Fi microcontrollers with vintage cathode-ray tube displays is a timeless maker art. Using an ESP32's built-in DAC to drive composite video yields a charming retro visualization.</description>
+<content:encoded><![CDATA[<p><small>from the green-phosphor dept.</small></p>
+<p><em>Combining modern Wi-Fi microcontrollers with vintage cathode-ray tube displays is a timeless maker art. Using an ESP32&#x27;s built-in DAC to drive composite video yields a charming retro visualization.</em></p>
+<p>An ESP32-WROOM-32 board fetches live ADS-B flight data and aircraft photos over Wi-Fi, using its 8-bit digital-to-analog converter to output composite video straight to an old green-phosphor Apple II monitor.</p>
+<p><a href="https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Apollo 12 and Surveyor 3 in 3D Anaglyph</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-14-apollo-12-and-surveyor-3/</link>
+<guid isPermaLink="false">https://science.nasa.gov/image-article/apod-2026-november-14-apollo-12-and-surveyor-3/</guid>
+<pubDate>Sat, 14 Nov 2026 12:41:54 -0600</pubDate>
+<category>Astrophotography</category>
+<description>Looking back at Apollo-era archive photos through a stereoscopic lens bridges historical exploration and amateur observing techniques. It's a wonderful reminder of humanity's early lunar footprints.</description>
+<content:encoded><![CDATA[<p><small>from the ocean of storms dept.</small></p>
+<p><em>Looking back at Apollo-era archive photos through a stereoscopic lens bridges historical exploration and amateur observing techniques. It&#x27;s a wonderful reminder of humanity&#x27;s early lunar footprints.</em></p>
+<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/KF-ApAn48-7133-4.jpg" alt=""></p>
+<p>A 3D anaglyph featuring Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft on the Moon in November 1969 lets observers view the lunar surface with red and blue glasses.</p>
+<p><a href="https://science.nasa.gov/image-article/apod-2026-november-14-apollo-12-and-surveyor-3/">Read it</a> · Astrophotography · NASA Astronomy Picture of the Day</p>]]></content:encoded>
+</item>
+<item>
+<title>When Einstein's Gravitational Waves Meet Newton's Tides</title>
+<link>https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides</guid>
+<pubDate>Sat, 14 Nov 2026 12:40:54 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Theoretical frameworks bridging general relativity and classic celestial mechanics are always delightful. This research explores how high-precision tidal measurements might harbor relativistic traces.</description>
+<content:encoded><![CDATA[<p><small>from the relativistic tides dept.</small></p>
+<p><em>Theoretical frameworks bridging general relativity and classic celestial mechanics are always delightful. This research explores how high-precision tidal measurements might harbor relativistic traces.</em></p>
+<p><img src="https://www.universetoday.com/article_images/wd_05_20260615_101144_20261114_003414.jpg" alt=""></p>
+<p>A researcher at Freie Universität Berlin has developed a new theoretical framework aimed at searching high-precision measurements of lunar tides for subtle relativistic traces predicted by Einstein.</p>
+<p><a href="https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation</title>
+<link>https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation</guid>
+<pubDate>Sat, 14 Nov 2026 12:39:54 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Understanding why star formation slowed down significantly after the universe's 'Cosmic Noon' helps piece together galactic evolution. New clues point directly toward the mechanics within dense galaxy clusters.</description>
+<content:encoded><![CDATA[<p><small>from the stellar nursery dept.</small></p>
+<p><em>Understanding why star formation slowed down significantly after the universe&#x27;s &#x27;Cosmic Noon&#x27; helps piece together galactic evolution. New clues point directly toward the mechanics within dense galaxy clusters.</em></p>
+<p><img src="https://www.universetoday.com/article_images/eso1438b_20261113_173311.jpg" alt=""></p>
+<p>While star formation was prolific during the early universe, it has since slowed to a crawl. New research into a particularly dense galaxy cluster uncovers clues regarding what happened to the hydrogen gas needed to build stars.</p>
+<p><a href="https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Using a Toothbrush’s NFC Chip to Unlock a Computer</title>
+<link>https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/</guid>
+<pubDate>Sat, 14 Nov 2026 12:38:54 -0600</pubDate>
+<category>Curious Discoveries</category>
+<description>Repurposing obscure microcontroller-driven household items for entirely unintended tasks showcases peak hacker ingenuity. Finding NTAG chips inside electric toothbrush heads opens up bizarre authentication avenues.</description>
+<content:encoded><![CDATA[<p><small>from the dental security dept.</small></p>
+<p><em>Repurposing obscure microcontroller-driven household items for entirely unintended tasks showcases peak hacker ingenuity. Finding NTAG chips inside electric toothbrush heads opens up bizarre authentication avenues.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/toothbrush-snf-featured_d95783.jpg" alt=""></p>
+<p>After discovering that replaceable Philips Sonicare toothbrush heads contain NFC chips tracking wear and runtime, a maker used an ESP32-S3 and an NFC reader to write custom data and unlock an Apple MacBook.</p>
+<p><a href="https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/">Read it</a> · Curious Discoveries · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Sue Metal T-Rex Statue in Faith, South Dakota</title>
+<link>https://www.atlasobscura.com/places/sue-metal-t-rex-statue</link>
+<guid isPermaLink="false">https://www.atlasobscura.com/places/sue-metal-t-rex-statue</guid>
+<pubDate>Sat, 14 Nov 2026 12:37:54 -0600</pubDate>
+<category>Curious Discoveries</category>
+<description>Public art built from agricultural salvage honoring one of history's most famous dinosaur discoveries makes for delightful roadside Americana. It ties local pride directly back to earth science history.</description>
+<content:encoded><![CDATA[<p><small>from the scrap-metal paleontology dept.</small></p>
+<p><em>Public art built from agricultural salvage honoring one of history&#x27;s most famous dinosaur discoveries makes for delightful roadside Americana. It ties local pride directly back to earth science history.</em></p>
+<p><img src="https://img.atlasobscura.com/NAp92Yf-8hkCBA-795J-nH64wtU0y2s4qRVQ7Csa27g/rs:fill:300:200:1/g:ce/c:2480:1653:nowe:1169:267/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84YmNk/MjU2YS04NGEyLTQx/MjYtYjdjMy1iMDVl/ZTgxNDdmNGFiNWJh/MDgxODU4YzM4NDI1/MDhfMzg0MHB4LVQt/UmV4X19TdWVfLmpw/Zw.jpg" alt=""></p>
+<p>A life-size Tyrannosaurus rex sculpture constructed from recycled tractors and farm equipment stands in Faith, South Dakota, honoring the discovery of Sue, the largest and most complete T. rex fossil found in the US.</p>
+<p><a href="https://www.atlasobscura.com/places/sue-metal-t-rex-statue">Read it</a> · Curious Discoveries · Atlas Obscura</p>]]></content:encoded>
+</item>
+<item>
+<title>A Literary Map of the United States</title>
+<link>https://kottke.org/26/11/a-literary-map-of-the-united-states</link>
+<guid isPermaLink="false">https://kottke.org/26/11/a-literary-map-of-the-united-states</guid>
+<pubDate>Sat, 14 Nov 2026 12:36:54 -0600</pubDate>
+<category>Wildcard</category>
+<description>Mapping imaginary literary settings alongside real geography provides a whimsical lens on American literature. It treats fictional landscapes like Lake Wobegon and Sleepy Hollow as genuine cartographic points of interest.</description>
+<content:encoded><![CDATA[<p><small>from the imaginative geography dept.</small></p>
+<p><em>Mapping imaginary literary settings alongside real geography provides a whimsical lens on American literature. It treats fictional landscapes like Lake Wobegon and Sleepy Hollow as genuine cartographic points of interest.</em></p>
+<p>A literary map of America highlights both real and imaginary settings from hundreds of books, tracking fictional locations like Lake Wobegon, Sleepy Hollow, and F. Scott Fitzgerald&#x27;s East Egg.</p>
+<p><a href="https://kottke.org/26/11/a-literary-map-of-the-united-states">Read it</a> · Wildcard · Kottke</p>]]></content:encoded>
+</item>
 <item>
 <title>Running the X Window System on an ESP32 Microcontroller</title>
 <link>https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/</link>
