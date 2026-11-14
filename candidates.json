@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T17:28-06:00",
+ "generated": "2026-11-13T18:53-06:00",
  "count": 282,
  "sources": {
   "Astronomy and Space | NASA Science": {
@@ -70,12 +70,12 @@
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 10,
-   "entries": 70,
+   "entries": 71,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 60,
+   "old": 61,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -134,12 +134,12 @@
    "url": "https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 2,
-   "entries": 15,
+   "entries": 14,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 13,
+   "old": 12,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -173,12 +173,12 @@
    "url": "https://news.google.com/rss/search?q=%22Minnesota%22+%22severe+weather%22+OR+%22Midwest%22+%22winter+storm%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 36,
+   "entries": 37,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 36,
+   "old": 37,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -237,14 +237,14 @@
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 4,
+   "kept": 5,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 3,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
@@ -277,7 +277,7 @@
    "url": "https://openai.com/news/rss.xml",
    "ok": true,
    "kept": 20,
-   "entries": 1386,
+   "entries": 1387,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -354,8 +354,8 @@
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 12,
-   "entries": 30,
+   "kept": 11,
+   "entries": 29,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -432,6 +432,54 @@
  },
  "items": [
   {
+   "title": "X Window System on the ESP32",
+   "link": "https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "There are a lot of things you can do with an Xserver, but run it on a microcontroller? Well, if that microcontroller is an ESP32-S3, [Sergey Zorin]– and Claude– have got you covered with Woodland X11 , a full-featured port of everyone’s favourite XServer. Now, it is just the core Xserver with no extensions, and currently targeted specifically at the Elecrow CrowPanel Advance 4.3″, a device that packages an ESP32-S3-N16R8 with an 800×480 RGB565 IPS panel and GT911 touch. In this implementation, your finger is the Xcursor. There’s even two-finger scroll implemented, though no keyboard. As you can see in the demo video embedded below, it works well enough for those oldschool X applications like xclock, xcalc and– crucially!– xeyes. What’s the point of an Xserver without googly eyes, anyway? In reality, you’re not likely to set this up just for Xeyes, but the idea of having bringing Linux applications to a little display via WiFi or — as in the video– wired connection has no limit of use cases. Try that with Wayland ! Considering X11’s vintage, it is perhaps not surprising that it fits on the ESP32-S3, a chip we’ve seen emulate an entire 386 PC before– a PC that could run an Xserver, for you youngun’s. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-13T18:00-06:00",
+   "tags": [
+    "Software Hacks",
+    "ESP32-S3",
+    "llm-assisted project",
+    "X Server",
+    "x11"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/WoodlandX11_d196a1.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Astrophysicists Cross Another Dark Matter Candidate Off Their List: Stupendously Large Black Holes",
+   "link": "https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Astrophysicists are leaving no stone unturned in their search for what dark matter is. Different particles have been proposed, like WIMPs and axions. Hypothetical rimordial black holes have also been proposed. But there's another less well-known candidate, SLABs or Stupendously Large Black holes, a sub-type of primordial black holes. Alas, SLABs can't account for dark matter either, according to new research.",
+   "published": "2026-11-13T17:49-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/08_PRISMA_PI_stupendous_black_holes_20261113_200612.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "SpaceX Launches Starship But Passes Up Booster Catch for Safety's Sake",
+   "link": "https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "SpaceX sent its Starship on a flight that was meant to feature a first-ever retrieval of both rocket stages, but a launch-pad catch of the first-stage booster had to be canceled due to safety concerns.",
+   "published": "2026-11-13T17:12-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/261113-spacex_20261113_231220.jpg",
+   "summary_from": "feed"
+  },
+  {
    "title": "Atmospheric River Season for the Pacific Northwest - NASA Earthdata (.gov)",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdzZtd19nUkJIMU9URjdtR3k3WUY2VUJlZE9wb2tvNjE0U09uM1JUMF9nQ2FtV25IeFV4cVdCME90OWxaSk5CeW56OV9nTXo1R24wVlhSNnc2OWFZWXBkNHZTSVpDSkZKTGRNLVZCNE03QUVoS2xGU3Z0cnY1ZURiOWVGS3pJNjNFUVUtcFp5TVJONFNNR2FGWXhzaHYtZU51em9YTg?oc=5",
    "source": "NASA Earthdata (.gov)",
@@ -451,6 +499,19 @@
    "category": "Weather & Meteorology",
    "summary": "EF-1 tornado with 100 mph winds damages homes in Burlington County, New Jersey 6abc Philadelphia",
    "published": "2026-11-13T16:29-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "N.J. tornado packed 100 mph winds, ripped roof off house and caused barn to collapse - NJ.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmZaWUlCYnctZEhFSUstRFlxdm5pdU1reTBBMEJsY09URnN3aHR2UXU2Tl95VDJYTzgyVUpLYzlxNG5aZ2t6a0RoQTJFWXpBbGRkWW5ydElDVnplMVBET25rc0djNU1veVZxeTRVMF9FY2l6dmNza3dXU3Z0b2dadjVCWHFJOEFNRmpmTnR2NUpTOU5UeDhScjhuNlljUVZmei11a0xGM01aTWxnRlc3dThEMDNubExva1hqZml3?oc=5",
+   "source": "NJ.com",
+   "category": "Weather & Meteorology",
+   "summary": "N.J. tornado packed 100 mph winds, ripped roof off house and caused barn to collapse NJ.com",
+   "published": "2026-11-13T15:55-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -540,19 +601,6 @@
    "published": "2026-11-13T14:27-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "National Weather Service confirms tornadoes in Delaware and New Jersey - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkk5Y0tRVFZPb2JLYzBfMGxmQWdxMUV2b1RYTjdqcWFhUE9TQ0FwLWJhZktDeUFZUEZuYzhrS3FXb2o4azFSVGJpYkJlWGJ0X01hSU1LUXl5a0VjQTkwZ1JJdm56Vi1UQ0k4TldNQmMzOTM1c2lUUXlobG51NGUtVnUwZFdJQ1NNMG11bWNmQTc?oc=5",
-   "source": "CBS News",
-   "category": "Weather & Meteorology",
-   "summary": "National Weather Service confirms tornadoes in Delaware and New Jersey CBS News",
-   "published": "2026-11-13T14:15-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -708,6 +756,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "What is an atmospheric river? See flood risks, safety tips in Western Washington - The Olympian",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OeHNJb2U2NzkwdVozbW1rR2xVemswOTF6ZVpsaWc1a3RBRUQ1Q1ZUeVZDY3l1MXF1YUJaRjRucEZUNG9iZnRENTlxaUREQXhuWGNVWko4VWJ6Z1hsOUNnakxZOTNHZjNwOFpBM2J1b0JzN2djbkHSAXZBVV95cUxPbDB0QUx5cE1wUl9vTDMyeWg1WjZ5N0NkMUJNYkluQUtNaXhsZndldmhJM1BkMkpURkVGcjNfZWY4XzRGRGNPejlNRm5IbUVyRWRNZEVTcy10cEptSWtiTkE4ckNUekE4TTVELVBvcmpCdGdYbGhB?oc=5",
+   "source": "The Olympian",
+   "category": "Weather & Meteorology",
+   "summary": "What is an atmospheric river? See flood risks, safety tips in Western Washington The Olympian",
+   "published": "2026-11-13T11:57-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
    "link": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
    "source": "Universe Today",
@@ -719,6 +780,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/eso1438b_20261113_173311.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Did you hear the sirens? Mapping Detroit’s warning network after September tornado - Planet Detroit",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YV2pVbV9zVHhhYTNKeTlnNlZ1ME9aMExyaEQxaDB5N1NqNUhkRE1idEZRRlUzSkJ4WkZIMlQ4bXFCMlZOb29uZHZlRjZBOXhiZi16WjNqV1NRLTZBZ3E2RnhYd2pMZjAzdGdNUA?oc=5",
+   "source": "Planet Detroit",
+   "category": "Weather & Meteorology",
+   "summary": "Did you hear the sirens? Mapping Detroit’s warning network after September tornado Planet Detroit",
+   "published": "2026-11-13T11:46-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -846,19 +920,6 @@
    "published": "2026-11-13T10:56-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "N.J. weather: Rare November tornado confirmed in town hit hard by Thursday’s wild thunderstorms - NJ.com",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTkcwYWdlQ1BDNEZBYV9Ld0Z3YTFIaW9MWVhMX2N6WFBURnh4dVAwQ29hQXpYRWtZS3lnRThjNVpfMEhuekJ2ZE40WXlYd09XN1pESWd6aGIxUWlYSkh5bnB4YmpxV21kd21vQWF6MW5xTVFEREpBVU1aT0plRnpIWVMtbXZ5UzJaUTN6Z3lub2FWa3JYdE50cS12Y3FjaHRzdUVvdjNPb2tnM196VXJjb2VpbG1MT0VDSzZaeDNHanpmVTRKUVYzVGZmWQ?oc=5",
-   "source": "NJ.com",
-   "category": "Weather & Meteorology",
-   "summary": "N.J. weather: Rare November tornado confirmed in town hit hard by Thursday’s wild thunderstorms NJ.com",
-   "published": "2026-11-13T10:11-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1163,25 +1224,25 @@
    "summary_from": "feed"
   },
   {
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "link": "https://openai.com/business/customer-stories/shield",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "published": "2026-11-13T02:00-06:00",
+   "tags": [],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Burlington County Tornado? Survey Resumes in Chesterfield - SNJ Today",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxMU1KLTl4U2s2b2ZuT080TzB2WUpjNnVKdGtvRkdMTVB2a3I1UXJIY01BN1RWRW9lRm9QdkI4QnB0cnEzSDJ2Q1doaUFVbVB3VUZJbjdsLXZRZXIzcnRiTlY1TUtXMHZmQ0stVA?oc=5",
    "source": "SNJ Today",
    "category": "Weather & Meteorology",
    "summary": "Burlington County Tornado? Survey Resumes in Chesterfield SNJ Today",
    "published": "2026-11-13T01:49-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "NYC borough under tornado warning as ominous cloud swirled above JFK airport - New York Post",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1BRT1lKRTlkNzFvYWViemw2LV9KMGJOUkRXUkFDU0JsZ2VORWZjMmZycnFQbHZwd2g1UjM0cjlYeGtmb19TdFg1VHN5Xy1GRFZZQS1BU25xcXBiRnE1MHdlelBvX0NTVjZKeGU5Uy1tYnpfVGpoU1hhUi1UNmVBVko2MTMxbnNPc1EzN04wZmFnaEZUZml3MXpZWHZwUUpJMzBhbG5CUGs5Vkx1V2t5NmFxOEo1UQ?oc=5",
-   "source": "New York Post",
-   "category": "Weather & Meteorology",
-   "summary": "NYC borough under tornado warning as ominous cloud swirled above JFK airport New York Post",
-   "published": "2026-11-13T00:20-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -2700,19 +2761,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Science Museum of Minnesota creates regional network of science centers - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemlieXhfWlFiY1NfeXNXV1pLbU1TUk1iMU9SOTljRW5mdXl1b0syTHcwSU9fbmFVR3ZpbW9yYWRQanhXMjg4c2YxRjVTaTloZGwyS0pRclFHSHhzRlIxV1BpWUdTUHhlWF9VaDRVOGgwVHhiaGJvVlFjSkRhLWJJN2pWUVZvY3hLSDhJQ1E0cVJ4VFBD?oc=5",
-   "source": "Yahoo",
-   "category": "Minnesota and Nature",
-   "summary": "Science Museum of Minnesota creates regional network of science centers Yahoo",
-   "published": "2026-11-10T19:27-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
    "link": "https://openai.com/index/jiostar-vijay-seshadri",
    "source": "OpenAI News",
@@ -2988,19 +3036,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Doctor Who episode featuring David Walliams removed from BBC iPlayer - TV Zone UK",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGNEcDdCUTc3U0Y0WTY0WnY5d1QyMHhsTHNMMF9oVVhmekM0X2NMN2hRSVZSZ2pjZHpXN3RQUDE4TUtkeHJJQkZSaklYcTBXZFpnV1pfOTZkZTVBdWJ2aC1yY0l2alYyeDIzai12QndpTm1vRkRLWU9GU09kUnRBbWlyX3JpQ1FnU0JLcnAxNDVrMnFrMUNnN19WdzgtMWc?oc=5",
-   "source": "TV Zone UK",
-   "category": "Science Fiction",
-   "summary": "Doctor Who episode featuring David Walliams removed from BBC iPlayer TV Zone UK",
-   "published": "2026-11-10T09:09-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Case for a Bubble at Life’s Start",
    "link": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
    "source": "Quanta Magazine",
@@ -3014,6 +3049,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Lipid-First-cr.Mark-Belan-Default.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Doctor Who episode featuring David Walliams removed from BBC iPlayer - TV Zone UK",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGNEcDdCUTc3U0Y0WTY0WnY5d1QyMHhsTHNMMF9oVVhmekM0X2NMN2hRSVZSZ2pjZHpXN3RQUDE4TUtkeHJJQkZSaklYcTBXZFpnV1pfOTZkZTVBdWJ2aC1yY0l2alYyeDIzai12QndpTm1vRkRLWU9GU09kUnRBbWlyX3JpQ1FnU0JLcnAxNDVrMnFrMUNnN19WdzgtMWc?oc=5",
+   "source": "TV Zone UK",
+   "category": "Science Fiction",
+   "summary": "Doctor Who episode featuring David Walliams removed from BBC iPlayer TV Zone UK",
+   "published": "2026-11-10T09:08-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3236,34 +3284,6 @@
    "feed": "OpenAI News",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Using Vibrations and AI, Future Robotic Missions Could Handle Buried Rocks Autonomously",
-   "link": "https://www.universetoday.com/articles/virginia-tech-researchers-use-vibrations-and-ai-to-estimate-depth-of-buried-objects-for-future-lunar",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Mechanical engineering assistant professor Erik Komendera developed a method that combines vibrations and AI to determine how deeply a rock is buried, helping robots clear terrain more efficiently.",
-   "published": "2026-11-09T15:44-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/subsurfacewater_Mars-1024x768_20261109_211716.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Mars' Molten Heart is Long Gone, but Some Magma Chambers May Persist",
-   "link": "https://www.universetoday.com/articles/mars-molten-heart-is-long-gone-but-some-magma-chambers-may-persist",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Mars may be more volcanically active than we thought, according to new research. The Trace Gas Orbiter detected HCl, a chemical associated with magma, at a time of year that's difficult except by volcanic origins. The new research also identified new surface fissures on Mars that could be the source of the chemical.",
-   "published": "2026-11-09T15:25-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/Alba-Mons-HCl_20261109_210137.jpg",
    "summary_from": "feed"
   },
   {
@@ -3658,21 +3678,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-   "published": "2026-11-05T18:00-06:00",
-   "tags": [
-    "Publication"
-   ],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
