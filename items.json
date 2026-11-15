@@ -1,5 +1,52 @@
 [
   {
+    "id": "https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/",
+    "link": "https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/loop.png",
+    "title": "Building High-Power Loop Antennas with 3D-Printed Gear Reductions",
+    "category": "DotNet and Development",
+    "dept": "from the RF workbench dept.",
+    "reasoning": "Radio enthusiasts often face severe space constraints for outdoor antennas, making compact loop antennas a clever alternative. This build tackles the tricky engineering problem of managing high transmit power and precise tuning without expensive vintage gear reductions.",
+    "summary": "A radio hobbyist demonstrates how to construct transmit-capable loop antennas using 3D-printed gear reductions and custom capacitor banks. The project incorporates SPICE simulations and thermal camera analysis to evaluate performance under load.",
+    "added": "2026-11-15T17:57:37-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+    "source": "NASA Astronomy Picture of the Day",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg",
+    "title": "Peering at the De Gerlache-Kocher Massif on the Lunar Horizon",
+    "category": "Astrophotography",
+    "dept": "from the selenography dept.",
+    "reasoning": "High-resolution imaging of rugged lunar topography highlights the fascinating interplay of shadows and illumination near the lunar poles. It offers a glimpse into regions of vital interest for future exploration and ice deposits.",
+    "summary": "An amateur astronomer or astrophotographer will appreciate this detailed lunar close-up capturing the four-kilometer-high De Gerlache-Kocher massif near the Moon's south pole. The region features permanently shadowed crater floors that potentially harbor water ice alongside peaks bathed in near-constant sunlight.",
+    "added": "2026-11-15T17:56:37-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=2048&h=1451&fit=clip&crop=faces%2Cfocalpoint",
+    "title": "NGC 206 and the Star Clouds of Andromeda",
+    "category": "Astronomy and Space",
+    "dept": "from the deep space imaging dept.",
+    "reasoning": "Deep-sky astrophotography provides stunning clarity into neighboring galactic structures, showcasing immense stellar associations nestled within spiral arms. Observing formations like NGC 206 bridges the gap between individual star clusters and grand galactic architecture.",
+    "summary": "A sharp, detailed astronomical image highlights NGC 206, a massive stellar association embedded within the dusty spiral arms of the Andromeda galaxy. Located 2.5 million light-years away, the region sits near active pinkish star-forming clouds.",
+    "added": "2026-11-15T17:55:37-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVkpLeGF3Tlk0anlpNjR5bktNMWVSUFRFcUNfUUxUT3pfMmtUNG9ld0pNY1UzZ0JwLXlUZ1NRWE9YSnh2TjNtcG54emtFQkRId2hWbjRhTXZIa015RFNaLS1rclpHelNHMzlzNU1HcXJ6SktLVW9rQzNpUzU2MDZsS3AwSG8tTVl1YnkzTTNSdVY2dm15cU9zbUFvVUs5S2NWX2JEaXlNeHdWX3pwenY5b2pkbE4xZ0tSNjJSTVZCb01qV2w5S3FCWjd0VVF0Ym9ZWnEzbUFxUnV2dw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVkpLeGF3Tlk0anlpNjR5bktNMWVSUFRFcUNfUUxUT3pfMmtUNG9ld0pNY1UzZ0JwLXlUZ1NRWE9YSnh2TjNtcG54emtFQkRId2hWbjRhTXZIa015RFNaLS1rclpHelNHMzlzNU1HcXJ6SktLVW9rQzNpUzU2MDZsS3AwSG8tTVl1YnkzTTNSdVY2dm15cU9zbUFvVUs5S2NWX2JEaXlNeHdWX3pwenY5b2pkbE4xZ0tSNjJSTVZCb01qV2w5S3FCWjd0VVF0Ym9ZWnEzbUFxUnV2dw?oc=5",
+    "source": "Delawareonline.com",
+    "title": "National Weather Service Confirms EF-1 Tornado in Delaware",
+    "category": "Weather & Meteorology",
+    "dept": "from the radar and warning dept.",
+    "reasoning": "Severe weather reports benefit from official confirmation and damage surveys rather than speculative hype. Tracking confirmed tornadoes and peak wind paths helps meteorologists understand localized atmospheric anomalies.",
+    "summary": "The National Weather Service confirmed an EF-1 tornado touched down in Delaware, producing peak damage in Chapman Woods and downing trees and signs. Meteorologists surveyed the path to verify wind speeds and structural impacts.",
+    "added": "2026-11-15T17:54:37-06:00"
+  },
+  {
     "id": "https://hackaday.com/2026/11/15/printing-smooth-upper-surfaces-with-a-non-planar-slicer/",
     "link": "https://hackaday.com/2026/11/15/printing-smooth-upper-surfaces-with-a-non-planar-slicer/",
     "source": "Hackaday",

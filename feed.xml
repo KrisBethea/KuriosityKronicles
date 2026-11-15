@@ -5,8 +5,59 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 15 Nov 2026 19:05:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 23:57:37 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Building High-Power Loop Antennas with 3D-Printed Gear Reductions</title>
+<link>https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/</guid>
+<pubDate>Sun, 15 Nov 2026 17:57:37 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Radio enthusiasts often face severe space constraints for outdoor antennas, making compact loop antennas a clever alternative. This build tackles the tricky engineering problem of managing high transmit power and precise tuning without expensive vintage gear reductions.</description>
+<content:encoded><![CDATA[<p><small>from the RF workbench dept.</small></p>
+<p><em>Radio enthusiasts often face severe space constraints for outdoor antennas, making compact loop antennas a clever alternative. This build tackles the tricky engineering problem of managing high transmit power and precise tuning without expensive vintage gear reductions.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/loop.png" alt=""></p>
+<p>A radio hobbyist demonstrates how to construct transmit-capable loop antennas using 3D-printed gear reductions and custom capacitor banks. The project incorporates SPICE simulations and thermal camera analysis to evaluate performance under load.</p>
+<p><a href="https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Peering at the De Gerlache-Kocher Massif on the Lunar Horizon</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/</link>
+<guid isPermaLink="false">https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/</guid>
+<pubDate>Sun, 15 Nov 2026 17:56:37 -0600</pubDate>
+<category>Astrophotography</category>
+<description>High-resolution imaging of rugged lunar topography highlights the fascinating interplay of shadows and illumination near the lunar poles. It offers a glimpse into regions of vital interest for future exploration and ice deposits.</description>
+<content:encoded><![CDATA[<p><small>from the selenography dept.</small></p>
+<p><em>High-resolution imaging of rugged lunar topography highlights the fascinating interplay of shadows and illumination near the lunar poles. It offers a glimpse into regions of vital interest for future exploration and ice deposits.</em></p>
+<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg" alt=""></p>
+<p>An amateur astronomer or astrophotographer will appreciate this detailed lunar close-up capturing the four-kilometer-high De Gerlache-Kocher massif near the Moon&#x27;s south pole. The region features permanently shadowed crater floors that potentially harbor water ice alongside peaks bathed in near-constant sunlight.</p>
+<p><a href="https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/">Read it</a> · Astrophotography · NASA Astronomy Picture of the Day</p>]]></content:encoded>
+</item>
+<item>
+<title>NGC 206 and the Star Clouds of Andromeda</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/</link>
+<guid isPermaLink="false">https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/</guid>
+<pubDate>Sun, 15 Nov 2026 17:55:37 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Deep-sky astrophotography provides stunning clarity into neighboring galactic structures, showcasing immense stellar associations nestled within spiral arms. Observing formations like NGC 206 bridges the gap between individual star clusters and grand galactic architecture.</description>
+<content:encoded><![CDATA[<p><small>from the deep space imaging dept.</small></p>
+<p><em>Deep-sky astrophotography provides stunning clarity into neighboring galactic structures, showcasing immense stellar associations nestled within spiral arms. Observing formations like NGC 206 bridges the gap between individual star clusters and grand galactic architecture.</em></p>
+<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=2048&amp;h=1451&amp;fit=clip&amp;crop=faces%2Cfocalpoint" alt=""></p>
+<p>A sharp, detailed astronomical image highlights NGC 206, a massive stellar association embedded within the dusty spiral arms of the Andromeda galaxy. Located 2.5 million light-years away, the region sits near active pinkish star-forming clouds.</p>
+<p><a href="https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/">Read it</a> · Astronomy and Space · NASA News</p>]]></content:encoded>
+</item>
+<item>
+<title>National Weather Service Confirms EF-1 Tornado in Delaware</title>
+<link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVkpLeGF3Tlk0anlpNjR5bktNMWVSUFRFcUNfUUxUT3pfMmtUNG9ld0pNY1UzZ0JwLXlUZ1NRWE9YSnh2TjNtcG54emtFQkRId2hWbjRhTXZIa015RFNaLS1rclpHelNHMzlzNU1HcXJ6SktLVW9rQzNpUzU2MDZsS3AwSG8tTVl1YnkzTTNSdVY2dm15cU9zbUFvVUs5S2NWX2JEaXlNeHdWX3pwenY5b2pkbE4xZ0tSNjJSTVZCb01qV2w5S3FCWjd0VVF0Ym9ZWnEzbUFxUnV2dw?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVkpLeGF3Tlk0anlpNjR5bktNMWVSUFRFcUNfUUxUT3pfMmtUNG9ld0pNY1UzZ0JwLXlUZ1NRWE9YSnh2TjNtcG54emtFQkRId2hWbjRhTXZIa015RFNaLS1rclpHelNHMzlzNU1HcXJ6SktLVW9rQzNpUzU2MDZsS3AwSG8tTVl1YnkzTTNSdVY2dm15cU9zbUFvVUs5S2NWX2JEaXlNeHdWX3pwenY5b2pkbE4xZ0tSNjJSTVZCb01qV2w5S3FCWjd0VVF0Ym9ZWnEzbUFxUnV2dw?oc=5</guid>
+<pubDate>Sun, 15 Nov 2026 17:54:37 -0600</pubDate>
+<category>Weather &amp; Meteorology</category>
+<description>Severe weather reports benefit from official confirmation and damage surveys rather than speculative hype. Tracking confirmed tornadoes and peak wind paths helps meteorologists understand localized atmospheric anomalies.</description>
+<content:encoded><![CDATA[<p><small>from the radar and warning dept.</small></p>
+<p><em>Severe weather reports benefit from official confirmation and damage surveys rather than speculative hype. Tracking confirmed tornadoes and peak wind paths helps meteorologists understand localized atmospheric anomalies.</em></p>
+<p>The National Weather Service confirmed an EF-1 tornado touched down in Delaware, producing peak damage in Chapman Woods and downing trees and signs. Meteorologists surveyed the path to verify wind speeds and structural impacts.</p>
+<p><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVkpLeGF3Tlk0anlpNjR5bktNMWVSUFRFcUNfUUxUT3pfMmtUNG9ld0pNY1UzZ0JwLXlUZ1NRWE9YSnh2TjNtcG54emtFQkRId2hWbjRhTXZIa015RFNaLS1rclpHelNHMzlzNU1HcXJ6SktLVW9rQzNpUzU2MDZsS3AwSG8tTVl1YnkzTTNSdVY2dm15cU9zbUFvVUs5S2NWX2JEaXlNeHdWX3pwenY5b2pkbE4xZ0tSNjJSTVZCb01qV2w5S3FCWjd0VVF0Ym9ZWnEzbUFxUnV2dw?oc=5">Read it</a> · Weather &amp; Meteorology · Delawareonline.com</p>]]></content:encoded>
+</item>
 <item>
 <title>Printing Smooth Upper Surfaces with a Non-Planar Slicer</title>
 <link>https://hackaday.com/2026/11/15/printing-smooth-upper-surfaces-with-a-non-planar-slicer/</link>
