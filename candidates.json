@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-15T09:39-06:00",
- "count": 275,
+ "generated": "2026-11-15T15:02-06:00",
+ "count": 255,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -24,14 +24,14 @@
   "Astronomy and Space | Universe Today": {
    "url": "https://www.universetoday.com/feed",
    "ok": true,
-   "kept": 6,
+   "kept": 3,
    "entries": 20,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 14,
+   "seen_or_dup": 17,
    "no_title_or_link": 0
   },
   "Astronomy and Space | ESA Space Science": {
@@ -56,34 +56,34 @@
   "Astronomy and Space | Sky and Telescope News": {
    "url": "https://www.skyandtelescope.com/astronomy-news/feed/",
    "ok": true,
-   "kept": 6,
+   "kept": 5,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 3,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "Space Weather and Aurora | Google News space weather": {
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 6,
-   "entries": 64,
+   "kept": 5,
+   "entries": 65,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 58,
+   "old": 60,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Space Weather and Aurora | Google News aurora": {
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 1,
-   "entries": 41,
+   "kept": 0,
+   "entries": 40,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -114,14 +114,14 @@
   "Astrophotography | NASA Astronomy Picture of the Day": {
    "url": "https://science.nasa.gov/feed/apod-basic/",
    "ok": true,
-   "kept": 4,
+   "kept": 2,
    "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 20,
-   "seen_or_dup": 6,
+   "seen_or_dup": 8,
    "no_title_or_link": 0
   },
   "Astrophotography | Sky and Telescope Observing": {
@@ -133,13 +133,13 @@
   "Weather & Meteorology | Google News severe weather science": {
    "url": "https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 4,
-   "entries": 16,
+   "kept": 3,
+   "entries": 14,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 12,
+   "old": 11,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -147,12 +147,12 @@
    "url": "https://news.google.com/rss/search?q=%22rare+weather%22+OR+%22atmospheric+phenomenon%22+OR+%22unusual+cloud%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 2,
-   "entries": 55,
+   "entries": 54,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 53,
+   "old": 52,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -198,13 +198,13 @@
   "DotNet and Development | Microsoft .NET Blog": {
    "url": "https://devblogs.microsoft.com/dotnet/feed/",
    "ok": true,
-   "kept": 1,
+   "kept": 0,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 6,
+   "old": 7,
    "seen_or_dup": 3,
    "no_title_or_link": 0
   },
@@ -224,39 +224,39 @@
   "DotNet and Development | Microsoft Azure Blog": {
    "url": "https://azure.microsoft.com/en-us/blog/feed/",
    "ok": true,
-   "kept": 2,
+   "kept": 1,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 7,
+   "old": 8,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 7,
+   "kept": 2,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 5,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
    "url": "https://devblogs.microsoft.com/foundry/feed/",
    "ok": true,
-   "kept": 3,
+   "kept": 2,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 7,
+   "old": 8,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -289,13 +289,13 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 9,
-   "entries": 61,
+   "kept": 7,
+   "entries": 58,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 52,
+   "old": 51,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -328,13 +328,13 @@
   "Science Fiction | Google News Doctor Who": {
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 16,
+   "kept": 15,
    "entries": 64,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 48,
+   "old": 49,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -342,12 +342,12 @@
    "url": "https://news.google.com/rss/search?q=Minnesota+astronomy+OR+aurora+OR+observatory&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 56,
+   "entries": 57,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 56,
+   "old": 57,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -426,44 +426,91 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 3,
+   "seen_or_dup": 4,
    "no_title_or_link": 0
   }
  },
  "items": [
   {
-   "title": "Printing Smooth Upper Surfaces with a Non-Planar Slicer",
-   "link": "https://hackaday.com/2026/11/15/printing-smooth-upper-surfaces-with-a-non-planar-slicer/",
+   "title": "Loop Antennas for Transmitting",
+   "link": "https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/",
    "source": "Hackaday",
    "category": "DotNet and Development",
-   "summary": "One of the most tantalizing prospects for 3D printing has been non-planar printing, which promises smoother surfaces without a staircase pattern, reduced or eliminated support structures in some incarnations, and the possibility of greater strength in others. One of the biggest limits to its adoption has been the lack of non-planar slicer programs, a gap which [Zimeng Xiong] of [Alpaca Engineering] has worked to eliminate with the non-planar PancakeSlicer. PancakeSlicer is designed to work with standard 3-axis printers (a Bambu Labs A1 Mini in this case), so the non-planar paths available to it are limited by the print head’s clearance on each side of the nozzle. In the case of the A1 Mini, this could be substantially improved by removing the cooling shroud from the print head, relying instead on a remote static cooling system (RSCS), which blows cooling air in from the sides of the print bed. Being meant for 3-axis printers, the main goal of PancakeSlicer is to print smooth top surfaces without a stair-step pattern. The first step is to find the surfaces over which the top layer should be smoothly overlaid; it does this by tracing rays downward through the part and keeping track of their intersection points. The simplest way to slice is by generating a planar structure, then overlaying a few non-planar layers on the top surface. This still left some bleed-through staircase pattern, which a morphed structure eliminated by continuously varying layer thickness. In narrow regions, though, the layers could get far too thin for the printer to extrude, resulting in under-extrusion. Conformal slicing solves this by building a planar base, a morphed transition region, and several constant-thickness conformal layers on top. Where the slicer can’t print a non-planar layer due to ",
-   "published": "2026-11-15T09:00-06:00",
+   "summary": "Loop antennas are becoming increasingly popular as more radio fans find they can’t erect elaborate outdoor antennas. Like most things, of course, there are trade-offs. But, most often, loop antennas are for receiving. Only a few can handle transmitting, and [FesZ] wanted to build some that could handle transmit power . You can find out what he discovered in the video below. Loop antennas are very sensitive, and a standard variable capacitor just rotates less than a single rotation. High-precision devices would often have gear reductions, but those are hard to find today. But with a 3D printer, it is reasonably easy to make gear reductions for a variable capacitor, and that’s what [FesZ] did. In addition, [FesZ] replaced one non-critical capacitor with a bank of fixed capacitors and switches. This isn’t just a build video. There are Spice simulations and even a thermal camera deployed. A lot to learn. If you build some cool loop antennas, let us know. If you want to look at some commercial receive antennas — including one that is — sort of — infinitely long, we’ve tried a few . Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-15T15:00-06:00",
    "tags": [
-    "3d Printer hacks",
-    "non-planar",
-    "non-planar 3D printing",
-    "non-planar slicer",
-    "orca slicer",
-    "slicer"
+    "Radio Hacks",
+    "loop antenna",
+    "transmit antenna"
    ],
    "feed": "Hackaday",
    "evergreen": false,
    "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/non-planar_slicer.png",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/loop.png",
    "summary_from": "page"
   },
   {
-   "title": "Navigating Lunar Orbit Using Nothing But Shadows And A Power Meter",
-   "link": "https://www.universetoday.com/articles/navigating-lunar-orbit-using-nothing-but-shadows-and-a-power-meter",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Humanity is quickly starting to saturate our ability to track all of the satellites we have in deep space. NASA’s Deep Space Network (DSN) has been the workhorse for tracking such things for decades, but is quickly being overwhelmed by the number of requests it receives. Which in turn makes it harder to track some of the missions that have been launched recently. A new paper, available in pre-print on arXiv, from Ian Down, James McElreath, and Manoranjan Majji, of Advanced Space, Space Exploration Engineering, and Texas A&M respectively, offer a no-cost solution to that tracking problem - use solar array data from a spacecraft’s eclipse to determine where it is.",
-   "published": "2026-11-15T07:22-06:00",
-   "tags": [],
-   "feed": "Universe Today",
+   "title": "Archive of Our Own Restores Service, With Some Limitations",
+   "link": "https://file770.com/archive-of-our-own-restores-service-with-some-limitations/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "The Archive of Our Own (AO3) fan fiction site resumed operation with some restrictions on November 15. At this writing, access is filtered through a “Waiting Room powered by Cloudflare” with a one-minute delay, an “intentional measure to help manage … Continue reading →",
+   "published": "2026-11-15T13:40-06:00",
+   "tags": [
+    "Clipping Service",
+    "Archive of Our Own",
+    "Organization for Transformative Works"
+   ],
+   "feed": "File 770",
    "evergreen": false,
    "tier": "main",
-   "image": "https://www.universetoday.com/article_images/CAPSTONE_revealed_in_lunar_Sunrise_ACD22-0003-005_20261115_132155.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Doctor Who \"Has Legs,\" But \"Needs a Bit of Money Behind It\": Tennant - Bleeding Cool News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTdvX2tsZm9DZWdscVRWbE9GXzJXNWpiMDU5YlF3NnBfTjVfVlFqd2RJSnlqaE1ta3dUd2tacVFyenBhZFpSd2lISFdpOHpRU1l0eS1HNmgzZUhIeVptdzdpU0VQSEVPTUdocVNHYkxDUnRBR0pPWjhkdFFLODh1RkZUV19HQnR0YktoQVpzT0dZNkI4UHc?oc=5",
+   "source": "Bleeding Cool News",
+   "category": "Science Fiction",
+   "summary": "Doctor Who \"Has Legs,\" But \"Needs a Bit of Money Behind It\": Tennant Bleeding Cool News",
+   "published": "2026-11-15T12:37-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "An Orbital Sanders Crash Course and the Threat of HAVS",
+   "link": "https://hackaday.com/2026/11/15/an-orbital-sanders-crash-course-and-the-threat-of-havs/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Most people know about orbital sanders, as the cousin of sheet sanders, with many people using them every day to make wood and other surfaces smooth. Yet if you have ever wondered at the slightly numb and tingling feeling in your hands after using them for a while, you really want to watch this deep dive by [Five Duck Studio] on how orbital sanders work and why not all vibrations are good vibrations. First, the basic workings of an orbital sander are explained in the video, including the way that the orbital sanding pattern is created by the spinning disc. These patterns aren’t the same size for each sander, with the ‘finisher’ ~2.5 mm pattern being decidedly more suitable for fine work, while the roughly 5 mm pattern is better for coarser work. From here, the details spiral into the various brake mechanisms, which prevent the disc from spinning wildly when not on a surface. This can be as simple as an O-ring providing some friction. Also covered are dust filtration, sanding speed, when to touch that speed dial, the different types of pads and sandpaper, and maybe most important of all, the vibrations. These are what numb your hand while you are using the sander, and although this may seem like something you can just ‘shake off’, it’s actually your body warning you that you’re at risk of vascular and nerve damage. This is called Hand-Arm Vibration Syndrome ( HAVS ), and can lead to permanent damage, including the loss of fingers. Fortunately, the EU has some regulations on occupational hazards, with sander manufacturers required to test and report the vibrations from their tools. As demonstrated in the video, manufacturers are of course more than happy to use loopholes in said regulations to skirt by with much more vibration than reported. Using the EU’s point-based sys",
+   "published": "2026-11-15T12:00-06:00",
+   "tags": [
+    "Tool Hacks",
+    "disc sander",
+    "PSA",
+    "sander",
+    "wood working",
+    "woodworking"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/orbital_sander_brake_and_damper_ring_five_duck_studio_youtube.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Minnesota veteran helped steer history, and told nobody - InForum",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGF4T0pmYXdPZUlIMXR4UFpQOS1VV0RibDRsbk5lYjdpYUxNbUJpU2d1d1ZuWnR1Q1JBQVBGNHcwVmNCTmpkR0JJRHoyb0UxWnkzanpIZTJMVGRKZlNkTTdyUHBVemlyY0xoR25XYmJYOENFYnF4SFc5elF0ZjhxM284OV84cy1JQTRhamhfN0NaT3Y2UFZ3WQ?oc=5",
+   "source": "InForum",
+   "category": "Minnesota and Nature",
+   "summary": "Minnesota veteran helped steer history, and told nobody InForum",
+   "published": "2026-11-15T11:03-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -478,39 +525,6 @@
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "BBC Three’s Must‑Watch Line‑up: From Top Gear to Doctor Who - TV Mix",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tUnJwLUt5dzN6dnIwZnA5QVI0bDBUeWVJYVBKT1pOalQ3cWxGMXl1RFhheGxXLUNTQjZILXBYVHpzb29LUTdaX25zSkxxcmxXSU5XNlNHRUJNa0tNLUVIUg?oc=5",
-   "source": "TV Mix",
-   "category": "Science Fiction",
-   "summary": "BBC Three’s Must‑Watch Line‑up: From Top Gear to Doctor Who TV Mix",
-   "published": "2026-11-15T06:28-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "An MP3 Player, Implemented As A Factorio Blueprint",
-   "link": "https://hackaday.com/2026/11/15/an-mp3-player-implemented-as-a-factorio-blueprint/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Factorio is a factory simulation game that leads its players into many happy hours of building ever more complex factories, but it comes with a snag. Its built-in music is a fairly simple synthesiser, and that doesn’t really cut it for the musical experience. This irked [Nablanaut] to the extent that he created his own MP3 player. Not just any MP3 player, this one is implemented as a Factorio blueprint, using only those in-game speaker elements as output. The synth has a range of built-in instrument voices and not much else, so he had to find a way to reproduce complex sounds using only those tools. As you can imagine, the result looks a lot like Fourier analysis, but with the added complication that those voices are not the discrete tones needed in such a system. The video below the break is a deep dive into the tricks and compromises required to not only play an MP3, but play it well, as we hear the various versions of the output as bit by bit they get better. The blueprint itself isn’t created by hand, of course; instead, it’s generated procedurally by a script. As far as we can see, it contains both the audio samples and the playback logic, making for a very complex factory. We especially like the song at the end of the video. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-15T06:00-06:00",
-   "tags": [
-    "Games",
-    "Musical Hacks",
-    "factorio",
-    "mp3",
-    "synthesiser"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/factorio-mp3-featured.jpg",
-   "summary_from": "page"
   },
   {
    "title": "How did invasive buckthorn arrive in Minnesota in the first place? - Star Tribune",
@@ -568,26 +582,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Reverse Engineer that USB Device in Style",
-   "link": "https://hackaday.com/2026/11/15/reverse-engineer-that-usb-device-in-style/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Proprietary device drivers, dedicated applications, and their ilk are the bane of the open-source hacker. If only we could snoop on every device out there, recording the “secret” USB transactions as they go over the wire, we’d have a chance. [Emir Mrkaljević]’s tool, usb-rea , aims to make this process a whole lot less painful. The workflow is like this: you start capturing on USB, make an annotation about what action you’re taking, press the button a few times, and then move on to the next action. Usb-rea records all the USB traffic, timestamps it relative to your actions, and gives you a report, a driver, and a Wireshark protocol dissector out the back side. There is even an MCP file so that you can hand off the grunt work to the bots, possibly enabling this to work closed-loop? Of course, you don’t want to reinvent the wheel, so it’s fun to see that there’s also a usb-rea lookup command to see if your VID:PID is already in the dataset. Most of the devices are CPU coolers, RGB controllers, and other blinged-out computer peripherals, but we imagine that it’s a lot more broadly applicable. We looked for our mouse on the list, but it’s sadly not there. Usb-rea is not a silver bullet to bring back abandoned peripherals from the grave, because you still need to run the proprietary driver during the recording. But if you get ahead of the game and document the protocols before the manufacturers abandon them, you stand a chance. Get recording! Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-15T03:00-06:00",
-   "tags": [
-    "computer hacks",
-    "Reverse Engineering",
-    "reverse engineering",
-    "tools",
-    "usb"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2024/04/usb-featured.jpg",
-   "summary_from": "page"
-  },
-  {
    "title": "All the Midland towns facing 'rare' weather phenomenon as snow maps turn orange - Birmingham Live",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXhFb2ZHZFJ6YlZUeUxKY2ZtOVNZNlZJa0dpTzZvVk5rMFo0dzhjM3Nfb3FpVjIyeUd5T21HTFhUcV9sNm1SNG51MnM2ZUlnQkF1Y1RDNDNSZUttaWxCenkwcFliQVBZY1RUdF9iSkpyMVpUOU4zUnpIUW1FZGVWQndpbmFOZmNVZHNVZlhHT3FWTmU4MlBiWEF30gGfAUFVX3lxTE5SWDhrRVZ1emxxaEY2Q3JDT0l4eHc1RTlzWkJ4UEMtaFJicFJudTBaLXR4WkI0WnZnaGVNQ2JmZlpmZDJBbWlVX3VCZU53N2hacVQ3OFlsTG0wSVByQ1BlejNtMm8tSUR5REM1d0RyZFBLYWwxTWNTckZBcC1yMjJKTlZyQm1PZWh0ellmVHcxZjRDZGl4TExQQ2I4Z1pzZw?oc=5",
    "source": "Birmingham Live",
@@ -598,39 +592,6 @@
    "feed": "Google News unusual weather",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Bringing a Cloud Based Monitor Home",
-   "link": "https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "When setting up to grow plants hydroponically, it’s important to keep an eye on the numbers, temperature, pH, and electrical conductivity, to name a few. To do this, [Joziti] bought a Bluelab Guardian monitor, which worked well but had a fatal flaw: it required an internet connection. To free the Guardian from the cloud, [Joziti] developed an ESPHome connection for the Bluelab Guardian. As far as hardware projects go, this one is pretty straightforward. It involves replacing the built-in wireless chip with an ESP32-S3. [Joziti] used an Adafruit ESP32-S3 Feather, though other ESP32-S3s should work for this purpose too. Once you’ve opened up the Guardian and removed the factory Wi-Fi board, it’s a simple matter of tapping into the +5V/GND/TX/RX pins with your flashed ESP32-S3. Once the hardware is in place, the ESP32-S3 should be reaching out to your Home Assistant instance with all the data the Guardian used to send to the cloud is now sitting on just your local network. The great part about this hack is that it opens up even more capabilities for your growing setup. With the data sitting in Home Assistant, you can now control automations using that data. Too cold? Flip on some lights. pH out of bounds? Maybe have it send you a message to check it out. Thanks for sharing this improvement on a product, [Joziti]. It’s always great to see a hack that turns a product you bought into a product you own. Be sure to check out some of our other ESPHome hacks we’ve featured over the years. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-15T00:00-06:00",
-   "tags": [
-    "green hacks",
-    "esphome",
-    "homeassistant",
-    "hydroponic"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/05-feather-installed-banner.png",
-   "summary_from": "page"
-  },
-  {
-   "title": "Leonid Meteors Through Orion",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/",
-   "source": "NASA Astronomy Picture of the Day",
-   "category": "Astrophotography",
-   "summary": "APOD: 2026 November 15 - Leonid Meteors Through Orion Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 2026 November 15 Leonid Meteors Through Orion Image Credit & Copyright : Luo Hongyang Explanation: Explanation: Where will the next meteor appear? Even during a meteor shower, it is practically impossible to know. Therefore, a good way to enjoy a meteor shower is to find a place where you can sit comfortably and monitor a great expanse of dark sky. And it may be satisfying to share this experience with a friend. The meteor shower depicted wa",
-   "published": "2026-11-14T23:05-06:00",
-   "tags": [],
-   "feed": "NASA Astronomy Picture of the Day",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Leonids2022_Hongyang_2880.jpg",
    "summary_from": "feed"
   },
   {
@@ -660,24 +621,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "RPN Loved Honk If (or, Write Your Own PostScript Interpreter)",
-   "link": "https://hackaday.com/2026/11/14/rpn-loved-honk-if-or-write-your-own-postscript-interpreter/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Maybe you like old laser printers. Maybe you were a fan of [Don Lancaster]. Maybe you like Forth, HP calculators, and everything RPN. Whichever it is, why not write your own PostScript interpreter ? That’s what [beyondloom] did (and we shamelessly stole their joke for the post title, too). PostScript started out as a language to describe pages for laser printers but went on to have a life of its own, including a stripped-down version being at the core of PDF files. If you are a fan of RPN, you’ll love PostScript, which operates on several stacks. The example interpreter is in JavaScript and handles a subset of PostScript with little error handling. Still, it manages an operand stack, a dictionary stack, and arrays. Of course, if you just want to try PostScript, there’s always Ghostscript . But there’s something charming about a practical interpreter that is tiny and understandable, even if it does gloss over a few deep features. If you want to see the original PostScript, the source code is out there . If you don’t think PostScript is really a language, check out this chess program (the first link is dead, but the GitHub link remains). Or, perhaps you prefer Doom . Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-14T21:00-06:00",
-   "tags": [
-    "Software Development",
-    "postscript",
-    "RPN"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/post.png",
-   "summary_from": "page"
-  },
-  {
    "title": "Pixel Scroll 11/14/26 How Many Files Would A Fyunch(click) Click If A Fyunch(click) Could Click Files?",
    "link": "https://file770.com/pixel-scroll-11-14-26-how-many-files/",
    "source": "File 770",
@@ -698,29 +641,6 @@
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "DIVINER: Occult Synth Firmware for the Cardputer",
-   "link": "https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "We see some strange software around these parts, but this is probably the strangest. DIVINER is a firmware for the M5 Cardputer, which is an interesting device in its own right, being essentially a tiny ESP32-S3 dev kit with an even tinier screen, keyboard, some GPIOs, I2C, and an audio jack for output. It is essentially a blank canvas that can do anything if you write the firmware for it. And that’s what DIVINER does: a little of everything. It’s part standalone synthesizer and sequencer, taking advantage of the I2S audio out, part visualization engine, part WiFi and Bluetooth scanner and monitor (what?), with an LLM interface and an IR blaster thrown in for good measure. [voidrane Splicer] even explores the Channel-State Information to do presence detection, like we’ve seen recently elsewhere . Byte-beat player anyone? The Hackaday.io page talks about the underlying system layer before it even gets to the applications, and we get the feeling that all of the different apps, called “rites”, were crammed in to exercise it and show off the “blood and ember”, Diablo-esque visual style. But that doesn’t stop us from enjoying the audio engine, demonstrated in the video below, or the awesome graphics. Do these apps hang together more than visually? Do they need to? Is the sum of the parts so large that you don’t even worry about the whole? We don’t know, but it’s also got a simulator so you can try that out while your Cardputer is shipping. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-14T18:00-06:00",
-   "tags": [
-    "Misc Hacks",
-    "audio",
-    "cardputer",
-    "development",
-    "ESP32-S3",
-    "music",
-    "sequencer",
-    "wifi"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/8459231792676999283.png",
-   "summary_from": "page"
   },
   {
    "title": "Man seriously injured as community clears tornado debris in Burlington County - NBC10 Philadelphia",
@@ -749,20 +669,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "The First Foreign Astronaut Will Visit China's Tiangong Space Station in Two Weeks",
-   "link": "https://www.universetoday.com/articles/the-first-foreign-astronaut-will-visit-chinas-tiangong-space-station-in-two-weeks",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "The China Manned Space Agency (CMSA) will be taking a Pakistani astronaut to Tiangong as part of the Shenzou 24 mission, marking the first time a foreign astronaut has been to the station.",
-   "published": "2026-11-14T16:07-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/7669676e1891466db2253a58801d0c3c_20261114_220234.jpeg",
-   "summary_from": "feed"
-  },
-  {
    "title": "The State Parks Where You Share The Trail With Hunters - WorldAtlas",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnJPZk9fdEVleldWYjI0dl81cGtaX20yMXJPQzk4VFJWRFJaaFpnRXZNaWI5ZFJkbW1wbnZSdmJUMmFRc0lCQlFqTjR1RWd1NTdhN1N1YWtObmU4OUhQcDRTZUkyUVlBazRsZHYyUzhGa3ZaX2FZZ1VZaDBzMXp6OFh2bjhhNVJpQTFpdkVqNTQzNndmZnNERDBvTXk4UFk?oc=5",
    "source": "WorldAtlas",
@@ -774,28 +680,6 @@
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "Warm Analog DSP, on the ESP",
-   "link": "https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "We love audio, and we love messing around with it. So when [mircemk] wrote in with his latest audio-mangling device, we had to give it a look. It’s a tube-sound processor implemented in an ESP32 with a WM8960 handling the audio side of things. Tubes are expensive, power hungry, and a general pain in the posterior, so there is incentive to DIY it yourself with DSP. The whole setup is mounted in a Tektronix-inspired case that would be at home on the workbench or in the living room. What’s ironic about the tube sound is that it’s essentially a nonlinear distortion of the audio, but it’s a distortion that can sound better than the undistorted signal. (Take that, engineering!) Push-pull transistor amplifiers tend to distort the top and bottom end of the signal similarly, while tubes round off the tops more than the bottoms. [mircemk] lets you tweak this transfer function, and displays it nicely on the screen. But there’s one more important way that tubes color the sound — they respond slowly to rapidly changing signals — and [mircemk] says he implemented that as well. We couldn’t find that part of the distortion accounted for in the code , but maybe you can? Anyway, this is a fantastic audio project, and it just goes to show you how far you can go with some simple parts and clever programming. Indeed, we’ve seen this rig before, with different code that made it a parametric EQ. Once you’ve got the sound turned into numbers, you can math anything at it. You are propagating one of many unfounded prejudices about vacuum tubes. In many cases, both tube-based amplifiers and tubes used as switching elements can be implemented with anode voltages as low as 12 volts. There is no reason to demonize the process of learning about tube circuits. Please be kind and respectful to help mak",
-   "published": "2026-11-14T15:00-06:00",
-   "tags": [
-    "Musical Hacks",
-    "audio",
-    "audiophile",
-    "dsp",
-    "ESP32",
-    "tube",
-    "tube sound"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/9847301794483913575.jpg",
-   "summary_from": "page"
   },
   {
    "title": "Cannon Falls’ Warren Formo to posthumously receive Minnesota Farm Bureau Distinguished Service to Agriculture Award - Cannon Falls Beacon",
@@ -819,19 +703,6 @@
    "published": "2026-11-14T13:06-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Minnesota park is named the International Dark Sky Place of the Year - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3VmRFBGdGFKMF93Z3NFWGxyd1RmdWtMZXAzZno4M3VJdUdNamo1b3dfRW0tUzNRXzJRSGFuYU5kczVNNG9KODJER2RCcmZJMmVuamxRdV90NlpQczhWamx1akM3ZFgwTzBLNFV4QVp5OE9OemRJRFd6d1ZYWW5lZm82bE5LMWg0WHExcmtIclVRTFhLVEZSR0cyWURxc2M?oc=5",
-   "source": "Yahoo",
-   "category": "Minnesota and Nature",
-   "summary": "Minnesota park is named the International Dark Sky Place of the Year Yahoo",
-   "published": "2026-11-14T10:18-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -900,19 +771,6 @@
     "David Tennant"
    ],
    "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Science Museum of Minnesota announces job cuts, new initiatives amid $4.64M budget gap for 2027 - kare11.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMENMeUc3MFNVeWVqcDhjZThKQmlNQ1NQOGFCc2dDOGtRM2VaSlV5UDZHek44WV9TbmUzRlZFaVVodm5qWG9YZHQzeVNsMmpEMnpoS1JodTY2OUhkVF8xT3Fwa29pSWRGSW92cjNHSGl3MmhNbXh1Tl9mY1EwV3pLenJnNWpfM056LXlMeGVUdFI3ZG85a0ZZSGhwbTEzZ3Q1cEFobU1jLWRnck5YeTJJdWJUU2x6N1NOMHBQZV8xbW82d2xfcXhBajZFNmo1dm1VY2d1N2t5VkRxc280dVRSbVhtaHNjZUtJRFVidWVCX2lIQjlqSUlqbVpJVFRIMnhINDlkRTY1cFU?oc=5",
-   "source": "kare11.com",
-   "category": "Minnesota and Nature",
-   "summary": "Science Museum of Minnesota announces job cuts, new initiatives amid $4.64M budget gap for 2027 kare11.com",
-   "published": "2026-11-13T19:05-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1323,19 +1181,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "NWS confirms 10th tornado struck near RDU on October 11, most in a single day for central NC - WRAL",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQME43eFRQcUtPcTFZc2hPMW5OR1o3V3lsTDNEYVVSSEJNUENiWEZyTWhsWGhmbWRyb1ZtWXNsa043WmJQOHBfWVhQcWRWdmV2TWMxNkRrS0FVU0N6eVZwQ05ONy10WHdnNmtNWjV6c1otUnJibmR0eHFfRERtOVZjY1JITE91WEFJNUVB?oc=5",
-   "source": "WRAL",
-   "category": "Weather & Meteorology",
-   "summary": "NWS confirms 10th tornado struck near RDU on October 11, most in a single day for central NC WRAL",
-   "published": "2026-11-13T05:06-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "This Week's Sky at a Glance, November 13 – 22",
    "link": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-november-13-22/",
    "source": "Sky and Telescope News",
@@ -1462,6 +1307,19 @@
    "category": "Weather & Meteorology",
    "summary": "Tornado brings down hotel sign, crushes two cars in Newark, Delaware 6abc Philadelphia",
    "published": "2026-11-12T20:44-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Tornado warnings and severe weather across the Northeast - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbndUcGJKM2FTVmpFM3dYYzNHcENrOVFBcWZ4QmNoaUkxVTg1MTk2VTRuZU1aVGZvOVp2bFJWd1Z4Njg4T0FRZHVoaWY1UkQ2WEFudmQ3Z29uZWFYSjVpRDlTQnBGNzY3NllmNC03ZXNIR04xYjBRN0dDZmpPNWtUQ1kzRUJyVG5BeW1EODhXOGU2NHd1ZjBBamNzQmlod2JLQ3V5MDdYckhzUQ?oc=5",
+   "source": "NBC News",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado warnings and severe weather across the Northeast NBC News",
+   "published": "2026-11-12T19:43-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -1616,19 +1474,6 @@
    "published": "2026-11-12T14:58-06:00",
    "tags": [],
    "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Mount Thor: $45 Million In Funding To Build Agentic AI Cloud Infrastructure Powered By Apple Silicon - Pulse 2.0",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOejNsUVZzZTlDYUZWTGl2TnlRSS1Tb0Qzb2ZUcGxzV3NhRlhCODRGalVnYm1ZWEliaVFpb2tGbkRBdHRvQUN2aW5pVEVfcTZTY2dzRUs1bmViNmw1VkFhN2o0UWY2cmN5SDVLaVd1ck5RbEdjZDQtc0ZxdWdZLWpiZ1NnNkMwQjRPRlBLamlFWnl3NVhkRjA1cE5GZW5CQm5xbU11ZHd3Q1VJMHdjRTFHcEtQaWhfWkVkeWc?oc=5",
-   "source": "Pulse 2.0",
-   "category": "AI and Agents",
-   "summary": "Mount Thor: $45 Million In Funding To Build Agentic AI Cloud Infrastructure Powered By Apple Silicon Pulse 2.0",
-   "published": "2026-11-12T14:45-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1836,6 +1681,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Tornado Warning issued for parts of Queens, Nassau County near JFK Airport - Lohud",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2lqbE5hUTRkV0Vtbk82dkV4UXBMeDJwTzcxdWhraXlDVDdnLXRJUlBFVExJcFNOelp2TTZpSVctd0RWckVKc09xYk1YZURvc1JhcUd0WmFXWVc1VEI2Ui16ZFFPY1oxQ01jSzZFTTd2MlNYWUFCRGo4dHI4R1M3WldVQkJvMlNTTWc0YklqdmhzN2hpRVZWeXRmUTRtSkpreUNxOW40azNmOXFRUUswNVRJaw?oc=5",
+   "source": "Lohud",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado Warning issued for parts of Queens, Nassau County near JFK Airport Lohud",
+   "published": "2026-11-12T12:53-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Storms bring rain and hail to the Philly region, and a tornado in Delaware - Inquirer.com",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmQ3dVpDNzZsTWFJM0hxU1pHdkp1U3dXOEtNckFXT3hxVUhQMWc1TzUtcl9CV241Szd2MmQzQmtzbGdLSXVJamZNOVJ0UG1NUW10alA4Q0pTSkV0YXF4aUNzTUNoZW5pNG13bDFjaGNaWTRCOUwtUHIxanU2WWkzNzEtbWV6eVRuTkNrTmFsX1RIZEM2TjhZcVp4dVU0UXhJOU5GYw?oc=5",
    "source": "Inquirer.com",
@@ -1846,33 +1704,6 @@
    "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The corkscrew car jump from the Bond film The Man With...",
-   "link": "https://kottke.org/26/11/0049970-was-extensively-modelled-",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "The corkscrew car jump from the Bond film The Man With The Golden Gun was extensively modelled on a computer in 1974 . “McHenry took all the measurements and simulated the stunt using the equations of the 18th-century mathematician Leonhard Euler.”",
-   "published": "2026-11-12T12:48-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Solving the Space Junk Crisis Isn't Just About Counting Trash—It’s About Control and Economics",
-   "link": "https://www.universetoday.com/articles/solving-the-space-junk-crisis-isnt-just-about-counting-trashits-about-control-and-economics",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "If people ever think about cleaning up space debris, they typically think of something equivalent to a giant garbage truck in the sky, collecting lost astronaut tools and dead satellites then hauling them back down to Earth to be deposited in a landfill. But dealing with space debris doesn’t work that way, and a new paper, available in pre-print on arXiv from Dr. Slava Turyshev of NASA’s Jet Propulsion Laboratory, who we typically cover for his work on the Solar Gravitational Lens idea, makes a good argument as to why.",
-   "published": "2026-11-12T12:42-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/ADRAS-J_Phase_I_20261112_184230.png",
    "summary_from": "feed"
   },
   {
@@ -1895,23 +1726,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/lotr-trop-s3ep34-1-740x493.jpeg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Euclid Space Telescope Is Filling Its Treasure Chest",
-   "link": "https://skyandtelescope.org/astronomy-news/euclid-space-telescope-is-filling-its-treasure-chest/",
-   "source": "Sky and Telescope News",
-   "category": "Astronomy and Space",
-   "summary": "With 30 times more sky surveyed and thousands of new strong-lens candidates found, the European satellite’s latest data release lays the groundwork for cosmology breakthroughs. The post Euclid Space Telescope Is Filling Its Treasure Chest appeared first on Sky & Telescope .",
-   "published": "2026-11-12T12:01-06:00",
-   "tags": [
-    "Astronomy & Observing News",
-    "Cosmology",
-    "Euclid"
-   ],
-   "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2032,19 +1846,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/d26NFgxNW8avqHMT2y6xKTYezvw6iyb-tFuKNSw1NxY/rs:fill:300:200:1/g:ce/c:2583:1722:nowe:750:382/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MTY0/MmYzNy04NjAwLTQx/ZmItYmVmMC0zMzBi/NDVmNWZhMjk4MWU4/YzllYTk0NWQzOWE0/NjJfMzg0MHB4LVRo/ZV9SaGlub19Pbl9U/aGVfUml2ZXJfKE1p/bGx0b3duKS5qcGc.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Tornado watch issued in NJ as storms threaten tri-state; 3″ of snow possible elsewhere - NBC New York",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGFOM3FYYzFDRjU1eTFoOHZUVFdPVzNtZU1Ra05ta0djN0RnX2M5QlRsbjQ2X1BaNVl4SjB2VHhjN3FqT2dxQUxLQllXLWpTT1ZzYmI2ZlFXY3pfdGJ1ejdtWExBejZYMlItWU1NNmZURDdzUUdHbXlXQWcySTd5Tk42aUFPd1dMZVp6WDMwbXA1dzdjWWhOODl2UzZFaGFXVFdkaFhUTHLSAbABQVVfeXFMUFFqMjliY0tLZk9qUHl4d0o1a3VNaTdKUjFPZDFXV1FtZ0ZpUHBNV2EtUmh2cG9zWE9nSkJrbUl2dmdkUkh6UVRJTWFaRnZfY3V4WEhZczRUUzNrLVRsd0xVdjQwWmsweEltN05lSzNweENlM3E2QWRGeENUdEF3WENlamlMMW5DdnJQNllWcUV0bGRXLTl5XzZSdWNkam9MZDRMWEZHRTFISG5WejJuQUY?oc=5",
-   "source": "NBC New York",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado watch issued in NJ as storms threaten tri-state; 3″ of snow possible elsewhere NBC New York",
-   "published": "2026-11-12T10:48-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2705,19 +2506,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Amazon Built AWS Emulator Entirely With AI Agents - The Tech Buzz",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG5hUFMxS0dJWW1Wa1g2ME9nY2dpdDBhNk1jOTEwN2JYQjQzUUhRa0duVkc3SjFlNi1CYm9uVWFVS1M3V0d2UENRSElTR1NEaU9ITVB0Ykx2MjZBcm1jcUJqOE5fNUNXYXJWb3dkVmk5a05xWlBXQUR6dUhpZ09kOGVoalljTnVHbHc?oc=5",
-   "source": "The Tech Buzz",
-   "category": "AI and Agents",
-   "summary": "Amazon Built AWS Emulator Entirely With AI Agents The Tech Buzz",
-   "published": "2026-11-11T12:04-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "It’s a Hard-Knock Life: Tanya Pell’s Her Wicked Roots (Part 1)",
    "link": "https://reactormag.com/reading-the-weird-tanya-pell-her-wicked-roots-part-1/",
    "source": "Reactor",
@@ -2736,6 +2524,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/her-wicked-roots-header-740x407.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "“I Made a Film in Excel, and I Don’t Know Why”",
+   "link": "https://kottke.org/26/11/i-made-a-film-in-excel-and-i-dont-know-why",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Animation director Maria Tomazou made a short animated film entirely in Microsoft Excel. There’s no reason for this film to exist. Yet, I made it and it took ages to put together. To keep going and keep creating something that is pointless is actually very painful. I wish my love for making films was enough of a why to keep going, but sometimes it’s not. I’m glad I made this film. I don’t need to know the why for everything. Three cheers for creating pointless things. Tags: animation · excel · Maria Tomazou · video",
+   "published": "2026-11-11T11:02-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2840,6 +2641,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Stronger than usual El Nino could do a number on Minnesota's ice fishing industry - Audacy",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2TTF5dV9ONHdSOGZCWmc1ZkM2UlpBbTNpYWswdE5rdGJZMnhrWHVaYl93WHJBdTZXVUJETEFTRnlpSTY5WXNTMDBQRFk1endhVFcwLUpqSndXNDJXdEFmZWVXNDI4WTM4Mm91UnB1bDEyM2NjSU9icU1Zd0ZZQQ?oc=5",
+   "source": "Audacy",
+   "category": "Minnesota and Nature",
+   "summary": "Stronger than usual El Nino could do a number on Minnesota's ice fishing industry Audacy",
+   "published": "2026-11-11T08:21-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "BBC confirms removal of TV shows featuring David Walliams - including Doctor Who episode and Little Britain - Radio Times",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanJ5cnFXVmxYREE5VHpJMzNtazVWc1JGdUo1SUtXM0tSRXQwU0NValZUQmd6QTFTdUItcGxZbDNVMWN0Rzhyc2lJY3BBSFUta2thUV9YRmJkQUl6VDkyMXVtc0lVbXpjU2pZU0gwUnd2TDk0RUw4ZXBfd2pYTzhkeG44VmFaOElsekxmTUFVOFF4eWxuc0xPR2FCbF9JdXR5?oc=5",
    "source": "Radio Times",
@@ -2888,23 +2702,6 @@
    "tags": [
     "Awards",
     "Goodreads Choice Awards"
-   ],
-   "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Baltimore SF Society Puts 5000 Books into East Baltimore",
-   "link": "https://file770.com/baltimore-sf-society-puts-5000-books-into-east-baltimore/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "It may be a Little Free Library, but its impact is big. In October, the purple box on East Baltimore reached a milestone with distribution of over 5000 books. This book box is maintained by the Baltimore Science Fiction Society … Continue reading →",
-   "published": "2026-11-11T03:01-06:00",
-   "tags": [
-    "Clubs",
-    "BSFS",
-    "Little Free Library"
    ],
    "feed": "File 770",
    "evergreen": false,
@@ -3172,19 +2969,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Doctor Who episode featuring David Walliams removed from BBC iPlayer - TV Zone UK",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGNEcDdCUTc3U0Y0WTY0WnY5d1QyMHhsTHNMMF9oVVhmekM0X2NMN2hRSVZSZ2pjZHpXN3RQUDE4TUtkeHJJQkZSaklYcTBXZFpnV1pfOTZkZTVBdWJ2aC1yY0l2alYyeDIzai12QndpTm1vRkRLWU9GU09kUnRBbWlyX3JpQ1FnU0JLcnAxNDVrMnFrMUNnN19WdzgtMWc?oc=5",
-   "source": "TV Zone UK",
-   "category": "Science Fiction",
-   "summary": "Doctor Who episode featuring David Walliams removed from BBC iPlayer TV Zone UK",
-   "published": "2026-11-10T09:08-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Helping caregivers use AI in everyday life",
    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
    "source": "OpenAI News",
@@ -3303,19 +3087,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/05/StellersJay_becoming.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "National weather forecast: Severe storms in the east and west - The Bureau of Meteorology",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQal9jdVRkNVZPRFRWM0I2VkwxMnpsdjJjUVpaU2YyYXFCSVdCdzkyRFpDalZSTmxFbDJJemx5YVR4VXpMbm1aY2hVSE9HRlE3eHR6dV9IVS1ZRXB6Mk4tNVVTVVNLeHhpQU1vVGJIeF9JUEl0aW04bFhKREl1eC1MQk9WY0Rmcno5WUFmM1dmTTdsRFU?oc=5",
-   "source": "The Bureau of Meteorology",
-   "category": "Weather & Meteorology",
-   "summary": "National weather forecast: Severe storms in the east and west The Bureau of Meteorology",
-   "published": "2026-11-09T18:42-06:00",
-   "tags": [],
-   "feed": "Google News severe weather science",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3539,19 +3310,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "How space weather powers auroras in the sky and threatens power grids on the ground - Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jbmIxT1IwbUFxcS1tOWY1NFIwWWRXRC01SkxELVBNdjBVUlFOT2NsR1BheTNId2NiX0ozcEtHVU1mdGFyV21fY0IxS293RmhsUUFpd1Z1UDJiS2tJQVBnMERsc1V1WU56b2RhSXp5bmVyZWRBcnc?oc=5",
-   "source": "Phys.org",
-   "category": "Space Weather and Aurora",
-   "summary": "How space weather powers auroras in the sky and threatens power grids on the ground Phys.org",
-   "published": "2026-11-08T13:00-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Nexus 1.22.0 Shows Solar Flare Absorption the way NOAA Sees it - Amateur Radio Daily",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ycmoxMm1iNWRLRlJxN3RTZ3Rjb0N5dGhuc1lHRmV3N245em5wc1hDLTlrTE1NYk1TdEFxVnBjMThvTXNsc3ZoM3JFVzRoZGNab3NxeHQ0T08wSmd3V1pzTVdMOE8xSzFJTkU3OTRWUjlGTTYxNXp3dXNYZw?oc=5",
    "source": "Amateur Radio Daily",
@@ -3562,20 +3320,6 @@
    "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Major Fireball Meteor",
-   "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
-   "source": "NASA Astronomy Picture of the Day",
-   "category": "Astrophotography",
-   "summary": "APOD: 2026 November 8 - Major Fireball Meteor Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 2026 November 8 Major Fireball Meteor Image Credit & Copyright : Ollie Taylor Explanation: Explanation: The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta Badia in Italy 's Dolomite Alps . Above the nestled village lights, t",
-   "published": "2026-11-07T23:05-06:00",
-   "tags": [],
-   "feed": "NASA Astronomy Picture of the Day",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg",
    "summary_from": "feed"
   },
   {
@@ -3660,19 +3404,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Northern Lights Alert: 22 States May See Aurora This Weekend - Forbes",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDloZFNyb2x1ams4eVZoN3p2NkN6cUYzdUlrMlpFV0E2cTBKeFhWUWMtMzVtaDRYSm1sVkxDOVYtNENpbnFDNVQweWJIMnRoNTlKaEcyd1VibVVjVlFXVmY5WHpiMW91cFlncERoY2pNUmROZEpZR0duSnZ6WDNxa1dTS0xJWnRkWXo4MktycEtBOE5UNTdkVW5UNzhIQmJTYUlCZFA1R0Q2OGFadkFPamVTUlE4Z3M0OHc?oc=5",
-   "source": "Forbes",
-   "category": "Space Weather and Aurora",
-   "summary": "Northern Lights Alert: 22 States May See Aurora This Weekend Forbes",
-   "published": "2026-11-06T02:00-06:00",
-   "tags": [],
-   "feed": "Google News aurora",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
    "link": "https://openai.com/index/partnering-with-hacktron",
    "source": "OpenAI News",
@@ -3721,51 +3452,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Microsoft Foundry extension for Azure Developer CLI is generally available",
-   "link": "https://devblogs.microsoft.com/foundry/microsoft-foundry-azure-developer-cli-ga/",
-   "source": "Microsoft Foundry Blog",
-   "category": "AI and Agents",
-   "summary": "Microsoft Foundry extension for Azure Developer CLI is generally available Today, the Microsoft Foundry extension bundle ( microsoft.foundry ) for Azure Developer CLI ( azd ) reaches version 1.0 and is generally available. azd provisions Azure resources and deploys application code; the Foundry extension adds agent setup and local testing. Agent and deployment configuration stays alongside your code in azure.yaml . What this adds to your development workflow Review agent and deployment changes together. Inspect local requests and responses in Agent Inspector while changing prompts, tools, or code. Use the same deployment configuration locally and in CI/CD. Create and run a hosted agent In Fo",
-   "published": "2026-11-05T14:55-06:00",
-   "tags": [
-    "Microsoft Foundry",
-    "agent-framework",
-    "azd",
-    "azure-developer-cli",
-    "ci-cd",
-    "evaluations",
-    "Hosted Agents"
-   ],
-   "feed": "Microsoft Foundry Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2025/11/cropped-Microsoft-Foundry.2mb-scaled-1.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Help Shape the Future of .NET: Take the 2026 .NET Developer Survey",
-   "link": "https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/",
-   "source": "Microsoft .NET Blog",
-   "category": "DotNet and Development",
-   "summary": "It’s that time of the year! The 2026 .NET Developer Survey is open, and we’d love to hear about your experience. The survey takes about 15 minutes to complete, and your feedback helps the .NET team understand where to invest next. Take the 2026 .NET Developer Survey As a thank you for your time, eligible U.S. residents who complete the survey and leave their email address at the end can enter for a chance to win .NET swag! Your feedback helps us build a better .NET We want to understand what it’s like to use .NET in your everyday work. Where does it make things easier? What’s harder than it should be? Your answers help us understand how you use .NET and what would make it work better for you",
-   "published": "2026-11-05T13:00-06:00",
-   "tags": [
-    ".NET",
-    ".NET Framework",
-    ".NET Fundamentals",
-    ".NET MAUI",
-    "AI",
-    "ASP.NET",
-    "ASP.NET Core",
-    "Aspire"
-   ],
-   "feed": "Microsoft .NET Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/take-the-dotnet-developer-survey.webp",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Generosity of Selfishness: C.S. Lewis on How to Be Interesting",
    "link": "https://www.themarginalian.org/2026/11/05/interesting/",
    "source": "The Marginalian",
@@ -3783,22 +3469,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/09/cslewis_surprisedbyjoy.jpg?fit=320%2C482&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
-   "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
-   "source": "Microsoft Azure Blog",
-   "category": "DotNet and Development",
-   "summary": "Transformation begins at the line between an experiment that works and a capability the business depends on. Scaling intelligence requires production capabilities built for sustained business performance, with investments prioritized against financial thresholds, tied to measurable outcomes, instrumented for unit costs, and owned by accountable leaders. This approach manages cost, performance, governance, and reliability as adoption grows. A new IDC InfoBrief, sponsored by Microsoft, Scaling AI Without Scaling Costs *, on how organizations are funding and governing AI, shows both the urgency of that shift and the friction holding it back. Read the IDC InfoBrief Nearly 90% of organizations ap",
-   "published": "2026-11-05T11:00-06:00",
-   "tags": [
-    "AI + machine learning"
-   ],
-   "feed": "Microsoft Azure Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/10/CLO20b_Jean_Alain_casual_office_003.jpg",
    "summary_from": "feed"
   },
   {
