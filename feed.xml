@@ -5,8 +5,97 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 15 Nov 2026 15:39:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 19:05:39 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Printing Smooth Upper Surfaces with a Non-Planar Slicer</title>
+<link>https://hackaday.com/2026/11/15/printing-smooth-upper-surfaces-with-a-non-planar-slicer/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/15/printing-smooth-upper-surfaces-with-a-non-planar-slicer/</guid>
+<pubDate>Sun, 15 Nov 2026 13:05:39 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Non-planar 3D printing offers a fascinating way to bypass traditional stair-step layers by following contoured paths across the print. A new slicer built for standard 3-axis hardware demonstrates how clever path planning can improve surface finish without needing a dedicated multi-axis machine.</description>
+<content:encoded><![CDATA[<p><small>from the extruder kinematics dept.</small></p>
+<p><em>Non-planar 3D printing offers a fascinating way to bypass traditional stair-step layers by following contoured paths across the print. A new slicer built for standard 3-axis hardware demonstrates how clever path planning can improve surface finish without needing a dedicated multi-axis machine.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/non-planar_slicer.png" alt=""></p>
+<p>PancakeSlicer is a new open project designed to generate non-planar toolpaths for standard 3-axis 3D printers. By modifying hardware clearances and rethinking top-layer slicing algorithms, it enables smoother upper surfaces that eliminate the familiar staircase artifact.</p>
+<p><a href="https://hackaday.com/2026/11/15/printing-smooth-upper-surfaces-with-a-non-planar-slicer/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>First Foreign Astronaut to Visit China's Tiangong Space Station</title>
+<link>https://www.universetoday.com/articles/the-first-foreign-astronaut-will-visit-chinas-tiangong-space-station-in-two-weeks</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/the-first-foreign-astronaut-will-visit-chinas-tiangong-space-station-in-two-weeks</guid>
+<pubDate>Sun, 15 Nov 2026 13:04:39 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>International cooperation in low-Earth orbit continues to evolve as national stations welcome visitors from partner space agencies. This upcoming mission marks a notable milestone for Tiangong's expanding operational footprint.</description>
+<content:encoded><![CDATA[<p><small>from the orbital diplomacy dept.</small></p>
+<p><em>International cooperation in low-Earth orbit continues to evolve as national stations welcome visitors from partner space agencies. This upcoming mission marks a notable milestone for Tiangong&#x27;s expanding operational footprint.</em></p>
+<p><img src="https://www.universetoday.com/article_images/7669676e1891466db2253a58801d0c3c_20261114_220234.jpeg" alt=""></p>
+<p>The China Manned Space Agency announced that a Pakistani astronaut will visit the Tiangong space station during the upcoming Shenzhou 24 mission. This flight represents the first time a foreign astronaut has journeyed to the orbital facility.</p>
+<p><a href="https://www.universetoday.com/articles/the-first-foreign-astronaut-will-visit-chinas-tiangong-space-station-in-two-weeks">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Major Fireball Meteor Streaks Over the Dolomite Alps</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</link>
+<guid isPermaLink="false">https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</guid>
+<pubDate>Sun, 15 Nov 2026 13:03:39 -0600</pubDate>
+<category>Astrophotography</category>
+<description>Catching a major meteor against alpine twilight requires a blend of fortunate timing and compositional patience. This captured moment highlights the quiet drama of subfreezing night-sky observation.</description>
+<content:encoded><![CDATA[<p><small>from the atmospheric flashbulb dept.</small></p>
+<p><em>Catching a major meteor against alpine twilight requires a blend of fortunate timing and compositional patience. This captured moment highlights the quiet drama of subfreezing night-sky observation.</em></p>
+<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg" alt=""></p>
+<p>A serendipitous mountaintop photograph taken in the Italian Dolomite Alps captures a bright meteor cutting through the soft pinkish glow of fading twilight. The frozen vista frames the flash against rugged peaks and nestled village lights.</p>
+<p><a href="https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/">Read it</a> · Astrophotography · NASA Astronomy Picture of the Day</p>]]></content:encoded>
+</item>
+<item>
+<title>Writing Your Own PostScript Interpreter from Scratch</title>
+<link>https://hackaday.com/2026/11/14/rpn-loved-honk-if-or-write-your-own-postscript-interpreter/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/14/rpn-loved-honk-if-or-write-your-own-postscript-interpreter/</guid>
+<pubDate>Sun, 15 Nov 2026 13:02:39 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Building a minimalist language interpreter is one of the best ways to understand stack-based architecture and parsing. This lightweight implementation recreates the charm of PostScript without the overhead of massive legacy toolchains.</description>
+<content:encoded><![CDATA[<p><small>from the reverse-polish notation dept.</small></p>
+<p><em>Building a minimalist language interpreter is one of the best ways to understand stack-based architecture and parsing. This lightweight implementation recreates the charm of PostScript without the overhead of massive legacy toolchains.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/post.png" alt=""></p>
+<p>A developer has built a compact PostScript interpreter from scratch to handle stacks, arrays, and dictionaries. While omitting heavy error handling, the project provides a clean, understandable look at the stack-oriented language that once powered laser printers.</p>
+<p><a href="https://hackaday.com/2026/11/14/rpn-loved-honk-if-or-write-your-own-postscript-interpreter/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Minnesota Park Named International Dark Sky Place of the Year</title>
+<link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3VmRFBGdGFKMF93Z3NFWGxyd1RmdWtMZXAzZno4M3VJdUdNamo1b3dfRW0tUzNRXzJRSGFuYU5kczVNNG9KODJER2RCcmZJMmVuamxRdV90NlpQczhWamx1akM3ZFgwTzBLNFV4QVp5OE9OemRJRFd6d1ZYWW5lZm82bE5LMWg0WHExcmtIclVRTFhLVEZSR0cyWURxc2M?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3VmRFBGdGFKMF93Z3NFWGxyd1RmdWtMZXAzZno4M3VJdUdNamo1b3dfRW0tUzNRXzJRSGFuYU5kczVNNG9KODJER2RCcmZJMmVuamxRdV90NlpQczhWamx1akM3ZFgwTzBLNFV4QVp5OE9OemRJRFd6d1ZYWW5lZm82bE5LMWg0WHExcmtIclVRTFhLVEZSR0cyWURxc2M?oc=5</guid>
+<pubDate>Sun, 15 Nov 2026 13:01:39 -0600</pubDate>
+<category>Minnesota and Nature</category>
+<description>Recognizing pristine dark-sky locations helps protect night-sky visibility and local nocturnal ecosystems from encroaching light pollution. Regional successes in dark-sky conservation offer a model for preserving stargazing heritage.</description>
+<content:encoded><![CDATA[<p><small>from the nocturnal preservation dept.</small></p>
+<p><em>Recognizing pristine dark-sky locations helps protect night-sky visibility and local nocturnal ecosystems from encroaching light pollution. Regional successes in dark-sky conservation offer a model for preserving stargazing heritage.</em></p>
+<p>A Minnesota park has been honored as the International Dark Sky Place of the Year. The designation celebrates ongoing efforts to preserve natural darkness and provide exceptional conditions for stargazers and amateur astronomers.</p>
+<p><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3VmRFBGdGFKMF93Z3NFWGxyd1RmdWtMZXAzZno4M3VJdUdNamo1b3dfRW0tUzNRXzJRSGFuYU5kczVNNG9KODJER2RCcmZJMmVuamxRdV90NlpQczhWamx1akM3ZFgwTzBLNFV4QVp5OE9OemRJRFd6d1ZYWW5lZm82bE5LMWg0WHExcmtIclVRTFhLVEZSR0cyWURxc2M?oc=5">Read it</a> · Minnesota and Nature · Yahoo</p>]]></content:encoded>
+</item>
+<item>
+<title>Solving the Space Junk Crisis with Economics and Control</title>
+<link>https://www.universetoday.com/articles/solving-the-space-junk-crisis-isnt-just-about-counting-trashits-about-control-and-economics</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/solving-the-space-junk-crisis-isnt-just-about-counting-trashits-about-control-and-economics</guid>
+<pubDate>Sun, 15 Nov 2026 13:00:39 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Orbital debris mitigation is frequently envisioned as a mechanical garbage-truck problem, but the economic and regulatory incentives are far more complex. A new analysis explores the foundational control mechanisms needed for sustainable space operations.</description>
+<content:encoded><![CDATA[<p><small>from the orbital mechanics dept.</small></p>
+<p><em>Orbital debris mitigation is frequently envisioned as a mechanical garbage-truck problem, but the economic and regulatory incentives are far more complex. A new analysis explores the foundational control mechanisms needed for sustainable space operations.</em></p>
+<p><img src="https://www.universetoday.com/article_images/ADRAS-J_Phase_I_20261112_184230.png" alt=""></p>
+<p>A new pre-print paper co-authored by researchers including Dr. Slava Turyshev argues that addressing orbital debris requires more than simple removal hardware. The analysis highlights how control theory and economic structures are vital to managing traffic in congested orbits.</p>
+<p><a href="https://www.universetoday.com/articles/solving-the-space-junk-crisis-isnt-just-about-counting-trashits-about-control-and-economics">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Euclid Space Telescope Expands Its Cosmic Treasure Chest</title>
+<link>https://skyandtelescope.org/astronomy-news/euclid-space-telescope-is-filling-its-treasure-chest/</link>
+<guid isPermaLink="false">https://skyandtelescope.org/astronomy-news/euclid-space-telescope-is-filling-its-treasure-chest/</guid>
+<pubDate>Sun, 15 Nov 2026 12:59:39 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Mapping the cosmos across wide sky areas yields thousands of new gravitational lenses and cosmological candidates. Euclid's latest data release provides astronomers with rich observational material to test models of dark matter and dark energy.</description>
+<content:encoded><![CDATA[<p><small>from the dark universe dept.</small></p>
+<p><em>Mapping the cosmos across wide sky areas yields thousands of new gravitational lenses and cosmological candidates. Euclid&#x27;s latest data release provides astronomers with rich observational material to test models of dark matter and dark energy.</em></p>
+<p>The European Space Agency&#x27;s Euclid telescope has surveyed thirty times more sky in its latest data release, uncovering thousands of strong-lens candidates. These observations lay essential groundwork for upcoming cosmology breakthroughs.</p>
+<p><a href="https://skyandtelescope.org/astronomy-news/euclid-space-telescope-is-filling-its-treasure-chest/">Read it</a> · Astronomy and Space · Sky and Telescope News</p>]]></content:encoded>
+</item>
 <item>
 <title>Navigating Lunar Orbit Using Nothing But Shadows and a Power Meter</title>
 <link>https://www.universetoday.com/articles/navigating-lunar-orbit-using-nothing-but-shadows-and-a-power-meter</link>
