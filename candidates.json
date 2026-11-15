@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T00:31-06:00",
+ "generated": "2026-11-15T09:39-06:00",
  "count": 275,
  "sources": {
   "Astronomy and Space | NASA Science": {
@@ -56,26 +56,26 @@
   "Astronomy and Space | Sky and Telescope News": {
    "url": "https://www.skyandtelescope.com/astronomy-news/feed/",
    "ok": true,
-   "kept": 7,
+   "kept": 6,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 2,
+   "old": 3,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Space Weather and Aurora | Google News space weather": {
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 8,
-   "entries": 67,
+   "kept": 6,
+   "entries": 64,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 59,
+   "old": 58,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -83,12 +83,12 @@
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 1,
-   "entries": 42,
+   "entries": 41,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 41,
+   "old": 40,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -134,12 +134,12 @@
    "url": "https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 4,
-   "entries": 14,
+   "entries": 16,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 10,
+   "old": 12,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -147,12 +147,12 @@
    "url": "https://news.google.com/rss/search?q=%22rare+weather%22+OR+%22atmospheric+phenomenon%22+OR+%22unusual+cloud%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 2,
-   "entries": 56,
+   "entries": 55,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 54,
+   "old": 53,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -186,12 +186,12 @@
    "url": "https://news.google.com/rss/search?q=%22NOAA%22+%22weather+radar%22+OR+%22weather+satellite%22+OR+%22forecast+model%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 40,
+   "entries": 41,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 40,
+   "old": 41,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -237,26 +237,26 @@
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 6,
+   "kept": 7,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
    "url": "https://devblogs.microsoft.com/foundry/feed/",
    "ok": true,
-   "kept": 5,
+   "kept": 3,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 5,
+   "old": 7,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -289,8 +289,8 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 8,
-   "entries": 60,
+   "kept": 9,
+   "entries": 61,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -328,8 +328,8 @@
   "Science Fiction | Google News Doctor Who": {
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 14,
-   "entries": 62,
+   "kept": 16,
+   "entries": 64,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -342,25 +342,25 @@
    "url": "https://news.google.com/rss/search?q=Minnesota+astronomy+OR+aurora+OR+observatory&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 57,
+   "entries": 56,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 57,
+   "old": 56,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 13,
-   "entries": 30,
+   "kept": 14,
+   "entries": 32,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 17,
+   "old": 18,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -431,6 +431,175 @@
   }
  },
  "items": [
+  {
+   "title": "Printing Smooth Upper Surfaces with a Non-Planar Slicer",
+   "link": "https://hackaday.com/2026/11/15/printing-smooth-upper-surfaces-with-a-non-planar-slicer/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "One of the most tantalizing prospects for 3D printing has been non-planar printing, which promises smoother surfaces without a staircase pattern, reduced or eliminated support structures in some incarnations, and the possibility of greater strength in others. One of the biggest limits to its adoption has been the lack of non-planar slicer programs, a gap which [Zimeng Xiong] of [Alpaca Engineering] has worked to eliminate with the non-planar PancakeSlicer. PancakeSlicer is designed to work with standard 3-axis printers (a Bambu Labs A1 Mini in this case), so the non-planar paths available to it are limited by the print head’s clearance on each side of the nozzle. In the case of the A1 Mini, this could be substantially improved by removing the cooling shroud from the print head, relying instead on a remote static cooling system (RSCS), which blows cooling air in from the sides of the print bed. Being meant for 3-axis printers, the main goal of PancakeSlicer is to print smooth top surfaces without a stair-step pattern. The first step is to find the surfaces over which the top layer should be smoothly overlaid; it does this by tracing rays downward through the part and keeping track of their intersection points. The simplest way to slice is by generating a planar structure, then overlaying a few non-planar layers on the top surface. This still left some bleed-through staircase pattern, which a morphed structure eliminated by continuously varying layer thickness. In narrow regions, though, the layers could get far too thin for the printer to extrude, resulting in under-extrusion. Conformal slicing solves this by building a planar base, a morphed transition region, and several constant-thickness conformal layers on top. Where the slicer can’t print a non-planar layer due to ",
+   "published": "2026-11-15T09:00-06:00",
+   "tags": [
+    "3d Printer hacks",
+    "non-planar",
+    "non-planar 3D printing",
+    "non-planar slicer",
+    "orca slicer",
+    "slicer"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/non-planar_slicer.png",
+   "summary_from": "page"
+  },
+  {
+   "title": "Navigating Lunar Orbit Using Nothing But Shadows And A Power Meter",
+   "link": "https://www.universetoday.com/articles/navigating-lunar-orbit-using-nothing-but-shadows-and-a-power-meter",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Humanity is quickly starting to saturate our ability to track all of the satellites we have in deep space. NASA’s Deep Space Network (DSN) has been the workhorse for tracking such things for decades, but is quickly being overwhelmed by the number of requests it receives. Which in turn makes it harder to track some of the missions that have been launched recently. A new paper, available in pre-print on arXiv, from Ian Down, James McElreath, and Manoranjan Majji, of Advanced Space, Space Exploration Engineering, and Texas A&M respectively, offer a no-cost solution to that tracking problem - use solar array data from a spacecraft’s eclipse to determine where it is.",
+   "published": "2026-11-15T07:22-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/CAPSTONE_revealed_in_lunar_Sunrise_ACD22-0003-005_20261115_132155.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Atmospheric river enhances West rain, heavy mountain snow - The Weather Channel",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3BoM2MtZUtMd3RfZmVxZElNQ25mSlNjVDM2VGdLU1VCWkp5dHlNVndFNUFULWx1SVVrcDBRcUtjYUJDT0QzR1ozUWpweTQ1M1lmdk45eFdxVUg4V3h3ZWNSOXI0OEM4dk16RDhMcU5YMmZtS05pQ2lYcV9ZbG9RLVBQbTdTTXBSa3dsR0pfUXBwcE42WWROUVM2dmFrT0JueEwtdzFQX2JsWGNpeFVjUXFjdFlOU3hPb2xZak1tcVFBUQ?oc=5",
+   "source": "The Weather Channel",
+   "category": "Weather & Meteorology",
+   "summary": "Atmospheric river enhances West rain, heavy mountain snow The Weather Channel",
+   "published": "2026-11-15T06:53-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "BBC Three’s Must‑Watch Line‑up: From Top Gear to Doctor Who - TV Mix",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tUnJwLUt5dzN6dnIwZnA5QVI0bDBUeWVJYVBKT1pOalQ3cWxGMXl1RFhheGxXLUNTQjZILXBYVHpzb29LUTdaX25zSkxxcmxXSU5XNlNHRUJNa0tNLUVIUg?oc=5",
+   "source": "TV Mix",
+   "category": "Science Fiction",
+   "summary": "BBC Three’s Must‑Watch Line‑up: From Top Gear to Doctor Who TV Mix",
+   "published": "2026-11-15T06:28-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "An MP3 Player, Implemented As A Factorio Blueprint",
+   "link": "https://hackaday.com/2026/11/15/an-mp3-player-implemented-as-a-factorio-blueprint/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Factorio is a factory simulation game that leads its players into many happy hours of building ever more complex factories, but it comes with a snag. Its built-in music is a fairly simple synthesiser, and that doesn’t really cut it for the musical experience. This irked [Nablanaut] to the extent that he created his own MP3 player. Not just any MP3 player, this one is implemented as a Factorio blueprint, using only those in-game speaker elements as output. The synth has a range of built-in instrument voices and not much else, so he had to find a way to reproduce complex sounds using only those tools. As you can imagine, the result looks a lot like Fourier analysis, but with the added complication that those voices are not the discrete tones needed in such a system. The video below the break is a deep dive into the tricks and compromises required to not only play an MP3, but play it well, as we hear the various versions of the output as bit by bit they get better. The blueprint itself isn’t created by hand, of course; instead, it’s generated procedurally by a script. As far as we can see, it contains both the audio samples and the playback logic, making for a very complex factory. We especially like the song at the end of the video. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-15T06:00-06:00",
+   "tags": [
+    "Games",
+    "Musical Hacks",
+    "factorio",
+    "mp3",
+    "synthesiser"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/factorio-mp3-featured.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "How did invasive buckthorn arrive in Minnesota in the first place? - Star Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQlRsNUtoTVpEM2ZmLWdwcG1JQm9UUnVJZ2pJaXl3TnRkUEhWVUV5cTE1ZG5JQmVPZ0EzQkQ0UVBWTGxNV2tFMWpIT1BONkJqcUNxc21SMEY0RE95U3BxLWsweGpWSGtOOXBNRnREcXdhT2o5cVBBSjJwN2N5YUNnSlNyaTVVZWNydEE?oc=5",
+   "source": "Star Tribune",
+   "category": "Minnesota and Nature",
+   "summary": "How did invasive buckthorn arrive in Minnesota in the first place? Star Tribune",
+   "published": "2026-11-15T06:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "No coding, no laptop, just WhatsApp: How 38 professionals built 57 AI agents in 35 minutes - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUG5PaHdQZThXZEQxWFFGTm43RFByZG5yeDNBUjNyb2Job0VSUkNldzlDNzB6UElUYjdyLVYtYlhla2FPaEYtdWVxcXFuZ0xXd2VaRUNRZlNqek5MZVd0dE1qMnFnUmtsUWVKRmdjZEpFY1h5LTFzWnZfSXVqd1dENmZBcDh3R1V6WlpOVUV1Z1FaeGlmOVJ3b2h1NVloTUN3RmlPcDFVcVFPYWNlTW9FN2dkQW5BMG0tRmduZWpmQUYwbEg5T3czbjVaRHRBYXdCY0d1MmxaRThYQ1BTZWhSVXRxNWpZeXfSAewBQVVfeXFMTnFtOXFSX0hxa2JWUmQxRHpsT3JiNzJ5T0dGVHJRSnExZTF4Y0hScHhLbnhvMm15U0FEUkF4VFhxUFBkbzVOcHJOQ2M5VHlFS1I3MzlDZjI4UmZpRS1VZHJKaEt3SFVDRWJHTUR2dWRCSURNQjJrdlJJNnMxbHY0bVFpMTl1QWxfRHpfbmpwaG9DbGQtUHZCdXg2TWplSWQwZDV1ak05OEd0Mm8wMEx2YzJXTWFhM2EyWXhYWmgwZ1U3a1JWX2g2S3AycHlkOEVFUVpQeUMxTHdtRTZSRGdWRGFLMnYzSmlhX2FBZGY?oc=5",
+   "source": "The Economic Times",
+   "category": "AI and Agents",
+   "summary": "No coding, no laptop, just WhatsApp: How 38 professionals built 57 AI agents in 35 minutes The Economic Times",
+   "published": "2026-11-15T04:31-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Rare weather phenomenon: Fogbow, also known as 'white rainbow', spotted in Kayl - RTL Today",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjZ3Y3dZMVctOHZRd1prZnNPczAwVDAwUlNpZDVoTVd0OGNWWlNKTEE5QVBjM3pmTDB6T3N0QThHTDY3V3A1c2tjVVZsR1Nod0hGbS10QnB5R1NIbGJDRDhuZllEVHZfQWIxWWNhS1JSUklvbE9OTXFtVzFMQmM4VWNzNTdlYWFXajdYQ0hTazlESkxrMHJYRXkwVDdjUzQ?oc=5",
+   "source": "RTL Today",
+   "category": "Weather & Meteorology",
+   "summary": "Rare weather phenomenon: Fogbow, also known as 'white rainbow', spotted in Kayl RTL Today",
+   "published": "2026-11-15T04:16-06:00",
+   "tags": [],
+   "feed": "Google News unusual weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Royal Society Young People’s Book Prize 2026 Shortlist",
+   "link": "https://file770.com/royal-society-young-peoples-book-prize-2026-shortlist/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "The Royal Society Young People’s Book Prize 2026 shortlist was announced October 29. The Young People’s Book Prize recognizes the best science books for under 14s, aiming to promote literacy in young people and inspire them to read about science. The … Continue reading →",
+   "published": "2026-11-15T03:04-06:00",
+   "tags": [
+    "Awards",
+    "Royal Society’s Young People’s Book Prize"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Reverse Engineer that USB Device in Style",
+   "link": "https://hackaday.com/2026/11/15/reverse-engineer-that-usb-device-in-style/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Proprietary device drivers, dedicated applications, and their ilk are the bane of the open-source hacker. If only we could snoop on every device out there, recording the “secret” USB transactions as they go over the wire, we’d have a chance. [Emir Mrkaljević]’s tool, usb-rea , aims to make this process a whole lot less painful. The workflow is like this: you start capturing on USB, make an annotation about what action you’re taking, press the button a few times, and then move on to the next action. Usb-rea records all the USB traffic, timestamps it relative to your actions, and gives you a report, a driver, and a Wireshark protocol dissector out the back side. There is even an MCP file so that you can hand off the grunt work to the bots, possibly enabling this to work closed-loop? Of course, you don’t want to reinvent the wheel, so it’s fun to see that there’s also a usb-rea lookup command to see if your VID:PID is already in the dataset. Most of the devices are CPU coolers, RGB controllers, and other blinged-out computer peripherals, but we imagine that it’s a lot more broadly applicable. We looked for our mouse on the list, but it’s sadly not there. Usb-rea is not a silver bullet to bring back abandoned peripherals from the grave, because you still need to run the proprietary driver during the recording. But if you get ahead of the game and document the protocols before the manufacturers abandon them, you stand a chance. Get recording! Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-15T03:00-06:00",
+   "tags": [
+    "computer hacks",
+    "Reverse Engineering",
+    "reverse engineering",
+    "tools",
+    "usb"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2024/04/usb-featured.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "All the Midland towns facing 'rare' weather phenomenon as snow maps turn orange - Birmingham Live",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXhFb2ZHZFJ6YlZUeUxKY2ZtOVNZNlZJa0dpTzZvVk5rMFo0dzhjM3Nfb3FpVjIyeUd5T21HTFhUcV9sNm1SNG51MnM2ZUlnQkF1Y1RDNDNSZUttaWxCenkwcFliQVBZY1RUdF9iSkpyMVpUOU4zUnpIUW1FZGVWQndpbmFOZmNVZHNVZlhHT3FWTmU4MlBiWEF30gGfAUFVX3lxTE5SWDhrRVZ1emxxaEY2Q3JDT0l4eHc1RTlzWkJ4UEMtaFJicFJudTBaLXR4WkI0WnZnaGVNQ2JmZlpmZDJBbWlVX3VCZU53N2hacVQ3OFlsTG0wSVByQ1BlejNtMm8tSUR5REM1d0RyZFBLYWwxTWNTckZBcC1yMjJKTlZyQm1PZWh0ellmVHcxZjRDZGl4TExQQ2I4Z1pzZw?oc=5",
+   "source": "Birmingham Live",
+   "category": "Weather & Meteorology",
+   "summary": "All the Midland towns facing 'rare' weather phenomenon as snow maps turn orange Birmingham Live",
+   "published": "2026-11-15T00:52-06:00",
+   "tags": [],
+   "feed": "Google News unusual weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
   {
    "title": "Bringing a Cloud Based Monitor Home",
    "link": "https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/",
@@ -567,6 +736,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Severe weather update: Severe storms likely for eastern Australia - The Bureau of Meteorology",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcTNJRlliM0g0ZDVZbnkxQkRzc3kxRWJDOU56ZzRkTzZpTnZGN0NoV191NGFueExvT29XZlp5Z2RsZWVqX0l1RmI5ZjZXWmRqQTZzT0s1X1FsUHlrTTdScVNsTVI2ZWZSZlR6R3hVN3JGdWx2dFZmUGdfVlBteng4ZHJFbzRmUzNIZkZ0T2JkWkU0VnBxWDljUA?oc=5",
+   "source": "The Bureau of Meteorology",
+   "category": "Weather & Meteorology",
+   "summary": "Severe weather update: Severe storms likely for eastern Australia The Bureau of Meteorology",
+   "published": "2026-11-14T16:44-06:00",
+   "tags": [],
+   "feed": "Google News severe weather science",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "The First Foreign Astronaut Will Visit China's Tiangong Space Station in Two Weeks",
    "link": "https://www.universetoday.com/articles/the-first-foreign-astronaut-will-visit-chinas-tiangong-space-station-in-two-weeks",
    "source": "Universe Today",
@@ -629,34 +811,14 @@
    "summary_from": "feed"
   },
   {
-   "title": "A Hazeltine 1420 Lives Again",
-   "link": "https://hackaday.com/2026/11/14/a-hazeltine-1420-lives-again/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "There was a time when buying a computer also meant picking out a compatible terminal. There were many to choose from, some good and some bad. While we were partial to TeleVideo, other well-known names included Lear Siegler and ADDS. There was also Hazeltine, a well-known brand that could emulate many other terminals. [The Byte Attic] had an unusable Hazeltine 1420, and finally got around to getting it working again . As you might expect, the old terminal was full of suspect capacitors. A power transistor was also missing, hinting that someone had been robbing this unit to fix another. In addition to fixing the device, the plan was to improve it with switching regulators. These old terminals generated a lot of heat with linear regulators. The power supplies were often the major issue with these kinds of devices, and scorch marks under the bridge rectifiers didn’t bode well, either. Another concern: the chips that hold the character sets and some other logic are unobtainable. If they were dead, there would be virtually no way to replace them. The plan was to read them, if possible, and design replacements for the day they did fail. If it wasn’t already too late. There are tons of pictures, and we appreciated that the post documents several early decisions that came back to bite them later. We know that feeling all too well. It is a long read with a happy ending. The ROMs did work, but because they are so prone to failure and so hard to replace, they went into storage and were replaced with an adapter using modern components. And the morale of the story is that most old computers are trash that got tossed into the e-waste bin not because they didn’t have enough time to ripen with age, but because from the beginning they were trash designed by clueless imbeciles overseen by",
-   "published": "2026-11-14T12:00-06:00",
-   "tags": [
-    "Repair Hacks",
-    "Retrocomputing",
-    "glass tty",
-    "hazeltine",
-    "terminal"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/haze.png",
-   "summary_from": "page"
-  },
-  {
-   "title": "Someone dumped 40 old mattresses near a Minnesota wildlife refuge - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSmRoazF1c2R5ZUkzVEJCTlJDc1NKdE15bTRBcVRFUEtIbk5RWHpwVzREUnJKTktRN1J5eldRa2tUd3NQWUdEMmYwYmhxaXg5Nm9aMW4zZVJmeS1NcERsZUJlY1cxd0JwbHZkOW8yTEhHT1RNQzNtTUdXQ3lLbl9EWkJ0ZF9sSllSckpB?oc=5",
-   "source": "Yahoo",
-   "category": "Minnesota and Nature",
-   "summary": "Someone dumped 40 old mattresses near a Minnesota wildlife refuge Yahoo",
-   "published": "2026-11-14T10:56-06:00",
+   "title": "Shetland season 11 cast: who stars in Tosh's final run? - Radio Times",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aMEFDcm52elpmZnNha0lXdENYOU1uWUZBWWFlcmJwOTFvUkdTT0RYalBIYzVIN2d3WVFEck9kZzFxQ212QVJoQWhiQVA2YjBMaS1XbUFRSDhDQjh2VVRnRGw2cndWRjlCUVE4SUJDWmYzZw?oc=5",
+   "source": "Radio Times",
+   "category": "Science Fiction",
+   "summary": "Shetland season 11 cast: who stars in Tosh's final run? Radio Times",
+   "published": "2026-11-14T13:06-06:00",
    "tags": [],
-   "feed": "Google News Minnesota nature",
+   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -673,40 +835,6 @@
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "Delaware EF-1 tornado damage and path mapped – 4.4 miles in 10 minutes - Delawareonline.com",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOVVKdGRTaFFZMjVKZ0ZsWVdKZHJBcnkxaktxeW4tRWFLMzZUNXpXWWJ2X3NVUGNJUkZMMGFheDFTb3B0cmFIemtSRVpoNVB5SWtPVTR2YjdGcWZMMFNpZzBJckROWEJCRjdaeVdsRy1qNWI1WmtqeUpwTnoyWWhkT0tKQVVXdG5zOVdKZGk3WWpsZEJ5bi1pZlBWd1NMMWUxUWNIeVNUOFpaeGNldm5hVU9uWTNHd2xYajlJV1JMcUJPUUZfb1NyQVdFam9fNm9fcDkwTF9wbzRicFpKZ2RBazJSM3g?oc=5",
-   "source": "Delawareonline.com",
-   "category": "Weather & Meteorology",
-   "summary": "Delaware EF-1 tornado damage and path mapped – 4.4 miles in 10 minutes Delawareonline.com",
-   "published": "2026-11-14T09:49-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "IRis Learning Remote Has Five Buttons, Supports Thousands of Devices",
-   "link": "https://hackaday.com/2026/11/14/iris-learning-remote-has-five-buttons-supports-thousands-of-devices/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Universal IR remotes able to learn codes from existing devices were once popular consumer items as well as DIY projects, but they could become quite complex themselves, sometimes with a dizzying number of buttons. [Nicolas Ruiz Neiman]’s IRis project carries the concept further with features that leverage modern parts and tools to deliver a more focused end result. IRis keeps things clean and simple with four directional buttons, a single OK key, and a small OLED screen. IRis can learn and save IR codes and is compatible with the .ir file format, meaning it can read from an absolutely massive collection of codes intended for the Flipper Zero . There’s also a “Be Gone” feature that mass-sends a power signal for every device in a category, re-implementing the functionality of the classic TV-B-Gone. Hardware consists of an ESP32-WROOM-32 board, the aforementioned OLED, an IR receiver module, IR emitters, some switches, and a power supply integrating an 18650 lithium-ion cell and charger. One thing that’s pretty interesting is the detailed test suite, which runs simulated hardware via key presses on every screen to ensure the UI is working right. The enclosure also includes the CAD files in STEP format, which means modifications are a breeze. I would think a “back” button, a dedicated power button and a volume button (or wheel) would add a lot of service for not a lot of real estate. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-14T09:00-06:00",
-   "tags": [
-    "Wireless Hacks",
-    "ESP32",
-    "ir",
-    "tv-b-gone",
-    "universal remote",
-    "weekend project"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/IRis-remote-banner.png",
-   "summary_from": "page"
   },
   {
    "title": "Embrace Your Obsessions: Susan Orlean on the Antidote to the Meaninglessness of Life",
@@ -742,19 +870,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Tornado warnings and severe weather across the Northeast - NBC News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbndUcGJKM2FTVmpFM3dYYzNHcENrOVFBcWZ4QmNoaUkxVTg1MTk2VTRuZU1aVGZvOVp2bFJWd1Z4Njg4T0FRZHVoaWY1UkQ2WEFudmQ3Z29uZWFYSjVpRDlTQnBGNzY3NllmNC03ZXNIR04xYjBRN0dDZmpPNWtUQ1kzRUJyVG5BeW1EODhXOGU2NHd1ZjBBamNzQmlod2JLQ3V5MDdYckhzUQ?oc=5",
-   "source": "NBC News",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado warnings and severe weather across the Northeast NBC News",
-   "published": "2026-11-14T04:54-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Delaware tornado confirmed at EF-1, 'peak' damage in Chapman Woods: NWS - Delawareonline.com",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVkpLeGF3Tlk0anlpNjR5bktNMWVSUFRFcUNfUUxUT3pfMmtUNG9ld0pNY1UzZ0JwLXlUZ1NRWE9YSnh2TjNtcG54emtFQkRId2hWbjRhTXZIa015RFNaLS1rclpHelNHMzlzNU1HcXJ6SktLVW9rQzNpUzU2MDZsS3AwSG8tTVl1YnkzTTNSdVY2dm15cU9zbUFvVUs5S2NWX2JEaXlNeHdWX3pwenY5b2pkbE4xZ0tSNjJSTVZCb01qV2w5S3FCWjd0VVF0Ym9ZWnEzbUFxUnV2dw?oc=5",
    "source": "Delawareonline.com",
@@ -785,6 +900,19 @@
     "David Tennant"
    ],
    "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Science Museum of Minnesota announces job cuts, new initiatives amid $4.64M budget gap for 2027 - kare11.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMENMeUc3MFNVeWVqcDhjZThKQmlNQ1NQOGFCc2dDOGtRM2VaSlV5UDZHek44WV9TbmUzRlZFaVVodm5qWG9YZHQzeVNsMmpEMnpoS1JodTY2OUhkVF8xT3Fwa29pSWRGSW92cjNHSGl3MmhNbXh1Tl9mY1EwV3pLenJnNWpfM056LXlMeGVUdFI3ZG85a0ZZSGhwbTEzZ3Q1cEFobU1jLWRnck5YeTJJdWJUU2x6N1NOMHBQZV8xbW82d2xfcXhBajZFNmo1dm1VY2d1N2t5VkRxc280dVRSbVhtaHNjZUtJRFVidWVCX2lIQjlqSUlqbVpJVFRIMnhINDlkRTY1cFU?oc=5",
+   "source": "kare11.com",
+   "category": "Minnesota and Nature",
+   "summary": "Science Museum of Minnesota announces job cuts, new initiatives amid $4.64M budget gap for 2027 kare11.com",
+   "published": "2026-11-13T19:05-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1032,6 +1160,19 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/10/itooamhere_carlyle.jpg?fit=320%2C486&ssl=1",
+   "summary_from": "feed"
+  },
+  {
+   "title": "MINNEAPOLIMEDIA PRESENTS | This Weekend in the Twin Cities™: November 13–15, 2026 - MinneapoliMedia",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNkF0eGJJRlRERUU3VmZfTm9QMzJ2UWpiRC1jdzNNYmVadkR3bFZfN1hVQ0J5bjRXOUpKWUl5WFpUeUhCdUlCRVlXTTRnRmtmazQxWVdrT1J0Rlk4Y1FxR054V0k0TDF4dVc1WE5TV3ozYnVMMG1WeGhJem1xbnBWdTUtWkYxNnZzeGJKSjVqZWhxYnh2VFBOS25jb3NBckl0WGcxRm15eWJNTGRSTDRsN3l2TnBqdmtmLW1PZUVlaEtHeXZU?oc=5",
+   "source": "MinneapoliMedia",
+   "category": "Minnesota and Nature",
+   "summary": "MINNEAPOLIMEDIA PRESENTS | This Weekend in the Twin Cities™: November 13–15, 2026 MinneapoliMedia",
+   "published": "2026-11-13T10:56-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -1328,11 +1469,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Operation TorNado Leads to More Than 350 Arrests Across 14 Countries - FBI (.gov)",
+   "title": "Operation TorNado Leads to More Than 350 Arrests Across 14 Countries | Federal Bureau of Investigation - FBI (.gov)",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWI1anNsT1ZmVnNIdk1zaklwdHlLT0psQVNLRjU3SmJ6RnU0X0NmWjBleFdfSV9nTnNIM3ptREZkajZRX2t3M2JsMG9BQWgtQnpMTEVvMEsyZ05yX0VCb3h0c0hLR2h3eUVhSzJiSzFUZ21veFhaRXlCVnJpQ3l2SnROanJqeEtTNHFkXzdDNk9zUDVWSFJ3V29zS3ZSUjJ0SzNn?oc=5",
    "source": "FBI (.gov)",
    "category": "Weather & Meteorology",
-   "summary": "Operation TorNado Leads to More Than 350 Arrests Across 14 Countries FBI (.gov)",
+   "summary": "Operation TorNado Leads to More Than 350 Arrests Across 14 Countries | Federal Bureau of Investigation FBI (.gov)",
    "published": "2026-11-12T18:41-06:00",
    "tags": [],
    "feed": "Google News major storms",
@@ -1347,6 +1488,19 @@
    "category": "Weather & Meteorology",
    "summary": "Tornado warnings across the Northeast NBC News",
    "published": "2026-11-12T18:39-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Tornado touches down in Delaware as severe storms bring heavy hail to Philly region - Audacy",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNnhuNl9HZ25UVGlWdDBTNk1rdGNWZFdmUUNxZ0h0bWw2YXV0cGVfdk9SQnlySU9nc3RKWlpFdks3R19YV2d1emI1RUJHNEN3U2Q3NTh6QVRZNk1FaFZOek81NDFhMFpTSTViaHNKeWN1SG1kaWxhUnRBSUpDbFRkNlR1aWpGeTh3MWc?oc=5",
+   "source": "Audacy",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado touches down in Delaware as severe storms bring heavy hail to Philly region Audacy",
+   "published": "2026-11-12T18:14-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -1406,19 +1560,6 @@
    "published": "2026-11-12T15:41-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Flash flood warning, tornado watch issued for New Castle County - Delawareonline.com",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRXRneXNHNUZzV2hSRFJ0NkYzVUI5Mm5sLVlELXBGUkItS3hTaDBYUEU0aUVyUzBQdHVWWnNlYTJNZjNqdm5XREF4TzFVQmdURG82a3hSY3lhR2cybmRQTnlIRHgzMHpaU2FVVjJFWkZvbUducmhuN3RxWk5uczJnUjV6dzU0by1SeXBoWDRQTzI1OGZKeVBKLVJsZEVwWFktZE1YMW5GWS1DMGVBY0h4UFduUjVsWEdxUjRYbDQ1SmxvOTB5T2x0MlZodHRZbm9zLVRnNE53?oc=5",
-   "source": "Delawareonline.com",
-   "category": "Weather & Meteorology",
-   "summary": "Flash flood warning, tornado watch issued for New Castle County Delawareonline.com",
-   "published": "2026-11-12T15:40-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1488,6 +1629,19 @@
    "published": "2026-11-12T14:45-06:00",
    "tags": [],
    "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Tornado touches down in New Castle County, Delaware, NWS confirms - FOX 29 Philadelphia",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNDhORUc5VzVCVW9lRi05VGlkby1xS2o1Tm93TU9TN2MweUMyU0VicXJJSWgwdkdIYVFkWnNTQkE1UDRwbHlLWFFOeUFQZlRZNGUwNUMtaHJsRE83UzdUX2tkOUZ3OGtSZzBmU0otek5seE92amEyMXRtU0NPXzZxWk9nakliblhZOUpNYnhIek9GX0lQ?oc=5",
+   "source": "FOX 29 Philadelphia",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado touches down in New Castle County, Delaware, NWS confirms FOX 29 Philadelphia",
+   "published": "2026-11-12T14:18-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1635,19 +1789,6 @@
    "published": "2026-11-12T13:11-06:00",
    "tags": [],
    "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Shetland season 11 cast: who stars in Tosh's final run? - Radio Times",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aMEFDcm52elpmZnNha0lXdENYOU1uWUZBWWFlcmJwOTFvUkdTT0RYalBIYzVIN2d3WVFEck9kZzFxQ212QVJoQWhiQVA2YjBMaS1XbUFRSDhDQjh2VVRnRGw2cndWRjlCUVE4SUJDWmYzZw?oc=5",
-   "source": "Radio Times",
-   "category": "Science Fiction",
-   "summary": "Shetland season 11 cast: who stars in Tosh's final run? Radio Times",
-   "published": "2026-11-12T13:06-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2654,6 +2795,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "‘Doctor Who’s ‘Sherlock’ Replacement Officially Returns for New Release - Collider",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUpJbkh0T2pVQ0ctajl6WmpkMVc5MXZPR0tsOFFZTkE2SzBMS0RGaEM2VVpJS2lSQUpXc01UVTV6RUtadWdqU25Gd1FuREJudHJpUGdoR3hqSGlGUENoRUFoMFhId0F2WURNTmpnalN0Skc2WkNrTlo1N0xZbzNPV1pEU1VLM0o2eHc?oc=5",
+   "source": "Collider",
+   "category": "Science Fiction",
+   "summary": "‘Doctor Who’s ‘Sherlock’ Replacement Officially Returns for New Release Collider",
+   "published": "2026-11-11T09:00-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Cossit House in Sydney, Nova Scotia",
    "link": "https://www.atlasobscura.com/places/cossit-house",
    "source": "Atlas Obscura",
@@ -2773,28 +2927,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Pixel Scroll 11/10/26 Moon Pixel, Written In A File, I’m Scrolling You In Style, Someday…",
-   "link": "https://file770.com/pixel-scroll-11-10-26-moon-pixel/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "(1) ELECTION RESULT CONGRATULATIONS! Kate Ristau, President of SFWA, has been elected a member of the Tigard, Oregon City Council. Here’s the link to Kate’s Facebook announcement. Here’s the Tigard Today’s report as of November 9: “Ristau, Garino, Velásquez lead … Continue reading →",
-   "published": "2026-11-10T20:49-06:00",
-   "tags": [
-    "Pixel Scroll",
-    "censorship",
-    "Chris Garcia",
-    "Claims Department",
-    "Dave Hook",
-    "Edward Gorey",
-    "International Astronomical Union",
-    "Jeremy Zentner"
-   ],
-   "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
    "link": "https://openai.com/index/jiostar-vijay-seshadri",
    "source": "OpenAI News",
@@ -2874,20 +3006,6 @@
    "feed": "Reactor",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "ALMA Reveals a Jet of Cool Gas from a Microquasar",
-   "link": "https://www.universetoday.com/articles/alma-reveals-a-jet-of-cool-gas-from-a-microquasar",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "There's a strange gamma-ray emitter in the Large Magellanic Cloud that has astronomers stumped about its source. It lies within the ashes left behind by a supernova that created a compact object that's part of the system. The supernova remnant provides some evidence for the emissions, but not the whole story.",
-   "published": "2026-11-10T13:39-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/LMC_P3_Within_Remnant_DEM_L241-1024x575_20261110_193137.jpg",
    "summary_from": "feed"
   },
   {
@@ -3167,19 +3285,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "WATCH: Video footage capturing a rare atmospheric phenomenon described as a \"space jellyfish\" illuminated the early morning skies over Puerto Princesa City during monitoring operations amid the PRC Long March 12 rocket launch on November 9, 2026, a - Facebook",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTZ5QXkyQkFVOUR1LUFKY1d2MW5xeWlyRXVvaFpuVXRpOGIzN1VURnp2ek1FSU5YTnBjRzNzbWc1SzJpWDhSamRfTEE0V01ZX05SRG9hT1RIMTcteWVrWE1zMU1QeEM1RGFWUTlHYzlkSlpFMXNnY09GTnVFMTVoRVRjMktaN2VldnVMSDl6UkhWYjJZaS0wRjBJMFZrZ1ZiWm5qbUF6TXZUNlZDZnM3dGxFNkpMNFlwaUwzUnVoX0hfVGFEWDhN?oc=5",
-   "source": "Facebook",
-   "category": "Weather & Meteorology",
-   "summary": "WATCH: Video footage capturing a rare atmospheric phenomenon described as a \"space jellyfish\" illuminated the early morning skies over Puerto Princesa City during monitoring operations amid the PRC Long March 12 rocket launch on November 9, 2026, a Facebook",
-   "published": "2026-11-09T20:37-06:00",
-   "tags": [],
-   "feed": "Google News unusual weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "What Makes You Yourself: Posidonia Australis, Pando, and the Paradox of Personhood",
    "link": "https://www.themarginalian.org/2026/11/09/pando/",
    "source": "The Marginalian",
@@ -3317,19 +3422,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "SOLAR FLARE | Even More Niche and Performative - The Cornell Daily Sun",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWJVTDBpNlVIdnNtVkg3b0o1NVJ6bEdHTnpuZUo3X0VQQm9qVGN3ZGM3b3paOU1iZWZPRVBDSnFSMWRxaEZwM2hiWVpmM2RfQm9zTGxtSVVhdWp0QmotZ3N5Y09oei15VTFjcFIzM2ozelJyT2xvLVF5clg1VTVSSEFLa2dia2ZjZ1VNRGhyeEM?oc=5",
-   "source": "The Cornell Daily Sun",
-   "category": "Space Weather and Aurora",
-   "summary": "SOLAR FLARE | Even More Niche and Performative The Cornell Daily Sun",
-   "published": "2026-11-09T08:07-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Noxious Smoke Hints at Active Volcanoes on Mars",
    "link": "https://skyandtelescope.org/astronomy-news/noxious-smoke-hints-at-active-volcanoes-on-mars/",
    "source": "Sky and Telescope News",
@@ -3357,19 +3449,6 @@
     "Safety"
    ],
    "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "A rare atmospheric phenomenon was observed near the Akademik Vernadsky Station: the sky shimmered with every color - UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMndiOHlZMElHWWg3Qm1IdW0zamR6d0Jjak5tZTZPQjBiUUVaRFBQUEJtN2YtVFVBdFNnRDhLeEJNS0MzN2FSV0dSakZzTTZDQzhGbmE0czRGSmotNXhFMExCMTF6aFZxSngwdG5iWFBxUUkwSEdsMmNUZl9zYzhobmNoSGptbzVkblVSdEtkQ2hfYnB2emNOY3ZJVUNIeWpVdThjYjVVc2VhNllVdWdsa1NPLVo3ZHFwaXFmcU9UY2NEMWstMjFRMnF4MURmN0xfbm82d1QyMGI2aFk?oc=5",
-   "source": "UA.NEWS",
-   "category": "Weather & Meteorology",
-   "summary": "A rare atmospheric phenomenon was observed near the Akademik Vernadsky Station: the sky shimmered with every color UA.NEWS",
-   "published": "2026-11-09T05:22-06:00",
-   "tags": [],
-   "feed": "Google News unusual weather",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3609,19 +3688,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "На Солнце произошла сильная вспышка - TengriNews",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd3h4OW9aTUlFSUJhanJYZG10MUx5ZExOZnlGems5dFJyand5Vlo4SEhuRW9iel9wNUgxOE1rVG11b1pnSE1mX0R2a3BneTFEU1RyZExrOUh6YVVyVmdpT3o5U0syU2ZUT3RHUC1FWUdFZjZzeW91UUJ5aDRCLWJwYXJ5c3dsUQ?oc=5",
-   "source": "TengriNews",
-   "category": "Space Weather and Aurora",
-   "summary": "На Солнце произошла сильная вспышка TengriNews",
-   "published": "2026-11-06T00:01-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "A Farewell to Swift",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
    "source": "NASA Astronomy Picture of the Day",
@@ -3736,27 +3802,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Bring Agentic Coding On-Device with Foundry Local",
-   "link": "https://devblogs.microsoft.com/foundry/foundry-local-agentic-coding-qwen3-8-27b/",
-   "source": "Microsoft Foundry Blog",
-   "category": "AI and Agents",
-   "summary": "Coding agents can dramatically accelerate development—but cloud-only AI assistants can rack up costs, send sensitive context over the wire, and stall the moment your connection drops. Local inference flips that trade-off: your code and your context never leave the machine in front of you. Foundry Local brings agentic coding directly to developer hardware. Run Qwen3.8-27B locally, connect it to GitHub Copilot, and get a responsive coding experience with predictable inference costs, greater privacy, and the freedom to keep working offline. https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/FL_demo.mp4 Foundry Local with Qwen3.8-27B for local coding Qwen3.8-27B is our pr",
-   "published": "2026-11-05T08:00-06:00",
-   "tags": [
-    "Microsoft Foundry",
-    "coding",
-    "Foundry Local",
-    "GitHub Copilot",
-    "Local AI",
-    "on-device"
-   ],
-   "feed": "Microsoft Foundry Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2025/11/cropped-Microsoft-Foundry.2mb-scaled-1.webp",
-   "summary_from": "feed"
-  },
-  {
    "title": "Andrew Phung’s Favorite Calgary Spots",
    "link": "https://www.atlasobscura.com/articles/podcast-andrew-phung-favorite-calgary-spots",
    "source": "Atlas Obscura",
@@ -3768,74 +3813,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/be2Nf_E9f5-4sTWHo5fp5IRaYGIt_5tpAAyiISAdcSc/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wNzIxNmRkOS04/ZjVlLTQ1NWItYjhj/My1lNDYxMjAwMDVm/MTQ5MzJiMjE3NWI2/MjcwOTU1YTdfYTI2/LTA0MTAxOC5qcGc.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Margaret Hamilton, Apollo Software Engineer (1936 – 2026)",
-   "link": "https://skyandtelescope.org/astronomy-news/people-places-and-events/margaret-hamilton-apollo-software-engineer-1936-2026/",
-   "source": "Sky and Telescope News",
-   "category": "Astronomy and Space",
-   "summary": "Hamilton’s code sent humans to the Moon with a “defensive programming” mindset. The post Margaret Hamilton, Apollo Software Engineer (1936 – 2026) appeared first on Sky & Telescope .",
-   "published": "2026-11-05T07:00-06:00",
-   "tags": [
-    "Astronomy & Observing News",
-    "Famous and Noteworthy Astronomers",
-    "People, Places, and Events",
-    "Resources and Education",
-    "Obituaries"
-   ],
-   "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "What’s new in Microsoft Foundry | October 2026",
-   "link": "https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-october-2026/",
-   "source": "Microsoft Foundry Blog",
-   "category": "AI and Agents",
-   "summary": "An agent needs more than a good answer: it needs to finish the task, recover from interruptions, and know when your code should take over. October’s updates address those boundaries. We introduced the Microsoft Copilot harness in public preview , made Browser Automation generally available , and brought the Decisions API to Foundry . The managed harness is preview; long-running resilience for hosted agents is GA. This month’s roundup connects these updates to practical agent workflows, typed decisions, and the SDK changes to check before upgrading. Plan your Microsoft Ignite viewing: November 17-20 Before diving into October’s updates, save your Foundry sessions for Microsoft Ignite, Novembe",
-   "published": "2026-11-05T05:40-06:00",
-   "tags": [
-    "Microsoft Foundry",
-    "What's New",
-    "agents",
-    "Browser Automation",
-    "decisions-api",
-    "Foundry Agent Service",
-    "Foundry Local",
-    "Hosted Agents"
-   ],
-   "feed": "Microsoft Foundry Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/whats-new-october-2026-cover-2.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "NOAA weather modeling hits key milestone with Rapid Refresh Forecast System debut - NOAA (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmdnc0dKd2FmNXA0c0NHUVh1VkVMVS1Uc0lVbDluU3pVSHdMMUdic0JGSENndFMtem5QdzFJcm1VQmFMUS1kOWdPQ241Y2w2cDZtYmthUHVDVlFtNkJrcWZVRTAwX1lBNk5BUHYzeThCYVRfM0RuSmZxZ0JYYlBQUTcxdUlXUDBjVFJCRmx0aG1IblBRN0gxN1o3RU0tWEIwVmMycGZSV1RsLXl6WGQ2Tl9wUDQ3UQ?oc=5",
-   "source": "NOAA (.gov)",
-   "category": "Weather & Meteorology",
-   "summary": "NOAA weather modeling hits key milestone with Rapid Refresh Forecast System debut NOAA (.gov)",
-   "published": "2026-11-05T02:00-06:00",
-   "tags": [],
-   "feed": "Google News severe weather science",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Minnesota DNR celebrates evolving Minnesota Conservation Herd for National Bison Day : Nov 5, 2026 | News release - Minnesota DNR",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSVVYUUlBSWFRZDdpc2xsQVlFYnJqbWpTRVJaMDgzM0k5REhxbktaVUNVNlZYZzB5S2pNTlZXekN4NVBXcXlVdkw1eEFXTjBLdmN0UTlBZjdlTFNPckxPUWUycmFBNmg5YS1xNGx6QXowbHZVWUZQT1pRUjNSb3FOdGNyQ0h0c1U0R1R6M1JLNW03UXIzUHpPcVFHbHlzRWYyMzMzeHJWLWdJNkVGcnB1WFYxclBuMXhDa3ptVkd4clFaQQ?oc=5",
-   "source": "Minnesota DNR",
-   "category": "Minnesota and Nature",
-   "summary": "Minnesota DNR celebrates evolving Minnesota Conservation Herd for National Bison Day : Nov 5, 2026 | News release Minnesota DNR",
-   "published": "2026-11-05T02:00-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
