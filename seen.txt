@@ -57,3 +57,11 @@ https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-
 https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/
 https://www.atlasobscura.com/places/xuan-phong-church
 https://kottke.org/26/11/0049960-solving-the-feynman-resta
+https://www.universetoday.com/articles/navigating-lunar-orbit-using-nothing-but-shadows-and-a-power-meter
+https://hackaday.com/2026/11/15/an-mp3-player-implemented-as-a-factorio-blueprint/
+https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/
+https://hackaday.com/2026/11/15/reverse-engineer-that-usb-device-in-style/
+https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/
+https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/
+https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/
+https://kottke.org/26/11/0049970-was-extensively-modelled-

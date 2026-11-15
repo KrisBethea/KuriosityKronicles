@@ -5,8 +5,111 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 14 Nov 2026 23:55:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 15:39:47 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Navigating Lunar Orbit Using Nothing But Shadows and a Power Meter</title>
+<link>https://www.universetoday.com/articles/navigating-lunar-orbit-using-nothing-but-shadows-and-a-power-meter</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/navigating-lunar-orbit-using-nothing-but-shadows-and-a-power-meter</guid>
+<pubDate>Sun, 15 Nov 2026 09:39:46 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>As deep-space tracking requests surge, finding resourceful, physics-based alternatives to traditional ground networks is a brilliant engineering puzzle.</description>
+<content:encoded><![CDATA[<p><small>from the celestial navigation dept.</small></p>
+<p><em>As deep-space tracking requests surge, finding resourceful, physics-based alternatives to traditional ground networks is a brilliant engineering puzzle.</em></p>
+<p><img src="https://www.universetoday.com/article_images/CAPSTONE_revealed_in_lunar_Sunrise_ACD22-0003-005_20261115_132155.jpg" alt=""></p>
+<p>Researchers propose a clever no-cost method to track deep space spacecraft by analyzing solar array data during orbital eclipses. This approach could help alleviate the heavy tracking load currently facing NASA&#x27;s Deep Space Network.</p>
+<p><a href="https://www.universetoday.com/articles/navigating-lunar-orbit-using-nothing-but-shadows-and-a-power-meter">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>An MP3 Player Implemented as a Factorio Blueprint</title>
+<link>https://hackaday.com/2026/11/15/an-mp3-player-implemented-as-a-factorio-blueprint/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/15/an-mp3-player-implemented-as-a-factorio-blueprint/</guid>
+<pubDate>Sun, 15 Nov 2026 09:38:46 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Combining game automation mechanics with low-level audio signal processing makes for an exceptional engineering hack.</description>
+<content:encoded><![CDATA[<p><small>from the industrial automation dept.</small></p>
+<p><em>Combining game automation mechanics with low-level audio signal processing makes for an exceptional engineering hack.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/factorio-mp3-featured.jpg" alt=""></p>
+<p>A dedicated engineer built a working MP3 player entirely inside the factory simulation game Factorio using in-game speaker elements and procedurally generated blueprints. The project relies on clever audio approximations that mirror Fourier analysis to synthesize complex sounds from basic tones.</p>
+<p><a href="https://hackaday.com/2026/11/15/an-mp3-player-implemented-as-a-factorio-blueprint/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Leonid Meteors Through Orion</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/</link>
+<guid isPermaLink="false">https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/</guid>
+<pubDate>Sun, 15 Nov 2026 09:37:46 -0600</pubDate>
+<category>Astrophotography</category>
+<description>Capturing transient meteors against iconic constellations provides a stunning window into amateur observing techniques.</description>
+<content:encoded><![CDATA[<p><small>from the deep-sky imaging dept.</small></p>
+<p><em>Capturing transient meteors against iconic constellations provides a stunning window into amateur observing techniques.</em></p>
+<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Leonids2022_Hongyang_2880.jpg" alt=""></p>
+<p>An astrophotography capture highlights Leonid meteors streaking past the constellation Orion against a dark night sky. Professional astronomers note that capturing unpredictable meteor showers requires patience, wide-field observation, and dark-sky conditions.</p>
+<p><a href="https://science.nasa.gov/image-article/apod-2026-november-15-leonid-meteors-through-orion/">Read it</a> · Astrophotography · NASA Astronomy Picture of the Day</p>]]></content:encoded>
+</item>
+<item>
+<title>Reverse Engineer that USB Device in Style with usb-rea</title>
+<link>https://hackaday.com/2026/11/15/reverse-engineer-that-usb-device-in-style/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/15/reverse-engineer-that-usb-device-in-style/</guid>
+<pubDate>Sun, 15 Nov 2026 09:36:46 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Reverse engineering undocumented hardware peripherals is a classic hacker rite of passage, and streamlined tooling is always welcome.</description>
+<content:encoded><![CDATA[<p><small>from the protocol sniffing dept.</small></p>
+<p><em>Reverse engineering undocumented hardware peripherals is a classic hacker rite of passage, and streamlined tooling is always welcome.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2024/04/usb-featured.jpg" alt=""></p>
+<p>A new tool called usb-rea aims to simplify the painful process of snooping on proprietary USB device transactions. By correlating user actions with recorded traffic timestamps, the utility outputs drivers, Wireshark protocol dissectors, and even MCP files for bot-driven workflows.</p>
+<p><a href="https://hackaday.com/2026/11/15/reverse-engineer-that-usb-device-in-style/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Bringing a Cloud-Based Hydroponic Monitor Home with ESPHome</title>
+<link>https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/</guid>
+<pubDate>Sun, 15 Nov 2026 09:35:46 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Rescuing useful measurement gear from mandatory cloud dependencies is a masterclass in pragmatic home automation.</description>
+<content:encoded><![CDATA[<p><small>from the local-first telemetry dept.</small></p>
+<p><em>Rescuing useful measurement gear from mandatory cloud dependencies is a masterclass in pragmatic home automation.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/05-feather-installed-banner.png" alt=""></p>
+<p>Tired of a commercial hydroponic monitor requiring an active internet connection, a hardware hacker swapped out the factory wireless board for an ESP32-S3 Feather running ESPHome. The modification routes all sensor telemetry directly to a local Home Assistant instance.</p>
+<p><a href="https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>DIVINER: Occult Synth Firmware for the Cardputer</title>
+<link>https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/</guid>
+<pubDate>Sun, 15 Nov 2026 09:34:46 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Pushing tiny microcontrollers to handle everything from sound synthesis to wireless scanning showcases the sheer versatility of the ESP32 ecosystem.</description>
+<content:encoded><![CDATA[<p><small>from the pocket-sized synthesizer dept.</small></p>
+<p><em>Pushing tiny microcontrollers to handle everything from sound synthesis to wireless scanning showcases the sheer versatility of the ESP32 ecosystem.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/8459231792676999283.png" alt=""></p>
+<p>DIVINER is a sprawling firmware package for the M5 Cardputer that turns the tiny ESP32-S3 development kit into an audio synthesizer, sequencer, Wi-Fi scanner, and LLM interface. It wraps these disparate capabilities in a Diablo-inspired visual style complete with presence detection.</p>
+<p><a href="https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Warm Analog DSP on the ESP32</title>
+<link>https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/</guid>
+<pubDate>Sun, 15 Nov 2026 09:33:46 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Simulating the quirks of analog tube circuitry on a modest microcontroller bridges vintage aesthetics with modern DSP ingenuity.</description>
+<content:encoded><![CDATA[<p><small>from the tube-emulation dept.</small></p>
+<p><em>Simulating the quirks of analog tube circuitry on a modest microcontroller bridges vintage aesthetics with modern DSP ingenuity.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/9847301794483913575.jpg" alt=""></p>
+<p>An audio hacker implemented a tube-sound processor on an ESP32 paired with a WM8960 codec, housed in a Tektronix-inspired workbench case. The software mimics the nonlinear distortion and slow transient response of vacuum tubes via digital signal processing.</p>
+<p><a href="https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Modeling the Bond Film's Corkscrew Car Jump with Leonhard Euler's Equations</title>
+<link>https://kottke.org/26/11/0049970-was-extensively-modelled-</link>
+<guid isPermaLink="false">https://kottke.org/26/11/0049970-was-extensively-modelled-</guid>
+<pubDate>Sun, 15 Nov 2026 09:32:46 -0600</pubDate>
+<category>Wildcard</category>
+<description>Using historical mathematical frameworks to solve early computer-simulation challenges is a delightful collision of math and movie history.</description>
+<content:encoded><![CDATA[<p><small>from the cinematic physics dept.</small></p>
+<p><em>Using historical mathematical frameworks to solve early computer-simulation challenges is a delightful collision of math and movie history.</em></p>
+<p>Long before modern CGI, the iconic corkscrew car stunt from The Man With The Golden Gun was meticulously simulated on a computer in 1974 using the mathematical equations of 18th-century mathematician Leonhard Euler.</p>
+<p><a href="https://kottke.org/26/11/0049970-was-extensively-modelled-">Read it</a> · Wildcard · Kottke</p>]]></content:encoded>
+</item>
 <item>
 <title>SpaceX Catches Starship From Orbit for First Time</title>
 <link>https://www.universetoday.com/articles/baby-shes-back-spacex-catches-a-starship-from-orbit-for-first-time</link>
