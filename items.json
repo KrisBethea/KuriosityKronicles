@@ -1,5 +1,76 @@
 [
   {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/10/weic2620a.jpg?w=1280&h=1194&fit=clip&crop=faces%2Cfocalpoint",
+    "title": "Webb Captures Stellar Jets and Star Formation in NGC 7129",
+    "category": "Astronomy and Space",
+    "dept": "from the stellar nursery dept.",
+    "reasoning": "The James Webb Space Telescope continues to deliver breathtaking infrared imagery of star-forming regions. This detailed look at NGC 7129 illustrates how gravity and energetic stellar jets interact during the birth of new stars.",
+    "summary": "Using its infrared instruments, NASA's James Webb Space Telescope has captured a detailed image of the star-forming region NGC 7129, highlighting the complex processes of gas compression and stellar jets.",
+    "added": "2026-11-16T16:29:46-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/16/new-super-magnets-turbocharge-the-large-hadron-collider/",
+    "link": "https://hackaday.com/2026/11/16/new-super-magnets-turbocharge-the-large-hadron-collider/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/nb2sn_superconducting_magnets_LHC_bermudez_et_al_2026.jpg",
+    "title": "New Superconducting Magnets Upgrade the Large Hadron Collider",
+    "category": "DotNet and Development",
+    "dept": "from the high-energy hardware dept.",
+    "reasoning": "Upgrading particle accelerators requires overcoming immense materials-science hurdles, such as handling brittle niobium-tin conductors. It is a fascinating look at the engineering required to push the Large Hadron Collider past 12 Tesla.",
+    "summary": "As part of its ongoing high-luminosity upgrade phase, the Large Hadron Collider is incorporating advanced niobium-tin superconducting magnets that significantly increase magnetic field strength compared to previous designs.",
+    "added": "2026-11-16T16:28:46-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/15/its-a-nas-for-sony-mavica-disks/",
+    "link": "https://hackaday.com/2026/11/15/its-a-nas-for-sony-mavica-disks/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/mavica-nas-featured.jpg",
+    "title": "Building a Network-Attached Storage Device for Sony Mavica Floppy Disks",
+    "category": "DotNet and Development",
+    "dept": "from the retro storage dept.",
+    "reasoning": "Combining vintage Sony Mavica digital cameras that used 3.5-inch floppies with modern dual-processor architectures is peak hacker ingenuity. This project cleverly bridges eras with Greaseweazle and ESP32 hardware.",
+    "summary": "A clever hardware hacker has built a dedicated network-attached storage device for vintage Sony Mavica digital cameras, using an RP2354 to read floppy disks and an ESP32-S3 to serve the files over a web interface.",
+    "added": "2026-11-16T16:27:46-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/16/follow-the-grid-with-an-arduino-uno/",
+    "link": "https://hackaday.com/2026/11/16/follow-the-grid-with-an-arduino-uno/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/grid-monitor-featured.jpg",
+    "title": "Monitoring AC Power Grid Frequency with an Arduino Uno",
+    "category": "DotNet and Development",
+    "dept": "from the mains frequency dept.",
+    "reasoning": "Tracking power grid frequency drift provides a tangible, low-level look at real-world electrical infrastructure. Using an optocoupler and an Arduino to log years of grid data in just bytes is wonderfully resourceful.",
+    "summary": "An engineer has built a safe, low-cost mains frequency monitor using an Arduino Uno and an optocoupler to track long-term grid stability and frequency drift across interconnected power networks.",
+    "added": "2026-11-16T16:26:46-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+    "source": "NASA Astronomy Picture of the Day",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg",
+    "title": "Moon, Venus, and Spica Form a Conjunction in the Night Sky",
+    "category": "Astrophotography",
+    "dept": "from the wandering star dept.",
+    "reasoning": "Conjunctions offer accessible, beautiful targets for night-sky observers and astrophotographers. This APOD feature highlights the celestial mechanics of wandering planets meeting bright background stars.",
+    "summary": "A recent Astronomy Picture of the Day captures a close conjunction of the Moon, Venus, and the bright star Spica, showcasing the visual movement of planets against fixed background stars.",
+    "added": "2026-11-16T16:25:46-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjZ3Y3dZMVctOHZRd1prZnNPczAwVDAwUlNpZDVoTVd0OGNWWlNKTEE5QVBjM3pmTDB6T3N0QThHTDY3V3A1c2tjVVZsR1Nod0hGbS10QnB5R1NIbGJDRDhuZllEVHZfQWIxWWNhS1JSUklvbE9OTXFtVzFMQmM4VWNzNTdlYWFXajdYQ0hTazlESkxrMHJYRXkwVDdjUzQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjZ3Y3dZMVctOHZRd1prZnNPczAwVDAwUlNpZDVoTVd0OGNWWlNKTEE5QVBjM3pmTDB6T3N0QThHTDY3V3A1c2tjVVZsR1Nod0hGbS10QnB5R1NIbGJDRDhuZllEVHZfQWIxWWNhS1JSUklvbE9OTXFtVzFMQmM4VWNzNTdlYWFXajdYQ0hTazlESkxrMHJYRXkwVDdjUzQ?oc=5",
+    "source": "RTL Today",
+    "title": "Rare Fogbow Photographed in Kayl",
+    "category": "Weather & Meteorology",
+    "dept": "from the atmospheric optics dept.",
+    "reasoning": "Atmospheric optical phenomena like fogbows provide a stunning reminder of light physics at work in everyday weather. They are rarer and more ethereal cousins of traditional rainbows worth noting.",
+    "summary": "Observers recently spotted and photographed a rare fogbow, often called a white rainbow, formed by the diffraction of light through tiny water droplets in fog rather than larger raindrops.",
+    "added": "2026-11-16T16:24:46-06:00"
+  },
+  {
     "id": "https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/",
     "link": "https://hackaday.com/2026/11/15/loop-antennas-for-transmitting/",
     "source": "Hackaday",
