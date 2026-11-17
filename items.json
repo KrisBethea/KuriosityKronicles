@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "title": "Milky Way versus Aurora in a Dazzling Night Sky Display",
+    "category": "Astronomy and Space",
+    "dept": "from the celestial optics dept.",
+    "reasoning": "This Astronomy Picture of the Day captures a striking visual juxtaposition between the ancient galactic band of the Milky Way and a vibrant auroral ribbon. It highlights the beauty of night-sky phenomena without requiring complex gear or falling into hype. It's a clean, gorgeous reminder of what lies just beyond our atmosphere.",
+    "summary": "An Astronomy Picture of the Day feature highlights a stunning night sky view where the central arch of our Milky Way appears alongside a glowing auroral ribbon. The image demonstrates the dramatic interplay between distant galactic structures and localized atmospheric light shows.",
+    "added": "2026-11-17T15:19:17-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/this-rare-binary-star-emits-radio-pulses-every-few-minutes-will-it-eventually-explode",
+    "link": "https://www.universetoday.com/articles/this-rare-binary-star-emits-radio-pulses-every-few-minutes-will-it-eventually-explode",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/for-web-LPT_HD_Still_3_20261116_174421.jpg",
+    "title": "Rare Binary Star Emits Radio Pulses Every Few Minutes",
+    "category": "Astronomy and Space",
+    "dept": "from the stellar remnants dept.",
+    "reasoning": "Long Period Radio Transients are fascinating objects, and this discovery helps astronomers narrow down the progenitors for Type Ia supernovae. It provides a solid astrophysical puzzle about a white dwarf paired with a main-sequence star rather than the usual red dwarf. It hits all the right notes for deep space discovery and empirical observation.",
+    "summary": "Astronomers have found a Long Period Radio Transient roughly 5,000 light-years away consisting of a white dwarf and a main-sequence star. While the exact source of the periodic radio pulses remains uncertain, the discovery helps researchers understand potential progenitors for Type Ia supernova explosions.",
+    "added": "2026-11-17T15:18:17-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/17/a-3d-printed-pixel-clock-with-a-twist/",
+    "link": "https://hackaday.com/2026/11/17/a-3d-printed-pixel-clock-with-a-twist/",
+    "source": "Hackaday",
+    "title": "Weaving a 3D Printed Pixel Clock Without Tedious Jumper Wires",
+    "category": "DotNet and Development",
+    "dept": "from the hardware hacking dept.",
+    "reasoning": "Hardware hackers love addressable LEDs, but the wiring and soldering can become tedious very quickly. This creative pixel clock project solves that mechanical bottleneck by weaving a continuous strip directly through a 3D-printed enclosure. It is a clever engineering shortcut that makes builds more accessible.",
+    "summary": "A newly designed 3D printed pixel clock lets makers build a 7-by-19 display by carefully weaving a continuous 2.5-meter addressable LED strip through the frame. This clever mechanical approach eliminates the need for tedious manual jumper wiring or individual soldering.",
+    "added": "2026-11-17T15:17:17-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/16/water-in-the-ancient-desert/",
+    "link": "https://hackaday.com/2026/11/16/water-in-the-ancient-desert/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/The-Greatest-Empire-was-built-on-This-Secret.-0-5-20.jpeg",
+    "title": "Water in the Ancient Iranian Desert Through Ingenious Qanat Tunnels",
+    "category": "DotNet and Development",
+    "dept": "from the hydraulic history dept.",
+    "reasoning": "Ancient engineering achievements like the Persian qanat system offer incredible insights into how civilizations solved massive logistical problems long before modern tools. Examining how mathematicians like Al-Karaji documented these subterranean aqueducts is a wonderful look at historical resource management.",
+    "summary": "Constructed across the arid Iranian Plateau, an extensive network of underground tunnels known as qanats allowed ancient civilizations to thrive by tapping mountain water sources. Guided by historical treatises like those of mathematician Al-Karaji, workers dug thousands of vertical shafts and gentle subterranean channels to bring water safely to the surface.",
+    "added": "2026-11-17T15:16:17-06:00"
+  },
+  {
+    "id": "https://reactormag.com/i-quickly-became-obsessed-with-my-slime-mold-characters-a-conversation-with-annalee-newitz/",
+    "link": "https://reactormag.com/i-quickly-became-obsessed-with-my-slime-mold-characters-a-conversation-with-annalee-newitz/",
+    "source": "Reactor",
+    "image": "https://reactormag.com/wp-content/uploads/2026/11/A-Wall-Is-Also-A-Road-Annalee-Newitz-740x411.png",
+    "title": "Annalee Newitz Discusses Slime Mold Characters and Novel Writing",
+    "category": "Science Fiction",
+    "dept": "from the speculative biology dept.",
+    "reasoning": "Annalee Newitz always brings a thoughtful, grounded perspective to science fiction storytelling. Hearing an author talk about becoming obsessed with slime mold characters offers a fun glimpse into the mechanics of world-building and speculative craft.",
+    "summary": "In an interview discussing their novel A Wall Is Also A Road, author Annalee Newitz dives into the creative process behind writing unusual science fiction characters. The conversation explores how a background in journalism and nonfiction helps inform inventive speculative futures.",
+    "added": "2026-11-17T15:15:17-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdVYyNDlkai16alhEWWdkT3RqQ3lHWXhkSmU1Zjdaa0JTdVlMcFl0MVVwRV9aMDdJSndsM1FhVlpBNnBpSWZ6b05pWUNrR3lyU0xkMTAwcTJ4MGVkU3pxZFBpVkZ0MVNzdW9WNFkydGZ3bTBGbDNxVzlud1kyR242V1o3UlUwNEN0OWVMWlhqU2hNb3R6LVpKaHJCeGhoM2dOU3A2QkhjeEdIdjI5cTB6ZdIBuAFBVV95cUxNcGhPRU1oYy1VVk1hR0ZwUGhvbGtLaUxtMXhNNUdaVXRxN0ZxWFROM2FtWVBOQnNqaVNvTnU2V2tHekg1aGZ1UDFkMkZiWXRGWmJCTWxiTWs3SVFDZUpYbk1jMngyRzJlMVlSX3lyM0NoM0lvNmpaU1ZpM0o5eTVMWlVrZENXcklSUmJiUDNBLWx1MUJ5QTZuT1I2eElSUDg1WW1uWHdodEw4VTE3b3ZPaGw0R0kzSHZR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdVYyNDlkai16alhEWWdkT3RqQ3lHWXhkSmU1Zjdaa0JTdVlMcFl0MVVwRV9aMDdJSndsM1FhVlpBNnBpSWZ6b05pWUNrR3lyU0xkMTAwcTJ4MGVkU3pxZFBpVkZ0MVNzdW9WNFkydGZ3bTBGbDNxVzlud1kyR242V1o3UlUwNEN0OWVMWlhqU2hNb3R6LVpKaHJCeGhoM2dOU3A2QkhjeEdIdjI5cTB6ZdIBuAFBVV95cUxNcGhPRU1oYy1VVk1hR0ZwUGhvbGtLaUxtMXhNNUdaVXRxN0ZxWFROM2FtWVBOQnNqaVNvTnU2V2tHekg1aGZ1UDFkMkZiWXRGWmJCTWxiTWs3SVFDZUpYbk1jMngyRzJlMVlSX3lyM0NoM0lvNmpaU1ZpM0o5eTVMWlVrZENXcklSUmJiUDNBLWx1MUJ5QTZuT1I2eElSUDg1WW1uWHdodEw4VTE3b3ZPaGw0R0kzSHZR?oc=5",
+    "source": "NBC Bay Area",
+    "title": "Rare Atmospheric River and Waterspouts Strike the San Francisco Bay Area",
+    "category": "Weather & Meteorology",
+    "dept": "from the atmospheric dynamics dept.",
+    "reasoning": "Severe weather events like atmospheric rivers and rare California waterspouts make for compelling meteorological study without straying into routine daily forecasts. It documents unusual atmospheric instability and radar-tracked storm cells hitting the coast.",
+    "summary": "A potent atmospheric river system brought rare severe weather to Northern California, triggering tornado warnings in Santa Cruz County and spawning twin waterspouts over San Francisco Bay. The unusual storm highlighted intense localized atmospheric instability along the West Coast.",
+    "added": "2026-11-17T15:14:17-06:00"
+  },
+  {
     "id": "https://skyandtelescope.org/astronomy-news/voyager-1s-linda-spilker-on-the-light-day-milestone/",
     "link": "https://skyandtelescope.org/astronomy-news/voyager-1s-linda-spilker-on-the-light-day-milestone/",
     "source": "Sky and Telescope News",
