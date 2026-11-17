@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://skyandtelescope.org/astronomy-news/voyager-1s-linda-spilker-on-the-light-day-milestone/",
+    "link": "https://skyandtelescope.org/astronomy-news/voyager-1s-linda-spilker-on-the-light-day-milestone/",
+    "source": "Sky and Telescope News",
+    "title": "Voyager 1 Reaches a Milestone of One Light-Day From Earth",
+    "category": "Astronomy and Space",
+    "dept": "from the deep-space telemetry dept.",
+    "reasoning": "Voyager Project Scientist Linda Spilker shares updates on the iconic probe as it achieves a staggering distance of one light-day from Earth. It's a wonderful reminder of the sheer scale of human engineering and exploration.",
+    "summary": "Project Scientist Linda Spilker discusses the latest updates from the Voyager probes, highlighting the milestone moment as Voyager 1 reaches a distance of one light-day from Earth.",
+    "added": "2026-11-17T07:27:33-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/17/newer-rigol-scopes-get-a-custom-linux-firmware/",
+    "link": "https://hackaday.com/2026/11/17/newer-rigol-scopes-get-a-custom-linux-firmware/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/pane-spectrum.png",
+    "title": "Newer Rigol Scopes Get a Custom Linux Firmware Layer",
+    "category": "DotNet and Development",
+    "dept": "from the benchtop hacking dept.",
+    "reasoning": "Open-operating-system firmware projects for modern test equipment give hardware hackers vastly more control without destroying factory safety nets. Running dual operating systems off an SD card is a brilliant hack for electronics labs.",
+    "summary": "A developer has created a custom Open Operating System firmware for DHO series Rigol oscilloscopes that runs alongside the factory OS via the built-in SD card, offering deeper user control.",
+    "added": "2026-11-17T07:26:33-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/galaxy-outflows-likely-regulate-star-formation-at-cosmic-noon-nasas-webb-reveals",
+    "link": "https://www.universetoday.com/articles/galaxy-outflows-likely-regulate-star-formation-at-cosmic-noon-nasas-webb-reveals",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/NGC_4414_NASA-med_20261117_095611.jpg",
+    "title": "Webb Reveals Galaxy Outflows Regulate Star Formation at Cosmic Noon",
+    "category": "Astronomy and Space",
+    "dept": "from the galactic feedback dept.",
+    "reasoning": "NASA's James Webb Space Telescope continues to unravel the mysteries of galaxy evolution by examining massive gaseous outflows. Understanding these mechanisms helps explain how galaxies regulate star formation during peak cosmic epochs.",
+    "summary": "NASA's Webb telescope reveals that massive gaseous outflows play a crucial role in regulating star formation and ultimate habitability in galaxies during the era of cosmic noon.",
+    "added": "2026-11-17T07:25:33-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/16/cant-get-the-right-cassette-mechanism-have-a-go-at-making-your-own/",
+    "link": "https://hackaday.com/2026/11/16/cant-get-the-right-cassette-mechanism-have-a-go-at-making-your-own/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/cassette-deck-featured.jpg",
+    "title": "Building a Custom Cassette Mechanism From Scratch",
+    "category": "DotNet and Development",
+    "dept": "from the retro-engineering dept.",
+    "reasoning": "When off-the-shelf parts disappear, passionate makers design their own mechanical chassis and custom controllers. Using PCB substrates, brushless motors, and an optical mouse sensor for tape speed is an extraordinary mechanical engineering feat.",
+    "summary": "Maker Svofski is designing a custom cassette mechanism entirely from scratch using PCB chassis, dual brushless motors, and an optical mouse sensor to monitor tape speed for data storage.",
+    "added": "2026-11-17T07:24:33-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26804/PIA26804.jpg?w=1536&h=1536&fit=clip",
+    "title": "A Visual History of 49 Drill Holes by Curiosity on Mars",
+    "category": "Astronomy and Space",
+    "dept": "from the martian core samples dept.",
+    "reasoning": "Seeing the cumulative progress of robotic planetary exploration in a single image is always inspiring. This collage of drill holes highlights years of careful chemical analysis on the Martian surface.",
+    "summary": "A new collage from NASA showcases 49 distinct drill holes created by the Curiosity Mars rover as it gathers pulverized rock samples for onboard compositional analysis.",
+    "added": "2026-11-17T07:23:33-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTW9OWHZ4Y0ZNNzRIR25pNG95WkxqZmg2WjlOWDFYbTcydkUxV2ZhNllnQW42eG5SUFFHc1FtY2lJWVo5c3pmUUtqcFpRNTVtenFTQjdWd3dRMS1iWXFHdEpzSVhEOXFyd09pNFlsbTZmeTZoTEc1NlRLUGhGdy1YRw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTW9OWHZ4Y0ZNNzRIR25pNG95WkxqZmg2WjlOWDFYbTcydkUxV2ZhNllnQW42eG5SUFFHc1FtY2lJWVo5c3pmUUtqcFpRNTVtenFTQjdWd3dRMS1iWXFHdEpzSVhEOXFyd09pNFlsbTZmeTZoTEc1NlRLUGhGdy1YRw?oc=5",
+    "source": "San Francisco Chronicle",
+    "title": "Rare Twin Waterspouts Form Over San Francisco Bay",
+    "category": "Weather & Meteorology",
+    "dept": "from the atmospheric phenomena dept.",
+    "reasoning": "Atmospheric river storms delivering rare and dramatic severe weather along the West Coast make for fascinating meteorological observation. Capturing simultaneous waterspouts over San Francisco Bay highlights the chaotic beauty of these events.",
+    "summary": "Recent severe storms sweeping through Northern California spawned rare twin waterspouts over the San Francisco Bay, caught clearly on video during an active atmospheric river.",
+    "added": "2026-11-17T07:22:33-06:00"
+  },
+  {
     "id": "https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers",
     "link": "https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers",
     "source": "Universe Today",
