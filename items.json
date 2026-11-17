@@ -1,5 +1,88 @@
 [
   {
+    "id": "https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers",
+    "link": "https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/noirlab2628a_20261116_195920.jpg",
+    "title": "A Supernova 50 Million Light-Years Away Gives Astronomers a Close-Up Show",
+    "category": "Astronomy and Space",
+    "dept": "from the standard candle dept.",
+    "reasoning": "A nearby Type Ia supernova provides astronomers with an ideal laboratory for detailed follow-up observations as its light fades over time. Because these stellar explosions serve as standard candles in cosmology, catching one relatively close by helps refine our understanding of cosmic distances.",
+    "summary": "A newly detected Type Ia supernova in a spiral galaxy about 50 million light-years away is close enough for astronomers and astrophotographers to track its fading light. The explosion of this white dwarf offers valuable data for refining distance measurements across the cosmos.",
+    "added": "2026-11-16T20:56:41-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+    "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg?w=1588&h=1200&fit=clip",
+    "title": "Perseverance Rover Captures Ghostly, Silica-Rich Rocks at 'Idubi' on Mars",
+    "category": "Astronomy and Space",
+    "dept": "from the pale red dot dept.",
+    "reasoning": "Mars rover updates continue to provide tangible evidence of ancient aqueous environments through high-resolution imagery and local geological sampling. Studying features like the silica-rich rocks in the Idubi area helps reconstruct the planet's watery past.",
+    "summary": "NASA's Perseverance rover used its Mastcam-Z camera to photograph bright, silica-rich rocks within the ancient Martian crust outside Jezero crater. These formations serve as lingering reminders of ancient aqueous systems that once shaped the landscape.",
+    "added": "2026-11-16T20:55:41-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXpzeFF4Uk1vT0tpdWZRa3FIei1qRnJ1UkxzMUdzSGxqTjdIbzBRNUVEaHNaMGNIcWhOT2p2bWlWeldZYnFjb3U1Q090ekFwek11MkZIcE02cW42eEZ0SmF3RW5DQWJDVi04NDhTdzF4VUUwekhVdTNqM1ZfeUFsZEQ5dm03bG9SZWdJZGg2QmZodw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXpzeFF4Uk1vT0tpdWZRa3FIei1qRnJ1UkxzMUdzSGxqTjdIbzBRNUVEaHNaMGNIcWhOT2p2bWlWeldZYnFjb3U1Q090ekFwek11MkZIcE02cW42eEZ0SmF3RW5DQWJDVi04NDhTdzF4VUUwekhVdTNqM1ZfeUFsZEQ5dm03bG9SZWdJZGg2QmZodw?oc=5",
+    "source": "The Watchers - Watching the world evolve and transform",
+    "title": "NOAA Forecasts Kp 4.67 as G1 Geomagnetic Storm Watch Remains Active",
+    "category": "Space Weather and Aurora",
+    "dept": "from the solar wind dept.",
+    "reasoning": "Space weather tracking provides essential situational awareness for high-latitude operations and potential aurora displays without resorting to exaggerated claims. Keeping tabs on NOAA forecasts helps observers anticipate shifts in the magnetosphere.",
+    "summary": "NOAA maintained a G1 geomagnetic storm watch while forecasting Kp index levels reaching 4.67. The conditions offer favorable opportunities for high-latitude skywatchers to spot aurora activity.",
+    "added": "2026-11-16T20:54:41-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/16/binocular-chair-lets-you-stargaze-in-comfort/",
+    "link": "https://hackaday.com/2026/11/16/binocular-chair-lets-you-stargaze-in-comfort/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/Binocular-Chair-Milky-Way-Lounge-thumb-wide.jpg",
+    "title": "A Zero-Gravity Binocular Chair Makes Long Nights of Stargazing Comfortable",
+    "category": "DotNet and Development",
+    "dept": "from the workshop bench dept.",
+    "reasoning": "Practical equipment hacks that solve real observational fatigue are always welcome in amateur astronomy and DIY hardware circles. This motorized zero-gravity chair build provides a clever way to keep binoculars trained on the zenith without straining your arms.",
+    "summary": "Maker Dave Selinger designed a portable zero-gravity lounge chair outfitted with a bearing-mounted base and binocular-holding apparatus. The setup allows observers to scan the night sky comfortably from various angles while locking altitude and azimuth.",
+    "added": "2026-11-16T20:53:41-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/16/esp32-wifi-jam-detector-finds-the-raspberry/",
+    "link": "https://hackaday.com/2026/11/16/esp32-wifi-jam-detector-finds-the-raspberry/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/wifi-jam.png",
+    "title": "ESP32-Powered Wi-Fi Interference Detector Categories Stray Signals",
+    "category": "DotNet and Development",
+    "dept": "from the radio spectrum dept.",
+    "reasoning": "Hardware projects utilizing software-defined radio techniques to analyze local RF environments offer a fun intersection of microcontrollers and wireless engineering. Categorizing noise types makes troubleshooting interference both educational and practical.",
+    "summary": "An open-source project built around an ESP32-C5 microcontroller uses software-defined radio to scan 2.4GHz and 5GHz Wi-Fi bands for interference. The portable device can classify detected noise into four distinct patterns, helping users distinguish between leaky appliances and external signals.",
+    "added": "2026-11-16T20:52:41-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+    "link": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-last-ice-on-puncak-jaya/puncakjaya_tm5_1988308.jpg",
+    "title": "Satellite Images Show the Rapid Disappearance of Tropical Glacial Ice on Puncak Jaya",
+    "category": "Minnesota and Nature",
+    "dept": "from the orbital vantage dept.",
+    "reasoning": "Satellite imagery comparisons provide striking, undeniable evidence of long-term environmental changes across rare glacial formations. Observing these shifts from orbit highlights the vulnerability of high-altitude ice fields.",
+    "summary": "Side-by-side false-color satellite images captured by Landsat missions in 1988 and 2026 reveal the dramatic retreat of glacial ice on Indonesia's Puncak Jaya. Only a few small fragments of blue ice remain where extensive ridgetops were once capped frozen.",
+    "added": "2026-11-16T20:51:41-06:00"
+  },
+  {
+    "id": "https://reactormag.com/we-finally-know-when-we-can-watch-3-body-problem-season-2/",
+    "link": "https://reactormag.com/we-finally-know-when-we-can-watch-3-body-problem-season-2/",
+    "source": "Reactor",
+    "image": "https://reactormag.com/wp-content/uploads/2024/08/3BP_105_Unit_00876RC-740x493.jpg",
+    "title": "Netflix Sets Early 2027 Premiere for Season 2 of '3 Body Problem'",
+    "category": "Science Fiction",
+    "dept": "from the dark forest dept.",
+    "reasoning": "Clear scheduling news for ambitious science fiction adaptations gives fans a reliable horizon for upcoming storytelling. It is helpful to track production timelines without getting bogged down in industry gossip.",
+    "summary": "Netflix confirmed that the second season of its television adaptation of Liu Cixin's novels will arrive early next year. The upcoming episodes continue the complex narrative established in the first season.",
+    "added": "2026-11-16T20:50:41-06:00"
+  },
+  {
     "id": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
     "link": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
     "source": "NASA News",
