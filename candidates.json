@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-17T17:30-06:00",
- "count": 278,
+ "generated": "2026-11-18T01:28-06:00",
+ "count": 257,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -70,12 +70,12 @@
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 5,
-   "entries": 69,
+   "entries": 66,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 63,
+   "old": 60,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
@@ -83,12 +83,12 @@
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 5,
-   "entries": 45,
+   "entries": 44,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 40,
+   "old": 39,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -120,8 +120,8 @@
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 19,
-   "seen_or_dup": 11,
+   "old": 18,
+   "seen_or_dup": 12,
    "no_title_or_link": 0
   },
   "Astrophotography | Sky and Telescope Observing": {
@@ -134,12 +134,12 @@
    "url": "https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 3,
-   "entries": 14,
+   "entries": 17,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 11,
+   "old": 14,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -166,7 +166,7 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Weather & Meteorology | Google News Minnesota and Midwest weather": {
@@ -237,14 +237,14 @@
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 5,
+   "kept": 7,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 2,
+   "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
@@ -289,8 +289,8 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 16,
-   "entries": 66,
+   "kept": 13,
+   "entries": 63,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -329,7 +329,7 @@
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 20,
-   "entries": 77,
+   "entries": 76,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -355,12 +355,12 @@
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 11,
-   "entries": 31,
+   "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 20,
+   "old": 19,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -418,19 +418,289 @@
   },
   "Wildcard | Kottke": {
    "url": "https://feeds.kottke.org/main",
-   "ok": true,
-   "kept": 20,
-   "entries": 60,
-   "dropped_rust": 0,
-   "dropped_drama": 0,
-   "skipped": 0,
-   "held": 0,
-   "old": 0,
-   "seen_or_dup": 0,
-   "no_title_or_link": 0
+   "ok": false,
+   "error": "network: [Errno 101] Network is unreachable",
+   "kept": 0
   }
  },
  "items": [
+  {
+   "title": "Linux in a Browser Tab",
+   "link": "https://hackaday.com/2026/11/17/linux-in-a-browser-tab/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Linux was once distributed on CDs and DVDs stuck to the front of computer magazines. Now, technology has advanced to the point where you can simply run a Linux kernel right in your browser. That’s precisely what you get with Unkernel from [pithings]. Unkernel is described as “Linux 7.x built as a single wasm module with an MMU.” Yes, thanks to the magic of WebAssembly, you can run Linux in a browser tab at a decent fraction of native speed. All the proper kernel stuff—like syscalls, the scheduler, memory management, file systems, and networking—is compiled code. User programs are then emulated with a just-in-time compiler, so you can run Ubuntu and Alpine packages without any fuss. You get a shell, package manager, persistent storage, sound, and internet access out of the box. It’s basically a whole Linux computer sitting in a single browser tab for your convenience. It’s generally not as fast as running the kernel natively, but where you need a little Linux on the go, it should come in clutch. We’ve discussed Linux showing up in weird places quite recently If you’re sticking kernels where they’re not expected, be sure to let us know on the tipsline. Linux was once distributed on CDs and DVDs stuck to the front of computer magazines. Hey, I do remember that time. Back then, late 90s/early 2000s, Caldera DOS was given out for free on a single micro floppy disk! ;) Btw, here in Germany, computer magazines with DVDs as cover discs are still common to this very day! :D (Flash media are too costly and unreliable on a long term here) I’m pretty sure these DVDs do still contain Linux Live systems if Linux is the topic! :) So I think it really makes sense to keep using ISO files with ISO9660+Joliet or UDF filesystem. And optical drives, too. Long live the past. :) Please be kin",
+   "published": "2026-11-18T00:00-06:00",
+   "tags": [
+    "Linux Hacks",
+    "linux",
+    "tab",
+    "webassembly"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-113538-1-e1794962722312.png",
+   "summary_from": "page"
+  },
+  {
+   "title": "Josh Allen's debut documentary showcases Buffalo's resilience during 2022 blizzard - WGRZ",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaHNIU2ppMUxjaVE2SV81dndObGhTUjd2eE1EbTlWZWEwOE9CNVVMcmFGaUNBLXB4UTFjcV9nelloZTVZWFpxV1R6ZkxjN052WmtmdmZBazBPbVdjMGRXNC1nWnA0aGZQTWRNcmJHM3VZVjJXODc0VXByQjhLQmlfMnpVRGtQZWEyY01uMWxnb1YxRmxzbzJiYVZ6eUpfcnVLNWVNdW90elFEbnpyU2dLNU5oTzZiR19YRFlTdUsyNmMwVHNFUHNSOGJENDdONWVYYVVWZGhIUVcyMVhRM1JoZXVWdkZPWTE5TUJndENvcGNDRlZfOHgxQkJIa3F2RDJMQ3kw?oc=5",
+   "source": "WGRZ",
+   "category": "Weather & Meteorology",
+   "summary": "Josh Allen's debut documentary showcases Buffalo's resilience during 2022 blizzard WGRZ",
+   "published": "2026-11-17T23:32-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Ed Kramer Sentenced to Prison for Violating Terms of Previous Child Molestation Sentence",
+   "link": "https://file770.com/ed-kramer-sentenced-to-prison-for-violating-terms-of-previous-child-molestation-sentence/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "Dragon Con co-founder Ed Kramer is heading to prison more than 25 years after his initial arrest on child sexual abuse charges reports WSB-TV Channel 2 – Atlanta. Kramer was found guilty of three counts of child molestation in Gwinnett … Continue reading →",
+   "published": "2026-11-17T23:30-06:00",
+   "tags": [
+    "Heard Online",
+    "crime",
+    "Dragon Con",
+    "Ed Kramer"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized Solar Flare Explanation: What a flare for the chromatic ! Today’s image captures a piece of the Sun ’s chromosphere , the layer of the Sun ’s atmosphere above its surface where the temperature rises . Why would the Sun become hotter farther away from its core ? This is potentially due to energy from the swirling magnetic fields extending up throug",
+   "published": "2026-11-17T23:05-06:00",
+   "tags": [
+    "APOD"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg?w=2048&h=2048&fit=clip",
+   "summary_from": "feed"
+  },
+  {
+   "title": "APOD: 2026 November 18 - An M-class Solar Flare - NASA Science (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTBRQjN3QmMzNGR1S2RsNEprSEdYN05uZG5NUzRoWWZyM0IxV0pDcGt0ajNUSE5YRFd2XzZac2FKYnByelY5cGMzQ0RIYUpRTnF2U0FzbDJSamFpeFFzRjA0NVVuUW5DVG5rckI4SlhqUE5wS19QZ3lyUTBua2JqSFg2Ynd5ZDdoc0g1eQ?oc=5",
+   "source": "NASA Science (.gov)",
+   "category": "Space Weather and Aurora",
+   "summary": "APOD: 2026 November 18 - An M-class Solar Flare NASA Science (.gov)",
+   "published": "2026-11-17T23:05-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Sierra Snow Season Spins Up",
+   "link": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "Earth Observatory Science Earth Observatory Sierra Snow Season Spins Up Earth Earth Observatory Image of the Day EO Explorer Topics More Content About Search November 12 November 14 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison November 12 November 14 NASA Earth Observatory/Michala Garrison NASA Earth Observatory/Michala Garrison November 12 November 14 Curtain Toggle 2-Up California’s Sierra Nevada got an early taste of wintry weather when one of the first major snowfalls of the water year arrived on November 13, 2026. A moisture-laden storm delivered heavy rains to lower elevations in the Sacramento area and snow accumulations of around a foot to some moun",
+   "published": "2026-11-17T23:01-06:00",
+   "tags": [
+    "Earth Observatory",
+    "Extreme Weather Events",
+    "Moderate Resolution Imaging Spectroradiometer (MODIS)",
+    "Snow"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261112.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "WoW: Forever Hotfixes - November 17, 2026 — World of Warcraft - Blizzard News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWs3cUFPaWxRSFdDM3Rtclljdm5Xb1U1RXJ6OHZHUV9JTUhTVTlyQ3ZXNjFmS1lNQzZfUklQRHByVUFJVlYydFFWNU5TS1RJSmhlSjkyYTlzaVJnS0g0M0Z6NWo1X0EyeWhLVDdoLV9ZQjRtd2lVMUkzSzFGcUVqakFBSnc2Tk5BZU9HR1Zmaw?oc=5",
+   "source": "Blizzard News",
+   "category": "Weather & Meteorology",
+   "summary": "WoW: Forever Hotfixes - November 17, 2026 — World of Warcraft Blizzard News",
+   "published": "2026-11-17T21:29-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Pixel Scroll 11/17/26 For A Few Pixels More",
+   "link": "https://file770.com/pixel-scroll-11-17-26-for-a-few-pixels-more/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "(1) RARE TARZAN PULPS GO TO AUCTION. Hard-to-find century-old pulps go to auction on December 4-5, including both Tarzan’s original appearance and “Tarzan’s Second Act”. Heritage Auction’s Intelligent Collector tells just how rare these magazines are. The All-Story No. 94 from … Continue reading →",
+   "published": "2026-11-17T21:18-06:00",
+   "tags": [
+    "Pixel Scroll",
+    "Anthropic",
+    "Cercador Prize",
+    "copyright",
+    "DASFAx",
+    "Dean Wesley Smith",
+    "Emmy Awards",
+    "Erik Von Halle"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Atmospheric river could drop an inch of rain per hour across Los Angeles County, flood watch issued - KTLA",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWnZDVGJIRTNFRk9LQ2lNZUJRanFNSHhTdk1hMU1kRUFhVnl4OFZWQ0xKb3c3MTdURHh3bjJDZjAwRjdkWTVEY1V3V0FRRU1lM0dHQ1ZiWGM1YUE3RTF4UEFsME44eTFWaW1PNEVZSllWNURFN3FCMy1vU3RZaEdKR3FadUhQeV9iSHQwbGJpSjFpN0xQaTZhRlhIYUFBZmVuUFJUVk1xVTBIaTNUUU1DUEFBcTROUG5ZOWJPWnF3V2o4S0JRbkVCMWp5bGHSAdIBQVVfeXFMT2xGU2w3TXNCdENJX0RyZGdpZ2hlQkpwMzV0NHVHOHpFcFpETS1KWE9keDlONTRlTEl4UnRUd1NDVzZIbE5iVHhYbUR2YkZHdWZzTEtaUVJXcDlidFlHcHV1dy1oaDZVbFF1MEFxbm45M25mN3k1YXJ4VlBBWkliRDA4VHNERmEtUnJtSGs4SVJRWFZHcXZnQjRvUWJJTFhDTnY4QnZJRm93cGk1WWhXTDRqTUl4T2k4NjZWTDBJc1g3Q1hCbFdYbzFwNGE3RWc4WUZR?oc=5",
+   "source": "KTLA",
+   "category": "Weather & Meteorology",
+   "summary": "Atmospheric river could drop an inch of rain per hour across Los Angeles County, flood watch issued KTLA",
+   "published": "2026-11-17T21:17-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "AI agents speed up development as security fixes lag, survey finds - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpVDhMVTlnQVFWb29fbUI4c3pvaWtkYjc4UWUtVE55SE9yWkFfLUJWaGFLQ1cyTlVpY0pXRFFaMnhPd3k3Y01sallqOTh3bXFxaVZZNVVVQURfQy1oOWJsRXlhcjlrSHJmcU1TVl8tOWFDa01HdDlQMXNB0gGOAUFVX3lxTE1zYU1qLVozM1RxdUJVbG5UYWJsOUo2Y0VJUkNLcXJ2UG9kM0JwbWhJaVJNMGI4TEE1SGN5NDY4R1BHWnc0NWRGekVyNE9mcVlwNHhqeHgyaVp2Mnd6Q3lkeExfVW1xd1FqXzBrcXdNd1NFOWZXMk1kU3ZENXo2T3V5ejBPNHdDWXRnajFTZkE?oc=5",
+   "source": "Chosunbiz",
+   "category": "AI and Agents",
+   "summary": "AI agents speed up development as security fixes lag, survey finds Chosunbiz",
+   "published": "2026-11-17T21:17-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Coding on Windows? Redmond May Already Know.",
+   "link": "https://hackaday.com/2026/11/17/coding-on-windows-redmond-may-already-know/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "File this one under “shocked, but not that shocked”– hacker [Xusheng Li] did some digging on a recent Windows 11 build and found that it seems to be phoning home with details about not only what AI agents you might be using on your system, but what dev tools are in use too. The ful l writeup is worth reading before rushing to judgement on this, but no doubt Microsoft has your best interests at heart– they always do, right? The saga starts with a library called MissionControlAggregator.dll, which contains a list of executable files to look for– things like codex.exe on the agent front, but also dev tools as common as python.exe or gcc.exe –which would be innocent enough, and perhaps even helpful if the OS was watching for these files to do something locally. It might be doing something locally, but [Xusheng] was able to trace the diagnostic that triggers when you launch one of the apps it is listening for, and yes, at least on a default Windows 11 install, it phones home about it. Alas, WSL won’t save you this time, as the same event is apparently generated when you launch the linux version in said subsystem. Of course the default Windows 11 install does have “optional diagnostics” enabled by default, so you could argue that this is something that the system administrator consented to– provided they knew about it, which they likely don’t. We certainly had no idea that this was part of those “optional diagnostics” and are thankful to [Xusheng] for the tip. Our own [Jenny List] took Windows 11 for a drive back in June , and emerged rather unimpressed. Your mileage may vary, but if you are, like the majority of the world’s desktop users, on Windows, you might want to double-check those privacy settings. My gaming computer used to be windows, but now I can play pretty much e",
+   "published": "2026-11-17T21:00-06:00",
+   "tags": [
+    "Security Hacks",
+    "Software Development",
+    "privacy",
+    "telemetry data",
+    "Windows 11"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/agent-names.jpeg",
+   "summary_from": "page"
+  },
+  {
+   "title": "A tornado warning in California? Inside a tiny coastal school’s El Nino emergency - EdSource",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXg2c3pqdFFPWXlZOHlmd0hyMnMxUWFuXzNibmN2R2FqM2tpcVhRZUJnMGRkTXg0VV9BYW4xa1ViN0NiMldRUUtZVGgyZFo4Ym5MSnEzTzNZNGxPNURMY0pvNW82dktNN2xkZDZ1NDB3U2Foblo0a0ZMdlZ4ZWNiM3pIdk11ejVCRENQRmV1NnFBczJ2QnRIMjNsMHEyY0tuTFVVMFR5Tm1ScUhYc1J3cjNn0gG6AUFVX3lxTE90QmR4bXJ0aWNvUW45R3RrSnNDaWhDbzc5ZjRqX0FyTTVjTlI2Qk9IMXZoYWlkNklyYUw3UW9pTTluNlpqWF90VDYtelF3V0xOMVlaVDlreHVJdmotVFZsWmdWb3lSdGVIb2FWeEtEUUx5NDdpMm05eUx5dlRpWnRYMFZDUWZBM2FJb3VUUm5WbldHRVRVTFU3dG1Xb2Z5R0JIcWpNbjZjeTdxZ3MydW80RWFPVWJPb09xZw?oc=5",
+   "source": "EdSource",
+   "category": "Weather & Meteorology",
+   "summary": "A tornado warning in California? Inside a tiny coastal school’s El Nino emergency EdSource",
+   "published": "2026-11-17T20:43-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Enjoy free entrance to Minnesota state parks and recreation areas next week - Albert Lea Tribune",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjhrNHJmeU1wVV9jQUVnNDNtVXV6NDRrTHJRSXJYWVZjSmsyR2J0VjZvSnlIZmVkVWdzRkttb1hUUTNMNzh1Ynd5TmtGOGhjb01nMkpRLTRtLXJCZlFENWcyRmVIbEVDV1hKQkdJWUlHWDFLZXNGTDFGR3UxUTNwNTJZS0wtTUd2U3BPLTQ2Q2Y3cE1HWjlOR1B1Z2dCV2ZCZHd1dWFIVFBFWWhYRjFNb0lQc3VQY2pyNkh3VmlWRQ?oc=5",
+   "source": "Albert Lea Tribune",
+   "category": "Minnesota and Nature",
+   "summary": "Enjoy free entrance to Minnesota state parks and recreation areas next week Albert Lea Tribune",
+   "published": "2026-11-17T20:03-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Thousands of free coats available in St. Louis after tornado-affected couple fills home with donations - KMOV",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPODJKdzFqQm9jSkZQbk9ZbEl0Z1NVOEhZQ2dZUXZvTWxjMTBRandfMTg3LUFJVnZYWlNVQVJ2SHVHMWliZWQtRE9GTXNqZFBYazZuWkVxbjlIR3R3YUZiZWJUUjNfZnBJT051NFRCY1dGeWtQdE5PRmlkMU1ZNFczVDVDUS1YMllVaHVlbnJTc0JwVVpUZEp2ZzNLSS1RVi0yMGFveTlRMW5PY0JRU2FzYXBCMGN3MzJxX1VuVXpKdzVzaHVZRlc5UkY3Smx0VHph0gHkAUFVX3lxTE5HajlEdHVLS3NxSW5EWGFXdzhmRzlmS0huUmk3bVFrNnBSS0MtOVZXcGlQWWVVVl9ETE90UkZOZUpWcGNKR0dKR1RVOHhFTHFGRU53eFcxZ1JPYVQ0R2tkMjU3MkNYSW9EYlBGOVU4X2NQY3ExRmsyNXhwdXZnU1FDQXFId0lERHAxN3VPVHVZUDBuNVExSVozUkxUYnhNVVc5dUNRc1J2d3puTDM5dFlKb0NTajdSblIwZ2N1dVJhQVhJZ2VwYktla0pvTVRRWW11bFRQekl3UF9jQl9FZ0w4MXRNTw?oc=5",
+   "source": "KMOV",
+   "category": "Weather & Meteorology",
+   "summary": "Thousands of free coats available in St. Louis after tornado-affected couple fills home with donations KMOV",
+   "published": "2026-11-17T19:23-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Sun news: Colossal storms and auroras on this day in 1882 - EarthSky",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTENXc2NPTTFabFFfamwtXzBKVjRXSzJ3ZEZwcTJXeTR4X1pZa3NQUnZPdzdOWUZkYWtlYzIzMkdsR0FmYWViR0piblRUTWtVTEdlTjJMZXN5b0g1NmFQbmhBTnFuaGZRWUJmel9VWC12M1hLNEFnM3d0eGJ6OXc?oc=5",
+   "source": "EarthSky",
+   "category": "Space Weather and Aurora",
+   "summary": "Sun news: Colossal storms and auroras on this day in 1882 EarthSky",
+   "published": "2026-11-17T19:17-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Atmospheric river to bring California heavy rain, wind, t-storms, snow. When it hits - Sacramento Bee",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81clluVFFXRFpaT0ZQLVRtY0ZZaHZSOGp6NExIcW1XOXo0M25LeldUWHpBNEpPZVN0NWJjalc4emczTEFqWDZZTmp4UWh3NzBLRTBZYVA1NTVMV3pocFVtMkY2X21lb3pWNjJBbVEzVdIBb0FVX3lxTE9mQkFYVTVwcDFPMHE5MTFfZ2JQOXVuclh5eldHbUtnRGpBVUttTmh1ZG0xbWFGQjQwazc1WHlHMzhUbzc4Z1RlZ012MXptb0pTTldBMzJYMUhGQVlyR29LSFNrQS1jWXpiWWhrUFRCOA?oc=5",
+   "source": "Sacramento Bee",
+   "category": "Weather & Meteorology",
+   "summary": "Atmospheric river to bring California heavy rain, wind, t-storms, snow. When it hits Sacramento Bee",
+   "published": "2026-11-17T18:39-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Tornado damage lingers months after storm, owner claims $40K estimate vs. $5K payout - WSYX",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVZfYjlqZ0habzg0Z1k5MVhrOVdDWi0xT0lvNlYyUThGTXZLX013dGxvYnRJbmI4djlLZ3VGeF84eEVSLXlsRWZxVjlaM2NPN2ZxWG9EcFAwYlA4azY5OWRRSmFTbGlpb19JYmRrVGVCUVhENW1DR0ZyRm1xUE5tdDhrblV1Ui1QRVRQRXBUNHZjaERFRnVUYS1HNWVPNXJWVGVmSmZYZmtQNjF5NHFEQnRRTUQyN05xemUtd01uNXd5dW9KRmpnWWx3Y3ZLeWVBeXpoaA?oc=5",
+   "source": "WSYX",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado damage lingers months after storm, owner claims $40K estimate vs. $5K payout WSYX",
+   "published": "2026-11-17T18:10-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "A Pen Plotter to Draw You Up (on) the Wall",
+   "link": "https://hackaday.com/2026/11/17/a-pen-plotter-to-draw-you-up-on-the-wall/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Back in our day you were told not to draw on the walls; nowadays we have robots for that– like Mural 2.0 by [Nik Ivanov]. If the name doesn’t give it away, this is a large format pen plotter made to draw, well, murals. It’s also not [Nik]’s first rodeo, though this version seems considerably improved from the orignial version. He’s now using a FluidNC board based on an ESP32 and TMC2209 stepper drivers, while the steppers they drive are a pair of NEMA 17 pancake units. Using pancakes for this application makes sense, as the steppers are on the machine and must pull themselves up against gravity using the single belt that is anchored at ceiling level. The kinematics of that mean you don’t get the full area between the anchor points– you lose 20% at the edges– but you can still get a pretty big mural going. In the demo/build video embedded below, it looks like you’re more limited by marker life, [Nik] cautioning that past about 500 m of line things can start to get a bit weak as the pen dries out. He’s working on a ‘pause and replace pen’ routine for the next firmware version to help with that project. For now, the WiFi-based interface [Nik] has on the ESP32 gives you that path length in advance, and can even process both SVG and raster images with both a sine-wave style squiggle and finite-curve style space filling. This isn’t the fastest pen plotter we’ve seen on these pages, and it might not quite be the simplest, either, but [Nik] has put together a very easy build that you could do with your nieces and nephews content in the knowledge that the easy-to-use firmware will let them keep making murals when you aren’t there– assuming, that is, that their mother lets them draw on the walls. Please be kind and respectful to help make the comments section excellent. ( Comment",
+   "published": "2026-11-17T18:00-06:00",
+   "tags": [
+    "3d Printer hacks",
+    "ESP32",
+    "fluidnc",
+    "pen plotter",
+    "plotter"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/mural-penplotter2.jpg",
+   "summary_from": "page"
+  },
   {
    "title": "Computer Simulations Provide the Best Explanation for Those \"Little Red Dots\" Yet!",
    "link": "https://www.universetoday.com/articles/computer-simulations-provide-the-best-explanation-for-those-little-red-dots-yet",
@@ -446,12 +716,12 @@
    "summary_from": "feed"
   },
   {
-   "title": "Storms to hit drought-affected West amid year’s first big atmospheric river - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelFVNHZhQ1JFa0FHUFNMLU05dUxiMVZYY2s4eDdIb2VuX3Q0Z1hhM3VFWU5mWXl3T0diZTdzczZHc1hwc21RYmc2VXE2R0l0VVJ6aWdCb3lVRnE2dFlFdE4tbFVPVnByWmR5TE50TWdUaGZ6TDVzYkIzV0xOb3dxQXM3MUNZQVN1b1dKQjZ1UzkyN0VOSkFwV0tHWVZfVzVqSG1lSWV3Mk1BeWNRWkx0SzZwa2U0N1pxcnpZZEx4RQ?oc=5",
-   "source": "The Washington Post",
+   "title": "Blizzard of issues shutter National Park lodging this winter - The Sun-Gazette Newspaper",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGluMnN4OU1lRjNEQ3lwRGhwQm9PVGdpdUdfVzFWRHpfU3hzemctc2MwSWNSVlB5cHJKQnlCb3B0U2pXVFJjTGdyRGVzYlFadG5JSVhmQXM1ZmR4NG9UNVA5aEU1bHhvMTRYaGlKcGhRbDJHWGh0V25DSl9wUV9pcVhrTHBMLWhQMmFjRDZIclRpU1pMTU9xUTRiRzcyT3NnZmJPdkI5dUFaRUFKZjRPeg?oc=5",
+   "source": "The Sun-Gazette Newspaper",
    "category": "Weather & Meteorology",
-   "summary": "Storms to hit drought-affected West amid year’s first big atmospheric river The Washington Post",
-   "published": "2026-11-17T16:51-06:00",
+   "summary": "Blizzard of issues shutter National Park lodging this winter The Sun-Gazette Newspaper",
+   "published": "2026-11-17T16:05-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -475,32 +745,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg?w=1201&h=676&fit=clip",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Blizzard of issues shutter National Park lodging this winter - Mid Valley Times",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczY5NG5DWEViWWFhX1l0OVhGbTdOZmROeVFhVldaUnF0NURVN3ZNU205SEJxRVQ3Rm9mdkpZZFgtS1ZHclQ5WEZYaDFLbmt6VHdLc3Q3cWVFbmptVWYtbUh6bW5UeGFLM0o3TjkxVVJ0TEVBMkEzb1RickRTRFh4TGhvLUR0VUxyOFdDNXdxTzZ0T20tck5MUkNpcE9IN25NOGpfY21HeFA5MmN1aHVES0N3?oc=5",
-   "source": "Mid Valley Times",
-   "category": "Weather & Meteorology",
-   "summary": "Blizzard of issues shutter National Park lodging this winter Mid Valley Times",
-   "published": "2026-11-17T16:02-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Pew Research Center identified 9 main US political...",
-   "link": "https://kottke.org/26/11/0050012-pew-research-center-ident",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Pew Research Center identified 9 main US political groups : No Apologies Right, Faith First Conservatives, Unconventional Right, Pragmatic & Polite Right, Tuned-Out Middle, Order & Opportunity Left, Left-Out Left, Loyal Liberals, Leftward Progressives.",
-   "published": "2026-11-17T16:00-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -533,19 +777,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Islo Secures $15 Million Investment Led by Insight Partners to Scale Enterprise Software Factory Platform - The Des Moines Register",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOalNUUjV1aW9NbzEyaHcxdGNGaFFVMFAyVjZTelpOTU5BNU9UOHl2S283REEzSXo4SXBvcDhlUGY2MGk4TUw3ZmlkU1A5Z2I5LWJuTmM3T1hmZHpla05SOGFuVVRrTlZNamZuSkJpdF9BdC1LYkNJWUV4SDl4bjJDbk5EOXZxdzE0SVZtODNGS21TbTVZbGlVVnZJcF9najFtYmdHLTRxT0pTclFfaWM4UnhUY2hHLUJxSVNYUVZTV05xVkdjYXZvVzFjRk9BNkJnNWRPVmFUSzlqLWMtNGlfN2k4WWd0VVF5VnBFaG0zUzdibU9JLTNYakZB?oc=5",
-   "source": "The Des Moines Register",
-   "category": "AI and Agents",
-   "summary": "Islo Secures $15 Million Investment Led by Insight Partners to Scale Enterprise Software Factory Platform The Des Moines Register",
-   "published": "2026-11-17T15:36-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Black Holes and Their Mysterious Bright Structures Explained",
    "link": "https://www.universetoday.com/articles/black-holes-and-their-mysterious-bright-structures-explained",
    "source": "Universe Today",
@@ -557,19 +788,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/Centaurus_A_jets_and_lobes_20261117_190238.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "13 years ago, on this date Indiana had their second largest tornado outbreak - Fox 59",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTVZN2hTaFF3cFlUQV9JNjJKVE10X1EtT0dwQ3pkTjRORkxqM29BUnMtd1F2MWNnYUlOOFpuUk8yRklvZU9fTmQ5dVd0RkNnNUh6YW5XQk0zMWZYenc0cldhcUlLQjdnN2JHQkJVRDFLMzQ4OHFQYV91QUFCN2ZsR183NTM4WHJpaVYwUzV5VzBfYnpGZWZz0gGcAUFVX3lxTE4tNVl2ZnJ6ZS1OS0l5SHkwVDVaMlpNWlpLanprbHdsZ21nUGRDdTBCbHBKNUFNeDdoeENCYlB3TVB1Q0p2NmRwNzdlTnFYYTFqby1PcFp3RlloM3lDSmdrWlgtTmI1ZGFTeTNuQV96dVFCVlBRTUk4aXRSbjVNMUI0SW5IU0NHd3NvOTNpZkphRUxrcXcxdjd1UzVDdA?oc=5",
-   "source": "Fox 59",
-   "category": "Weather & Meteorology",
-   "summary": "13 years ago, on this date Indiana had their second largest tornado outbreak Fox 59",
-   "published": "2026-11-17T15:03-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -632,19 +850,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "An Inconvenient Life",
-   "link": "https://kottke.org/26/11/an-inconvenient-life",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Lyndsay Rush , who describes herself as a “part-time poet, full-time dingdong”, goes by the handle of @maryoliversdrunkcousin on Instagram . Her forthcoming collection of poems is called Microdosing Hope (out in March 2027). I liked this one she shared recently, called An Inconvenient Life: I want a dumb phone and a smart president I want slow fashion and fast friends I want to be bored and benevolent, silly and still I want innovation that doesn’t kill and news that doesn’t break I want your email to find me lingering and lallygagging pondering and present I don’t want to save time just to waste it; Staring at screens of various sizes Tapping away the years Scrolling past everything that ma",
-   "published": "2026-11-17T14:41-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "BPS Digital AVATAR Challenge",
    "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
    "source": "NASA News",
@@ -663,6 +868,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://images-assets.nasa.gov/image/EMU_CHIP_GLOVE_DYE_L2/EMU_CHIP_GLOVE_DYE_L2~large.jpg?w=1920&h=1349&fit=clip&crop=faces%2Cfocalpoint",
+   "summary_from": "feed"
+  },
+  {
+   "title": "BBC draws up Doctor Who shortlist in major update for new era - Metro.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTlpzekhoRU5WMzJFYXJuMXBuNzZCbUZZcnpsT1FuQUg5TWZzWlo4NkFQaUxBSjR3SFRpNVgyZXYwMHNJX0lFUGl1Qzl2NmxsRUpqWFRzSkVpRTBCRDJPWVlxN0owOWhScWk2enVxWF9wc2lSdWQzdjlXRHB6OFhOc1laME5tQ3JEcEZPMFJKbUlrUdIBlwFBVV95cUxNWWlrYUhoMVdxdFNtMDRfRTRPNmNfQ3hWSlVtcHhCblg0YVprTC1seVJ1R2x6aHZCSlVPaXo1RVlHTTFhbWpOeWlTWjhtRnFMSGhBaG1HR0hmSXZNaVFuN3FWTE5McHJnaGdjMllIWUEtYktFVm9iMTlfLTFDYjhWQ1NkcTdtMUpMYzBhV2hpQzdtSVV2YjU4?oc=5",
+   "source": "Metro.co.uk",
+   "category": "Science Fiction",
+   "summary": "BBC draws up Doctor Who shortlist in major update for new era Metro.co.uk",
+   "published": "2026-11-17T14:34-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -725,28 +943,15 @@
    "summary_from": "feed"
   },
   {
-   "title": "Atmospheric River To Fuel Powerful SoCal Storm With Rain, Snow And Flooding: See Timeline - Patch",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVgtUjZXT0xHSGlqZEFsRGNmbDM0VXpNUDlkLVBJNEZkeEh3ZFlCZlBTbnpiZlh5Ynd0Qk1uSWduWWw5bzVfWG9hWEUzQnVJUVltdTVRazFiXzBncGtCUXZoSEQxb1pBcnN1YkllV2dWRmQ0Q05KWEV6Vl83aVlQS0o4eXYwZXEtQ3RMLVNWVHJGZUNhVlEtUXNzM1prWFBRVzN6aHNGd2haczg2OWRIYWE3bm40eF9PdFHSAdsBQVVfeXFMT0VUVGhYWDdUc0VoQmM2NW4xWEVscmRiVXNvTVZmSFRpUkVRRDhwNFFmZlRBSTRDRjlxdld2bEdpeVo5RnFMdFFpZXlpamZ6TmxxV0pJa2VXdXExa05aUEtEVThuSUtibEJodlIwVjZhMlh6RGMzMEd5NmladS0tMmFxckVVTjJMbmFWVkpCM0YzY0lpU0hoNUgzN0J2WTRjNXZBOWVWZ24zR0hGR3NtaU01dDYtejAwMDk2dHBPdklZQUVBX3pFYXN1UGhGV2xjcXdkdzk5VlNvN3NV?oc=5",
-   "source": "Patch",
-   "category": "Weather & Meteorology",
-   "summary": "Atmospheric River To Fuel Powerful SoCal Storm With Rain, Snow And Flooding: See Timeline Patch",
-   "published": "2026-11-17T13:57-06:00",
+   "title": "Solar flare or sabotage? - The Weather Company",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iWk13WkZEak85LXJnSTIycmZBZEdYYVdRaXUzdFgxUWl6YlRpTUcyb3BSSS1TMEgtclFwMmI3VkdwczNKS1NyOWdyTGlpcnpKYWNuX1RURWFSNW54Wk03RjdIdXVUR04zLXBuTE1R?oc=5",
+   "source": "The Weather Company",
+   "category": "Space Weather and Aurora",
+   "summary": "Solar flare or sabotage? The Weather Company",
+   "published": "2026-11-17T13:55-06:00",
    "tags": [],
-   "feed": "Google News major storms",
+   "feed": "Google News space weather",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Trailer for a new documentary on Jean-Michel Basquiat....",
-   "link": "https://kottke.org/26/11/0049996-trailer-for-a-new-documen",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Trailer for a new documentary on Jean-Michel Basquiat . Authorized by his family, out on Netflix Dec 11th.",
-   "published": "2026-11-17T13:56-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -767,19 +972,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2018/05/the-mummy-run-740x416.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Atmospheric river hits Southern California this week - FOX 11 Los Angeles",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pY0t1NTVCNm5BVUo1UEtOOExvak9QZUxJdkxfZGRvVFZNd3FoM0U2R1Z6dzZLa3VGeHI1SDRicDEwRklLMUJYMGN6SDE3ZXZnb01MbVZ6alFPVmto0gFiQVVfeXFMTVpBWm96Wk8zcC1Idkp6VFYwMTJYYmMzeXhKdFpLaEYyMmdXZmlzdER1REpyMXJpbmZOT2FjMXRoVmVSR1pGS2tFd2FzU3BYMnlvU19UVm83TEJVVWFUTkMwQWc?oc=5",
-   "source": "FOX 11 Los Angeles",
-   "category": "Weather & Meteorology",
-   "summary": "Atmospheric river hits Southern California this week FOX 11 Los Angeles",
-   "published": "2026-11-17T13:38-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -817,32 +1009,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ng35.jpg?w=2048",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Knithub is an app for creating and previewing knitting...",
-   "link": "https://kottke.org/26/11/0050020-knithub",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Knithub is an app for creating and previewing knitting and crochet patterns. Available on the web, iOS, and Android.",
-   "published": "2026-11-17T13:04-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The BBC has made its 'Doctor Who' shortlist including Jed Mercurio's Hat Trick bid, World Productions and STV Studios to regenerate show. Read more below. - Facebook",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQW9PVWNUQjZLaTFpSW81ZmpyYi00LUxMeElDcVhrZ1B3N0M0cF9JU25zaEQ4N2thd2hmVmE0T3FOelBBX1kyOVphQngydFNkbWhtU0gyT0VZQmpOQjVnMWxGQ0lMNkdzNUtrOUx3dDd3TnZqS3VTNUZxNlhiWFdYRVVCei1XcTZUOEVIZ2taNndrWmNWZGQ5bllFazdaYUJyR3Y3YjlIN3pBbW40ZGVhYWRhTTA5ZVhIa01FRTJXdkswdE5FWTgwNDhYQ3Rmd3I1WTI4NA?oc=5",
-   "source": "Facebook",
-   "category": "Science Fiction",
-   "summary": "The BBC has made its 'Doctor Who' shortlist including Jed Mercurio's Hat Trick bid, World Productions and STV Studios to regenerate show. Read more below. Facebook",
-   "published": "2026-11-17T13:00-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -915,32 +1081,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.nasa.gov/wp-content/uploads/2025/01/iss072e487911.jpg?w=2048",
-   "summary_from": "feed"
-  },
-  {
-   "title": "ChatGPT Analyzed 32,245 of My Text Messages. “There are...",
-   "link": "https://kottke.org/26/11/0050011-chatgpt-analyzed-32245-of",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "ChatGPT Analyzed 32,245 of My Text Messages . “There are moments where I think you are plainly the harder person to be friends with.”",
-   "published": "2026-11-17T12:18-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Solar flare or sabotage? - The Weather Company",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iWk13WkZEak85LXJnSTIycmZBZEdYYVdRaXUzdFgxUWl6YlRpTUcyb3BSSS1TMEgtclFwMmI3VkdwczNKS1NyOWdyTGlpcnpKYWNuX1RURWFSNW54Wk03RjdIdXVUR04zLXBuTE1R?oc=5",
-   "source": "The Weather Company",
-   "category": "Space Weather and Aurora",
-   "summary": "Solar flare or sabotage? The Weather Company",
-   "published": "2026-11-17T12:15-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -1114,19 +1254,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Why Rich People Used To Collect Unicorn Horns",
-   "link": "https://kottke.org/26/11/why-rich-people-used-to-collect-unicorn-horns",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "During the Renaissance, spurred by the accelerating arrival of items from all over the world, wealthy Europeans began assembling handcrafted curios and unusual artifacts from the natural world in wonder cabinets, or wunderkammers. In this video , Evan Puschak takes a look at how this practice evolved and what it says about that period in history. This was the period of the scientific revolution when thinkers were re-evaluating their reliance on ancient wisdom in the light of all the novel things arriving daily from around the world. “What grounds were there,” Steven Chapen writes, “for crediting ancient limits on the stock of factual knowledge? Every day, new phenomena presented themselves a",
-   "published": "2026-11-17T11:10-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
    "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/",
    "source": "NASA News",
@@ -1153,24 +1280,6 @@
    "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-   "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "NASA’s Nancy Grace Roman Space Telescope, seen here in the clean room at the agency’s Goddard Space Flight Center in Greenbelt, Maryland, on Nov. 25, 2025, will explore essential questions in the areas of dark energy, exoplanets, and astrophysics. Credit: NASA/Jolearra Tshiteya NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which will soon capture deep, panoramic, never-before-seen views of the universe to explore the mysteries of dark energy, dark m",
-   "published": "2026-11-17T11:00-06:00",
-   "tags": [
-    "Nancy Grace Roman Space Telescope",
-    "Goddard Space Flight Center",
-    "Science Mission Directorate"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/54963457618-23b91802ea-k-1.jpg?w=2048",
    "summary_from": "feed"
   },
   {
@@ -1215,28 +1324,12 @@
    "summary_from": "feed"
   },
   {
-   "title": "Space Selfie",
-   "link": "https://www.nasa.gov/image-article/space-selfie-2/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "NASA/Anil Menon NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
-   "published": "2026-11-17T10:51-06:00",
-   "tags": [
-    "Anil Menon"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg?w=2048",
-   "summary_from": "feed"
-  },
-  {
-   "title": "2 years after EF-2 tornado, Walt Disney Elementary looks toward a new beginning - Click2Houston",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkJJRndEa01IYU9tQjRVMEh1dUpOZV9PVmJwOEN0c1M1RzVYSXl2UDFfUnZSNzJkUnJyeUQ2LW04S19DQzg4UjQxTU9kX0hmZXZidVJST1RvMFF0d2RON3lWcU51NTBNRWlNcnUwdFBoZldyR2tRdzBFbHZoWEhFU3IwZTZObzM1Vi1rdGZXdVh6ak5ETmxKQmN3ZDc1cXRJMkpKSVNYYjFlUFB0Vk15MjNzWk1PZDhiX3ZKQWQ3MEtmUWxxTWpz?oc=5",
-   "source": "Click2Houston",
+   "title": "Storms to hit drought-affected West amid year’s first big atmospheric river - The Spokesman-Review",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX25hSHJMbjh4UzVqSmlYZ19ZQkVrTG1hV2d4T2VyUWF2MU9GQTZuNjRDVnVfcGdMVzk3TVhTeExENlpVLWNDVDhKZU1NSUZya0NKNnBmT0xuYWYxYmJqV1UxeElaRmZTOUQxSnpnekZjX1RDY0Y2M1BHandnTUxTVlBTb2N3X21fZUJ0aE96bFJKNnN2UU9qMUxaRWgzZw?oc=5",
+   "source": "The Spokesman-Review",
    "category": "Weather & Meteorology",
-   "summary": "2 years after EF-2 tornado, Walt Disney Elementary looks toward a new beginning Click2Houston",
-   "published": "2026-11-17T10:34-06:00",
+   "summary": "Storms to hit drought-affected West amid year’s first big atmospheric river The Spokesman-Review",
+   "published": "2026-11-17T10:49-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -1283,19 +1376,6 @@
    "tags": [],
    "feed": "Google News AI agents",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Courtesy of The Internet Archive, you can read & explore...",
-   "link": "https://kottke.org/26/11/0050009-courtesy-of-the-internet-",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Courtesy of The Internet Archive , you can read & explore 250,000 articles from the past 30 years of Salon , which recently ceased publication .",
-   "published": "2026-11-17T10:18-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1348,32 +1428,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "What is an atmospheric river? The winter term everyone tosses around - The Weather Channel",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3U1cVhhRGp3Q2tEd1pLeGZwVmNIT0lDYkd2Z0tvZFJ1ZHRHbk5vYnQyOHdjR1RNcXdWeHhqbG1EQlN1R3hQZTJyYmpWckNiTmlpVjd3bzA5NnVKSEdka0FuT2N2ckJUZWJBMW1DTzBhVWoxTmd3dTRjN2xoX2d6WE85VHItRTRFcVlxY2hYMA?oc=5",
-   "source": "The Weather Channel",
-   "category": "Weather & Meteorology",
-   "summary": "What is an atmospheric river? The winter term everyone tosses around The Weather Channel",
-   "published": "2026-11-17T09:30-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "I had way too much fun playing around with this vocal...",
-   "link": "https://kottke.org/26/11/0050015-this-vocal-simulator",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "I had way too much fun playing around with this vocal simulator . You can make it talk, sign, beatbox, and do some animal sounds. Some folks are using it to sing songs like California Dreamin’ and yodeling .",
-   "published": "2026-11-17T09:28-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Islo Raises $15M to Scale AI Software Development - NewsBlaze News",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaXpybUhFdmc5QU10MmxrR3JERG45Y3p4R1FtVzNIajZRa0luWUtWWExaX1c5My0yenB5X0psUjcwOTl3Ym96LXIySWstWllfZnVmV1poR3RWcGVrVkZUSkIyMGwtbTFycHdpRFJQMmFqSEhOQTNjYXNrbFBtU19EZ3c2ZXdyWkdZdGJVdGd2eVB6Ty1TQTRyX3dPeEFvdXVxTlRodGVrUlR1Y1dxNEdGZkk1QXdjQkszS1FkMG9YZ1lHQTlPMy1XVUVB?oc=5",
    "source": "NewsBlaze News",
@@ -1387,23 +1441,30 @@
    "summary_from": "feed"
   },
   {
-   "title": "The $50 Per Hour Search Engine",
-   "link": "https://hackaday.com/2026/11/17/the-50-per-hour-search-engine/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Imagine doing a Google search and getting a bill for $50 an hour — or even $300 an hour. Even worse, that’s $50 for every hour you were even connected. Typing a query, reading output, or even grabbing a soda ran the clock. Want to print something? That might cost extra, too. If you aren’t careful, a simple research project could really add up. That was the world of DIALOG, one of the earliest commercial online information retrieval services. Long before Google, AltaVista, or even the World Wide Web, DIALOG allowed people to search enormous collections of technical papers, patents, news, and other information from a computer terminal. It wasn’t cheap, and it wasn’t particularly easy to use. But for researchers who needed information, it was revolutionary. The story starts, surprisingly enough, at Lockheed. In the early 1960s, the aerospace company faced a problem familiar to anyone doing research: how do you find out what someone else has already discovered? [Roger Summit], who worked at Lockheed, recalled that it was sometimes easier to repeat scientific research than to find out whether someone had already done it. Libraries had card catalogs and elaborate indexing systems, but searching through mountains of technical literature was tedious. Computers seemed like an obvious answer. But in the 1960s, computers mostly worked in batches. And they didn’t have a global network to draw data from, either. [Summit] and others began experimenting with a better approach. Lockheed established an information sciences laboratory in 1964, and by 1966 the team had a small working prototype of an interactive search system. The hardware was big for its day but modest by today’s standards. The early system used an IBM System/360 Model 30 with just 32 KB of memory. It could search large ",
-   "published": "2026-11-17T09:00-06:00",
-   "tags": [
-    "Featured",
-    "History",
-    "Dialog",
-    "search engine"
-   ],
-   "feed": "Hackaday",
+   "title": "Doctor was 'misled' by circumcised boy's mother - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16SFdtdHdHV2t6TC0yUnFZUDFUWnRpLWd1UUlmTWg1MkpJT2hwSDRsc1RNazB4OUdVdUVwc0dsZk42ZGU2TGFjeHl3emNXUG5IYmE3OVZ5T0kwYWc?oc=5",
+   "source": "BBC",
+   "category": "Science Fiction",
+   "summary": "Doctor was 'misled' by circumcised boy's mother BBC",
+   "published": "2026-11-17T09:19-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/04/SearchEngine.jpg",
-   "summary_from": "page"
+   "summary_from": "feed"
+  },
+  {
+   "title": "Islo Secures $15 Million Investment Led by Insight Partners to Scale Enterprise Software Factory Platform - FinanzNachrichten.de",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZURxc0RpT3NJWUJDTE5KZmZLbDQxbGZURDBtbjNXeXBsTXdXcVZTSl9qOFp1RDZlbnE5RDlpVDg1Z2VsMWUyZ2xxT1YxSTZ6YV9UYUh4a0M2czNkUXcxSmxhNms5SkhBTFpwQTVUTHNqRGVuN1JXNWI2SERHUFRaejVEOGRBOUtJdlU4dGFCbnAyRVpIN2huRk9jamRyYXQ4VWpuOVJhd0ZHbF8tNVRpajNMWU43bmlEQXM4X3RkRmFwcHBaM1hqTUNJVWViSUN5WUFCdVM5eFBoT1B6Vkd4SDZHeGs5cDNHUGRJYXVlWDRuZEZUMXZ1ejIxd1Bnb240QnY3SnQxZzZQZjhwYXc?oc=5",
+   "source": "FinanzNachrichten.de",
+   "category": "AI and Agents",
+   "summary": "Islo Secures $15 Million Investment Led by Insight Partners to Scale Enterprise Software Factory Platform FinanzNachrichten.de",
+   "published": "2026-11-17T09:02-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
   },
   {
    "title": "Glass Wonders Gallery in Karpacz, Poland",
@@ -1474,19 +1535,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/s4-1280_20261116_225532.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Flash flooding threatens 30M along California coast as latest atmospheric river fuels storms along West Coast - FOX Weather",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWVJOckZJLTJQVkJPQzYwVzVoOEkzbGtxUG5XZjc1R2JQSndFbzRCRmZGbWhqTXRHbWVfWnU5WVlFbkJFa1NLNUtGX3Z2d1FaQzg5RWxWWmRydkU0Q1JrZmItUXdnUWdFSjdoUUxFcUthLV9TM3hkWHE0bTlDTjE2NVozVlVBT2xlS1JIUzNxQUR1bmtiSU84OWVmNHFLRWZXN0VXR2NMZ0cyQWhhaU9wQllrWUhYUVV2R1ZsSlFGdUJzZ0FzNWp0T3RWZnBXRUXSAdQBQVVfeXFMTXUwdHhpdkxEVnpCQWlKNmRkYkxGV2ZHcWdVTzA4X05Td1dhUjBaUWNXVjJBM0JJUzRVOWhsbUh3R1FhWkRjeHlINWxLWWs0NUc2cEp0eUNYZTZRVHdZdEQ2N0FjazNPYWlTYjZucXdHOGFjSWFyY2ZxaUlhS2JLbHdxUEthQzdTd0FWTlpSN0l1ZHpWLUJ5U3Fab05GNk5VU0FSYXVmNnJ0UmRfS1lHSjQ4Q25tS1hmQWlmRUpVUVRLRFNzV19xdnM0b2diNnlUZ0dqd1I?oc=5",
-   "source": "FOX Weather",
-   "category": "Weather & Meteorology",
-   "summary": "Flash flooding threatens 30M along California coast as latest atmospheric river fuels storms along West Coast FOX Weather",
-   "published": "2026-11-17T07:26-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -1568,19 +1616,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Three Tribes, Three Forests: In Patagonia, wildfire becomes a modern challenge for an ancient people - MPR News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0tTbm9PMVp3TC1MamdLT2ZvdGNEU0pSWDlRVHk4MkVwXzluWV9uM2pWZlljT1pjN19vNEU2WUVuMG5sdnRBVnMyME9TUUd4SU1FY2l5WmtxMmdHaTZDUVMwa1ZBV2d2YU00Q25CbmdNYjhBM3N1Q1QySHVBRWxWYzF5amg1U3VvWk1uWmE3SlNiRGNOQlpVeE9lR0dXUQ?oc=5",
-   "source": "MPR News",
-   "category": "Minnesota and Nature",
-   "summary": "Three Tribes, Three Forests: In Patagonia, wildfire becomes a modern challenge for an ancient people MPR News",
-   "published": "2026-11-17T04:00-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "‘Doctor Who’: BBC Draws Up Producer Shortlist As Race To Regenerate Iconic Series Moves To Next Stage - IMDb",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WVE41QnpuaGFOS3JHYUtTVlcxYWtLNDRvNXRqbUF4TzlWb0dvWWxoQzJkam9FanVjeEsyT01NeGdEUktQZ0VpbTJiUE9tbjJtU2ZVdWZJcXBlR25TN1lmcHVxOUd2WEk?oc=5",
    "source": "IMDb",
@@ -1624,19 +1659,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Join the World of Warcraft 22nd Anniversary Celebration - Blizzard News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObm1MMmk2bHhja19vakU4ZHlsbTdYNWJXUzJ1M0l6akVXRlR3YzJBdUU4anNQakpSYmVVblhvRzhOR2hUbFJNZmlXY1JGNDlVU0MwSUFGc1lBRlRwemtMNTNUVWNobVIzWnZuX3laOXYteWpvb2w1a0c2cXh6TklKTkEwYjY1anYzV2Nsdkk1SVV4REZ4d2prQXFOY2Nld1N3cU1HaFowUQ?oc=5",
-   "source": "Blizzard News",
-   "category": "Weather & Meteorology",
-   "summary": "Join the World of Warcraft 22nd Anniversary Celebration Blizzard News",
-   "published": "2026-11-17T03:00-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "'Doctor Who' Tender: Shortlist Revealed Inc Jed Mercurio, World, STV - Deadline",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMHFURUlYbXNNSWdLVXdDandkMDZjeHRnZFNxN2NyM2RPNmsxdVk1QTJSQTBQODhJRFBsbURJMlU1SUZZMS13MkFiazlIUjVpRjRkQjZOd3ZqOUdDT3hLRXhGRWx1OFk0WXpTQVpDZXpMZWRlZllqS0xOQmVSRERwakJmaVp3Wk1OUmhVZEJsODRfY2ZxbUlvMw?oc=5",
    "source": "Deadline",
@@ -1645,6 +1667,19 @@
    "published": "2026-11-17T03:00-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Tornado warning, waterspouts and hail sweep Bay Area in rare severe storm - NBC Bay Area",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeFNtMTdJa2M4UGJIMjg5el9GM3dsS21HblJ0X0NiSnA2QkF1TWVlaktxYkMyelpSVnJHY3dvaG56NDlMQVQ5STZHWk5SaXBCSi05WEthZzQ0N2hSZnJYNXFmTnRMQWhERTdMVENtUTRpcFV0UkJwY0sxUHA1ODF6dm1XNFlMUEUzNGJrMkxfdEFac2FzeTBqclJIVTFlRHZ2MWUzSzBn0gGuAUFVX3lxTE01bnZOSlVKbjY1NW9yNzcyNG03WGtWT3NUci1UN1FhbnI2RkIxRTRJY3FoVThnT21BTkNzdkpIU1BSdnBnanhiY1N5OHZ6MkdMZEVuWDM0SGhsSURIallFc1pyRjlKaXhWbnB4TDlWTm5mSDVJbnI2TWE0bmZMdEo1dmI3TXhycXlPRjFqQnl4SWs1cDQtY3ctSDdFWlhTSnRNTHk1cTc0N3dXdnFWUQ?oc=5",
+   "source": "NBC Bay Area",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado warning, waterspouts and hail sweep Bay Area in rare severe storm NBC Bay Area",
+   "published": "2026-11-17T02:04-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1740,32 +1775,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Storms spark rare tornado warning in Santa Cruz County - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGpxSnhadXo5ZUpfalktaUI5Y2YySXBjY1lMRW82dTJlcTRPRXczc2dhMmV2aTAtRkRzRDF2MlRrUUxSTmpSWm5CWUk3MU53U251d3hWQTY0QnRJWHBaQXp1NG1QdUlxMXREdjExbjZzNkRhMy1vdG9SVTJBcWxCOFgtYWJRcV9yTWYxSzd2aDFYNnpldnphUVJfSy1zWE0?oc=5",
-   "source": "CBS News",
-   "category": "Weather & Meteorology",
-   "summary": "Storms spark rare tornado warning in Santa Cruz County CBS News",
-   "published": "2026-11-16T19:24-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Robert Pattinson is the next James Bond. I know a lot of...",
-   "link": "https://kottke.org/26/11/0050008-robert-pattinson-is-the-n",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Robert Pattinson is the next James Bond . I know a lot of people don’t think this is a great fit, but I think Pattinson + Villeneuve will be quite good.",
-   "published": "2026-11-16T18:57-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Your Brain on Grief, Your Heart on Healing",
    "link": "https://www.themarginalian.org/2026/11/16/the-grieving-brain-mary-frances-o-connor/",
    "source": "The Marginalian",
@@ -1845,19 +1854,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Meet the new hires: BizCover puts AI agents on the org chart, gives them KPIs and development plans; marketing compliance checks slashed 70% as operations accelerate - Mi-3.com.au.",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVlqOWNnUkxNMFI2ZkF3OEpnc05za1RXTTRWTll0ZmY5c196LWk2MUNtT0xWMnJUb0dtU29Ybzc0SkpLWkdJQThaRlVaRVNTbDRHU3JHLXVaVlRFYzh2WVJQMHZKS1g5NXNfVFNkUjNfRlhsdXFTMFZsN2VLWFdVTjJ5Znh4bHN4Vk45NGROdjdBdUJQTG1vQkgwWVlGM1luOE1RVEU4aktZOENaMzJNWkgybkh1TksxYjg3RlJuVQ?oc=5",
-   "source": "Mi-3.com.au.",
-   "category": "AI and Agents",
-   "summary": "Meet the new hires: BizCover puts AI agents on the org chart, gives them KPIs and development plans; marketing compliance checks slashed 70% as operations accelerate Mi-3.com.au.",
-   "published": "2026-11-16T17:40-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "2027 Grammy Awards Nominees",
    "link": "https://file770.com/2027-grammy-awards-nominees/",
    "source": "File 770",
@@ -1877,19 +1873,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Waves have been in the news lately: El Niño battering the...",
-   "link": "https://kottke.org/26/11/0050007-waves",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Waves have been in the news lately: El Niño battering the west coast of the US, surf spots popping off. Waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves . Beautiful. Terrifying.",
-   "published": "2026-11-16T16:38-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "UPDATE: Tornado warning for Santa Cruz County Monday afternoon, says the NWS - Sacramento Bee",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wU2oydkxaaU5jR196WGdnSVJHODZEdGt0cW42bnVUVnJmQ01RU1Zzblhfbmh3RmtJNTRaUXpoQjcxRFA2VW5fYnlSZm1CMlZ4ODFaWnB6c0JRdkdwLWxHWlk0elk5ekJvQzdrNEMyVQ?oc=5",
    "source": "Sacramento Bee",
@@ -1899,19 +1882,6 @@
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Sloppy Forgeries is a competitive painting game in which...",
-   "link": "https://kottke.org/26/11/0050003-sloppy-forgeries",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Sloppy Forgeries is a competitive painting game in which you have a short time to draw the best version of one of 50 different masterpieces (Mona Lisa, Hokusai, Starry Night, etc). There are local and online multiplayer modes.",
-   "published": "2026-11-16T15:33-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1999,19 +1969,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Crime and Punishment in America",
-   "link": "https://kottke.org/26/11/crime-and-punishment-in-america",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Documentary filmmaker Lynn Novick, who co-directed The Vietnam War and The US and the Holocaust with Ken Burns, has directed an 8-hour PBS series called Crime and Punishment in America . A sweeping look at the American criminal justice system, from the origins of prisons and policing to our continued fascination with crime, the film traces the contours of our imperfect system and how it influences nearly all parts of our society: the media, economics and politics. Through the voices and testimony of those who have committed crimes, experienced incarceration, enforced the law, or lost loved ones to violence, the series explores the cost of America’s choices and the enduring tension between cr",
-   "published": "2026-11-16T14:26-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "What is meteorology? - The Bureau of Meteorology",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GZXdkZVlzTHRiOWNsN2FrN204VXAta2J1cVNzSmNvdEdFVTRqdVBnMk9IektjaUxPclNKckpqSzgxV0NaQUVkTXRTNlQxWHZMaFMyWWRWZ3dGWmhNdDVTUlZoNExZeU9x?oc=5",
    "source": "The Bureau of Meteorology",
@@ -2021,19 +1978,6 @@
    "tags": [],
    "feed": "Google News severe weather science",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Quick one: a previously unknown sample from Stardust’s...",
-   "link": "https://kottke.org/26/11/0050001-has-been-located",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Quick one: a previously unknown sample from Stardust’s Music Sounds Better With You has been located .",
-   "published": "2026-11-16T13:32-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -2077,19 +2021,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/ELEVDsGmkUbVpQuEaC7kFpVJCi2JXA9RcsCpUkkDHEU/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85NjJi/NTIyMC03Mzg4LTRh/Y2ItYjNmMi1hNDE0/Yzk1ZTc5ZmM0MzFi/ZGUyOTc1NTljYjBk/OGZfMTAwMDAxMDUw/NS5wbmc.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Making beautiful porcelain cups that are “the color of...",
-   "link": "https://kottke.org/26/11/0050005-making-beautiful-porcelai",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Making beautiful porcelain cups that are “the color of sky after rain, where clouds break apart”, using traditional Chinese methods. This is so chill & meditative and the end result is incredible.",
-   "published": "2026-11-16T12:59-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2158,32 +2089,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/Babylon-5-Crusade-Ruling-From-the-Tomb-01-740x455.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "What Robert Caro Has Learned About Power",
-   "link": "https://kottke.org/26/11/what-robert-caro-has-learned-about-power",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Dwarkesh Patel recently interviewed Robert Caro for his podcast. They talked about loneliness, if JFK could have passed LBJ’s legislation, and how Caro gets people to talk. From the transcript : Dwarkesh Patel: This raises another question that I wanted to ask you. You’re interviewing all these people, and in many cases, they must know that it’s not good for them to tell you what you want to know. In many cases, they tell you anyway. How do you get people to tell you things that they know they shouldn’t tell you? Robert Caro: You ask terrific questions. Sometimes you’re sitting there and you know this person doesn’t want to talk to you about what you want to get out of them, like John Connal",
-   "published": "2026-11-16T11:42-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "I’m someone for whom “welcome in” grates. “We usually say...",
-   "link": "https://kottke.org/26/11/0050000-welcome-in",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "I’m someone for whom “welcome in” grates. “We usually say we appreciate a human touch, and ‘welcome in’ seems to provide exactly that — at least, until you’ve heard it enough times that it starts to sound mechanical and perfunctory.”",
-   "published": "2026-11-16T11:09-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2285,19 +2190,6 @@
    "tags": [],
    "feed": "Google News Doctor Who",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Seven Ways Democrats Can Help Ordinary Americans and...",
-   "link": "https://kottke.org/26/11/0049998-seven-ways-democrats-can-",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Seven Ways Democrats Can Help Ordinary Americans and Stand Up to the Oligarchs , including pass Medicare for All, roll back that idiot’s tariffs, stop funding the war, and stop taxing low and moderate incomes.",
-   "published": "2026-11-16T10:35-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -2429,19 +2321,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "The Kottke.org Video Closet",
-   "link": "https://kottke.org/26/11/the-kottkeorg-video-closet",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Ok folks, I’m gonna apologize in advance for totally ruining any plans you might have had for the rest of your day. This weekend I knocked together the Video Closet , a simple tool for exploring & watching every YouTube & Vimeo video 1 I’ve posted to KDO since 2014 that’s still live: almost 5400 of them in total. It’s like a YouTube that’s just for people who read KDO. Click a video to play it or click the title to go to the original post containing the video. The toughest thing about building the Video Closet was getting repeatedly distracted by videos while I was testing it. Seriously, don’t open this thing if you want to get any work done for the rest of the day! I also tweaked how video ",
-   "published": "2026-11-16T08:55-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Mount Thor raises US$45 million to build Mac data centres for AI agents - Tech Edition",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlhwWjkyMWpyd3dPQjlPcXVrNmstX2ljMGZGWU9Gb3dlZ21TOThBaUtJa002WkI0N2Y2RDFXZWsyTVBKM29rb0JCaU5fWktGU09PenZXbVZnWEZGb2lDQ1JKd1NsUXRaZC1EbGVYZk9HdnZlUG9KSTVDY1V5QjdLWnVWTkFGeHctWTMtY2ZhdzdzckdqMGRmNk53?oc=5",
    "source": "Tech Edition",
@@ -2451,19 +2330,6 @@
    "tags": [],
    "feed": "Google News AI agents",
    "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "“The only way to turn a new friend into a forever friend...",
-   "link": "https://kottke.org/26/11/0050006-is-to-go-through-somethin",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "“The only way to turn a new friend into a forever friend is to go through something a little bad together .”",
-   "published": "2026-11-16T08:17-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -2495,19 +2361,6 @@
     "Telescopes"
    ],
    "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "No code, just WhatsApp: Hyderabad professionals build 57 AI agents - YourStory.com",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWl3a245TGozd01wYVdyWWZ5M2NnZUVhWXRpT2hvcXF0MW9HZ3RuSTgwUVkteGNfb2hEVm96bldoclNGVmZWZGwtNHBjMGxITlMyV3B6TWRjTUtpRkNfUGwxQjB3dy10MVpZTUJ2QjJQX3I1Ynk3YkV1UFZBN2V1dWZ4QmpuTWdwUXkwWXFTYWRnZU0x?oc=5",
-   "source": "YourStory.com",
-   "category": "AI and Agents",
-   "summary": "No code, just WhatsApp: Hyderabad professionals build 57 AI agents YourStory.com",
-   "published": "2026-11-16T06:04-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2554,32 +2407,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "David Tennant on whether Doctor Who will survive the BBC tender - Radio Times",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2I1ekdtLWQ0ajhQX204LW9WcG9udzhRRklzSGF0U1dLX1dhWDcydUU4STJhRjJGUmdYbUZ0OG9sRm5LWW96SlYyZlhCbFBkTldPYzZNOW5ZbHpwNjgtWjBoMUZ1TDhjUExWb1FMcGJVTGpKbnd1dUY3bFVnZ3doeTJXdS1lRW01OUo2ZDJYUDBDLTRtQU1kRzZwSEE?oc=5",
-   "source": "Radio Times",
-   "category": "Science Fiction",
-   "summary": "David Tennant on whether Doctor Who will survive the BBC tender Radio Times",
-   "published": "2026-11-16T05:32-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Development AI: Agents, Abstraction, and Developers - Brief IA",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQXBxbm5hNmVTaUQ2Z25YMU11ZmdQcTBQZHp3VFUyN1pxQmlkeHNVOGRkZjFkTmlENk5YSWg1ajFvalFzS3dickdwaFFMOWFQNHdPYVNBT0hDNENZdEVGV1psNlBEcFBBU2ZuSG5sMVBRSnR0RVlHcy1sTzM4RDhtX1JoZHpLb3Q2N2c?oc=5",
-   "source": "Brief IA",
-   "category": "AI and Agents",
-   "summary": "Development AI: Agents, Abstraction, and Developers Brief IA",
-   "published": "2026-11-16T04:15-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "How Revolut raises ambition without lowering the bar",
    "link": "https://openai.com/business/customer-stories/revolut",
    "source": "OpenAI News",
@@ -2601,19 +2428,6 @@
    "published": "2026-11-16T03:06-06:00",
    "tags": [],
    "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Polish firm to lead €13.9m ESA space weather mission - Science in Poland",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX244c1Qxa016ZDF0Z1FjUnpZem9YTUVwTnBJMnF0eS1Fd2dRdHRYR3dLUzhWdl9rNnRBNV83cU5kTUg3cUsyaW1SVDBVekJ2NzVFVUlNQlNjMm9CQVJkLW5DV2FWRG1WNG4xaHpKc1pLSnZqc3JvMnplVG5tejdHVGVwTmMyRlVCdTN0ajUxTXZycFU0SmhxaXNZcVRhZUdKME1qMG1NS3M?oc=5",
-   "source": "Science in Poland",
-   "category": "Space Weather and Aurora",
-   "summary": "Polish firm to lead €13.9m ESA space weather mission Science in Poland",
-   "published": "2026-11-16T03:00-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2821,19 +2635,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Florida Skies Dazzle with Unusual Cloud Phenomenon: What's Behind It? - CubaHeadlines",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QVjNrS0F4Q0JEcV91WTc5MlJnYkdwNUowd2JSX2laLVBXZjhJNGZueXlmeEhqOThlS252Rjl6UXdGOW1UX0FxdW8zUXp3bjhjZHFEeHBXSGw?oc=5",
-   "source": "CubaHeadlines",
-   "category": "Weather & Meteorology",
-   "summary": "Florida Skies Dazzle with Unusual Cloud Phenomenon: What's Behind It? CubaHeadlines",
-   "published": "2026-11-15T17:02-06:00",
-   "tags": [],
-   "feed": "Google News unusual weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "A step toward defining the Standard Model on a lattice",
    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
    "source": "OpenAI News",
@@ -2966,6 +2767,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "All the Midland towns facing 'rare' weather phenomenon as snow maps turn orange - Birmingham Live",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXhFb2ZHZFJ6YlZUeUxKY2ZtOVNZNlZJa0dpTzZvVk5rMFo0dzhjM3Nfb3FpVjIyeUd5T21HTFhUcV9sNm1SNG51MnM2ZUlnQkF1Y1RDNDNSZUttaWxCenkwcFliQVBZY1RUdF9iSkpyMVpUOU4zUnpIUW1FZGVWQndpbmFOZmNVZHNVZlhHT3FWTmU4MlBiWEF30gGfAUFVX3lxTE5SWDhrRVZ1emxxaEY2Q3JDT0l4eHc1RTlzWkJ4UEMtaFJicFJudTBaLXR4WkI0WnZnaGVNQ2JmZlpmZDJBbWlVX3VCZU53N2hacVQ3OFlsTG0wSVByQ1BlejNtMm8tSUR5REM1d0RyZFBLYWwxTWNTckZBcC1yMjJKTlZyQm1PZWh0ellmVHcxZjRDZGl4TExQQ2I4Z1pzZw?oc=5",
+   "source": "Birmingham Live",
+   "category": "Weather & Meteorology",
+   "summary": "All the Midland towns facing 'rare' weather phenomenon as snow maps turn orange Birmingham Live",
+   "published": "2026-11-15T00:52-06:00",
+   "tags": [],
+   "feed": "Google News unusual weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Space weather emergency scenario exercised - Ashburton District Council",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVRRdnNoSGpRMHByNGtpYlk2UVdZNHJUajNib3NaRUJwMUdXTy1ZUE0tTkRSaUVKTjhoRV96TTFJcGw5SGt1U3RHeXhVZkc0U1E5NGtMTnNoUEc3OGEyY2RsWTRLRWV6Y3k1NWFwYU9UbGVVVVNWczFadGxUY0F6X2VhWXVzT1NEWW9GM1VINVMwLW8?oc=5",
    "source": "Ashburton District Council",
@@ -3051,28 +2865,6 @@
    "published": "2026-11-14T05:00-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Pixel Scroll 11/13/26 The GPU Tycoon Had A Harsh Mistress (Or Two)",
-   "link": "https://file770.com/pixel-scroll-11-13-26-the-gpu-tycoon/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "(1) NEW SFPA PRESIDENT. The Science Fiction and Fantasy Poetry Association has announced that Miguel O. Mitchell was voted in as the next SFPA President. His term will begin January 1, 2027. (2) DOCTOR MAKES HOUSE CALL. PATIENT DIES ANYWAY. … Continue reading →",
-   "published": "2026-11-13T19:15-06:00",
-   "tags": [
-    "Pixel Scroll",
-    "Andrew Pyper Prize for Genre Fiction",
-    "auction",
-    "Audible.com",
-    "Brenda Clough",
-    "Colin Kuskie",
-    "David Bratman",
-    "David Tennant"
-   ],
-   "feed": "File 770",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3219,24 +3011,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/rains-over-babel2-740x408.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Hosting Sir Patrick at ConJosé",
-   "link": "https://file770.com/hosting-sir-patrick-at-conjose/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "By Randy Smith: The recent death of Sir Patrick Stewart* has had my mind reaching back to the one time I met him in person. In 2002, the World Science Fiction Convention, more commonly known as “Worldcon,” was held in … Continue reading →",
-   "published": "2026-11-13T03:17-06:00",
-   "tags": [
-    "Worldcon",
-    "ConJose",
-    "Patrick Stewart",
-    "Randy Smith"
-   ],
-   "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3725,19 +3499,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Studying solar storms from the bottom of the world - News Center - The University of Texas at Arlington - The University of Texas at Arlington",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2s0eFVQV3JQWEkyclA5dEdyN01DUzZWQUdBVlpVSW9tRFBTcFZCLWpxaHNVamEyVnctcUlqVkNmaXdLVWdtYzNScDBERTlhaHZHUXNabjNucjFtQktScHdxMW5NLUhUMHdhcFNCMmFMWDN5Zkp0QXl2VGhmek04UzJya0NGWlR2R25wMlllWUY3YTZMZG95M2RuTnM1M08tc3c?oc=5",
-   "source": "The University of Texas at Arlington",
-   "category": "Space Weather and Aurora",
-   "summary": "Studying solar storms from the bottom of the world - News Center - The University of Texas at Arlington The University of Texas at Arlington",
-   "published": "2026-11-10T12:01-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Pablo Neruda on How to Hold Time",
    "link": "https://www.themarginalian.org/2026/11/10/neruda-time/",
    "source": "The Marginalian",
@@ -3858,19 +3619,6 @@
     "Mars"
    ],
    "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
-   "source": "OpenAI",
-   "category": "AI and Agents",
-   "summary": "CodeRabbit scales agentic software development and ships 20x more OpenAI",
-   "published": "2026-11-09T02:00-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -4480,19 +4228,6 @@
     "Tragedy"
    ],
    "feed": "Damn Interesting",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Otherworldly Sounds of a Giant Gong",
-   "link": "https://kottke.org/19/07/the-otherworldly-sounds-of-a-giant-gong",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Listen in as “Gong Master Sven” plays a gong that’s 7 feet across. (No seriously, listen…it’s wild. Headphones recommended.) Ok, show of hands. How many of you of thought it was going to sound like that? I had no idea! He barely hits it! The whole thing sounded like a horror movie soundtrack or slowed-down pop songs . Here’s another demonstration, with some slightly harder hits: The Memphis Gong Chamber looks like an amazing place . Watching this on YouTube, we’re missing out on a lot of the low-end sounds: And if you were actually standing here like I am, you can feel all your internal organs being massaged by the vibrations from this. It’s really quite the experience. This guy drags some o",
-   "published": "2019-07-02T09:38-05:00",
-   "tags": [],
-   "feed": "Kottke",
    "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
