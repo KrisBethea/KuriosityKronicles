@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-18T01:28-06:00",
- "count": 257,
+ "generated": "2026-11-18T11:15-06:00",
+ "count": 288,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -24,14 +24,14 @@
   "Astronomy and Space | Universe Today": {
    "url": "https://www.universetoday.com/feed",
    "ok": true,
-   "kept": 7,
+   "kept": 8,
    "entries": 20,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 13,
+   "seen_or_dup": 12,
    "no_title_or_link": 0
   },
   "Astronomy and Space | ESA Space Science": {
@@ -56,13 +56,13 @@
   "Astronomy and Space | Sky and Telescope News": {
    "url": "https://www.skyandtelescope.com/astronomy-news/feed/",
    "ok": true,
-   "kept": 4,
+   "kept": 5,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 3,
+   "old": 2,
    "seen_or_dup": 3,
    "no_title_or_link": 0
   },
@@ -70,12 +70,12 @@
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 5,
-   "entries": 66,
+   "entries": 65,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 60,
+   "old": 59,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
@@ -83,12 +83,12 @@
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 5,
-   "entries": 44,
+   "entries": 45,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 39,
+   "old": 40,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -133,13 +133,13 @@
   "Weather & Meteorology | Google News severe weather science": {
    "url": "https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 3,
+   "kept": 2,
    "entries": 17,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 14,
+   "old": 15,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -166,7 +166,7 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Weather & Meteorology | Google News Minnesota and Midwest weather": {
@@ -224,13 +224,13 @@
   "DotNet and Development | Microsoft Azure Blog": {
    "url": "https://azure.microsoft.com/en-us/blog/feed/",
    "ok": true,
-   "kept": 0,
+   "kept": 6,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 9,
+   "old": 3,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
@@ -250,13 +250,13 @@
   "AI and Agents | Microsoft Foundry Blog": {
    "url": "https://devblogs.microsoft.com/foundry/feed/",
    "ok": true,
-   "kept": 2,
+   "kept": 7,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 8,
+   "old": 3,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -277,7 +277,7 @@
    "url": "https://openai.com/news/rss.xml",
    "ok": true,
    "kept": 20,
-   "entries": 1406,
+   "entries": 1408,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -289,13 +289,13 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 13,
-   "entries": 63,
+   "kept": 11,
+   "entries": 60,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 50,
+   "old": 49,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -329,20 +329,20 @@
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 20,
-   "entries": 76,
+   "entries": 79,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 5,
+   "old": 2,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Minnesota and Nature | Google News Minnesota astronomy": {
    "url": "https://news.google.com/rss/search?q=Minnesota+astronomy+OR+aurora+OR+observatory&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 1,
-   "entries": 57,
+   "kept": 0,
+   "entries": 56,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -354,13 +354,13 @@
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 11,
-   "entries": 30,
+   "kept": 13,
+   "entries": 33,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 19,
+   "old": 20,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -387,7 +387,7 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 3,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Curious Discoveries | Damn Interesting": {
@@ -418,12 +418,653 @@
   },
   "Wildcard | Kottke": {
    "url": "https://feeds.kottke.org/main",
-   "ok": false,
-   "error": "network: [Errno 101] Network is unreachable",
-   "kept": 0
+   "ok": true,
+   "kept": 20,
+   "entries": 60,
+   "dropped_rust": 0,
+   "dropped_drama": 0,
+   "skipped": 0,
+   "held": 0,
+   "old": 0,
+   "seen_or_dup": 0,
+   "no_title_or_link": 0
   }
  },
  "items": [
+  {
+   "title": "Casually Classic: Can Blizzard resist making the same mistakes with WoW Forever? - Massively Overpowered",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaGJTcm50ZXJGekFreWRhR1h0UjdqZGF5RTh6UGNEWFFaOEQ0UmhSSXk0czIxN1dDU3F4SUlzRE5mMHByWjIxRE1scDU2SEZmLXNiVHpWdzlldm5NYXlvbEU4Yy0yU04xTzVQUGRhOWdtRG9PVUhnbXRYM1lNUnlTbnYwN09iZDFQaXB5blpZS3ZvZE1ST3VTWmNZX1NSYnlFWnhRQTZFWnU1YWt4QmhLNFZLM2w?oc=5",
+   "source": "Massively Overpowered",
+   "category": "Weather & Meteorology",
+   "summary": "Casually Classic: Can Blizzard resist making the same mistakes with WoW Forever? Massively Overpowered",
+   "published": "2026-11-18T11:00-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hosted agents in Foundry Agent Service at Ignite 2026: from pilot to production inside your enterprise boundaries",
+   "link": "https://devblogs.microsoft.com/foundry/hosted-agents-foundry-agent-service-ignite-2026/",
+   "source": "Microsoft Foundry Blog",
+   "category": "AI and Agents",
+   "summary": "Over the last few months I’ve worked with a lot of teams taking a hosted agent from pilot to production. A working demo is only the start. The questions that decide whether it ships come next: Will the subnet hold up when usage takes off? Can the agent call internal services that use our own certificates? Where exactly can it connect, and who decides? Can it run on the Azure Kubernetes Service (AKS) clusters we already operate? And what happens when a two-hour job gets interrupted? At Microsoft Ignite 2026, we’re announcing a solution to each of these challenges for hosted agents in Foundry Agent Service. Below you’ll find what’s new, what you can use today, and what’s still to come. The egr",
+   "published": "2026-11-18T11:00-06:00",
+   "tags": [
+    "Agents",
+    "Foundry Agent Service",
+    "Microsoft Foundry",
+    "aks",
+    "Hosted Agents",
+    "ignite-2026",
+    "network-egress"
+   ],
+   "feed": "Microsoft Foundry Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/hosted-agents-ignite-2026.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Browser Automation Tool in Microsoft Foundry : Ignite’26 Announcements",
+   "link": "https://devblogs.microsoft.com/foundry/browser-automation-tool-ignite/",
+   "source": "Microsoft Foundry Blog",
+   "category": "AI and Agents",
+   "summary": "Enterprise-ready cloud browsers for every agent Much of the work that keeps a business running still happens in a browser: internal portals, vendor consoles and legacy apps with no API. The Browser Automation tool in Foundry Agent Service, powered by Azure Playwright Workspaces , is now generally available. It gives every Foundry agent secure, scalable browsers with isolated sessions, and includes the following capabilities: Efficiency: Expanded MCP tool primitives with action batching (GA) Human-in-the-loop: Live View and Take control for authentication and steering the agent (GA) Networking: Private websites with VNet injection (preview) Observability: Traces, Session recording (GA) This I",
+   "published": "2026-11-18T11:00-06:00",
+   "tags": [
+    "Microsoft Foundry",
+    "agents",
+    "Browser Automation",
+    "ignite",
+    "mcp",
+    "playwright workspaces"
+   ],
+   "feed": "Microsoft Foundry Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2025/11/cropped-Microsoft-Foundry.2mb-scaled-1.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Foundry Dev Pack is here: build Foundry agents your way",
+   "link": "https://devblogs.microsoft.com/foundry/the-foundry-dev-pack-is-here-build-foundry-agents-your-way/",
+   "source": "Microsoft Foundry Blog",
+   "category": "AI and Agents",
+   "summary": "Your next agent can start wherever you like to build: in your editor, at the terminal, or with your favorite coding agent. At Microsoft Ignite, we’re making that first step easier: the Foundry Dev Pack (aka.ms/foundrydevpack) is now generally available , bringing the Microsoft Foundry developer tools to your machine in a single install. Move from setup to building, debugging, evaluating, and deploying agents in the environment you already know. The Dev Pack combines the Foundry CLI ( azd ai ) and Microsoft Foundry Skill, and installs the Foundry Toolkit for VS Code and Foundry plugin for the GitHub Copilot app when those apps are present. It builds on a major milestone from November 5: the F",
+   "published": "2026-11-18T11:00-06:00",
+   "tags": [
+    "Agents",
+    "Foundry Agent Service",
+    "Microsoft Foundry"
+   ],
+   "feed": "Microsoft Foundry Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/Foundry-dev-pack.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "What’s new in Foundry Agent Service at Ignite 2026",
+   "link": "https://devblogs.microsoft.com/foundry/whats-new-in-foundry-agent-service-at-ignite-2026/",
+   "source": "Microsoft Foundry Blog",
+   "category": "AI and Agents",
+   "summary": "Your customers don’t judge agents by how well they demo. They judge them by whether the work gets done: the case resolved, the report delivered, the follow-up sent. That takes more than a model. It takes the right context and tools, a runtime that holds up under real demand, and a way to keep improving once real users put agents to work. At Ignite 2026 , Foundry Agent Service delivers new capabilities to get you there across the agent lifecycle: Build, Deploy, and Operate. Build more capable agents faster with the managed Microsoft Copilot harness, real-time voice, and richer tool connections. Deploy them at scale with enterprise controls, and bring them into Microsoft 365 where people alrea",
+   "published": "2026-11-18T11:00-06:00",
+   "tags": [
+    "Agent Optimizer",
+    "Agents",
+    "Foundry Agent Service",
+    "Microsoft Foundry",
+    "toolbox",
+    "What's New"
+   ],
+   "feed": "Microsoft Foundry Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/Whats-in-In-Foundry-Agent-Service.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Build once, reuse across your agent fleet: Tools and Toolboxes in Foundry",
+   "link": "https://devblogs.microsoft.com/foundry/build-once-reuse-across-your-agent-fleet-tools-and-toolboxes-in-foundry/",
+   "source": "Microsoft Foundry Blog",
+   "category": "AI and Agents",
+   "summary": "Connecting one tool to one agent is not hard. The challenge is managing a useful set of tools and agentic capabilities across a fleet of production agents at scale. Every new agent shouldn’t require you to build the same integrations, copy the same instructions, and troubleshoot the same dependencies. And adding a useful capability shouldn’t require a separate rollout in every agent application. Toolboxes in Microsoft Foundry turn tools, skills , and agents into shared capabilities. Curate and version them in Foundry, expose them through one MCP endpoint, and reuse them across Foundry agents and other MCP-compatible frameworks and runtimes. Toolbox centralizes downstream authentication, so e",
+   "published": "2026-11-18T11:00-06:00",
+   "tags": [
+    "Microsoft Foundry"
+   ],
+   "feed": "Microsoft Foundry Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/ignite26-foundry-tools-toolboxes-cover.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Video Nasties & Me",
+   "link": "https://reactormag.com/video-nasties-personal-horror-history/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Featured Essays censorship Video Nasties & Me Sometimes a list of banned movies can become a syllabus. By Rachel Meghan Published on November 18, 2026 Credit: United Artists Europa Credit: United Artists Europa I was a frequent patron of my local comic book store in my dusty Southern California town. I wasn’t a comic book reader, but all of the horror merchandise kept me coming back. (My father was a big horror movie fan, and imparted his taste onto me.) I stopped into that little comic book shop in the mall that day, looking for the latest issue of Fangoria , when the clerk gave me a tip that would change my life. ”You should read Rue Morgue ,” he told me. “It’s a more subjective magazine, ",
+   "published": "2026-11-18T11:00-06:00",
+   "tags": [
+    "Blog",
+    "censorship",
+    "Dario Argento",
+    "Evil Dead",
+    "Fangoria",
+    "Horror",
+    "Margaret Thatcher",
+    "personal essays"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/Video-Nasties-Cannibal-Holocaust-740x493.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
+   "link": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "Above the village of Kalnik in northern Croatia, the walls of Veliki Kalnik Castle rise from a jagged rocky ridge. Built across several levels, the medieval stronghold follows the natural contours of the rock, making its surviving towers and walls appear to grow out of the mountain. First documented in 1243, the castle is best known for a story involving King Béla IV of Hungary and Croatia. According to local legend, the king took refuge here during the Mongol invasion of the 13th century. As the siege dragged on and supplies dwindled, villagers kept the defenders fed with plums. The grateful king is said to have rewarded his rescuers with noble status. They became known as the kalnički šlji",
+   "published": "2026-11-18T11:00-06:00",
+   "tags": [
+    "legends",
+    "castles"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/dSAQzgTntjc07DfK4OIJXqVFaQtPtPxXgU7b5t2EfoU/rs:fill:300:200:1/g:ce/c:1208:805:nowe:4:23/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZGY0/NzYzMC01OGYyLTQ1/MGQtYjVhNy1iODU3/MGEyZjRmYzg3YjQx/ZWJiODZiZmNjMzhk/NjBfMTAwMDA1ODkw/MC5wbmc.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Watch Jupiter's Moons Eclipse and Occult One Another",
+   "link": "https://skyandtelescope.org/astronomy-news/watch-jupiters-moons-eclipse-and-occult-one-another/",
+   "source": "Sky and Telescope News",
+   "category": "Astronomy and Space",
+   "summary": "Jupiter routinely occults and eclipses its four bright Galilean moons. Over the next few months, the moons get in on the act, eclipsing and occulting one another! The post Watch Jupiter's Moons Eclipse and Occult One Another appeared first on Sky & Telescope .",
+   "published": "2026-11-18T10:46-06:00",
+   "tags": [
+    "Astronomy & Observing News",
+    "Astronomy Blogs",
+    "Celestial News & Events",
+    "Celestial Objects to Observe",
+    "Explore the Night with Bob King",
+    "Night Sky Sights",
+    "Planets",
+    "Solar System"
+   ],
+   "feed": "Sky and Telescope News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Beautiful Bacteria",
+   "link": "https://kottke.org/26/11/beautiful-bacteria",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Tal Danino is a synthetic biologist who works with bacteria, scientifically and artistically. His aesthetic explorations of bacteria, Microbial Rainbow and Microuniverse , have resulting in a book called Beautiful Bacteria ( Amazon ). You can check out more of his bacterial photos at TED , The Guardian , Seed , and The Marginalian . Tags: art · bacteria · photography · Tal Danino",
+   "published": "2026-11-18T10:44-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "First Alert: Atmospheric river makes landfall in Southcentral, causing weather alerts and flooding concerns - Alaska's News Source",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEdOOW5lWDNIWGpKbEItVFNDLW9VWW43ak5JTncxeWllWFVvWTFRd3FnSGx6ZUg1aEdjTklEY1Q2bVl1WUQzNUx1TGV0M2QyQ3NBaEZrekNTT0xHZjdEOVZfR3g5aThlNWQwUkJ6OVBfcFVLUjNyT3VqVWR6VEF1VDRpRXBXck55QVd0MEtZZ1QtekIyejQ2UjYxUVBQSnp3ZGRDR3hUSFBhT1lVcHVUUGNVMm5BY2ozazJoREhXMFdUSzcxU0JHZ2FDNmR3YXNSbUNJd2ZvSnBSb1kxU1ZUeGRKSTA?oc=5",
+   "source": "Alaska's News Source",
+   "category": "Weather & Meteorology",
+   "summary": "First Alert: Atmospheric river makes landfall in Southcentral, causing weather alerts and flooding concerns Alaska's News Source",
+   "published": "2026-11-18T10:40-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Remarkable Observatory Receives Orbital Radio",
+   "link": "https://hackaday.com/2026/11/18/remarkable-observatory-receives-orbital-radio/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "There’s nothing quite so nostalgic as the time honored tradition of tuning across the HF bands, picking out signals from the noise. Add satellites and VHF/UHF to the mix, then replace the old shortwave receiver with a smattering of software-defined radios. With an ESP32 controlled antenna switch (and the matching antennae), some Python, and a dash of Claude Code, and you’re approaching what [Tommy Lather] has done with his Starlab Observatory . Determined to find out what was inhabiting his local electromagnetic spectrum, [Tommy] picked up a cheap RTL-SDR receiver and an antenna. The goal? Receiving some ISS image transmissions. The results? Let’s say mixed . But it lit a fire, and soon, he had more hardware than he could handle on his own. The slope became slippery, and before he knew it, the Starlab Observatory was an Open Source GitHub Project ! What makes it an Observatory instead of a random menagerie of radio memorabilia? Intelligence. An ESP32 based antenna switch takes commands from a dedicated Ubuntu computer. The PC, running Starlab , predicts satellite passes, and selects the correct receiver and antenna combination to receive data, which then gets logged and processed. Multiple jobs can run at once. The RF spectrum doesn’t stand a chance! We have to wonder if a fully programmable az-el mount such as the AntRunner isn’t in [Tommy]’s near future! Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-18T10:30-06:00",
+   "tags": [
+    "Radio Hacks",
+    "observatory",
+    "radio",
+    "reciever",
+    "satellite"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/satimg_featured.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Atmospheric river drenches SF, bringing flood threat and damaging winds - The San Francisco Standard",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEZnbGxVNHVGTGwzSzYyNGlyaUkzZG1SdWhIakIwNDUtbktKZl9PREEySWNoOFh2U0prTHBmbnFaWFY2cHVCWmh4cFNFSnlhMU1sVDloek4weWhsX09VNmdoY2UyaGFXWnpHUUJZZ0dzUlRLNVN4d1I3ekpnSURSQm9oeUtEckZuNEtMdHRUdXh2czAySFdyNnpxRDdRVWw4b0w0?oc=5",
+   "source": "The San Francisco Standard",
+   "category": "Weather & Meteorology",
+   "summary": "Atmospheric river drenches SF, bringing flood threat and damaging winds The San Francisco Standard",
+   "published": "2026-11-18T10:15-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+   "link": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "Explore Webb Science James Webb Space Telescope (JWST) NASA Data Clinches… Webb News Overview Science Observatory Multimedia Team More 7 Min Read NASA Data Clinches First-of-Its-Kind Stellar Merger In December 2025, observations from NASA’s James Webb Space Telescope provided the final evidence that allowed researchers to fully reconstruct what happened before, during, and after the merger of a binary star system nicknamed Bao in the Andromeda galaxy. Credits: Image: NASA, ESA, CSA, STScI, Viraj Karambelkar (Columbia), Kishalay De (Columbia); Image Processing: Alyssa Pagan (STScI); Acknowledgment: DSS, Robert Gendler Researchers recently identified a first of its kind: A star slightly less m",
+   "published": "2026-11-18T10:00-06:00",
+   "tags": [
+    "Astrophysics",
+    "Astrophysics Division",
+    "Binary Stars",
+    "Galaxies",
+    "Goddard Space Flight Center",
+    "James Webb Space Telescope (JWST)",
+    "Science & Research",
+    "Sensing the Universe & Multimessenger Astronomy"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6GTRN4J7R6FEJ4AJXM567QT.jpg?w=1536&h=1536&fit=clip",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Wax: A Trippy Art Film About Transcending Time and Space… and Beekeeping",
+   "link": "https://reactormag.com/wax-a-trippy-art-film-about-transcending-time-and-space-and-beekeeping/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Column Science Fiction Film Club Wax : A Trippy Art Film About Transcending Time and Space… and Beekeeping This was the first movie to stream on the internet — perhaps fittingly, it is a weird one. By Kali Wallace Published on November 18, 2026 Credit: David Blair Credit: David Blair Wax, or the Discovery of Television Among the Bees (1991) Written by, directed by, and starring David Blair. On May 22, 1993, people gathered in a handful of computer laboratories across the United States. They had come together for a normal Saturday night activity: to watch a film. These days, of course, it’s perfectly ordinary to watch a film on your computer, but that wasn’t the case in 1993. For one thing, a",
+   "published": "2026-11-18T10:00-06:00",
+   "tags": [
+    "Blog",
+    "bees",
+    "experimental films",
+    "Science Fiction",
+    "Science Fiction Film Club",
+    "Weird Fiction"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/Wax-or-the-discovery-of-television-among-the-bees-header-740x423.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+   "link": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+   "source": "Quanta Magazine",
+   "category": "Astronomy and Space",
+   "summary": "Maurits Cornelis Escher didn’t plan on becoming the darling of mathematicians. Born in 1898 in the canal-lined city of Leeuwarden in the Netherlands, Escher struggled with mathematics as a student, once remarking that he “never got a pass mark.” He ended up studying decorative arts and printmaking, and he used his artwork to explore the strange rules of nature that he found operating around him. Source",
+   "published": "2026-11-18T09:51-06:00",
+   "tags": [
+    "Mathematics"
+   ],
+   "feed": "Quanta Magazine",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2042/11/ImageGallery_EscherMath-crSEENOTES-Default.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "A secret US report from 1943 evaluated Adolf Hitler’s...",
+   "link": "https://kottke.org/26/11/0050018-a-secret-us-report-from-1",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "A secret US report from 1943 evaluated Adolf Hitler’s psychological profile . “Langer noted that Hitler accused his political opponents of the ‘bombardment of lies’ that Hitler himself assailed them with.”",
+   "published": "2026-11-18T09:51-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Richfield resident lands state record after catching gar on Mississippi River - Bring Me The News",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS3lwTV83SEprWng2bElmWm1YUVpnYzRIRUxVUTZWQzRFN01Pem5JTXNpMHI4RmNjNy1aUzhXX0pLMmRBbllwLWQ2bzY1Y0o4UW9HN0FKRGhzWFFvY0NBODE1NmdQSk4xN3Zaa0FwMm1oQnhPbnI3OUtNbWZsWlhRa2ZYYXJrMXhTRllFNVdIUXhCRWlRUUtjcHYxYnNOUXFOeFhMVzI5ZEhaVUhxakVEZjE3UmJkaEh2dTYxZlVsMEtwZw?oc=5",
+   "source": "Bring Me The News",
+   "category": "Minnesota and Nature",
+   "summary": "Richfield resident lands state record after catching gar on Mississippi River Bring Me The News",
+   "published": "2026-11-18T09:45-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Read Receipts: Dystopia Book Club — The School for Good Mothers, Severance, Rise of the Red Hand, Divergent",
+   "link": "https://reactormag.com/read-receipts-dystopia-book-club-november-18-2026/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Books Read Receipts Read Receipts: Dystopia Book Club — The School for Good Mothers , Severance , Rise of the Red Hand , Divergent “I like to call it uterus dystopias.” By Reactor Published on November 18, 2026 We are so pleased to share this week’s episode of Read Receipts, in which the Reactor team got together for a unique book club: Each person selected a different title all within the category of dystopian fiction to discuss with the group. Today’s episode features Bailey Simer, Alex Brown, and Natalie Zutter—we’re discussing The School for Good Mothers by Jessamine Chan, Severance by Ling Ma, Rise of the Red Hand by Olivia Chadha, and Divergent by Veronica Roth. View on Zencastr Episod",
+   "published": "2026-11-18T09:30-06:00",
+   "tags": [
+    "Blog",
+    "Divergent",
+    "dystopia",
+    "dystopian fiction",
+    "Podcasts",
+    "Reactor Podcasts",
+    "Read Receipts",
+    "Read Receipts Book Club"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/10/Read-Receipts-Horizontal-Banner-1400-x-700-740x370.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Charity wins global citizenship award at Scotland's health awards - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1seFBjSFItV3BYQ2V5bHRUY005YTZMLU9HLWZxb0Q2WjltT0l2ZlZvUmNTRnlwUmVGTDZpS3k2YU9JWVAwc0wwcXljZGg0TlJxR18yQmN5TmdITDA?oc=5",
+   "source": "BBC",
+   "category": "Science Fiction",
+   "summary": "Charity wins global citizenship award at Scotland's health awards BBC",
+   "published": "2026-11-18T09:20-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "New Friday the 13th Movie Reveals a Cast of Mostly Unknown Actors",
+   "link": "https://reactormag.com/friday-the-13th-jason-cast-2027/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "News Friday the 13th New Friday the 13th Movie Reveals a Cast of Mostly Unknown Actors Everyone named Jason is groaning right now By Molly Templeton Published on November 18, 2026 Photo Credit: Paramount Pictures Photo Credit: Paramount Pictures Just days ago, we learned that a new movie in the Friday the 13th franchise is imminent. Well, imminent-ish: 2027 is just around the corner, whether we like it or not. And next year, Steve Miner (director of Friday the 13th Part 2 and Part 3 ) returns to the series to direct a movie simply called Jason . No plot details have been announced, but we do have a whole cast. Schuyler White returns to the role of Jason Voorhees after playing the character i",
+   "published": "2026-11-18T09:18-06:00",
+   "tags": [
+    "Blog",
+    "David Fliegel",
+    "Friday the 13th",
+    "Horror",
+    "Jason",
+    "news",
+    "Steve Miner"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/Friday-the-13h-Jason-740x414.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Microscopic Space Dust Reveals A Hidden Reservoir Of \"Heavy Water\" Beyond Neptune",
+   "link": "https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Astronomers can find valuable information in even the tiniest objects. That was certainly the case recently when twelve dust grains collected by a high-altitude aircraft helped solve a mystery about the birth of our Solar System. Or at least that is the argument in a new paper published in Science Advances by researchers at NASA’s Johnson Space Center and UCLA. According to the paper, the region beyond Neptune once had a massive isolated reservoir of “heavy water” that never mixed in with the inner planets.",
+   "published": "2026-11-18T09:01-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/ER-2_Cosmic_Dust_Collection_Mission_ED09-0104-01_20261118_145833.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "We’re Hiring: Come Join Us!",
+   "link": "https://hackaday.com/2026/11/18/were-hiring-come-join-us-8/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "You wake up in the morning, and check Hackaday over breakfast. Then it’s off to work or school, where you’ve already had to explain the Jolly Wrencher to your shoulder-surfing colleagues. And then to a hackspace or back to your home lab, stopping by the skull-and-cross-wrenches while commuting, naturally. You don’t bleed red, but rather #F3BF10. It’s time we talked. The Hackaday writing crew goes to great lengths to cover all that is interesting to engineers and enthusiasts. We find ourselves stretched a bit thin and it’s time to ask for help. Want to lend a hand while making some extra dough to plow back into your projects? We’re looking for contributors to write a few articles per week and keep the Hackaday flame burning. Contributors are hired as private contractors and paid for each article. You should have the technical expertise to understand the projects you write about, and a passion for the wide range of topics we feature. You’ll have access to the Hackaday Tips Line, and we count on your judgement to help us find the juicy nuggets that you’d want to share with your hacker friends. If you’re interested, please email our jobs line (jobs at hackaday dot com) and include: Why can’t you openly tell how much do you pay for an article? Being a valuable addition to the team is not enough to fill my toilet with poo every other day. “You should have the technical expertise to understand the projects you write about,” How a this a new requirement? Have you considered applying it retroactively? Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-18T09:00-06:00",
+   "tags": [
+    "Hackaday Columns",
+    "contributor",
+    "hiring"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2014/11/2014-11-21_had_help_wanted_744.png",
+   "summary_from": "page"
+  },
+  {
+   "title": "Cold War Science Fiction Stories That Imagine America’s Inevitable Defeat",
+   "link": "https://reactormag.com/cold-war-science-fiction-stories-that-imagine-americas-inevitable-defeat/",
+   "source": "Reactor",
+   "category": "Science Fiction",
+   "summary": "Books reading recommendations Cold War Science Fiction Stories That Imagine America’s Inevitable Defeat How will we lose the Cold War? Let me count the ways… By James Davis Nicoll Published on November 18, 2026 Art by Paul Alexander Art by Paul Alexander Because one fifth of the reviews on James Nicoll Reviews are of works that I read when I was a teen—which is to say, sometime between 1974 and 1981—I often encounter alarmed discussions by SF (and SF-adjacent) luminaries about the balance of power between the West and the Communists. The situation was dire! Among the many advantages enjoyed by the Reds, according to these discussions: a command economy immune to the vagaries of the market, a",
+   "published": "2026-11-18T09:00-06:00",
+   "tags": [
+    "Blog",
+    "Alternate History",
+    "Arthur C. Clarke",
+    "C.G. Edmondson",
+    "C.M. Kotlan",
+    "classic SF",
+    "Cold War",
+    "Poul Anderson"
+   ],
+   "feed": "Reactor",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://reactormag.com/wp-content/uploads/2026/11/tales-of-ten-worlds-art-by-paul-alexander-740x423.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hunters can log in deer and wildlife sightings - Mesabi Tribune",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR1NxdmQ5MVpocW5YSGxHUTR1MU1lVGdnMVpiTTF4dVN6OTZOaW02dkdMc0k1eGpIMTlJSWZiUGdUVU5STThqTk1DVHpyRzlMRzJQQ1g2aE9GellFTzB5dm9oNWZ5bjhhckN2V0RUYjl6Mnp0RFJOcFBvNkJONkhUWHRCaEJ3NU1vZ3JFd3VHYkhwZzg1dndJVGF6bXhzdDdmbDNEcU5SYU1oQldNOGx0aTFHN1NPZllNRjktQ1BrSlhZSGJBaGN4REo3cmpYT1k?oc=5",
+   "source": "Mesabi Tribune",
+   "category": "Minnesota and Nature",
+   "summary": "Hunters can log in deer and wildlife sightings Mesabi Tribune",
+   "published": "2026-11-18T09:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Crucified Tongkonan of Tolu Deri in North Toraja Regency, Indonesia",
+   "link": "https://www.atlasobscura.com/places/the-crucified-tongkonan-of-tolu-deri",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "In the highland villages of North Toraja, the skyline is dominated by tongkonan —traditional ancestral houses with sweeping, boat-shaped saddle roofs that loom dramatically over the landscape. For centuries, these wooden structures have served as the spiritual and social anchor for Torajan clans, decorated strictly according to Aluk Todolo (\"the way of the ancestors\"), the indigenous animist belief system. Their facades are traditionally adorned with carved geometric patterns ( pa'ssura' ), water buffalo horns ( kabongo' ), and sculpted wooden heads ( katik ) symbolizing wealth, status, and protection. However, in the small hamlet of Tolu Deri, just north of Rantepao, one particular tongkona",
+   "published": "2026-11-18T09:00-06:00",
+   "tags": [
+    "christianity",
+    "religion"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/u5Ne-ZlgOpEjelbJogjTHLLiqcHxkpjoAX6XM344thY/rs:fill:300:200:1/g:ce/c:1440:960:nowe:0:588/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMjFh/MWYwOS0xZmIxLTQ0/M2EtYWQ2OS0wOTYz/YzE4MzZjOWQ3ZWZl/NDFhMmU3Njg0ZjY4/NTJfUDkwMjI2MTMu/anBn.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "This cloud forest in Costa Rica is losing its clouds....",
+   "link": "https://kottke.org/26/11/0049999-this-cloud-forest-in-cost",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "This cloud forest in Costa Rica is losing its clouds . “Tropical cloud forests make up only 0.4% of the Earth’s land surface, but support 15% of all birds, mammal, amphibians and tree fern species, half of them found only in cloud forests.”",
+   "published": "2026-11-18T08:49-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "One in Four Organizations Now Run AI Agents on APIs in Production, Postman’s 2026 State of the API Report Finds - Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcTdBUURKQ2ZrbE1GSkFfQjVfMDZPdVlGZ1psYVJwQXJYOUJMajktMU9kQzgxQlp5elI0QUdlaW0zMTEyNUU3SDFwaXJ5NUU0T05FRjdzVUpfbDR4MWxpUmFjV1N6S0tlUFFrZVlkZEVYWHJfNFVEdWdjN0pmUmNKcF9EZDVZRXhvUkNnTWZkcXdJVEU3QkFLTzlYR096NWNOY2l0UlNyVGdxN1NFLVU0MGJlMDFKS1pMRUJ4Uzd4VDZnejVOSlZ3Y3RIc05qMHRibGc5UkF0d0tnWnNZZU5mc0pkYlI1SDBHbEJHc2FuTEF1ekV3b2dMNlFn?oc=5",
+   "source": "Business Wire",
+   "category": "AI and Agents",
+   "summary": "One in Four Organizations Now Run AI Agents on APIs in Production, Postman’s 2026 State of the API Report Finds Business Wire",
+   "published": "2026-11-18T08:00-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Digital.ai Release 26.3 Brings AI Agents into Governed Enterprise Delivery - Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcFNjYXI0TE1CTURrTUNpRmRRT0ItVWU0d0EtaVZiYW1vZUxUelNzMEpaSDg0ekJFRFk1b2VPbXgtVEdGN2NvUnM0d2dBajlCZFZKNlRYdTAxSmtjOEtTbkJwR2VTZGxfQjNOZ2o5T1hjQll4QmlwdEtzZEZuNndpdm0zX1lHM1dEeGI1TXhwdkR2WGExaldpRFlkci1sWEY1RmxBdjJiTFpDOXFyd0sybWNXQzBSRHlCWWlUQjN5Z0g0UE1lZjhSUG5VSQ?oc=5",
+   "source": "Business Wire",
+   "category": "AI and Agents",
+   "summary": "Digital.ai Release 26.3 Brings AI Agents into Governed Enterprise Delivery Business Wire",
+   "published": "2026-11-18T07:00-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Local Prusa Connect Cuts Out the Cloud",
+   "link": "https://hackaday.com/2026/11/18/local-prusa-connect-cuts-out-the-cloud/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "One of the ways 3D printing has changed over the last few years has come in the form of cloud services that exist alongside your printer. In some cases they are locked-in to using the thing, while in others such as Prusa Connect, they are an adjunct that provides useful services but doesn’t restrict the printer to using it. Now Prusa have gone a step further in keeping control closer to the owner of the printer, by releasing a local version . You can run it on your own server, giving all the benefits with none of the ties. All the code can be found in a GitHub repository , under their Open Community Licence , which makes everything available but puts some restrictions on who can use it, for example requiring that large enterprises have a paid version. As well as in code form it’s supplied pre-built for Apple, Windows, and Linux platforms, on different architectures including the Raspberry Pi. Out of the box it supports Prusa printers, but it’s not restricted to them as there is a driver API should you wish to add a non-Prusa model. We know there’s a reaction to the heavier reliance on the cloud found in for example Bambu Labs printers, and we know that some users may have commercially sensitive parts they may not wish to pass off their own network. So we see this as a clever move from Prusa, offering a more palatable way towards a networked printer service without relying on the vendor. Welcome move.. I might swap octoprint on the pi with this.. It better come with th proper camera support (not a 10Hz one) LOL no. Prusa doesn’t believe in cameras or remote monitoring. You should be spending your days babysitting your printer in person. Not because it will fail frequently (it won’t) but because you are an avid 3D printing aficionado, as Prusa is, and there is no higher c",
+   "published": "2026-11-18T06:00-06:00",
+   "tags": [
+    "3d Printer hacks",
+    "local cloud",
+    "prusa",
+    "prusa connect"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/prusa-connect-featured.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Doctor Who and Downton Abbey favourites star in first look at new BBC sci-fi thriller series coming in 2027 - Radio Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVFWZlY0Z1E2eTJQclJKMWp4czFFZ3pfMmxfeDF6eWdJZlhnWGE5ZzVEZDZSRVY5Yi0xaDV5QTQwS1FOWExDMVBfeVZPWHU4NERzZFZqRUVTRzlob1VReHV6Uk11eV9Tc0R1MnZKMGR6RDV4cWctOFprTExJVWlCbWp6bHNVOS03enpBQUFENmpEd2JDVDBfSw?oc=5",
+   "source": "Radio Times",
+   "category": "Science Fiction",
+   "summary": "Doctor Who and Downton Abbey favourites star in first look at new BBC sci-fi thriller series coming in 2027 Radio Times",
+   "published": "2026-11-18T05:41-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NASA chooses as image of the day a bright M1 solar flare from May 14, 2025 - MARCA",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjQ5aGVHSnl2LXNScF9BT3RsZjhuYTJ0eGdrOW1aaGJMeGstLVR0b0ZRSWl6WHZUbVNFVHU1YTRtVXN2VXIwSlRSRW5TTnZfM0xsWENaVURROFF1OFJnSnhnMGsyV09sWVJfQ1l2NjQ1S3FUeF9ndnVpNmJFaWQ3RHVxVWFuRjdkZEVvVG03MDEtZHBSYTFWLW5VRWs1eDM4cHZEY01hVDNfX3FqVGZHeE5KRFdLcTZBWjRwU2RQSUNfdjlUbGFKcG54eDDSAcwBQVVfeXFMT2N3MmFWdUxNNkp6bEc1R0s2anJBRkxMdS03QkFXaEhoOUlZOW95QXBZSU5Rb3I2dmZ2V3JJamxqdE1kdVFpWHhmaE9Uckx6N2lLOVRob0lLbHRTRzA0NGRYcC1kNXRxdnhfYXlTX1J6VHBRdVpUS0gxTy1MWGdqYV9UUmh3S1o3Vk5YSENWZG9xYXcwS1N3T1JoTFNiY0dQcHVsOHJiTUhHVEQtZEpodFZpb25FbkNYbkFtSDllTEk2SXdHWFF6Z0hJeDcy?oc=5",
+   "source": "MARCA",
+   "category": "Space Weather and Aurora",
+   "summary": "NASA chooses as image of the day a bright M1 solar flare from May 14, 2025 MARCA",
+   "published": "2026-11-18T05:02-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Surrey University secures £400,000 for space weather sensor - The Engineer",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMk5abk1KLW1BNmNBU2VGTzh4cnJFRzBuVy0zWXc5UlhtSG1acWVBVHlIMkJWeC1LUDUyTFMyMTNBQmRHUTRtLV9XUWJOaG51eE96TldocGVQTDVJNW9xek5zdFhldFk2T1pPazlLMnh1MDM5T05oZ0RPR2hhcEE2a3dZMkRoMlpmc1dqdFFQeDFkVDJvTk1OdE9zTlpudw?oc=5",
+   "source": "The Engineer",
+   "category": "Space Weather and Aurora",
+   "summary": "Surrey University secures £400,000 for space weather sensor The Engineer",
+   "published": "2026-11-18T04:31-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "AI Agents Could Drive the Next Open Source Software Revolution - HackerNoon",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNk1JTVVnQmI0SXF6MDk3cWlxdEluOGZwSnhFNHBGanFta0VpQk0xc2JIVU1wN0NTRDVkWTFwVFktNWUyNU14MGV2QUU1Q2lnUFBxTVpyTzNiOFgyei1uMmk0ZERmUTgwbVc4RzQtVWYzdllwamxXQjktWUZXWHBaZlozMnZKZVpYWDdtMEp3?oc=5",
+   "source": "HackerNoon",
+   "category": "AI and Agents",
+   "summary": "AI Agents Could Drive the Next Open Source Software Revolution HackerNoon",
+   "published": "2026-11-18T04:05-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Over a freeway near Los Angeles, animals can roam safely thanks to world's largest wildlife crossing - Audacy",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLWV1djVZSkNrcDB0RkVxeUllRUZ5MFVSOHZqRE1JZFZROXlFY2FUVVFmUmF0eDBYQWgwUmZmcXBKaEhxUENQTjRsWFk4VmNSWTFDd1V1dWtVWjBWbEZjSVVPZVl6Y3QtTUpkM0VZQlVWbVk0aURySEx6SVBGVHFqRjlTMzZUdUlqUzNCOGRlaTRFbHdVRzRseThjRHIwdS00S1AtX29zR0l0RXJQOTE2OHl5c1ZSRkRKR3RKeG0xYWVuSnNTNEJ6X2NHVWZaeDFmUnln?oc=5",
+   "source": "Audacy",
+   "category": "Minnesota and Nature",
+   "summary": "Over a freeway near Los Angeles, animals can roam safely thanks to world's largest wildlife crossing Audacy",
+   "published": "2026-11-18T03:09-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "AI agents will soon surpass us - InfoWorld",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanIxaElRUWVkdUlJOEIwTlpEaVhxN1FubldYSUZ1dzlUYTBTRmRsOHlidUx2OGhsWkR3VjNYS3FSdVFwbTFtcm5DOHoxemtIbElXYWt5LWVvbDI0V3dPVmYwRFVvZ1hiQVpvalZmZ0dZdUhXZzlyc1c4ZFAxejBzUFFSTQ?oc=5",
+   "source": "InfoWorld",
+   "category": "AI and Agents",
+   "summary": "AI agents will soon surpass us InfoWorld",
+   "published": "2026-11-18T03:05-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Among the Utopians: How I went to the Drive-By Truckers Heathens Homecoming West and ended up at the Conference on Utopian Studies",
+   "link": "https://file770.com/among-the-utopians-how-i-went-to-the-drive-by-truckers-heathens-homecoming-west-and-ended-up-at-the-conference-on-utopian-studies/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "By John A Arkansawyer: While changing planes in Chicago, on my way to Portland, Oregon for the Drive-By Truckers Homecoming West, I was peoplewatching. One of the many folks I noticed was a woman in a Throbbing Gristle t-shirt. You … Continue reading →",
+   "published": "2026-11-18T03:04-06:00",
+   "tags": [
+    "Poor Trufan's Almanack",
+    "John A Arkansawyer",
+    "Society for Utopian Studies",
+    "utopia"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Not-So-Large Language Model Fits On a Floppy Disk",
+   "link": "https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "At some point when hackers start pushing edge cases, nomenclature gets weird, like Large Language Models, or LLMs. At some point, the word “large” obviously becomes impossible to justify, but we’re not going to call [WollyMonjac]’s Tiny2.1 DOS PC Chatbot just a ‘language model’ — perhaps “transformer” is the better term. That’s what LLMs and not-so-L-LMs like this one are under the hood, after all. In any case, this one was written in Turbo C 2.0 by the no-debate ‘large’ LLM Fable 5.2 and trained by Opus 5.5. So for those of you who’ve got this one on their apocalypse bingo card: yes, machines are making machines. This second-gen transformer targets a 486DX or Pentium processor and runs on DOS, and you can get it onto the machine on a single period-appropriate floppy disk. The actual network is 380 KB of 8-bit weights, while the rest of the floppy would hold the handy interface. As you might imagine, it needs 540 KB of free memory to run in. The transformer holds 3,500 facts in its 367K-parameter but outside of that it makes stuff up with the reckless abandon that these models can’t escape, regardless of size. The project is of course more of a conversation-starter than anything else, though if you want to train it on your own 3,500 facts the scripts for that are on GitHub under an MIT license. We’ve seen an LLM on a 486 before, but being able to easily curate exactly what the model knows raises some interesting possibilities. One of these things is not like the others… though I will admit that my maths is bad enough that I had to check that 17 x 23 was not, in fact, 96. I’m curious to know where it got that from, though. LLMs are notoriously bad at math. There needs to be a layer to ‘catch’ math questions and feed them into a deterministic calculator for any hope of ac",
+   "published": "2026-11-18T03:00-06:00",
+   "tags": [
+    "Artificial Intelligence",
+    "dos 6.22",
+    "floppy disk",
+    "LLM"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/tiny21.png",
+   "summary_from": "page"
+  },
   {
    "title": "Linux in a Browser Tab",
    "link": "https://hackaday.com/2026/11/17/linux-in-a-browser-tab/",
@@ -444,19 +1085,6 @@
    "summary_from": "page"
   },
   {
-   "title": "Josh Allen's debut documentary showcases Buffalo's resilience during 2022 blizzard - WGRZ",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaHNIU2ppMUxjaVE2SV81dndObGhTUjd2eE1EbTlWZWEwOE9CNVVMcmFGaUNBLXB4UTFjcV9nelloZTVZWFpxV1R6ZkxjN052WmtmdmZBazBPbVdjMGRXNC1nWnA0aGZQTWRNcmJHM3VZVjJXODc0VXByQjhLQmlfMnpVRGtQZWEyY01uMWxnb1YxRmxzbzJiYVZ6eUpfcnVLNWVNdW90elFEbnpyU2dLNU5oTzZiR19YRFlTdUsyNmMwVHNFUHNSOGJENDdONWVYYVVWZGhIUVcyMVhRM1JoZXVWdkZPWTE5TUJndENvcGNDRlZfOHgxQkJIa3F2RDJMQ3kw?oc=5",
-   "source": "WGRZ",
-   "category": "Weather & Meteorology",
-   "summary": "Josh Allen's debut documentary showcases Buffalo's resilience during 2022 blizzard WGRZ",
-   "published": "2026-11-17T23:32-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Ed Kramer Sentenced to Prison for Violating Terms of Previous Child Molestation Sentence",
    "link": "https://file770.com/ed-kramer-sentenced-to-prison-for-violating-terms-of-previous-child-molestation-sentence/",
    "source": "File 770",
@@ -475,11 +1103,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "APOD: 2026 November 18 – An M-class Solar Flare",
+   "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
    "source": "NASA News",
    "category": "Astronomy and Space",
-   "summary": "APOD Science APOD APOD: 2026 November 18 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized Solar Flare Explanation: What a flare for the chromatic ! Today’s image captures a piece of the Sun ’s chromosphere , the layer of the Sun ’s atmosphere above its surface where the temperature rises . Why would the Sun become hotter farther away from its core ? This is potentially due to energy from the swirling magnetic fields extending up throug",
+   "summary": "APOD Science APOD APOD: 2026 November 18 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Medium-Sized Solar Flare Explanation: What a flare for the chromatic ! Today’s image combines a series of images taken over ten minutes capturing the Sun ’s chromosphere , the layer of the Sun ’s atmosphere above its surface where the temperature rises . Why would the Sun become hotter farther away from its core ? This is potentially due to energy from the swir",
    "published": "2026-11-17T23:05-06:00",
    "tags": [
     "APOD"
@@ -523,19 +1151,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "WoW: Forever Hotfixes - November 17, 2026 — World of Warcraft - Blizzard News",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWs3cUFPaWxRSFdDM3Rtclljdm5Xb1U1RXJ6OHZHUV9JTUhTVTlyQ3ZXNjFmS1lNQzZfUklQRHByVUFJVlYydFFWNU5TS1RJSmhlSjkyYTlzaVJnS0g0M0Z6NWo1X0EyeWhLVDdoLV9ZQjRtd2lVMUkzSzFGcUVqakFBSnc2Tk5BZU9HR1Zmaw?oc=5",
-   "source": "Blizzard News",
-   "category": "Weather & Meteorology",
-   "summary": "WoW: Forever Hotfixes - November 17, 2026 — World of Warcraft Blizzard News",
-   "published": "2026-11-17T21:29-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Pixel Scroll 11/17/26 For A Few Pixels More",
    "link": "https://file770.com/pixel-scroll-11-17-26-for-a-few-pixels-more/",
    "source": "File 770",
@@ -571,19 +1186,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "AI agents speed up development as security fixes lag, survey finds - Chosunbiz",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpVDhMVTlnQVFWb29fbUI4c3pvaWtkYjc4UWUtVE55SE9yWkFfLUJWaGFLQ1cyTlVpY0pXRFFaMnhPd3k3Y01sallqOTh3bXFxaVZZNVVVQURfQy1oOWJsRXlhcjlrSHJmcU1TVl8tOWFDa01HdDlQMXNB0gGOAUFVX3lxTE1zYU1qLVozM1RxdUJVbG5UYWJsOUo2Y0VJUkNLcXJ2UG9kM0JwbWhJaVJNMGI4TEE1SGN5NDY4R1BHWnc0NWRGekVyNE9mcVlwNHhqeHgyaVp2Mnd6Q3lkeExfVW1xd1FqXzBrcXdNd1NFOWZXMk1kU3ZENXo2T3V5ejBPNHdDWXRnajFTZkE?oc=5",
-   "source": "Chosunbiz",
-   "category": "AI and Agents",
-   "summary": "AI agents speed up development as security fixes lag, survey finds Chosunbiz",
-   "published": "2026-11-17T21:17-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Coding on Windows? Redmond May Already Know.",
    "link": "https://hackaday.com/2026/11/17/coding-on-windows-redmond-may-already-know/",
    "source": "Hackaday",
@@ -604,11 +1206,24 @@
    "summary_from": "page"
   },
   {
-   "title": "A tornado warning in California? Inside a tiny coastal school’s El Nino emergency - EdSource",
+   "title": "Oooh, finally! The teaser trailer for the second season...",
+   "link": "https://kottke.org/26/11/0050026-the-teaser-trailer-for-th",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Oooh, finally! The teaser trailer for the second season of 3 Body Problem is out and they’ve announced a premiere date: January 14th.",
+   "published": "2026-11-17T20:57-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "A tornado warning in California? Inside a tiny coastal school’s El Niño emergency - EdSource",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXg2c3pqdFFPWXlZOHlmd0hyMnMxUWFuXzNibmN2R2FqM2tpcVhRZUJnMGRkTXg0VV9BYW4xa1ViN0NiMldRUUtZVGgyZFo4Ym5MSnEzTzNZNGxPNURMY0pvNW82dktNN2xkZDZ1NDB3U2Foblo0a0ZMdlZ4ZWNiM3pIdk11ejVCRENQRmV1NnFBczJ2QnRIMjNsMHEyY0tuTFVVMFR5Tm1ScUhYc1J3cjNn0gG6AUFVX3lxTE90QmR4bXJ0aWNvUW45R3RrSnNDaWhDbzc5ZjRqX0FyTTVjTlI2Qk9IMXZoYWlkNklyYUw3UW9pTTluNlpqWF90VDYtelF3V0xOMVlaVDlreHVJdmotVFZsWmdWb3lSdGVIb2FWeEtEUUx5NDdpMm05eUx5dlRpWnRYMFZDUWZBM2FJb3VUUm5WbldHRVRVTFU3dG1Xb2Z5R0JIcWpNbjZjeTdxZ3MydW80RWFPVWJPb09xZw?oc=5",
    "source": "EdSource",
    "category": "Weather & Meteorology",
-   "summary": "A tornado warning in California? Inside a tiny coastal school’s El Nino emergency EdSource",
+   "summary": "A tornado warning in California? Inside a tiny coastal school’s El Niño emergency EdSource",
    "published": "2026-11-17T20:43-06:00",
    "tags": [],
    "feed": "Google News major storms",
@@ -630,27 +1245,14 @@
    "summary_from": "feed"
   },
   {
-   "title": "Thousands of free coats available in St. Louis after tornado-affected couple fills home with donations - KMOV",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPODJKdzFqQm9jSkZQbk9ZbEl0Z1NVOEhZQ2dZUXZvTWxjMTBRandfMTg3LUFJVnZYWlNVQVJ2SHVHMWliZWQtRE9GTXNqZFBYazZuWkVxbjlIR3R3YUZiZWJUUjNfZnBJT051NFRCY1dGeWtQdE5PRmlkMU1ZNFczVDVDUS1YMllVaHVlbnJTc0JwVVpUZEp2ZzNLSS1RVi0yMGFveTlRMW5PY0JRU2FzYXBCMGN3MzJxX1VuVXpKdzVzaHVZRlc5UkY3Smx0VHph0gHkAUFVX3lxTE5HajlEdHVLS3NxSW5EWGFXdzhmRzlmS0huUmk3bVFrNnBSS0MtOVZXcGlQWWVVVl9ETE90UkZOZUpWcGNKR0dKR1RVOHhFTHFGRU53eFcxZ1JPYVQ0R2tkMjU3MkNYSW9EYlBGOVU4X2NQY3ExRmsyNXhwdXZnU1FDQXFId0lERHAxN3VPVHVZUDBuNVExSVozUkxUYnhNVVc5dUNRc1J2d3puTDM5dFlKb0NTajdSblIwZ2N1dVJhQVhJZ2VwYktla0pvTVRRWW11bFRQekl3UF9jQl9FZ0w4MXRNTw?oc=5",
-   "source": "KMOV",
+   "title": "Storms to hit drought-affected West amid year’s first big atmospheric river - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelFVNHZhQ1JFa0FHUFNMLU05dUxiMVZYY2s4eDdIb2VuX3Q0Z1hhM3VFWU5mWXl3T0diZTdzczZHc1hwc21RYmc2VXE2R0l0VVJ6aWdCb3lVRnE2dFlFdE4tbFVPVnByWmR5TE50TWdUaGZ6TDVzYkIzV0xOb3dxQXM3MUNZQVN1b1dKQjZ1UzkyN0VOSkFwV0tHWVZfVzVqSG1lSWV3Mk1BeWNRWkx0SzZwa2U0N1pxcnpZZEx4RQ?oc=5",
+   "source": "The Washington Post",
    "category": "Weather & Meteorology",
-   "summary": "Thousands of free coats available in St. Louis after tornado-affected couple fills home with donations KMOV",
-   "published": "2026-11-17T19:23-06:00",
+   "summary": "Storms to hit drought-affected West amid year’s first big atmospheric river The Washington Post",
+   "published": "2026-11-17T18:49-06:00",
    "tags": [],
    "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Sun news: Colossal storms and auroras on this day in 1882 - EarthSky",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTENXc2NPTTFabFFfamwtXzBKVjRXSzJ3ZEZwcTJXeTR4X1pZa3NQUnZPdzdOWUZkYWtlYzIzMkdsR0FmYWViR0piblRUTWtVTEdlTjJMZXN5b0g1NmFQbmhBTnFuaGZRWUJmel9VWC12M1hLNEFnM3d0eGJ6OXc?oc=5",
-   "source": "EarthSky",
-   "category": "Space Weather and Aurora",
-   "summary": "Sun news: Colossal storms and auroras on this day in 1882 EarthSky",
-   "published": "2026-11-17T19:17-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -662,19 +1264,6 @@
    "category": "Weather & Meteorology",
    "summary": "Atmospheric river to bring California heavy rain, wind, t-storms, snow. When it hits Sacramento Bee",
    "published": "2026-11-17T18:39-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Tornado damage lingers months after storm, owner claims $40K estimate vs. $5K payout - WSYX",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVZfYjlqZ0habzg0Z1k5MVhrOVdDWi0xT0lvNlYyUThGTXZLX013dGxvYnRJbmI4djlLZ3VGeF84eEVSLXlsRWZxVjlaM2NPN2ZxWG9EcFAwYlA4azY5OWRRSmFTbGlpb19JYmRrVGVCUVhENW1DR0ZyRm1xUE5tdDhrblV1Ui1QRVRQRXBUNHZjaERFRnVUYS1HNWVPNXJWVGVmSmZYZmtQNjF5NHFEQnRRTUQyN05xemUtd01uNXd5dW9KRmpnWWx3Y3ZLeWVBeXpoaA?oc=5",
-   "source": "WSYX",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado damage lingers months after storm, owner claims $40K estimate vs. $5K payout WSYX",
-   "published": "2026-11-17T18:10-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -700,6 +1289,36 @@
    "tier": "main",
    "image": "https://hackaday.com/wp-content/uploads/2026/11/mural-penplotter2.jpg",
    "summary_from": "page"
+  },
+  {
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+   "published": "2026-11-17T18:00-06:00",
+   "tags": [
+    "Company"
+   ],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Advancing chip design with OpenAI models",
+   "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+   "published": "2026-11-17T18:00-06:00",
+   "tags": [
+    "Research"
+   ],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
   },
   {
    "title": "Computer Simulations Provide the Best Explanation for Those \"Little Red Dots\" Yet!",
@@ -748,6 +1367,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Pew Research Center identified 9 main US political...",
+   "link": "https://kottke.org/26/11/0050012-pew-research-center-ident",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Pew Research Center identified 9 main US political groups : No Apologies Right, Faith First Conservatives, Unconventional Right, Pragmatic & Polite Right, Tuned-Out Middle, Order & Opportunity Left, Left-Out Left, Loyal Liberals, Leftward Progressives.",
+   "published": "2026-11-17T16:00-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "BBC Sets \"Doctor Who\" Producer Shortlist - Dark Horizons",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43RkJlTGhhSWFlVUhiQmVDdElmSEN1QTRuSHBxWm5yMGh6ekh4cGhkNnNrVnRTVzJzenVoMEdJVU1KQ3VVQzFKaHJ6cVBsRWNzeHN2Q2JaY1ZqUV85Q2NnTHBmcUpTMUdqbGxLV1ZJZVJGU0NTV1NN?oc=5",
    "source": "Dark Horizons",
@@ -774,6 +1406,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg?w=2048&h=1706&fit=clip",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Islo Secures $15 Million Investment Led by Insight Partners to Scale Enterprise Software Factory Platform - The Des Moines Register",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOalNUUjV1aW9NbzEyaHcxdGNGaFFVMFAyVjZTelpOTU5BNU9UOHl2S283REEzSXo4SXBvcDhlUGY2MGk4TUw3ZmlkU1A5Z2I5LWJuTmM3T1hmZHpla05SOGFuVVRrTlZNamZuSkJpdF9BdC1LYkNJWUV4SDl4bjJDbk5EOXZxdzE0SVZtODNGS21TbTVZbGlVVnZJcF9najFtYmdHLTRxT0pTclFfaWM4UnhUY2hHLUJxSVNYUVZTV05xVkdjYXZvVzFjRk9BNkJnNWRPVmFUSzlqLWMtNGlfN2k4WWd0VVF5VnBFaG0zUzdibU9JLTNYakZB?oc=5",
+   "source": "The Des Moines Register",
+   "category": "AI and Agents",
+   "summary": "Islo Secures $15 Million Investment Led by Insight Partners to Scale Enterprise Software Factory Platform The Des Moines Register",
+   "published": "2026-11-17T15:36-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -813,25 +1458,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Custom Firmware for Fortinet FortiGate 60 Firewall/Router",
-   "link": "https://hackaday.com/2026/11/17/custom-firmware-for-fortinet-fortigate-60-firewall-router/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "When [Matt Williams] found an old enterprise firewall in the trash, he knew he had to do something with it. After cracking it open, he found that this 2000s-era Fortinet FortiGate 60 hardware firewall has some very hackable hardware in the form of a VIA C3 mainboard. This is an x86-compatible CPU that was very popular in small form-factor and industrial solutions around 2000s, meaning that it should be able to run just about anything that’s happy to run on its 400 MHz single core. Unfortunately it wasn’t a standard Mini-ITX C3 board like the one that [Matt] also has kicking around, as that one features standard DIMMs for the memory modules. For this firewall the 128 MB of SDRAM was soldered to the board, with the only clue as to how to initialize it in the original firmware. Ergo this firmware had to be reverse-engineered to figure out just how this was supposed to happen. With that done, Linux 2.4 was happy enough to boot on it with a bit more tweaking. Using the framebuffer driver applications like DOOM happily ran, as the above graphic shows. That it’s very much green is due to only the green pin on the VGA connector being probed. Since it’s a firewall Fortinet only added a physical DE-9 port in addition to the internal IDE interface and CF card slot. If one were to wire up these pads on the mainboard to physical connectors, it would actually make for a pretty decent little system for what the kids call retro gaming these days. With all that green, it almost looks like doom on an apple II! Even if I was young and didn’t use them much, those green and amber phosphor screens will always give me the warm fuzzies…at least a little bit, whenever I see them. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet",
-   "published": "2026-11-17T15:00-06:00",
-   "tags": [
-    "Reverse Engineering",
-    "does it run doom",
-    "firewall",
-    "router hacking"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Linux_fbdoom.jpg",
-   "summary_from": "page"
-  },
-  {
    "title": "Negro Leagues Baseball Museum in Kansas City, Missouri",
    "link": "https://www.atlasobscura.com/places/negro-leagues-baseball-museum",
    "source": "Atlas Obscura",
@@ -847,6 +1473,19 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/CdDnSlinRW2lxFKBsojmt9agQmJbO3hKDDmYo13Dk8A/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNzk3/M2M2OC1kNGI1LTQ4/ZTQtOWViNS03Mjcx/MjlmMjkyM2U5Njcy/YzlhYThmYjc0NmIz/MzZfMjI2ODg1OTI2/N181NmE2ZjkwZmQy/X28uanBn.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "An Inconvenient Life",
+   "link": "https://kottke.org/26/11/an-inconvenient-life",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Lyndsay Rush , who describes herself as a “part-time poet, full-time dingdong”, goes by the handle of @maryoliversdrunkcousin on Instagram . Her forthcoming collection of poems is called Microdosing Hope (out in March 2027). I liked this one she shared recently, called An Inconvenient Life: I want a dumb phone and a smart president I want slow fashion and fast friends I want to be bored and benevolent, silly and still I want innovation that doesn’t kill and news that doesn’t break I want your email to find me lingering and lallygagging pondering and present I don’t want to save time just to waste it; Staring at screens of various sizes Tapping away the years Scrolling past everything that ma",
+   "published": "2026-11-17T14:41-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -888,7 +1527,7 @@
    "link": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
    "source": "NASA News",
    "category": "Astronomy and Space",
-   "summary": "4 Min Read New Album of Baby Star Sounds Shared by NASA’s Chandra A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe where stars are currently being born and young stars are present, astronomers can better understand the lifecycle of all stars, including our own Sun. NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida M82 The galaxy Messier 82 (M82) is called a starburst galaxy because stars are forming there at a rate tens or even hundred",
+   "summary": "4 Min Read New Album of Baby Star Sounds Shared by NASA’s Chandra A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes. By studying places in the universe where stars are currently being born and young stars are present, astronomers can better understand the lifecycle of all stars, including our own Sun. NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida M82 The galaxy Messier 82 (M82) is called a starburst galaxy because stars are forming there at a rate tens or even hundre",
    "published": "2026-11-17T14:26-06:00",
    "tags": [
     "Chandra X-Ray Observatory",
@@ -904,19 +1543,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg?w=1198&h=1280&fit=clip",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Cloud9 and JetBrains Renew Partnership, Bringing Back Sky's The Limit Hackathon - Digital Journal",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejR3Z3JkOXViS0pPUG5VYTNZQWltN2xDMW1GdzRySFlSTUUxalBqOTZSd2ZsNzJtU3dwM254Y3ZCNlVBWlctdFBpcS1OUl9lUGM0dHpjRld5akZEMzRuTDhDYmxIWG1HdkVldXJkX21FeEZGb1d1Z0NRSTV1aV9CVTNON3A3RGFJc0V2TzFuWWE4YWcwOWI3ZnNlQzNUT0NxQmFhOWQyUmpibUMyWnhEU0xTQng?oc=5",
-   "source": "Digital Journal",
-   "category": "AI and Agents",
-   "summary": "Cloud9 and JetBrains Renew Partnership, Bringing Back Sky's The Limit Hackathon Digital Journal",
-   "published": "2026-11-17T14:18-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -940,6 +1566,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/King-of-Masks-header-740x407.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Trailer for a new documentary on Jean-Michel Basquiat....",
+   "link": "https://kottke.org/26/11/0049996-trailer-for-a-new-documen",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Trailer for a new documentary on Jean-Michel Basquiat . Authorized by his family, out on Netflix Dec 11th.",
+   "published": "2026-11-17T13:56-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -975,30 +1614,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Testing TISMO Whisker-Reinforced Poticon STD1 PA Filament",
-   "link": "https://hackaday.com/2026/11/17/testing-tismo-whisker-reinforced-poticon-std1-pa-filament/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Although at first glance potassium-titanite (TISMO) whiskers don’t seem to be much of a change from chopped glass- and carbon fiber in FDM filaments, they’re really quite different. They’re not only much smaller, they’re also less abrasive, and work with 0.2 mm nozzles. Although basically just found in industrial filaments right now, [JanTec Engineering] put a spool to the test to see what these whiskers bring to the party. While at an event in Japan, [JanTec] got handed a spool of Poticon STD1 NTL34M PA filament, presumably the common PA6, AKA Nylon. In their messaging the company calls it LEXTER, a bio-based polyamide. This was subsequently put to the test after returning home, with the recommended print settings and the newly constructed testing machine, called the Atlas 2000 . This is an open source testing machine that could be handy if you have about $500 lying around and an urgent need to test the tensile, compression and bending properties of materials. The filament under test is 20% TISMO by weight, with it scoring well in the tensile strength test, while being about as brittle as the datasheet suggests. Such reinforced polymers are generally known for being stiff and brittle, so this is little surprise. Perhaps the biggest advantage of this filament is that you can print finer details with it using an 0.2 mm nozzle, making it an interesting engineering filament in that respect. Also touched upon in the video are the potential health risks of this filament, with these whiskers being definitely easy to inhale. This also is reminiscent of the potential carcinogenic risks of chopped carbon fiber, where fragments of these already small fibers can pose similar risks as asbestos. As for the constant brittleness in these purported reinforced filaments, this would seem",
-   "published": "2026-11-17T13:30-06:00",
-   "tags": [
-    "3d Printer hacks",
-    "3d printer filament",
-    "carbon fiber",
-    "engineering plastic"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/carbon_fibre_vs_tismo_whisker_jantec_engineering_youtube.jpg",
-   "summary_from": "page"
-  },
-  {
    "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
    "link": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
    "source": "NASA News",
    "category": "Astronomy and Space",
-   "summary": "A SpaceX Dragon spacecraft supporting the company’s 34th commercial resupply services mission for NASA departs the International Space Station following its undocking from the Harmony module’s forward port. Credit: NASA/Jessica Meir NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space-facing port at 11:05 a.m. EST, following a command sent by ground controllers at SpaceX’s facility in Hawthorne, California. NASA’s live coverage ",
+   "summary": "A SpaceX Dragon spacecraft supporting the company’s 34th commercial resupply services mission for NASA departs the International Space Station following its undocking from the Harmony module’s forward port. Credit: NASA/Jessica Meir Editor’s note: NASA and SpaceX are standing down from the Nov. 18 Dragon undocking opportunity from the International Space Station due to unfavorable weather conditions at the splashdown sites off the coast of California. NASA will provide additional information as it becomes available. NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier t",
    "published": "2026-11-17T13:16-06:00",
    "tags": [
     "International Space Station (ISS)",
@@ -1012,21 +1632,16 @@
    "summary_from": "feed"
   },
   {
-   "title": "Thermes Romains de Cimiez in Nice, France",
-   "link": "https://www.atlasobscura.com/places/thermes-romains-de-cimiez",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "The Roman baths of Cimiez originally belonged to the ancient Roman city of Cemenelum, located in the modern district of Cimiez, Nice. The ruins of the frigidarium of the northern baths have always been visible, never having been covered over since Roman times. The frigidarium of the northern baths was long mistakenly called the \"Temple of Apollo\". Three thermal complexes were eventually uncovered; the north, east and west complexes. The three groups follow the same layout, with the axis and the order of the rooms are identical. The ancient city's aqueducts brought water to the thermal complex. The comprehensive water drainage system consists of a complex network of sewers and canals which is",
-   "published": "2026-11-17T13:00-06:00",
-   "tags": [
-    "bath house",
-    "ruins",
-    "ancient rome"
-   ],
-   "feed": "Atlas Obscura",
+   "title": "Knithub is an app for creating and previewing knitting...",
+   "link": "https://kottke.org/26/11/0050020-knithub",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Knithub is an app for creating and previewing knitting and crochet patterns. Available on the web, iOS, and Android.",
+   "published": "2026-11-17T13:04-06:00",
+   "tags": [],
+   "feed": "Kottke",
    "evergreen": true,
    "tier": "main",
-   "image": "https://img.atlasobscura.com/wTArBDLI_5YivXGu-RhUXMZ4iCDbVM_BN0NWMD8xHXI/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hOWJk/MjM3Zi0yZDYyLTQ5/OTEtYTEwZi1mZGVi/Yzc3NTc2ZWRjNDlh/NWZlMzNlYjlkZjcy/OTFfMjM3ODguanBn.jpg",
    "summary_from": "feed"
   },
   {
@@ -1048,6 +1663,24 @@
    "summary_from": "feed"
   },
   {
+   "title": "Thermes Romains de Cimiez in Nice, France",
+   "link": "https://www.atlasobscura.com/places/thermes-romains-de-cimiez",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "The Roman baths of Cimiez originally belonged to the ancient Roman city of Cemenelum, located in the modern district of Cimiez, Nice. The ruins of the frigidarium of the northern baths have always been visible, never having been covered over since Roman times. The frigidarium of the northern baths was long mistakenly called the \"Temple of Apollo\". Three thermal complexes were eventually uncovered; the north, east and west complexes. The three groups follow the same layout, with the axis and the order of the rooms are identical. The ancient city's aqueducts brought water to the thermal complex. The comprehensive water drainage system consists of a complex network of sewers and canals which is",
+   "published": "2026-11-17T13:00-06:00",
+   "tags": [
+    "bath house",
+    "ruins",
+    "ancient rome"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/wTArBDLI_5YivXGu-RhUXMZ4iCDbVM_BN0NWMD8xHXI/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hOWJk/MjM3Zi0yZDYyLTQ5/OTEtYTEwZi1mZGVi/Yzc3NTc2ZWRjNDlh/NWZlMzNlYjlkZjcy/OTFfMjM3ODguanBn.jpg",
+   "summary_from": "feed"
+  },
+  {
    "title": "Second tornado warning canceled in Santa Cruz County - KSBW",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdm5PZzI0UERyemtNUFRZM004ak1vODNJUmZCdjJnenQ2X0htVFBkUkYzUG9JS0FvSFc5M0xDWWp2TEVnMklDMlNxbzVjSEFCUzB0Q09ZOG5DRkZ3Qkwwb0RKQlZMemJpdUlfTWE5SVRHN1dvNEYyU1NFV1NZZGYwaTJpNTRsMkpXSkFEYkhicW9FSkpRbzZHTzN0dw?oc=5",
    "source": "KSBW",
@@ -1058,6 +1691,90 @@
    "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Microsoft and Oracle bring agentic AI into flow of enterprise work",
+   "link": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
+   "source": "Microsoft Azure Blog",
+   "category": "DotNet and Development",
+   "summary": "This blog is co-authored by Arpan Shah, SVP of Oracle Databases and Muneer Mirza, VP of Multicloud at Oracle Cloud Infrastructure (OCI). Today at Microsoft Ignite, we’re bringing agentic AI into the flow of enterprise work. Our new integrations let AI agents reason across Oracle’s business-critical data—from finance and supply chain to HR and customer operations—and the work context Microsoft Work IQ understands across meetings, email, documents, and Teams. Customers can access this combined intelligence through Excel, Teams, and Microsoft Copilot. Built on Oracle AI Database@Azure , the integrations help businesses turn trusted enterprise data into insights and actions, with the choice, sec",
+   "published": "2026-11-17T12:35-06:00",
+   "tags": [
+    "AI + machine learning",
+    "Identity",
+    "Copilot",
+    "Databases",
+    "Microsoft Ignite",
+    "Microsoft IQ"
+   ],
+   "feed": "Microsoft Azure Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/azure_workload_health_upscaled.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations",
+   "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
+   "source": "Microsoft Azure Blog",
+   "category": "DotNet and Development",
+   "summary": "As AI continues to reshape how every business builds, operates, and competes, it is rapidly emerging as the defining workload in the cloud. This new class of agents, more demanding, complex, and dynamic than anything before them, is rewriting the rules of cloud infrastructure. Reasoning across multi-agent systems, drawing on rich context, acting in real time, and running continuously, they ask more of every layer of the platform beneath them. This week, we’re introducing innovations across Microsoft Azure that set a new standard for how the cloud powers AI: expanded AI core capabilities in Azure to build what’s next, and Azure Catalyst, an intelligent agent-led solution to modernize the apps",
+   "published": "2026-11-17T12:35-06:00",
+   "tags": [
+    "AI + machine learning",
+    "Compute",
+    "Containers",
+    "DevOps",
+    "Hybrid + multicloud",
+    "Microsoft Ignite"
+   ],
+   "feed": "Microsoft Azure Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-2_CTA-block.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI",
+   "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
+   "source": "Microsoft Azure Blog",
+   "category": "DotNet and Development",
+   "summary": "Azure at Microsoft Ignite 2026: The headlines Azure AI core : AI on infrastructure you control. Azure Cobalt 200 : Our highest-performing general-purpose virtual machines (VMs). Azure Catalyst : Agent-led modernization from plan to code. Agentic cloud operations : Agents that keep your cloud running well. Azure HorizonDB and Fabric HorizonDB : PostgreSQL for AI apps and analytics. Fabric apps : Governed apps built on trusted data. Microsoft IQ : Context for every agent. Over the past year, my conversations with customers have changed. A year ago, the question was which model to choose. Now it’s how to put agents to work on the processes that run the business, and how to trust them to do it. ",
+   "published": "2026-11-17T12:35-06:00",
+   "tags": [
+    "AI + machine learning",
+    "Databases",
+    "DevOps",
+    "Management and governance",
+    "Microsoft Fabric",
+    "Microsoft Ignite",
+    "Microsoft IQ"
+   ],
+   "feed": "Microsoft Azure Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-Failure-Prediction-Detection-1.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era",
+   "link": "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/",
+   "source": "Microsoft Azure Blog",
+   "category": "DotNet and Development",
+   "summary": "Today at Microsoft Ignite 2026, we’re announcing the general availability of Azure Cobalt 200-based virtual machines (VMs) . Cobalt 200 VMs deliver up to 50% better performance than Cobalt 100 and are now available in 14 regions, expanding to 23 regions by the end of 2026. Built for cloud-native, data-intensive, and agentic AI workloads, Cobalt 200 VMs will represent a significant share of new Azure Compute capacity beginning in 2027. Explore Cobalt 200 VM sizes and deployment guidance For customers like Amadeus, Databricks, InMobi, OpenAI, and Snowflake , Cobalt 200 VMs deliver improved performance and efficiency over Cobalt 100 VMs. As a result, customers can deliver faster search results,",
+   "published": "2026-11-17T12:20-06:00",
+   "tags": [
+    "Compute",
+    "Databases",
+    "Hybrid + multicloud",
+    "High-performance computing",
+    "Microsoft Ignite"
+   ],
+   "feed": "Microsoft Azure Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-Cobalt-200-image-03-1024x576.jpg",
    "summary_from": "feed"
   },
   {
@@ -1084,6 +1801,38 @@
    "summary_from": "feed"
   },
   {
+   "title": "ChatGPT Analyzed 32,245 of My Text Messages. “There are...",
+   "link": "https://kottke.org/26/11/0050011-chatgpt-analyzed-32245-of",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "ChatGPT Analyzed 32,245 of My Text Messages . “There are moments where I think you are plainly the harder person to be friends with.”",
+   "published": "2026-11-17T12:18-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Continuous improvement comes to Microsoft Foundry",
+   "link": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
+   "source": "Microsoft Azure Blog",
+   "category": "DotNet and Development",
+   "summary": "New models ship every few weeks, and your customers ask questions no one planned for. The agents that learn from all of it pull ahead. That’s continuous improvement, and today at Microsoft Ignite we’re bringing it to Microsoft Foundry. To unlock it, you need an end-to-end system where you build agents, give them context, run them, govern them, and improve them over time. And as part of the new Microsoft IQ , Foundry accomplishes two things that only Microsoft can deliver: your unique intelligence stays your advantage, and your agents keep getting better the longer they run. Out of the box, an AI model is exactly the same for you as it is for anyone else. Three things help you improve your ag",
+   "published": "2026-11-17T12:15-06:00",
+   "tags": [
+    "AI + machine learning",
+    "DevOps",
+    "Microsoft Ignite",
+    "Microsoft IQ"
+   ],
+   "feed": "Microsoft Azure Blog",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Continuous_improvement_visual_simplified-1024x696.webp",
+   "summary_from": "feed"
+  },
+  {
    "title": "Cognition startup unveils Devin Bots tool for managing AI agents — Fortune - UA.NEWS",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRkY0WEQ3ZmJjdUFiRllCTDJtNW9MZmZjMlZaOXMyMEVnLXVTa0UxTlpNekwwZVp1ZzJBbGtUR1J5Q1gwdTF4RUt0ZEV2RXo5akpmcHNTUTk4QXNBTlJSeE5uaXVZNUhpcVFGNU5xTlpOdzBFcVpmcWYxZ1BKTkpCb0s5dWJQdGNKS3JoZ3Q1SGl2M3VSRDB0OHlDbHJEVEItMm1jcjNoZFY0TVF3VEVfdVN6aFdZV25GUnRiMw?oc=5",
    "source": "UA.NEWS",
@@ -1097,39 +1846,24 @@
    "summary_from": "feed"
   },
   {
-   "title": "Midnight: Echoes of the Worldcore Arrives on 1 December — World of Warcraft - Blizzard News",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzhqQmhvbHBnQjhMbUhtc1BlT2JacXpjQVE5WUhMV2poNXkteGNZUlVPT0l3RVhaWXkySFE1d0FJNlE5M2ZFN0FZN2w3WHgtQ243TlFBVUtiZ3RMRDNJSFBaWTRDblRSaC04TDZHMmhOek1HVUhwaWtuN3dqTmExTURaNllrMHJuX2lXMWhpSlVtRzFHclNGTWpDbWVkSHFQTi10dV9B?oc=5",
-   "source": "Blizzard News",
-   "category": "Weather & Meteorology",
-   "summary": "Midnight: Echoes of the Worldcore Arrives on 1 December — World of Warcraft Blizzard News",
-   "published": "2026-11-17T12:00-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
+   "title": "Introducing the new Microsoft IQ: Putting your organization’s intelligence to work in every agent",
+   "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
+   "source": "Microsoft Azure Blog",
+   "category": "DotNet and Development",
+   "summary": "In this article How Microsoft IQ turns intelligence into advantage Customer spotlight: AEMO uses Microsoft IQ to keep Australia’s grid secure Turn production signals into continuous improvement Explore Microsoft IQ at Ignite 2026 Microsoft believes that AI should enhance your advantage, not erode it. Every organization has access to the same frontier models, and those models improve every few weeks. Today, we are announcing Microsoft IQ , the enterprise context management platform that helps organizations create their own IQ. What sets an organization apart is everything around the model: its own intelligence. That includes how its people and teams work, its business processes, institutional",
+   "published": "2026-11-17T12:05-06:00",
+   "tags": [
+    "AI + machine learning",
+    "DevOps",
+    "Copilot",
+    "Microsoft Fabric",
+    "Microsoft Ignite",
+    "Microsoft IQ"
+   ],
+   "feed": "Microsoft Azure Blog",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "The FM-1: Open Source Hacked Open, Vibe Coding, and Farting Synthesizers",
-   "link": "https://hackaday.com/2026/11/17/the-fm-1-open-source-hacked-open-vibe-coding-and-farting-synthesizers/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "The M-Vave FM-1 was a pretty unremarkable little synthesizer “toy” until the open-source synth hackers took it over. Now, it’s a sweet platform for exploration, the incredible work done by the community has encouraged the manufacturer to release an open SDK, and it has recently taken the global synth nerd community by storm. (It has sadly also gotten about a 50% markup in the last month due to this popularity.) It’s the perfect storm of inexpensive hardware, vibe-coded software, and easy-to-use tooling that enables synthesizer firmware-hacking for the mainstream. It is also the fashionable box of the moment in a nerdy niche of the synthesizer world at the moment and it’s something that we’re going to see in non-synthesizer contexts as well, so buckle up. The funny thing about the FM-1 is that most of the good stuff inside it was open-source all along. As it is sold, it is a Yamaha DX7 emulator, and it appears to be running the same sound engine as Dexed , which is an open-source DX7 clone based on the even older music synthesizer for android (msfa). Dexed, and its smaller brother MiniDexed , has given birth to many sweet synthesizer hacks that we’ve seen here, including a personal favorite: a Yamaha TX816 clone based on a Raspberry Pi . So it certainly looked to everyone at the time as if M-vave wrapped a not-entirely-inspiring user interface around this sound engine and shipped it. And that would have been the end of it too, if it weren’t for those meddling kids [AL-255] who did a thorough reverse-engineering of the machine about four months ago, which laid the groundwork for everything else to come. Today, we’re looking at around 250 firmwares for this little beasty, so it’s no exaggeration to say that this opened the floodgates. And along the way, he verified signatu",
-   "published": "2026-11-17T12:00-06:00",
-   "tags": [
-    "Hackaday Columns",
-    "Musical Hacks",
-    "dx7",
-    "firmware",
-    "replacement firmware",
-    "synthesizer",
-    "vibe coding"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/fm_1_featured.jpg",
-   "summary_from": "page"
   },
   {
    "title": "Sexy Sirens and Chaste Sapphos: Emily Wilson’s Crossing the Wine-Dark Sea",
@@ -1162,19 +1896,6 @@
    "published": "2026-11-17T12:00-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Talebound’s Twisted Tales and Deadly Fates Arrive December 1 — World of Warcraft - Blizzard News",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWG1qY2N1MWdMbEV5YUFPX0hPSGpMUzUtckNfWEhaOGZ0WGZ3eE9VMVFxT29YT3E0bXUxQmNVNDVnVHBIZDd6QUllMzJpSVRaVTl6b1JCZ1d4UG1NRUwycGg3Vlc1UkkwQ05PaE5lUVRzOVh4cWFyS1VQTGlOaGtOQ2hNZ0xMaGRhaHZ1OFFfZkttRDRNUTByUWV5N0luOEV2cjZweVBwSzhtVGg4?oc=5",
-   "source": "Blizzard News",
-   "category": "Weather & Meteorology",
-   "summary": "Talebound’s Twisted Tales and Deadly Fates Arrive December 1 — World of Warcraft Blizzard News",
-   "published": "2026-11-17T11:59-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1254,19 +1975,16 @@
    "summary_from": "feed"
   },
   {
-   "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
-   "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Curiosity Navigation Curiosity Home Science News and Features Multimedia Mars Missions Mars Home 2 min read Curiosity Blog, Sols 5072-5076: The Return of the Polygons NASA’s Mars rover Curiosity acquired this image of a portion of the area in front of the rover, in which the return of the regular, well-expressed polygons captured several weeks ago can be seen. Curiosity used its Mast Camera (MastCam) to capture this image on Sol 5073, or Martian day 5,073 of the Mars Science Laboratory mission, at 15:45:05 UTC. NASA/JPL-Caltech/MSSS Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Cu",
-   "published": "2026-11-17T11:06-06:00",
-   "tags": [
-    "Blogs"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
+   "title": "Why Rich People Used To Collect Unicorn Horns",
+   "link": "https://kottke.org/26/11/why-rich-people-used-to-collect-unicorn-horns",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "During the Renaissance, spurred by the accelerating arrival of items from all over the world, wealthy Europeans began assembling handcrafted curios and unusual artifacts from the natural world in wonder cabinets, or wunderkammers. In this video , Evan Puschak takes a look at how this practice evolved and what it says about that period in history. This was the period of the scientific revolution when thinkers were re-evaluating their reliance on ancient wisdom in the light of all the novel things arriving daily from around the world. “What grounds were there,” Steven Chapen writes, “for crediting ancient limits on the stock of factual knowledge? Every day, new phenomena presented themselves a",
+   "published": "2026-11-17T11:10-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
    "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/msl-raw-images_msss_05073_mcam_5073ML1102670061307127E01_DXXX.jpg?w=672&h=896&fit=clip",
    "summary_from": "feed"
   },
   {
@@ -1324,36 +2042,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Storms to hit drought-affected West amid year’s first big atmospheric river - The Spokesman-Review",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX25hSHJMbjh4UzVqSmlYZ19ZQkVrTG1hV2d4T2VyUWF2MU9GQTZuNjRDVnVfcGdMVzk3TVhTeExENlpVLWNDVDhKZU1NSUZya0NKNnBmT0xuYWYxYmJqV1UxeElaRmZTOUQxSnpnekZjX1RDY0Y2M1BHandnTUxTVlBTb2N3X21fZUJ0aE96bFJKNnN2UU9qMUxaRWgzZw?oc=5",
-   "source": "The Spokesman-Review",
-   "category": "Weather & Meteorology",
-   "summary": "Storms to hit drought-affected West amid year’s first big atmospheric river The Spokesman-Review",
-   "published": "2026-11-17T10:49-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Making an Affordable Two-Axis Solar Tracker",
-   "link": "https://hackaday.com/2026/11/17/making-an-affordable-two-axis-solar-tracker/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Setting up a photovoltaic panel is simple, but you lose a lot of potential power if you merely bolt said panel into place. With a tracker the panel will instead follow the sun, potentially even adjusting the angle of the panel to optimize how much of the sun’s rays hit it during the day. The two-axis tracker that [Greenhill Forge] built is an example of how to make a tracker using just a steel frame and simple electronics . As noted in the video, commercial solar trackers tend to use slewing bearings , which support heavy, slow-turning structures like a PV panel array. These are however rather expensive, so instead he opted to use a trailer axle hub as the budget version. The array’s structure including a drive sprocket is built up on top of this axle in such a way that it easily removed for maintenance, mostly using welded steel to create a stable base for the PV panels. This also contains the second axis, with two bearings to pivot around. The azimuth axis is driven with a large geared electric motor, while the second axis is driven by a linear motor containing a worm gear. This should keep position very well, even in case of power loss or a stiff breeze. Following this there is the electronics part, which includes a wind sensor in addition to a simple quad photoresistor based light sensor. A couple of limit switches ensure that the system should never move past the point where worrying grinding and shearing noises begin. With assembly complete, the solar tracker is equipped with a single large panel and compared to a stationary identical panel and charge controller. This shows that the tracker nets one an additional 30-50% of energy in the two scenarios compared over the course of two days of testing. Although you have to subtract the power needed to run the system a",
-   "published": "2026-11-17T10:30-06:00",
-   "tags": [
-    "green hacks",
-    "solar tracker",
-    "solar tracking"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "page"
-  },
-  {
    "title": "Doctor Who officially unveils extended version of the lost 'Impossible Planet' prequel ahead of cinematic release - Winter is Coming",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMG9aUXdpX1VnaXFMNFBrSVBkMmoyZU0wME1EV2pReVJGSEFhdHE5c3phaldCT0J2VVVWN2JiZUNMOHMxZU1Gb1RjZUxZeUR4ZlFlUDZ5bnJoaUh1NTNtNjJWNXR2Tk9jbVg0ajF3ZUJJRFREcXdqM29aQjdwOFljZkhzblA1WE5ySXk5WWg3NS1oeERtYktzTTJsR1N6RlNLa1BwNExGUnIyMk5OdjRkMQ?oc=5",
    "source": "Winter is Coming",
@@ -1380,15 +2068,15 @@
    "summary_from": "feed"
   },
   {
-   "title": "Google launches AlloyDB Express for AI coding agents - IT Brief Australia",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTlBeEg0ZVZrTVpBTDhJSFFRN0dXVW5HVS1hQnEwOFN4Vmx1bGxUT0hvUmlkRnE5UEhVOEY3dmFaME4zS2F5dEhRTmoxUVJEQjZ4NTR1Mm5jVmVXaVp5dHNHNGxxbnVqNzFnVnRJN1RtNGZRTElnM296NENTZ1hJVHNkYU9XRS1q?oc=5",
-   "source": "IT Brief Australia",
-   "category": "AI and Agents",
-   "summary": "Google launches AlloyDB Express for AI coding agents IT Brief Australia",
-   "published": "2026-11-17T10:00-06:00",
+   "title": "Courtesy of The Internet Archive, you can read & explore...",
+   "link": "https://kottke.org/26/11/0050009-courtesy-of-the-internet-",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Courtesy of The Internet Archive , you can read & explore 250,000 articles from the past 30 years of Salon , which recently ceased publication .",
+   "published": "2026-11-17T10:18-06:00",
    "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
+   "feed": "Kottke",
+   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1428,41 +2116,15 @@
    "summary_from": "feed"
   },
   {
-   "title": "Islo Raises $15M to Scale AI Software Development - NewsBlaze News",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaXpybUhFdmc5QU10MmxrR3JERG45Y3p4R1FtVzNIajZRa0luWUtWWExaX1c5My0yenB5X0psUjcwOTl3Ym96LXIySWstWllfZnVmV1poR3RWcGVrVkZUSkIyMGwtbTFycHdpRFJQMmFqSEhOQTNjYXNrbFBtU19EZ3c2ZXdyWkdZdGJVdGd2eVB6Ty1TQTRyX3dPeEFvdXVxTlRodGVrUlR1Y1dxNEdGZkk1QXdjQkszS1FkMG9YZ1lHQTlPMy1XVUVB?oc=5",
-   "source": "NewsBlaze News",
-   "category": "AI and Agents",
-   "summary": "Islo Raises $15M to Scale AI Software Development NewsBlaze News",
-   "published": "2026-11-17T09:24-06:00",
+   "title": "I had way too much fun playing around with this vocal...",
+   "link": "https://kottke.org/26/11/0050015-this-vocal-simulator",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "I had way too much fun playing around with this vocal simulator . You can make it talk, sign, beatbox, and do some animal sounds. Some folks are using it to sing songs like California Dreamin’ and yodeling .",
+   "published": "2026-11-17T09:28-06:00",
    "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Doctor was 'misled' by circumcised boy's mother - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16SFdtdHdHV2t6TC0yUnFZUDFUWnRpLWd1UUlmTWg1MkpJT2hwSDRsc1RNazB4OUdVdUVwc0dsZk42ZGU2TGFjeHl3emNXUG5IYmE3OVZ5T0kwYWc?oc=5",
-   "source": "BBC",
-   "category": "Science Fiction",
-   "summary": "Doctor was 'misled' by circumcised boy's mother BBC",
-   "published": "2026-11-17T09:19-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Islo Secures $15 Million Investment Led by Insight Partners to Scale Enterprise Software Factory Platform - FinanzNachrichten.de",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZURxc0RpT3NJWUJDTE5KZmZLbDQxbGZURDBtbjNXeXBsTXdXcVZTSl9qOFp1RDZlbnE5RDlpVDg1Z2VsMWUyZ2xxT1YxSTZ6YV9UYUh4a0M2czNkUXcxSmxhNms5SkhBTFpwQTVUTHNqRGVuN1JXNWI2SERHUFRaejVEOGRBOUtJdlU4dGFCbnAyRVpIN2huRk9jamRyYXQ4VWpuOVJhd0ZHbF8tNVRpajNMWU43bmlEQXM4X3RkRmFwcHBaM1hqTUNJVWViSUN5WUFCdVM5eFBoT1B6Vkd4SDZHeGs5cDNHUGRJYXVlWDRuZEZUMXZ1ejIxd1Bnb240QnY3SnQxZzZQZjhwYXc?oc=5",
-   "source": "FinanzNachrichten.de",
-   "category": "AI and Agents",
-   "summary": "Islo Secures $15 Million Investment Led by Insight Partners to Scale Enterprise Software Factory Platform FinanzNachrichten.de",
-   "published": "2026-11-17T09:02-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
+   "feed": "Kottke",
+   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1511,19 +2173,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Tessl launches AI software factory for engineering teams - IT Brief UK",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSE9CLUpNazBPbHBFYmYxM2FfUjRmak5hRU1hYTBBci1KUWg5WjlsSG5RNTF1aGduN1NQcl9oaWdlazZKZ0M1QklOMll2Z2FhNGV2ejk5UG5VOE52aTlVaU5RX19GcFNGMW1kLUJ1UEdVQWo5am0wVkVVVy1RN1BzcEhsSDlkMjV0Mnd0Rw?oc=5",
-   "source": "IT Brief UK",
-   "category": "AI and Agents",
-   "summary": "Tessl launches AI software factory for engineering teams IT Brief UK",
-   "published": "2026-11-17T08:36-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "China Signals Its Intention to Land on Jupiter's Moon Callisto",
    "link": "https://www.universetoday.com/articles/china-signals-its-intention-to-land-on-jupiters-moon-callisto",
    "source": "Universe Today",
@@ -1544,19 +2193,6 @@
    "category": "Science Fiction",
    "summary": "Doctor Who: 4-6 Production Companies Make Tender Shortlist: Report Bleeding Cool News",
    "published": "2026-11-17T07:03-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Doctor Who now has final tender contenders left in the race to take over franchise – including Line of Duty boss - Radio Times",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzNSRWVIRkVIbWNsNmxxbURBUHRFdlNGdXVuZ0RNZzRaSXNqb2lqYVRQWTNqTmxabnhlT3ozb2RFZjcxeTZSeVZuNnVGVUs4R29NazdWYnFtNDZBNFV4a2VwbVhjeGJnUXRWa3p3clF5UEV5NVQ0dThCZl9ER1d0Y2dvODlCRURCd2xvSnBENVRlZXRicVZRYw?oc=5",
-   "source": "Radio Times",
-   "category": "Science Fiction",
-   "summary": "Doctor Who now has final tender contenders left in the race to take over franchise – including Line of Duty boss Radio Times",
-   "published": "2026-11-17T06:11-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
    "evergreen": false,
@@ -1590,24 +2226,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "‘A Passage To India’: Ali Fazal, Fiona Shaw & Tom Mison Leading BBC & CBC’s TV Reboot - Deadline",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEs4N051NEdFX3NOLWZkS1dMWDZGQUpRZ0h1eDcyaVVITW1WSmhtT0s1ZkdNN2EzRW5VQ0FGZV8yVC04cG5jNkNrWG1wbTZGQ25GelcwWnRwUG9Rd0x2TFozZlNpSVdDQ0Z3cnpZZ0l4NHBvZWtFcm51ckplM1NqQ0ZHT2ZjYzA1VmdZZ3M0eGZsdkpKaWI1d2M2cTNzQQ?oc=5",
-   "source": "Deadline",
-   "category": "Science Fiction",
-   "summary": "‘A Passage To India’: Ali Fazal, Fiona Shaw & Tom Mison Leading BBC & CBC’s TV Reboot Deadline",
-   "published": "2026-11-17T05:00-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "44th National Grouse & Woodcock Hunt Celebrates Conservation, Science and Tradition - Outdoor Wire",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmU0bXBSY2JSa1oxTUtVWHQwN1hPU1BXMkVlbHVTSWZqeER6VnR4TS1WaEc4RjFpYzU2aG54QWRubjVpajVOQ1YxVDVGWllKQ2RRdm1mdHR2MkNNTUxLWlRaM3FLZG1wMUxpdGkxOVhIa2tfTzBUTy1NQU5xSmtBUkRwajdBVDR4SF9yQW1UWlZ2THBjTjNFZXJvdkU4MDQ3bUx0bjBlSkhfV1BudHJNODVibDIzVjhXQVRMMko5WGdWaWJIeXpr?oc=5",
-   "source": "Outdoor Wire",
+   "title": "Three Tribes, Three Forests: In Patagonia, wildfire becomes a modern challenge for an ancient people - MPR News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0tTbm9PMVp3TC1MamdLT2ZvdGNEU0pSWDlRVHk4MkVwXzluWV9uM2pWZlljT1pjN19vNEU2WUVuMG5sdnRBVnMyME9TUUd4SU1FY2l5WmtxMmdHaTZDUVMwa1ZBV2d2YU00Q25CbmdNYjhBM3N1Q1QySHVBRWxWYzF5amg1U3VvWk1uWmE3SlNiRGNOQlpVeE9lR0dXUQ?oc=5",
+   "source": "MPR News",
    "category": "Minnesota and Nature",
-   "summary": "44th National Grouse & Woodcock Hunt Celebrates Conservation, Science and Tradition Outdoor Wire",
+   "summary": "Three Tribes, Three Forests: In Patagonia, wildfire becomes a modern challenge for an ancient people MPR News",
    "published": "2026-11-17T04:00-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
@@ -1641,19 +2264,6 @@
     "Wizard of Oz"
    ],
    "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "BBC Shortlists Producers for ‘Doctor Who’ as Search for 2028 Series Advances - Mezha.net",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEo4cnNDeTNnRjJoV1Zha3kxdjdMVHBwTnRtSnRZc0pLQ1lIYmhMWTZ6d2x6a2d6czhQUW80eHNYZFhKOE1QYU5YeFZfOFNpVGFJTnEyaFZEQlg0UVhIZTVhaUFmbVYyWlRneERHR25CVHRkRWlUa1QxQjNwRUZpQjlwZ2VNWXpWT1dn?oc=5",
-   "source": "Mezha.net",
-   "category": "Science Fiction",
-   "summary": "BBC Shortlists Producers for ‘Doctor Who’ as Search for 2028 Series Advances Mezha.net",
-   "published": "2026-11-17T03:07-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1700,12 +2310,12 @@
    "summary_from": "feed"
   },
   {
-   "title": "Unusual cloud formation over the borough - Reading Today Online",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jMEJTUFJwVllQQUMzRWZmemd1Z1oxREtuLWcyUTJuTDZjb09kMnJackpscHg3WUZIWXBJS3d1WmlMa2tkTWVFZWdITTJ6dGtXRk0xNGxNM08zUUNSYXNvRkNZTjRIMzNqWjUw?oc=5",
-   "source": "Reading Today Online",
+   "title": "Unusual cloud formation over the borough - Wokingham.Today",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xMzJUUzczZjcwUHRjbjY3d2U4RXp1Q0FTX1NNSjBkUXdTdVd3S1B1aVFZSWxBOEJZNy10ZFZTd2t3YXotTEVRazh3Q1hzTm9VYmttWGl0RnF6M2toUEFRSktza25ZTl9Eckw0alhYMUtoU0k?oc=5",
+   "source": "Wokingham.Today",
    "category": "Weather & Meteorology",
-   "summary": "Unusual cloud formation over the borough Reading Today Online",
-   "published": "2026-11-17T01:06-06:00",
+   "summary": "Unusual cloud formation over the borough Wokingham.Today",
+   "published": "2026-11-17T01:45-06:00",
    "tags": [],
    "feed": "Google News unusual weather",
    "evergreen": false,
@@ -1762,6 +2372,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "WoW: Forever Hotfixes - November 16, 2026 — World of Warcraft — Blizzard News - Blizzard News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWZBVDNneUcwaTVGOU9JRVZiYlo0T0V3dlFSUTFUR1c4THdGSDRycmpNc0Q2N1dyUTZrYUQtcXJiUmJtVWZCS3JNM3FvdWpZN1VsUW5oVnBZVjVkZnIzRzBpUEs5RC1zakdGemltMmxfMlJJcHBwUlk1R1dGVWZ5d200MTVMeUE?oc=5",
+   "source": "Blizzard News",
+   "category": "Weather & Meteorology",
+   "summary": "WoW: Forever Hotfixes - November 16, 2026 — World of Warcraft — Blizzard News Blizzard News",
+   "published": "2026-11-16T20:23-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Doctor Who Episode Missing for 20 Years Officially Released on YouTube - Comic Book Resources",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2ejhMUjBJOGg4amtJZW1HbWR5UTFXdXVxOGtCaHJOSmk5ajFkektzVmo5bWJJWnZBX29Fb2tGdklwVXpXSDlMOUxkcDZ6QmJKc3JwcjNSMmhzVDI5YUE?oc=5",
    "source": "Comic Book Resources",
@@ -1771,6 +2394,32 @@
    "tags": [],
    "feed": "Google News Doctor Who",
    "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Storms spark rare tornado warning in Santa Cruz County - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGpxSnhadXo5ZUpfalktaUI5Y2YySXBjY1lMRW82dTJlcTRPRXczc2dhMmV2aTAtRkRzRDF2MlRrUUxSTmpSWm5CWUk3MU53U251d3hWQTY0QnRJWHBaQXp1NG1QdUlxMXREdjExbjZzNkRhMy1vdG9SVTJBcWxCOFgtYWJRcV9yTWYxSzd2aDFYNnpldnphUVJfSy1zWE0?oc=5",
+   "source": "CBS News",
+   "category": "Weather & Meteorology",
+   "summary": "Storms spark rare tornado warning in Santa Cruz County CBS News",
+   "published": "2026-11-16T19:24-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Robert Pattinson is the next James Bond. I know a lot of...",
+   "link": "https://kottke.org/26/11/0050008-robert-pattinson-is-the-n",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Robert Pattinson is the next James Bond . I know a lot of people don’t think this is a great fit, but I think Pattinson + Villeneuve will be quite good.",
+   "published": "2026-11-16T18:57-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1796,24 +2445,26 @@
    "summary_from": "feed"
   },
   {
-   "title": "DNR Commissioner Strommen won't seek re-appointment - Star Tribune",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2M5WlhrblhmN21EQ3dkZ3hiUmktemllbzlVWVY4WWNZMGh2YmJselZQU1BfMzNtQ2V2ZjQ0bEdsSHVnWXl1YzRpNkVjd05FMWo1Y0Vzd3JXVHpUM0lmZml4bDhnTmFTYVNJQXlKMXc2Z2FwdWtXRVRQQTY4MWpCaGtmYnQ1NHc3YUN0Y2JFZmdiZw?oc=5",
-   "source": "Star Tribune",
-   "category": "Minnesota and Nature",
-   "summary": "DNR Commissioner Strommen won't seek re-appointment Star Tribune",
-   "published": "2026-11-16T18:40-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Strengthening NATO and allied cyber defenses with AI",
    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
    "source": "OpenAI News",
    "category": "AI and Agents",
    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+   "published": "2026-11-16T18:00-06:00",
+   "tags": [
+    "Global Affairs"
+   ],
+   "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Introducing OpenAI for Chile",
+   "link": "https://openai.com/index/introducing-openai-for-chile",
+   "source": "OpenAI News",
+   "category": "AI and Agents",
+   "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
    "published": "2026-11-16T18:00-06:00",
    "tags": [
     "Global Affairs"
@@ -1832,21 +2483,6 @@
    "published": "2026-11-16T18:00-06:00",
    "tags": [
     "Company"
-   ],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Introducing OpenAI for Chile",
-   "link": "https://openai.com/index/introducing-openai-for-chile",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-   "published": "2026-11-16T18:00-06:00",
-   "tags": [
-    "Global Affairs"
    ],
    "feed": "OpenAI News",
    "evergreen": false,
@@ -1873,6 +2509,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Waves have been in the news lately: El Niño battering the...",
+   "link": "https://kottke.org/26/11/0050007-waves",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Waves have been in the news lately: El Niño battering the west coast of the US, surf spots popping off. Waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves , waves . Beautiful. Terrifying.",
+   "published": "2026-11-16T16:38-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "UPDATE: Tornado warning for Santa Cruz County Monday afternoon, says the NWS - Sacramento Bee",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wU2oydkxaaU5jR196WGdnSVJHODZEdGt0cW42bnVUVnJmQ01RU1Zzblhfbmh3RmtJNTRaUXpoQjcxRFA2VW5fYnlSZm1CMlZ4ODFaWnB6c0JRdkdwLWxHWlk0elk5ekJvQzdrNEMyVQ?oc=5",
    "source": "Sacramento Bee",
@@ -1882,6 +2531,19 @@
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Sloppy Forgeries is a competitive painting game in which...",
+   "link": "https://kottke.org/26/11/0050003-sloppy-forgeries",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Sloppy Forgeries is a competitive painting game in which you have a short time to draw the best version of one of 50 different masterpieces (Mona Lisa, Hokusai, Starry Night, etc). There are local and online multiplayer modes.",
+   "published": "2026-11-16T15:33-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1899,14 +2561,14 @@
    "summary_from": "feed"
   },
   {
-   "title": "Biochar offers potential solutions for natural disaster timber recovery - Brownfield Ag News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT29vOGo4U1JnS2Nzd2xId0NBVGozR25aZV93U2trRmxNUmJld2RUVTRsZ0lfT1lKdlA3VXlmU1l1ak4wM20xQTV1U19CT1QwSVAzaGNjX1IxVzZkbW9IdWtRMlp0djhkUTdiaFV2SmpzR1ZnVkNTM25uWnF0QmRZZWxVZWdnOG1xeUdQaDl4QjhaVUI0dS01bXNBdFIxSTZuQkt6V0JITkJkUQ?oc=5",
-   "source": "Brownfield Ag News",
-   "category": "Minnesota and Nature",
-   "summary": "Biochar offers potential solutions for natural disaster timber recovery Brownfield Ag News",
-   "published": "2026-11-16T15:10-06:00",
+   "title": "Tornado warning expires for parts of Santa Cruz County - KTVU",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VNEFhUDFEQmI1YW9TREFNbkVVc08wUHZJUE12OUVEWWxJUzV0ekNJcUZpd1FBTHBDQW1hbnNPdWtkYVRFTHk3eUpUSFFoMU9TRkw2WWFra0ZQVEg2QXZTNWZkcklTbVdEZzYw?oc=5",
+   "source": "KTVU",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado warning expires for parts of Santa Cruz County KTVU",
+   "published": "2026-11-16T15:01-06:00",
    "tags": [],
-   "feed": "Google News Minnesota nature",
+   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1956,15 +2618,28 @@
    "summary_from": "feed"
   },
   {
-   "title": "Santa Cruz County under tornado warning - NBC Bay Area",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQXV1R244dzJwT3pnWlYyS2MtUG80aEdjSlJ2U292akdxSXZvVTU2bUJmcTBhdDZ0RnRrX05rU2xJaV9rUWVGOTFZNWRfa292T3FndlNpejg3aXY4VFBoVW5USkp1MEV1ZmlkWVNzUm9sSm9VbVU3RHE3ODZ1U1NaNElZMWtQdnUxdFUyLTJUcEtZXzVZcUxj0gGfAUFVX3lxTE16UTZEZVdRVnM4Znd6X0oxT1d4bmdmbTVERjVwamxzSUktU0lrSjVUZ2w3MDhFT2tJSFR4YVhYSFR3c2NwUmlxUUlySndQU3E3aTN5TkNjcDd5YkNTZlRMWVFEM20xU1lVWTA1MlRPVkcteFRlTHNsNDNZTThaVTlyOHNSV1JrampzYmVSSkZTQ0dkTEpNNFBPVU8xbE5sZw?oc=5",
-   "source": "NBC Bay Area",
+   "title": "Bay Area storms bring waterspouts near SFO, hundreds of flight delays - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFlnakUtd0lzSnJoWmwwX3pEZF9WeEJrcUlPS2VqUjY4SUFnd3R2bnBNMk5keHJaNl9jSDJWc2U4WV9QZW1TcU9lOXZZRThTcEk4SzdNZnlQaGtJbktJdXdDUHYyMjNUVlkwWVdrQklBNi00X0xLaUhOQzFrb2RnSlY1YmFvbTJnTmE3VXV1NlhHRnlWV3ZxTQ?oc=5",
+   "source": "CBS News",
    "category": "Weather & Meteorology",
-   "summary": "Santa Cruz County under tornado warning NBC Bay Area",
-   "published": "2026-11-16T14:45-06:00",
+   "summary": "Bay Area storms bring waterspouts near SFO, hundreds of flight delays CBS News",
+   "published": "2026-11-16T14:32-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Crime and Punishment in America",
+   "link": "https://kottke.org/26/11/crime-and-punishment-in-america",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Documentary filmmaker Lynn Novick, who co-directed The Vietnam War and The US and the Holocaust with Ken Burns, has directed an 8-hour PBS series called Crime and Punishment in America . A sweeping look at the American criminal justice system, from the origins of prisons and policing to our continued fascination with crime, the film traces the contours of our imperfect system and how it influences nearly all parts of our society: the media, economics and politics. Through the voices and testimony of those who have committed crimes, experienced incarceration, enforced the law, or lost loved ones to violence, the series explores the cost of America’s choices and the enduring tension between cr",
+   "published": "2026-11-16T14:26-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1978,6 +2653,19 @@
    "tags": [],
    "feed": "Google News severe weather science",
    "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Quick one: a previously unknown sample from Stardust’s...",
+   "link": "https://kottke.org/26/11/0050001-has-been-located",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Quick one: a previously unknown sample from Stardust’s Music Sounds Better With You has been located .",
+   "published": "2026-11-16T13:32-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -2021,6 +2709,19 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/ELEVDsGmkUbVpQuEaC7kFpVJCi2JXA9RcsCpUkkDHEU/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85NjJi/NTIyMC03Mzg4LTRh/Y2ItYjNmMi1hNDE0/Yzk1ZTc5ZmM0MzFi/ZGUyOTc1NTljYjBk/OGZfMTAwMDAxMDUw/NS5wbmc.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Making beautiful porcelain cups that are “the color of...",
+   "link": "https://kottke.org/26/11/0050005-making-beautiful-porcelai",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Making beautiful porcelain cups that are “the color of sky after rain, where clouds break apart”, using traditional Chinese methods. This is so chill & meditative and the end result is incredible.",
+   "published": "2026-11-16T12:59-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2092,6 +2793,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "What Robert Caro Has Learned About Power",
+   "link": "https://kottke.org/26/11/what-robert-caro-has-learned-about-power",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Dwarkesh Patel recently interviewed Robert Caro for his podcast. They talked about loneliness, if JFK could have passed LBJ’s legislation, and how Caro gets people to talk. From the transcript : Dwarkesh Patel: This raises another question that I wanted to ask you. You’re interviewing all these people, and in many cases, they must know that it’s not good for them to tell you what you want to know. In many cases, they tell you anyway. How do you get people to tell you things that they know they shouldn’t tell you? Robert Caro: You ask terrific questions. Sometimes you’re sitting there and you know this person doesn’t want to talk to you about what you want to get out of them, like John Connal",
+   "published": "2026-11-16T11:42-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "How Robert Pattinson Beat Out the Favorites to Become James Bond",
    "link": "https://reactormag.com/how-robert-pattinson-beat-out-the-favorite-candidates-to-become-james-bond/",
    "source": "Reactor",
@@ -2141,29 +2855,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "The Long Internet: How Terry Pratchett & Stephen Baxter Predicted Our Lives Online",
-   "link": "https://reactormag.com/the-long-internet-how-terry-pratchett-stephen-baxter-predicted-our-lives-online/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Books Science Fiction The Long Internet: How Terry Pratchett & Stephen Baxter Predicted Our Lives Online Pratchett and Baxter’s The Long Earth invites a startling comparison to the way people use the internet today… By Falencia Jean-Francois Published on November 16, 2026 Terry Pratchett and Stephen Baxter’s 2012 novel The Long Earth is a prescient sci-fi work that adds a futuristic twist to the idea of Manifest Destiny. While it garnered some acclaim at its release, it never rose to the heights of success that one would expect of a Terry Pratchett vehicle. I thoroughly enjoyed reading it then, but, to me, its greatness lies in the applicability of its themes years later. Whether the authors",
-   "published": "2026-11-16T11:00-06:00",
-   "tags": [
-    "Blog",
-    "internet culture",
-    "Parallel Worlds",
-    "Science Fiction",
-    "Social issues",
-    "Stephen Baxter",
-    "Terry Pratchett",
-    "The Long Earth"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/the-long-earth-header-740x407.png",
-   "summary_from": "feed"
-  },
-  {
    "title": "Pipe Creek Mercantile Trading House in Peru, Indiana",
    "link": "https://www.atlasobscura.com/places/pipe-creek-mercantile-trading-house",
    "source": "Atlas Obscura",
@@ -2194,6 +2885,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "SOLAR FLARE | Life's Just a 2000s Rom-Com - The Cornell Daily Sun",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHBQeXo4UUsyOHRZV2drUU5ZTVlmX09fakk2MGQ3SGZkRW1TcHdVaXI4UnBFM3VjWDBvM2pIUmozd2toVzhmYVpRSjZrTDhONmROaEpwWld0Vnc3dWxXdHNnbjNmYzg0OE1uRklEREZ2WWFFcWdGaW1pTjRHWmk0V0pXbHowcks1?oc=5",
+   "source": "The Cornell Daily Sun",
+   "category": "Space Weather and Aurora",
+   "summary": "SOLAR FLARE | Life's Just a 2000s Rom-Com The Cornell Daily Sun",
+   "published": "2026-11-16T10:05-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Learning the Hard Way: Jenn Reese’s A Game of Fox and Squirrels",
    "link": "https://reactormag.com/learning-the-hard-way-jenn-reeses-a-game-of-fox-and-squirrels/",
    "source": "Reactor",
@@ -2214,19 +2918,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/fox-and-squirrels-header-740x407.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Anthony Edwards’ “AE 3 Aurora” shoe is a love letter to Minnesota - Rolling Out",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtNEo5Zm5ObU1lYjhWcmFuN01LTDNBS1B1Tm1zbjF4dzBVT0psWHpVQWR3azBVRDRZeFg1VEEwclpmUmtLOV96aUgzT2gtVUd6dkZBQ2FCSkVRVFBaUExfSm1OMmZsdU1VOGU2dkJYUE9LZlFkZEJoN0I4bF8?oc=5",
-   "source": "Rolling Out",
-   "category": "Minnesota and Nature",
-   "summary": "Anthony Edwards’ “AE 3 Aurora” shoe is a love letter to Minnesota Rolling Out",
-   "published": "2026-11-16T09:48-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota astronomy",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2256,29 +2947,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Default.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Five Horror Books That Might Trigger Niche Phobias",
-   "link": "https://reactormag.com/five-horror-books-that-might-trigger-niche-phobias/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Books reading recommendations Five Horror Books That Might Trigger Niche Phobias Do you have a fear of spooky mannequins or an aversion to eyeballs? …Are you sure? By Lorna Wallace Published on November 16, 2026 There are some phobias that are shared by millions of people across the planet, with fear of spiders (arachnophobia), heights (acrophobia), and small spaces (claustrophobia) being just a few of the most common. Our irrational fears often inspire amazing horror stories, as is proven by the scary movies on this recent list . But there are also some unusual or rarer phobias that can provide fertile ground for horror. I’ve yet to encounter a book focused on my own particular phobia—emeto",
-   "published": "2026-11-16T09:00-06:00",
-   "tags": [
-    "Blog",
-    "Darcy Coates",
-    "Fears",
-    "Horror",
-    "Monika Kim",
-    "qntm",
-    "reading recommendations",
-    "Stephen Graham Jones"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/What-Moves-the-Dead-UK-cover-art-header-2-740x423.png",
    "summary_from": "feed"
   },
   {
@@ -2321,12 +2989,12 @@
    "summary_from": "feed"
   },
   {
-   "title": "Mount Thor raises US$45 million to build Mac data centres for AI agents - Tech Edition",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlhwWjkyMWpyd3dPQjlPcXVrNmstX2ljMGZGWU9Gb3dlZ21TOThBaUtJa002WkI0N2Y2RDFXZWsyTVBKM29rb0JCaU5fWktGU09PenZXbVZnWEZGb2lDQ1JKd1NsUXRaZC1EbGVYZk9HdnZlUG9KSTVDY1V5QjdLWnVWTkFGeHctWTMtY2ZhdzdzckdqMGRmNk53?oc=5",
-   "source": "Tech Edition",
+   "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches - The Hacker News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMU1mNVUtaU1mbFc5RkYtbVl5SndUcjJPVm1FVjcxWnB1NW9KRHJoTloxZ053STNBdUxuVHhqLXF6dV8xRWRGMUNhRzVMSnhrNTRnNnRtY2s0WWMzeEVjR21HOVQwT0R3RkVXZDNYbFRqY2FYZl9wOElWc3JVRklDUFdRcWw?oc=5",
+   "source": "The Hacker News",
    "category": "AI and Agents",
-   "summary": "Mount Thor raises US$45 million to build Mac data centres for AI agents Tech Edition",
-   "published": "2026-11-16T08:29-06:00",
+   "summary": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches The Hacker News",
+   "published": "2026-11-16T08:00-06:00",
    "tags": [],
    "feed": "Google News AI agents",
    "evergreen": false,
@@ -2381,19 +3049,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Railtown AI Demonstrates Next-Generation Siri Experiences Powered by Railtracks Swift ADK - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV3FTbHpSdE5ZWFEzOWtfblpLd1hueHRWeGdhYkVVZ1A2R3pXMlJjaTkxSDYwR083ZkNCeWFxNTBTVGRnS29sY0FxZ1ZwX2tyLTZhRXdhSnVvNGFsZ2VRUkhtTXhOaUhDS3ZST1VuSkxGWmlUdHlLNnh0dVZsNng2MHJXU0RUV0tqNnZZOWF1UjEwZmdBdUNwMnEzS2lUd1o0OWxxUHpVYS10SldNOXJ3Qkx1MzNGUW5mYW1ZeExqTmp4Q1lQQjh6UnphbHNKZGFDanY4bGF5c2JZODZ4WDZZcXZtd2RpVzg?oc=5",
-   "source": "TradingView",
-   "category": "AI and Agents",
-   "summary": "Railtown AI Demonstrates Next-Generation Siri Experiences Powered by Railtracks Swift ADK TradingView",
-   "published": "2026-11-16T06:00-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "From 400 miles above Earth, AI tracks invasive leafy spurge - University of Minnesota Twin Cities",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV042dldjbVlzWTUwNW1ub2xxcWVEUjJHMW96LVpYUVRESlBoNzNweUNuYUJLcmhFRnJpUE5tTTA5RHlqcHhYRmd1VHg2RG5yWFF1ZzZ3Z0Jjb0dsVFg2UEo0eURacVR6d0x5MWlWR0tTVE5tYzF4RmdQeG92SDF0TkgwWVFVLXp3QWhYNlc0bDlraG10dlhfUA?oc=5",
    "source": "University of Minnesota Twin Cities",
@@ -2402,6 +3057,19 @@
    "published": "2026-11-16T06:00-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "David Tennant on whether Doctor Who will survive the BBC tender - Radio Times",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2I1ekdtLWQ0ajhQX204LW9WcG9udzhRRklzSGF0U1dLX1dhWDcydUU4STJhRjJGUmdYbUZ0OG9sRm5LWW96SlYyZlhCbFBkTldPYzZNOW5ZbHpwNjgtWjBoMUZ1TDhjUExWb1FMcGJVTGpKbnd1dUY3bFVnZ3doeTJXdS1lRW01OUo2ZDJYUDBDLTRtQU1kRzZwSEE?oc=5",
+   "source": "Radio Times",
+   "category": "Science Fiction",
+   "summary": "David Tennant on whether Doctor Who will survive the BBC tender Radio Times",
+   "published": "2026-11-16T05:32-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2476,11 +3144,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "More ways to move care forward with ChatGPT for Healthcare",
-   "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
    "source": "OpenAI News",
    "category": "AI and Agents",
-   "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+   "summary": "",
    "published": "2026-11-16T00:00-06:00",
    "tags": [
     "Product"
@@ -2491,11 +3159,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Advancing computer-use agents for healthcare teams",
-   "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
    "source": "OpenAI News",
    "category": "AI and Agents",
-   "summary": "",
+   "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
    "published": "2026-11-16T00:00-06:00",
    "tags": [
     "Product"
@@ -2695,6 +3363,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Minnesota veteran helped steer history, and told nobody - InForum",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGF4T0pmYXdPZUlIMXR4UFpQOS1VV0RibDRsbk5lYjdpYUxNbUJpU2d1d1ZuWnR1Q1JBQVBGNHcwVmNCTmpkR0JJRHoyb0UxWnkzanpIZTJMVGRKZlNkTTdyUHBVemlyY0xoR25XYmJYOENFYnF4SFc5elF0ZjhxM284OV84cy1JQTRhamhfN0NaT3Y2UFZ3WQ?oc=5",
+   "source": "InForum",
+   "category": "Minnesota and Nature",
+   "summary": "Minnesota veteran helped steer history, and told nobody InForum",
+   "published": "2026-11-15T11:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Love Anyway",
    "link": "https://www.themarginalian.org/2026/11/15/love-anyway/",
    "source": "The Marginalian",
@@ -2780,19 +3461,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Space weather emergency scenario exercised - Ashburton District Council",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSVRRdnNoSGpRMHByNGtpYlk2UVdZNHJUajNib3NaRUJwMUdXTy1ZUE0tTkRSaUVKTjhoRV96TTFJcGw5SGt1U3RHeXhVZkc0U1E5NGtMTnNoUEc3OGEyY2RsWTRLRWV6Y3k1NWFwYU9UbGVVVVNWczFadGxUY0F6X2VhWXVzT1NEWW9GM1VINVMwLW8?oc=5",
-   "source": "Ashburton District Council",
-   "category": "Space Weather and Aurora",
-   "summary": "Space weather emergency scenario exercised Ashburton District Council",
-   "published": "2026-11-14T22:10-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Four Buddhist Mantras for Turning Fear into Love",
    "link": "https://www.themarginalian.org/2026/11/14/thich-nhat-hanh-fear-love/",
    "source": "The Marginalian",
@@ -2815,23 +3483,14 @@
    "summary_from": "feed"
   },
   {
-   "title": "Pixel Scroll 11/14/26 How Many Files Would A Fyunch(click) Click If A Fyunch(click) Could Click Files?",
-   "link": "https://file770.com/pixel-scroll-11-14-26-how-many-files/",
-   "source": "File 770",
+   "title": "The BBC Pulls Doctor Who’s “The God Complex” From iPlayer Amid David Walliams Allegations - IMDb",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91OU9hQ1BfVWp0ZE1md3pZVkVFM256cXVVc2lOTFdjZTZodXZxLW14eEU0aEpKQ1JsNDFhRnp6bF9xNnJyR0JPbWUxWUpLUms4ZDFNUU5PcUhNWU9XQmhvbm1QVFZLaW8?oc=5",
+   "source": "IMDb",
    "category": "Science Fiction",
-   "summary": "(1) OPEN DOOR POLICY. John Clute tells readers of the Encyclopedia of Science Fiction’s Substack newsletter about the site’s Booker Prize entry in “M John Harrison Wins the Booker”. …But this year’s award is not simply a proper coronation to … Continue reading →",
-   "published": "2026-11-14T20:15-06:00",
-   "tags": [
-    "Pixel Scroll",
-    "artificial intellgence",
-    "Booker Prize",
-    "Cat Rambo",
-    "censorship",
-    "Cora Buhlert",
-    "Fahrenheit 451",
-    "Francois Truffaut"
-   ],
-   "feed": "File 770",
+   "summary": "The BBC Pulls Doctor Who’s “The God Complex” From iPlayer Amid David Walliams Allegations IMDb",
+   "published": "2026-11-14T16:33-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2870,6 +3529,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Science Museum of Minnesota announces job cuts, new initiatives amid $4.64M budget gap for 2027 - kare11.com",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWlJmQkVMZkdtalVjakRyQWR0LS1pRFppd005M2Jsb2RCOG5iUEF4TFdRaWtKUndEbVV3cnFGTUd1M2FDMFlHUE5LYmVYYUJmR0NqM05hbTVSUHdWWXE5SXk3eE9sYXFZYkFQS01nd3BBMGJDa3JDTnU4bXlGOXB0alNaSFJ0RTJydWwzang3eVNFMGRhc0JDR1VEMmhFdm0wR1RBZ2hhSGRiMjFpMk9aMGpKZ3Q1LVRYT2doeDdvbTBWUXplVjFsRjZ0UENRRktkaEtNbHdZajFIOXZSZHlGemQ2WUJ6QTFzU0g4VWt6TDFLUXpqQzNGYzhSWVNITXRULUE?oc=5",
+   "source": "kare11.com",
+   "category": "Minnesota and Nature",
+   "summary": "Science Museum of Minnesota announces job cuts, new initiatives amid $4.64M budget gap for 2027 kare11.com",
+   "published": "2026-11-13T18:49-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "SpaceX Launches Starship But Passes Up Booster Catch for Safety's Sake",
    "link": "https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake",
    "source": "Universe Today",
@@ -2881,19 +3553,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/261113-spacex_20261113_231220.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Black Friday one of four free state park days in Minnesota - Duluth News Tribune",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbFNJczdmMHpzcnAzMDJZaHRxOTd1LUV4el9sZ3RFdlB0VVh6dE02T25ISEhSZ0k2OEhSVkl3bVRVRW9VTVp5SGZ5NWRlU1NvVU9ZLW5JNl9RY1VuWTBmWWhIRkMwajdvUlFFNVY0OHpRVFZXSXRwdHNNd0hndG9ncXl4bVBVSEpDZzZad3lSLTR0VzlPS1JsS05nRUFSaE5WdXpfWURjLUhMbWVwdkNiQTZBMWlMNTcwNUE?oc=5",
-   "source": "Duluth News Tribune",
-   "category": "Minnesota and Nature",
-   "summary": "Black Friday one of four free state park days in Minnesota Duluth News Tribune",
-   "published": "2026-11-13T14:25-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3014,32 +3673,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "link": "https://openai.com/business/customer-stories/shield",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-   "published": "2026-11-13T02:00-06:00",
-   "tags": [],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "National weather forecast: Thunderstorms for many this weekend - The Bureau of Meteorology",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFVfSUoyUUkyTHFEYUl3NVN3U2tXT3hScWJEUFZad0IyZlFvc3JlZERCLXBZSmh2dmgwek51WFV4bklfYktsa2llXzJCUkZIVzlxWGVoZ2IxZDVCZXRPMnpVWU1HRzNCOHN2VHc2b2x2SGdPN0ZqdVN4YlA4a3d4ZmtENENHSDVmSUNCWHZ6T0JGVmNP?oc=5",
-   "source": "The Bureau of Meteorology",
-   "category": "Weather & Meteorology",
-   "summary": "National weather forecast: Thunderstorms for many this weekend The Bureau of Meteorology",
-   "published": "2026-11-12T21:55-06:00",
-   "tags": [],
-   "feed": "Google News severe weather science",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Doctor burnout putting maternity patients at risk, says regulator - BBC",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mWlFkTzlCRmJERmQxVHFRS2V3VkozVGpsTUg4ZU8tQjdkZmdlV2FYZGlBRWJ0UXRtdHZFblNBNEh5eVBLTm90RnRfaTNaRE9mOS1FWnJRbjJzZ3BLRkE?oc=5",
    "source": "BBC",
@@ -3050,41 +3683,6 @@
    "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "link": "https://openai.com/business/customer-stories/amplitude",
-   "source": "OpenAI News",
-   "category": "AI and Agents",
-   "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-   "published": "2026-11-12T14:00-06:00",
-   "tags": [],
-   "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Teenage Girls Are the Real Horror in Netflix’s Vibe Heavy, Overlong The Body",
-   "link": "https://reactormag.com/tv-review-teenage-girls-are-the-real-horror-in-netflixs-the-body/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Movies & TV The Body Teenage Girls Are the Real Horror in Netflix’s Vibe Heavy, Overlong The Body The disappointment lies in how easily the show could have been more. By Lacy Baugher Milas Published on November 12, 2026 Image: Netflix Image: Netflix Your teenage years can often feel like a never-ending nightmare, which is why young adult stories that incorporate horror tropes have been so popular for decades. From shows like Buffy the Vampire Slayer and Teen Wolf , which treat the supernatural as a metaphor for adolescence, to dramas with more overtly murderous vibes like I Know What You Did Last Summer or Pretty Little Liars, there are many young adult series that navigate big feelings and ",
-   "published": "2026-11-12T14:00-06:00",
-   "tags": [
-    "Blog",
-    "Horror",
-    "Netflix",
-    "teen dramas",
-    "television",
-    "television reviews",
-    "The Body"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/the-body1-740x448.jpeg",
    "summary_from": "feed"
   },
   {
@@ -3214,29 +3812,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "A Very Special Episode of UltraVision — VisionQuest’s “Forever”",
-   "link": "https://reactormag.com/tv-review-visionquest-forever/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "Movies & TV VisionQuest A Very Special Episode of UltraVision — VisionQuest ’s “Forever” The finale of VisionQuest is a roller-coaster ride that brings the series to a satisfying end By Keith R.A. DeCandido Published on November 12, 2026 Credit: Marvel Studios Credit: Marvel Studios Ye flipping gods, what an absolute treasure James Spader is. The finale of VisionQuest is a roller-coaster ride through a couple of different plot bits that all come together nicely, building on the seven prior episodes, and a big part of why it works so brilliantly is the magnificent work Spader is doing here. The cliffhanger last week was revealing that Jo Carrington’s partner in creating the AIs that we see al",
-   "published": "2026-11-12T10:30-06:00",
-   "tags": [
-    "Blog",
-    "James Spader",
-    "Marvel Cinematic Universe",
-    "Paul Bettany",
-    "television",
-    "television recaps",
-    "television reviews",
-    "VisionQuest"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/11/VisionQuest-108-01-740x423.png",
-   "summary_from": "feed"
-  },
-  {
    "title": "A New Era for the Dawn of Life",
    "link": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
    "source": "Quanta Magazine",
@@ -3301,27 +3876,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/iCqW-k8ZH8Q2rwhymEKWQHjZuPQ7AvDmYpDcP81q7AQ/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iNTlmYmViMi1m/YjY0LTQyYjUtYjA4/OC0zYjkyNjE5OTBh/MzNkNmRhNmM0MTBj/ZjJiMWI4NWFfUG93/ZXJQb2ludF9XZWJf/SGlnaFJlcy1hMjEt/MDI3NDQxLmpwZw.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "VisionQuest’s Post-Credits Scene Wasn’t Marvel’s Idea",
-   "link": "https://reactormag.com/visionquest-post-credits-scene-explained-marvel/",
-   "source": "Reactor",
-   "category": "Science Fiction",
-   "summary": "News VisionQuest VisionQuest ’s Post-Credits Scene Wasn’t Marvel’s Idea There may or may not be a resolution to that post-credits scene By Matthew Byrd Published on November 11, 2026 Photo Credit: Disney+ Photo Credit: Disney+ A funny thing happened on the way to f inishing up VisionQuest . The show featured not one but two post-credits scenes (Marvel shows, you are so crazy). As usual, each of these sequences seemingly offered a tease of what is to come in future Marvel stories. The first post-credits scene shows Ultron roaming the world in the form of Thornton. It’s revealed that he possesses Jocasta’s hard drive and nanobots, which suggests that he could decide to revive Jocasta and poten",
-   "published": "2026-11-11T16:14-06:00",
-   "tags": [
-    "Blog",
-    "Marvel",
-    "news",
-    "Science Fiction",
-    "television",
-    "VisionQuest"
-   ],
-   "feed": "Reactor",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://reactormag.com/wp-content/uploads/2026/10/visionquest-101-02-740x423.png",
    "summary_from": "feed"
   },
   {
@@ -3407,22 +3961,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://pdr-assets.b-cdn.net//shop/nov-21-prints-00012.jpg?w=640",
-   "summary_from": "feed"
-  },
-  {
-   "title": "How a Metabolic Spark Could Have Jump-Started Life",
-   "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-   "source": "Quanta Magazine",
-   "category": "Astronomy and Space",
-   "summary": "For well over 4 billion years, the fire of metabolism has powered the engines of life. The ability of cells to gather, transform, and harness chemical energy from their surroundings is the central force driving the dizzyingly complex network of chemical reactions that sustains living things. Metabolism is so crucial to life that some researchers believe that these reactions could have helped… Source",
-   "published": "2026-11-11T09:10-06:00",
-   "tags": [
-    "Biology"
-   ],
-   "feed": "Quanta Magazine",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Default.webp",
    "summary_from": "feed"
   },
   {
@@ -3668,19 +4206,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Nexus 1.22.0 Shows Solar Flare Absorption the way NOAA Sees it - Amateur Radio Daily",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ycmoxMm1iNWRLRlJxN3RTZ3Rjb0N5dGhuc1lHRmV3N245em5wc1hDLTlrTE1NYk1TdEFxVnBjMThvTXNsc3ZoM3JFVzRoZGNab3NxeHQ0T08wSmd3V1pzTVdMOE8xSzFJTkU3OTRWUjlGTTYxNXp3dXNYZw?oc=5",
-   "source": "Amateur Radio Daily",
-   "category": "Space Weather and Aurora",
-   "summary": "Nexus 1.22.0 Shows Solar Flare Absorption the way NOAA Sees it Amateur Radio Daily",
-   "published": "2026-11-08T02:00-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Andrew Phung’s Favorite Calgary Spots",
    "link": "https://www.atlasobscura.com/articles/podcast-andrew-phung-favorite-calgary-spots",
    "source": "Atlas Obscura",
@@ -3892,20 +4417,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "It All Comes Together in Chattanooga",
-   "link": "https://www.atlasobscura.com/articles/it-all-comes-together-in-chattanooga",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "Chattanooga may be best known for its natural beauty, surrounded by mountains, valleys, and the Tennessee River. This charming Appalachian city is also home to annual music festivals like the IBMA World of Bluegrass and the 3 Sisters Bluegrass Festival . The streets and venues fill with musicians and fans dedicated to upholding the traditions of bluegrass music. Chattanooga has always been a city of convergence. Long before trains arrived, the river drew people through a narrow passage in the mountains; later came traders, artists, and entrepreneurs. At festival time, bluegrass becomes the city's soundtrack, with impromptu performances and jams ranging all across town. Many of the local hot ",
-   "published": "2026-10-08T13:51-05:00",
-   "tags": [],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/GpOcqtFCI_xfjSieQEyIjHlUcOpWd-YqwZBK9qJ2hmg/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85YTEwZDQzOC1j/OWI3LTQ0YzYtOWQx/NC1lN2Y3YTAzY2Vk/YmM5NTI4ZmVlMjgw/ZTFmZTcwOWNfSU1H/XzE0MDMuanBlZw.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Paul Carus’ The History of the Devil and the Idea of Evil (1899)",
    "link": "https://publicdomainreview.org/collection/history-of-the-devil",
    "source": "Public Domain Review",
@@ -3931,20 +4442,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://pdr-assets.b-cdn.net//collections/mutus-liber/1350361-original-edit-thumb.jpeg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Best Haunted Hotels to Book for a Spooky Getaway",
-   "link": "https://www.atlasobscura.com/articles/best-haunted-hotels-for-a-spooky-getaway",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "Nothing beats staying in a hotel whose suites hold some stories — especially if they’re of the spooky variety. The same friends who roll their eyes at mentions of luxury amenities and amazing views will be wide-eyed when you tell them about the ghost you accidentally ate breakfast with, the wailings you heard on your way to the icebox, or your run-in with an uncanny Victorian woman wearing all black. Booking a room at a regular old hotel will give you a few nice photos and a comfy robe; booking a room at a haunted one will give you tales of terror to tell for the rest of your life. At these hotels, lodges, inns, and resorts around the world, the supernatural is embraced and the unsettling is",
-   "published": "2026-09-30T11:53-05:00",
-   "tags": [],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/-BjEuX3uCPjpqubKBXakGZa58hQ7eJJeSDQb1hhgHy8/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8yODdjNDZhOS0w/ZmE3LTQ5MWItYWM4/ZC0wMjA2ZDk3Y2E1/NjJlOGYxMjg1YmU1/ZjNiZDYwMTBfU2Ny/ZWVuc2hvdCAyMDI2/LTA5LTI4IGF0IDEy/LjQ3LjI5IFBNLnBu/Zw.png",
    "summary_from": "feed"
   },
   {
@@ -4228,6 +4725,19 @@
     "Tragedy"
    ],
    "feed": "Damn Interesting",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Otherworldly Sounds of a Giant Gong",
+   "link": "https://kottke.org/19/07/the-otherworldly-sounds-of-a-giant-gong",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Listen in as “Gong Master Sven” plays a gong that’s 7 feet across. (No seriously, listen…it’s wild. Headphones recommended.) Ok, show of hands. How many of you of thought it was going to sound like that? I had no idea! He barely hits it! The whole thing sounded like a horror movie soundtrack or slowed-down pop songs . Here’s another demonstration, with some slightly harder hits: The Memphis Gong Chamber looks like an amazing place . Watching this on YouTube, we’re missing out on a lot of the low-end sounds: And if you were actually standing here like I am, you can feel all your internal organs being massaged by the vibrations from this. It’s really quite the experience. This guy drags some o",
+   "published": "2019-07-02T09:38-05:00",
+   "tags": [],
+   "feed": "Kottke",
    "evergreen": true,
    "tier": "main",
    "summary_from": "feed"
