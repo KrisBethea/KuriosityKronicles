@@ -1,5 +1,88 @@
 [
   {
+    "id": "https://skyandtelescope.org/astronomy-news/watch-jupiters-moons-eclipse-and-occult-one-another/",
+    "link": "https://skyandtelescope.org/astronomy-news/watch-jupiters-moons-eclipse-and-occult-one-another/",
+    "source": "Sky and Telescope News",
+    "title": "Watch Jupiter's Moons Eclipse and Occult One Another",
+    "category": "Astronomy and Space",
+    "dept": "from the celestial mechanics dept.",
+    "reasoning": "Jupiter's four bright Galilean moons frequently cross paths, but watching them actively eclipse and occult one another offers a fantastic observational challenge for backyard astronomers over the coming months.",
+    "summary": "Jupiter routinely occults and eclipses its four bright Galilean moons, and over the next few months, the moons will begin eclipsing and occulting one another in a rare alignment.",
+    "added": "2026-11-18T15:25:04-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune",
+    "link": "https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/ER-2_Cosmic_Dust_Collection_Mission_ED09-0104-01_20261118_145833.jpg",
+    "title": "Microscopic Space Dust Reveals A Hidden Reservoir Of \"Heavy Water\" Beyond Neptune",
+    "category": "Astronomy and Space",
+    "dept": "from the interplanetary dust dept.",
+    "reasoning": "Tiny samples can carry massive clues about planetary origins, and finding an ancient heavy water reservoir beyond Neptune rewrites our understanding of how volatile elements distributed during solar system formation.",
+    "summary": "Dust grains collected by high-altitude aircraft have helped researchers solve a mystery about the early Solar System, indicating that the region beyond Neptune once harbored an isolated reservoir of heavy water.",
+    "added": "2026-11-18T15:24:04-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/17/linux-in-a-browser-tab/",
+    "link": "https://hackaday.com/2026/11/17/linux-in-a-browser-tab/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-113538-1-e1794962722312.png",
+    "title": "Linux in a Browser Tab",
+    "category": "DotNet and Development",
+    "dept": "from the webassembly wonders dept.",
+    "reasoning": "Running a complete kernel via WebAssembly at a decent fraction of native speed is a brilliant engineering feat that makes tinkering with shells and packages infinitely more accessible on the go.",
+    "summary": "Unkernel packages Linux 7.x as a single WebAssembly module complete with an MMU, allowing users to run a full Linux environment with a shell, package manager, and persistent storage directly inside a browser tab.",
+    "added": "2026-11-18T15:23:04-06:00"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/",
+    "link": "https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/",
+    "source": "Microsoft .NET Blog",
+    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/nuget-staged-publishing.webp",
+    "title": "Introducing Staged Publishing on NuGet.org",
+    "category": "DotNet and Development",
+    "dept": "from the package management dept.",
+    "reasoning": "Staged publishing gives maintainers crucial control over release boundaries, allowing teams to prep security fixes and major updates without exposing unfinished packages prematurely.",
+    "summary": "NuGet.org has introduced staged publishing, allowing all package publishers to upload, prepare, and validate packages privately before making an explicit decision to push them live.",
+    "added": "2026-11-18T15:22:04-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+    "link": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6GTRN4J7R6FEJ4AJXM567QT.jpg?w=1536&h=1536&fit=clip",
+    "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
+    "category": "Astronomy and Space",
+    "dept": "from the stellar archaeology dept.",
+    "reasoning": "Catching a stellar merger in the act and tracing its history using Webb data provides remarkable insights into the dynamic life cycles of binary star systems.",
+    "summary": "Observations from the James Webb Space Telescope have provided the definitive evidence needed to reconstruct the events before, during, and after a unique binary star merger in the Andromeda galaxy.",
+    "added": "2026-11-18T15:21:04-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/",
+    "link": "https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/tiny21.png",
+    "title": "Not-So-Large Language Model Fits On a Floppy Disk",
+    "category": "DotNet and Development",
+    "dept": "from the retro AI dept.",
+    "reasoning": "Building a functional transformer model that runs on MS-DOS from a single floppy disk is a delightful exercise in retro-computing constraints and extreme minimalism.",
+    "summary": "A compact transformer model written in Turbo C 2.0 targets 486DX or Pentium processors and runs on DOS, packing 3,500 facts into a 380 KB network that fits entirely on a single floppy disk.",
+    "added": "2026-11-18T15:20:04-06:00"
+  },
+  {
+    "id": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+    "link": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+    "source": "Atlas Obscura",
+    "image": "https://img.atlasobscura.com/dSAQzgTntjc07DfK4OIJXqVFaQtPtPxXgU7b5t2EfoU/rs:fill:300:200:1/g:ce/c:1208:805:nowe:4:23/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZGY0/NzYzMC01OGYyLTQ1/MGQtYjVhNy1iODU3/MGEyZjRmYzg3YjQx/ZWJiODZiZmNjMzhk/NjBfMTAwMDA1ODkw/MC5wbmc.png",
+    "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
+    "category": "Curious Discoveries",
+    "dept": "from the medieval folklore dept.",
+    "reasoning": "Castles built directly into natural rock formations carry incredible histories, especially when local folklore involves royal gratitude paid in plums during a Mongol invasion.",
+    "summary": "Perched on a jagged ridge in northern Croatia since the 13th century, Veliki Kalnik Castle is tied to a local legend where starving defenders under siege were kept alive by villagers supplying plums.",
+    "added": "2026-11-18T15:19:04-06:00"
+  },
+  {
     "id": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
     "link": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
     "source": "NASA News",

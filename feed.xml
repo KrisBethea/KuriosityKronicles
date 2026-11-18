@@ -5,8 +5,98 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 17 Nov 2026 21:19:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 21:25:04 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Watch Jupiter's Moons Eclipse and Occult One Another</title>
+<link>https://skyandtelescope.org/astronomy-news/watch-jupiters-moons-eclipse-and-occult-one-another/</link>
+<guid isPermaLink="false">https://skyandtelescope.org/astronomy-news/watch-jupiters-moons-eclipse-and-occult-one-another/</guid>
+<pubDate>Wed, 18 Nov 2026 15:25:04 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Jupiter's four bright Galilean moons frequently cross paths, but watching them actively eclipse and occult one another offers a fantastic observational challenge for backyard astronomers over the coming months.</description>
+<content:encoded><![CDATA[<p><small>from the celestial mechanics dept.</small></p>
+<p><em>Jupiter&#x27;s four bright Galilean moons frequently cross paths, but watching them actively eclipse and occult one another offers a fantastic observational challenge for backyard astronomers over the coming months.</em></p>
+<p>Jupiter routinely occults and eclipses its four bright Galilean moons, and over the next few months, the moons will begin eclipsing and occulting one another in a rare alignment.</p>
+<p><a href="https://skyandtelescope.org/astronomy-news/watch-jupiters-moons-eclipse-and-occult-one-another/">Read it</a> · Astronomy and Space · Sky and Telescope News</p>]]></content:encoded>
+</item>
+<item>
+<title>Microscopic Space Dust Reveals A Hidden Reservoir Of "Heavy Water" Beyond Neptune</title>
+<link>https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune</guid>
+<pubDate>Wed, 18 Nov 2026 15:24:04 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Tiny samples can carry massive clues about planetary origins, and finding an ancient heavy water reservoir beyond Neptune rewrites our understanding of how volatile elements distributed during solar system formation.</description>
+<content:encoded><![CDATA[<p><small>from the interplanetary dust dept.</small></p>
+<p><em>Tiny samples can carry massive clues about planetary origins, and finding an ancient heavy water reservoir beyond Neptune rewrites our understanding of how volatile elements distributed during solar system formation.</em></p>
+<p><img src="https://www.universetoday.com/article_images/ER-2_Cosmic_Dust_Collection_Mission_ED09-0104-01_20261118_145833.jpg" alt=""></p>
+<p>Dust grains collected by high-altitude aircraft have helped researchers solve a mystery about the early Solar System, indicating that the region beyond Neptune once harbored an isolated reservoir of heavy water.</p>
+<p><a href="https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Linux in a Browser Tab</title>
+<link>https://hackaday.com/2026/11/17/linux-in-a-browser-tab/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/17/linux-in-a-browser-tab/</guid>
+<pubDate>Wed, 18 Nov 2026 15:23:04 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Running a complete kernel via WebAssembly at a decent fraction of native speed is a brilliant engineering feat that makes tinkering with shells and packages infinitely more accessible on the go.</description>
+<content:encoded><![CDATA[<p><small>from the webassembly wonders dept.</small></p>
+<p><em>Running a complete kernel via WebAssembly at a decent fraction of native speed is a brilliant engineering feat that makes tinkering with shells and packages infinitely more accessible on the go.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-113538-1-e1794962722312.png" alt=""></p>
+<p>Unkernel packages Linux 7.x as a single WebAssembly module complete with an MMU, allowing users to run a full Linux environment with a shell, package manager, and persistent storage directly inside a browser tab.</p>
+<p><a href="https://hackaday.com/2026/11/17/linux-in-a-browser-tab/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Introducing Staged Publishing on NuGet.org</title>
+<link>https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/</guid>
+<pubDate>Wed, 18 Nov 2026 15:22:04 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Staged publishing gives maintainers crucial control over release boundaries, allowing teams to prep security fixes and major updates without exposing unfinished packages prematurely.</description>
+<content:encoded><![CDATA[<p><small>from the package management dept.</small></p>
+<p><em>Staged publishing gives maintainers crucial control over release boundaries, allowing teams to prep security fixes and major updates without exposing unfinished packages prematurely.</em></p>
+<p><img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/nuget-staged-publishing.webp" alt=""></p>
+<p>NuGet.org has introduced staged publishing, allowing all package publishers to upload, prepare, and validate packages privately before making an explicit decision to push them live.</p>
+<p><a href="https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/">Read it</a> · DotNet and Development · Microsoft .NET Blog</p>]]></content:encoded>
+</item>
+<item>
+<title>NASA Data Clinches First-of-Its-Kind Stellar Merger</title>
+<link>https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/</link>
+<guid isPermaLink="false">https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/</guid>
+<pubDate>Wed, 18 Nov 2026 15:21:04 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Catching a stellar merger in the act and tracing its history using Webb data provides remarkable insights into the dynamic life cycles of binary star systems.</description>
+<content:encoded><![CDATA[<p><small>from the stellar archaeology dept.</small></p>
+<p><em>Catching a stellar merger in the act and tracing its history using Webb data provides remarkable insights into the dynamic life cycles of binary star systems.</em></p>
+<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6GTRN4J7R6FEJ4AJXM567QT.jpg?w=1536&amp;h=1536&amp;fit=clip" alt=""></p>
+<p>Observations from the James Webb Space Telescope have provided the definitive evidence needed to reconstruct the events before, during, and after a unique binary star merger in the Andromeda galaxy.</p>
+<p><a href="https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/">Read it</a> · Astronomy and Space · NASA News</p>]]></content:encoded>
+</item>
+<item>
+<title>Not-So-Large Language Model Fits On a Floppy Disk</title>
+<link>https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/</guid>
+<pubDate>Wed, 18 Nov 2026 15:20:04 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Building a functional transformer model that runs on MS-DOS from a single floppy disk is a delightful exercise in retro-computing constraints and extreme minimalism.</description>
+<content:encoded><![CDATA[<p><small>from the retro AI dept.</small></p>
+<p><em>Building a functional transformer model that runs on MS-DOS from a single floppy disk is a delightful exercise in retro-computing constraints and extreme minimalism.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/tiny21.png" alt=""></p>
+<p>A compact transformer model written in Turbo C 2.0 targets 486DX or Pentium processors and runs on DOS, packing 3,500 facts into a 380 KB network that fits entirely on a single floppy disk.</p>
+<p><a href="https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Veliki Kalnik Castle in Koprivnica, Croatia</title>
+<link>https://www.atlasobscura.com/places/veliki-kalnik-castle</link>
+<guid isPermaLink="false">https://www.atlasobscura.com/places/veliki-kalnik-castle</guid>
+<pubDate>Wed, 18 Nov 2026 15:19:04 -0600</pubDate>
+<category>Curious Discoveries</category>
+<description>Castles built directly into natural rock formations carry incredible histories, especially when local folklore involves royal gratitude paid in plums during a Mongol invasion.</description>
+<content:encoded><![CDATA[<p><small>from the medieval folklore dept.</small></p>
+<p><em>Castles built directly into natural rock formations carry incredible histories, especially when local folklore involves royal gratitude paid in plums during a Mongol invasion.</em></p>
+<p><img src="https://img.atlasobscura.com/dSAQzgTntjc07DfK4OIJXqVFaQtPtPxXgU7b5t2EfoU/rs:fill:300:200:1/g:ce/c:1208:805:nowe:4:23/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZGY0/NzYzMC01OGYyLTQ1/MGQtYjVhNy1iODU3/MGEyZjRmYzg3YjQx/ZWJiODZiZmNjMzhk/NjBfMTAwMDA1ODkw/MC5wbmc.png" alt=""></p>
+<p>Perched on a jagged ridge in northern Croatia since the 13th century, Veliki Kalnik Castle is tied to a local legend where starving defenders under siege were kept alive by villagers supplying plums.</p>
+<p><a href="https://www.atlasobscura.com/places/veliki-kalnik-castle">Read it</a> · Curious Discoveries · Atlas Obscura</p>]]></content:encoded>
+</item>
 <item>
 <title>Milky Way versus Aurora in a Dazzling Night Sky Display</title>
 <link>https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/</link>
