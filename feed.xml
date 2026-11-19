@@ -5,8 +5,47 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 18 Nov 2026 21:25:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 01:53:08 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Fermi’s 14-Year All-Sky Map Bridges Astronomy’s Elusive 'MeV Gap'</title>
+<link>https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap</guid>
+<pubDate>Wed, 18 Nov 2026 19:53:08 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Gamma-ray astronomy has wrestled with the 'MeV gap' blind spot for decades, making this all-sky map a stellar milestone. It highlights how the Fermi Large Area Telescope collaboration successfully pinned down hundreds of low-energy gamma-ray sources.</description>
+<content:encoded><![CDATA[<p><small>from the high-energy gamma-ray dept.</small></p>
+<p><em>Gamma-ray astronomy has wrestled with the &#x27;MeV gap&#x27; blind spot for decades, making this all-sky map a stellar milestone. It highlights how the Fermi Large Area Telescope collaboration successfully pinned down hundreds of low-energy gamma-ray sources.</em></p>
+<p><img src="https://www.universetoday.com/article_images/10540_All-sky_comparison_20261118_172312.jpg" alt=""></p>
+<p>An international group of scientists using data from the Fermi Large Area Telescope collaboration has mapped 450 cosmic sources in the 20-200 mega-electron volt range. This achievement helps bridge astronomy&#x27;s elusive &#x27;MeV gap&#x27; by providing the clearest view yet of low-energy gamma rays.</p>
+<p><a href="https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Tracking Down a Mystery Beep By Giving a Coding Agent a Few Ears</title>
+<link>https://hackaday.com/2026/11/18/tracking-down-a-mystery-beep-by-giving-a-coding-agent-a-few-ears/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/18/tracking-down-a-mystery-beep-by-giving-a-coding-agent-a-few-ears/</guid>
+<pubDate>Wed, 18 Nov 2026 19:52:08 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>This ingenious project shows how pairing software agents with physical sensors can solve real-world problems. Using web-audio listeners to triangulate an elusive household noise is a wonderfully nerdy engineering win.</description>
+<content:encoded><![CDATA[<p><small>from the acoustic triangulation dept.</small></p>
+<p><em>This ingenious project shows how pairing software agents with physical sensors can solve real-world problems. Using web-audio listeners to triangulate an elusive household noise is a wonderfully nerdy engineering win.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/beep-locator-ui-banner.png" alt=""></p>
+<p>Simon Willison recently used a Python web server and web-based audio listeners scattered around a room to help a coding agent triangulate an intermittent, mysterious beep. By leveraging the Web Audio API on spare devices, the system successfully located a buried carbon monoxide detector emitting a low-battery chirp.</p>
+<p><a href="https://hackaday.com/2026/11/18/tracking-down-a-mystery-beep-by-giving-a-coding-agent-a-few-ears/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>The Simons Observatory is Online and Surveying the Cosmic Microwave Background</title>
+<link>https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background</guid>
+<pubDate>Wed, 18 Nov 2026 19:51:08 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>The Simons Observatory brings unprecedented precision to our study of the early universe. Searching for tiny fluctuations tied to primordial gravitational waves gets us closer than ever to observational evidence of the Big Bang.</description>
+<content:encoded><![CDATA[<p><small>from the primordial microwave dept.</small></p>
+<p><em>The Simons Observatory brings unprecedented precision to our study of the early universe. Searching for tiny fluctuations tied to primordial gravitational waves gets us closer than ever to observational evidence of the Big Bang.</em></p>
+<p><img src="https://www.universetoday.com/article_images/Inside1_LAT_night_c.David-Boettger-1-1440x960_20261118_191834.jpg" alt=""></p>
+<p>The Simons Observatory has officially come online to survey the Cosmic Microwave Background with greater detail than ever before. The project aims to detect tiny fluctuations caused by primordial gravitational waves, offering potential slam-dunk evidence for the Big Bang.</p>
+<p><a href="https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
 <item>
 <title>Watch Jupiter's Moons Eclipse and Occult One Another</title>
 <link>https://skyandtelescope.org/astronomy-news/watch-jupiters-moons-eclipse-and-occult-one-another/</link>

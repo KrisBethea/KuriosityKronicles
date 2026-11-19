@@ -108,3 +108,6 @@ https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/
 https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/
 https://hackaday.com/2026/11/18/not-so-large-language-model-fits-on-a-floppy-disk/
 https://www.atlasobscura.com/places/veliki-kalnik-castle
+https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap
+https://hackaday.com/2026/11/18/tracking-down-a-mystery-beep-by-giving-a-coding-agent-a-few-ears/
+https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background

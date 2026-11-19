@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap",
+    "link": "https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/10540_All-sky_comparison_20261118_172312.jpg",
+    "title": "Fermi’s 14-Year All-Sky Map Bridges Astronomy’s Elusive 'MeV Gap'",
+    "category": "Astronomy and Space",
+    "dept": "from the high-energy gamma-ray dept.",
+    "reasoning": "Gamma-ray astronomy has wrestled with the 'MeV gap' blind spot for decades, making this all-sky map a stellar milestone. It highlights how the Fermi Large Area Telescope collaboration successfully pinned down hundreds of low-energy gamma-ray sources.",
+    "summary": "An international group of scientists using data from the Fermi Large Area Telescope collaboration has mapped 450 cosmic sources in the 20-200 mega-electron volt range. This achievement helps bridge astronomy's elusive 'MeV gap' by providing the clearest view yet of low-energy gamma rays.",
+    "added": "2026-11-18T19:53:08-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/18/tracking-down-a-mystery-beep-by-giving-a-coding-agent-a-few-ears/",
+    "link": "https://hackaday.com/2026/11/18/tracking-down-a-mystery-beep-by-giving-a-coding-agent-a-few-ears/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/beep-locator-ui-banner.png",
+    "title": "Tracking Down a Mystery Beep By Giving a Coding Agent a Few Ears",
+    "category": "DotNet and Development",
+    "dept": "from the acoustic triangulation dept.",
+    "reasoning": "This ingenious project shows how pairing software agents with physical sensors can solve real-world problems. Using web-audio listeners to triangulate an elusive household noise is a wonderfully nerdy engineering win.",
+    "summary": "Simon Willison recently used a Python web server and web-based audio listeners scattered around a room to help a coding agent triangulate an intermittent, mysterious beep. By leveraging the Web Audio API on spare devices, the system successfully located a buried carbon monoxide detector emitting a low-battery chirp.",
+    "added": "2026-11-18T19:52:08-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background",
+    "link": "https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/Inside1_LAT_night_c.David-Boettger-1-1440x960_20261118_191834.jpg",
+    "title": "The Simons Observatory is Online and Surveying the Cosmic Microwave Background",
+    "category": "Astronomy and Space",
+    "dept": "from the primordial microwave dept.",
+    "reasoning": "The Simons Observatory brings unprecedented precision to our study of the early universe. Searching for tiny fluctuations tied to primordial gravitational waves gets us closer than ever to observational evidence of the Big Bang.",
+    "summary": "The Simons Observatory has officially come online to survey the Cosmic Microwave Background with greater detail than ever before. The project aims to detect tiny fluctuations caused by primordial gravitational waves, offering potential slam-dunk evidence for the Big Bang.",
+    "added": "2026-11-18T19:51:08-06:00"
+  },
+  {
     "id": "https://skyandtelescope.org/astronomy-news/watch-jupiters-moons-eclipse-and-occult-one-another/",
     "link": "https://skyandtelescope.org/astronomy-news/watch-jupiters-moons-eclipse-and-occult-one-another/",
     "source": "Sky and Telescope News",
