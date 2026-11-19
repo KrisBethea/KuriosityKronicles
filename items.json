@@ -1,5 +1,87 @@
 [
   {
+    "id": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli_20260914.jpg",
+    "title": "El Niño Rains Transform the Arid Atacama Desert",
+    "category": "Astronomy and Space",
+    "dept": "from the orbital observation dept.",
+    "reasoning": "Following an unusually wet winter in late 2026, satellite imaging captures rare, widespread blooming across parts of the Atacama Desert normally known as one of the driest places on Earth. It is a striking look at how climate cycles awaken dormant seeds on a massive scale.",
+    "summary": "Landsat data reveals vibrant bands of red-purple, green, and white across northern Chile's Atacama Desert following heavy El Niño rains. The moisture triggered what scientists suspect is one of the most extensive desert blooms in recent years.",
+    "added": "2026-11-19T14:57:17-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/computer-simulations-provide-the-best-explanation-for-those-little-red-dots-yet",
+    "link": "https://www.universetoday.com/articles/computer-simulations-provide-the-best-explanation-for-those-little-red-dots-yet",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/littlereddots_1_20260727_200136_20261117_224922.jpg",
+    "title": "Computer Simulations Explain James Webb's 'Little Red Dots'",
+    "category": "Astronomy and Space",
+    "dept": "from the primordial puzzle dept.",
+    "reasoning": "The mysterious compact red galaxies spotted by the James Webb Space Telescope have puzzled astronomers since their discovery. New computer models offer a compelling explanation, suggesting they are the remnants of massive primordial stars.",
+    "summary": "Researchers using advanced computer simulations have found that the enigmatic 'Little Red Dot' galaxies discovered by JWST are likely the remains of supermassive primordial stars shrouded in dense gaseous envelopes.",
+    "added": "2026-11-19T14:56:17-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/18/handheld-motor-cancels-out-every-twist-and-turn/",
+    "link": "https://hackaday.com/2026/11/18/handheld-motor-cancels-out-every-twist-and-turn/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/CAN-do-GYRO-0-7-screenshot.png",
+    "title": "Handheld Brushless Motor Gimbal Cancels Motion in Real-Time",
+    "category": "DotNet and Development",
+    "dept": "from the microcontroller wizardry dept.",
+    "reasoning": "Combining a tiny STM32 microcontroller board with a brushless motor creates an impressive one-axis gimbal that stabilizes against physical twists in real time. It is a neat hardware project that demonstrates the responsiveness of tight control loops.",
+    "summary": "A developer built a compact handheld gimbal using an STM32-based microcontroller and a brushless motor with a CAN interface. The device tracks motion across three dimensions and actively compensates for disturbances within a fraction of a rotation.",
+    "added": "2026-11-19T14:55:17-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/18/how-hough-transforms-enable-computers-to-see/",
+    "link": "https://hackaday.com/2026/11/18/how-hough-transforms-enable-computers-to-see/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/hough_transform_the_synthetic_mind_youtube.jpg",
+    "title": "How Hough Transforms Help Computers See Lines in Noise",
+    "category": "DotNet and Development",
+    "dept": "from the computer vision dept.",
+    "reasoning": "Understanding the foundational algorithms behind computer vision is always worthwhile for software engineers. This deep dive looks at how Paul Hough's 1960s feature extraction method evolved from bubble chamber particle tracking into modern automated line detection.",
+    "summary": "A detailed technical video explores the Hough Transform, an edge-detection and feature-extraction algorithm originally developed for analyzing bubble chamber photographs. The piece breaks down how mathematical transformations allow computer vision systems to pick out patterns from complex visual scenes.",
+    "added": "2026-11-19T14:54:17-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVN1OENIT3BDVWc1bzJ4QU53SUQyV201aUJsWVlnYV82ZnZ1OXB4R0pDdW8wU0E0SnhyWFQwenV3aFppa1NZX3l4bk15TTRjVWhDcV9ZM3BzWGQ2Z1BVUF9CdW9CaERORkJlVEtxQ21aWnpnZWpKZmhsQXRYMjdrMGNGVi14TXBaVEZ6OWJB?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVN1OENIT3BDVWc1bzJ4QU53SUQyV201aUJsWVlnYV82ZnZ1OXB4R0pDdW8wU0E0SnhyWFQwenV3aFppa1NZX3l4bk15TTRjVWhDcV9ZM3BzWGQ2Z1BVUF9CdW9CaERORkJlVEtxQ21aWnpnZWpKZmhsQXRYMjdrMGNGVi14TXBaVEZ6OWJB?oc=5",
+    "source": "The Guardian",
+    "title": "Atmospheric River Lashes California with Record Rainfall",
+    "category": "Weather & Meteorology",
+    "dept": "from the atmospheric moisture dept.",
+    "reasoning": "Major moisture plumes consistently test regional infrastructure and forecasting precision along the West Coast. This storm system brought notable precipitation totals and rare tornado warnings to parts of the San Francisco Bay area.",
+    "summary": "A potent atmospheric river swept across California's Bay Area, delivering record-breaking rainfall and gusty winds. The severe weather prompted local emergency responses and rare tornado alerts along the coast.",
+    "added": "2026-11-19T14:53:17-06:00"
+  },
+  {
+    "id": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+    "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+    "source": "NASA News",
+    "image": "https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1041",
+    "title": "NASA Launches Mid-Power Electric Rocket Challenge for U.S. Firms",
+    "category": "Astronomy and Space",
+    "dept": "from the ion propulsion dept.",
+    "reasoning": "Hall effect thrusters offer immense efficiency gains over chemical rockets for long-duration space missions. NASA's new competition aims to push commercial prototyping forward for future deep-space and satellite operations.",
+    "summary": "NASA has initiated a new challenge inviting domestic companies to design mid-power Hall effect thruster prototypes. These electric propulsion systems use magnetic and electric fields to accelerate propellant gas, achieving far greater efficiency than standard chemical rockets.",
+    "added": "2026-11-19T14:52:17-06:00"
+  },
+  {
+    "id": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
+    "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
+    "source": "Microsoft Azure Blog",
+    "title": "Microsoft Announces Enterprise Context Platform Microsoft IQ",
+    "category": "DotNet and Development",
+    "dept": "from the enterprise architecture dept.",
+    "reasoning": "As agentic systems become more prevalent, managing proprietary organizational context securely across multi-agent workflows is a critical infrastructure challenge. This Ignite 2026 announcement introduces a platform specifically designed to feed institutional data into AI models safely.",
+    "summary": "At Microsoft Ignite, the company introduced Microsoft IQ, an enterprise context management platform designed to integrate organizational data, communications, and workflows into AI agents. The system aims to ground foundational models in proprietary corporate intelligence.",
+    "added": "2026-11-19T14:51:17-06:00"
+  },
+  {
     "id": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
     "link": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
     "source": "NASA News",
