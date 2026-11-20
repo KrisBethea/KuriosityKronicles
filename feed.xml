@@ -5,8 +5,98 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 19 Nov 2026 20:57:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 20:42:24 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Astronomers Watch a Stellar Merger in Real Time</title>
+<link>https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers</guid>
+<pubDate>Fri, 20 Nov 2026 14:42:24 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Witnessing a binary star system spiral together and create a luminous red nova gives astrophysicists a front-row seat to stellar evolution in action. It is a fantastic piece of observational astronomy that turns abstract theory into real-time discovery.</description>
+<content:encoded><![CDATA[<p><small>from the stellar cartography dept.</small></p>
+<p><em>Witnessing a binary star system spiral together and create a luminous red nova gives astrophysicists a front-row seat to stellar evolution in action. It is a fantastic piece of observational astronomy that turns abstract theory into real-time discovery.</em></p>
+<p><img src="https://www.universetoday.com/article_images/2000x1346_20261119_194213.jpg" alt=""></p>
+<p>When a primary star draws material away from its companion, the shared envelope exerts drag, causing the two stars to spiral inward. For the very first time, astronomers have observed this catastrophic stellar merger as it happened, offering new clues into the formation of luminous red novas.</p>
+<p><a href="https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Tiny Grains of Sand Reveal Wind Speeds on Alien Worlds</title>
+<link>https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds</guid>
+<pubDate>Fri, 20 Nov 2026 14:41:24 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Planetary scientists have long used dune orientation as a weather vane, but figuring out wind velocity has remained tricky. This new research adds a clever mechanical dimension to planetary science using basic sand grains.</description>
+<content:encoded><![CDATA[<p><small>from the interplanetary meteorology dept.</small></p>
+<p><em>Planetary scientists have long used dune orientation as a weather vane, but figuring out wind velocity has remained tricky. This new research adds a clever mechanical dimension to planetary science using basic sand grains.</em></p>
+<p><img src="https://www.universetoday.com/article_images/7135_MRO-HIRISE-Mars-Nilli-Patera-Dune-Field-Activity-PIA18818-full2_20261120_115719.jpg" alt=""></p>
+<p>Scientists have determined that the size and orientation of sand dunes across the solar system can act as cosmic speedometers. Researchers at Stanford showed that dune morphology can reveal how fast alien winds are blowing, solving a long-standing riddle in planetary meteorology.</p>
+<p><a href="https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Repurposing E-Paper Price Tags Into Miniature Desktop Picture Frames</title>
+<link>https://hackaday.com/2026/11/20/e-paper-price-tags-become-picture-frames/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/20/e-paper-price-tags-become-picture-frames/</guid>
+<pubDate>Fri, 20 Nov 2026 14:40:24 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Hacking commodity hardware with custom firmware always makes for a satisfying project. This work transforms mundane retail displays into charming, low-power browser-connected photo frames.</description>
+<content:encoded><![CDATA[<p><small>from the electronic shelf label hacks dept.</small></p>
+<p><em>Hacking commodity hardware with custom firmware always makes for a satisfying project. This work transforms mundane retail displays into charming, low-power browser-connected photo frames.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-162940-e1795066509203.png" alt=""></p>
+<p>Electronic shelf labels are finding a second life thanks to open firmware projects like pin16. By flashing Solum e-paper price tags over a debug interface, makers can push custom four-color images via Bluetooth to build tiny, battery-efficient slideshow frames.</p>
+<p><a href="https://hackaday.com/2026/11/20/e-paper-price-tags-become-picture-frames/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>A Browser Game Where You Compete by Crashing Real Microcontrollers</title>
+<link>https://hackaday.com/2026/11/19/crashing-microcontrollers-competitively/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/19/crashing-microcontrollers-competitively/</guid>
+<pubDate>Fri, 20 Nov 2026 14:39:24 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Combining web applications with physical microcontroller stress tests is delightfully unhinged engineering. It turns server overload into an interactive, chaotic multiplayer sport.</description>
+<content:encoded><![CDATA[<p><small>from the distributed hardware abuse dept.</small></p>
+<p><em>Combining web applications with physical microcontroller stress tests is delightfully unhinged engineering. It turns server overload into an interactive, chaotic multiplayer sport.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/brett-e1795068033981.webp" alt=""></p>
+<p>A new browser-based game pits players against each other in a race to secure festival toilets by digitally knocking on their doors. Each virtual knock increases the computational load on a real-world ESP8266 microcontroller until it runs out of memory, crashes, and reboots.</p>
+<p><a href="https://hackaday.com/2026/11/19/crashing-microcontrollers-competitively/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Relentless Atmospheric River Smashes Decades-Old Rainfall Records in California</title>
+<link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5TUjJ6akZHdk5XcXplVFdCT3EyQWtYZ3lHZ0FMZkp1S0diSXZua2xkQmRxOFprMElxSW9ucVhOa2E3Qm5IWkh3bzR2Sm5GN203a2NhNVRGOXVLTlpLWUcyWUszU0J4WHlsY054eWtyQQ?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMib0FVX3lxTE5TUjJ6akZHdk5XcXplVFdCT3EyQWtYZ3lHZ0FMZkp1S0diSXZua2xkQmRxOFprMElxSW9ucVhOa2E3Qm5IWkh3bzR2Sm5GN203a2NhNVRGOXVLTlpLWUcyWUszU0J4WHlsY054eWtyQQ?oc=5</guid>
+<pubDate>Fri, 20 Nov 2026 14:38:24 -0600</pubDate>
+<category>Weather &amp; Meteorology</category>
+<description>Tracking major meteorological extremes provides valuable context on moisture transport without getting bogged down in routine forecasts or climate policy shouting matches.</description>
+<content:encoded><![CDATA[<p><small>from the atmospheric dynamics dept.</small></p>
+<p><em>Tracking major meteorological extremes provides valuable context on moisture transport without getting bogged down in routine forecasts or climate policy shouting matches.</em></p>
+<p>A punishing succession of atmospheric rivers has lashed California, dumping heavy snow in the mountains and flooding urban centers like San Francisco&#x27;s Financial District. The storm system shattered rainfall records that had stood for 76 years.</p>
+<p><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE5TUjJ6akZHdk5XcXplVFdCT3EyQWtYZ3lHZ0FMZkp1S0diSXZua2xkQmRxOFprMElxSW9ucVhOa2E3Qm5IWkh3bzR2Sm5GN203a2NhNVRGOXVLTlpLWUcyWUszU0J4WHlsY054eWtyQQ?oc=5">Read it</a> · Weather &amp; Meteorology · Sacramento Bee</p>]]></content:encoded>
+</item>
+<item>
+<title>The Glacial Plumbing Behind Maine's Thundering Coastal Cavern</title>
+<link>https://www.atlasobscura.com/places/thunder-hole-in-acadia-national-park</link>
+<guid isPermaLink="false">https://www.atlasobscura.com/places/thunder-hole-in-acadia-national-park</guid>
+<pubDate>Fri, 20 Nov 2026 14:37:24 -0600</pubDate>
+<category>Curious Discoveries</category>
+<description>Understanding the physical forces that turn ancient glacial fissures into roaring tourist attractions marries geology with pure acoustic wonder.</description>
+<content:encoded><![CDATA[<p><small>from the geological acoustics dept.</small></p>
+<p><em>Understanding the physical forces that turn ancient glacial fissures into roaring tourist attractions marries geology with pure acoustic wonder.</em></p>
+<p><img src="https://img.atlasobscura.com/Ay6WA0FJyMkQPbxcfO7UsKz9gJ_ckVR3yJHAjO4j8Ko/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xYjk1/ZDhlYS0zODYxLTQ5/YmYtODFkYy05N2Ex/ZjUxZTBhYWY1NTQw/NjA3NjNlY2M5NjAz/OTNfNTEzMjgyMTUz/MjhfY2JhOWFmOTY5/YV9vLnBuZw.png" alt=""></p>
+<p>Acadia National Park&#x27;s Thunder Hole is a natural geological formation created by thousands of years of glacial activity. As high tide forces waves into a narrow granite channel and a submerged cavern, the compressed air produces a booming roar and massive water sprays.</p>
+<p><a href="https://www.atlasobscura.com/places/thunder-hole-in-acadia-national-park">Read it</a> · Curious Discoveries · Atlas Obscura</p>]]></content:encoded>
+</item>
+<item>
+<title>The Wachowskis Formally Exercise Copyright Termination to Reclaim The Matrix</title>
+<link>https://reactormag.com/wachowskis-the-matrix-rights/</link>
+<guid isPermaLink="false">https://reactormag.com/wachowskis-the-matrix-rights/</guid>
+<pubDate>Fri, 20 Nov 2026 14:36:24 -0600</pubDate>
+<category>Science Fiction</category>
+<description>Copyright termination clauses offer a fascinating legal mechanism for creators to take back their foundational works after three decades. It is a notable milestone for science fiction film history.</description>
+<content:encoded><![CDATA[<p><small>from the cyberpunk IP reclamation dept.</small></p>
+<p><em>Copyright termination clauses offer a fascinating legal mechanism for creators to take back their foundational works after three decades. It is a notable milestone for science fiction film history.</em></p>
+<p><img src="https://reactormag.com/wp-content/uploads/2024/05/the-matrix-neo-740x433.png" alt=""></p>
+<p>Filmmakers Lana and Lilly Wachowski have notified Warner Bros. that they are exercising their copyright termination rights under U.S. law. The move could allow the creative team behind The Matrix to reclaim rights to the iconic franchise by February 2029.</p>
+<p><a href="https://reactormag.com/wachowskis-the-matrix-rights/">Read it</a> · Science Fiction · Reactor</p>]]></content:encoded>
+</item>
 <item>
 <title>El Niño Rains Transform the Arid Atacama Desert</title>
 <link>https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/</link>

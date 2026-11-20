@@ -1,5 +1,88 @@
 [
   {
+    "id": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
+    "link": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/2000x1346_20261119_194213.jpg",
+    "title": "Astronomers Watch a Stellar Merger in Real Time",
+    "category": "Astronomy and Space",
+    "dept": "from the stellar cartography dept.",
+    "reasoning": "Witnessing a binary star system spiral together and create a luminous red nova gives astrophysicists a front-row seat to stellar evolution in action. It is a fantastic piece of observational astronomy that turns abstract theory into real-time discovery.",
+    "summary": "When a primary star draws material away from its companion, the shared envelope exerts drag, causing the two stars to spiral inward. For the very first time, astronomers have observed this catastrophic stellar merger as it happened, offering new clues into the formation of luminous red novas.",
+    "added": "2026-11-20T14:42:24-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds",
+    "link": "https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/7135_MRO-HIRISE-Mars-Nilli-Patera-Dune-Field-Activity-PIA18818-full2_20261120_115719.jpg",
+    "title": "Tiny Grains of Sand Reveal Wind Speeds on Alien Worlds",
+    "category": "Astronomy and Space",
+    "dept": "from the interplanetary meteorology dept.",
+    "reasoning": "Planetary scientists have long used dune orientation as a weather vane, but figuring out wind velocity has remained tricky. This new research adds a clever mechanical dimension to planetary science using basic sand grains.",
+    "summary": "Scientists have determined that the size and orientation of sand dunes across the solar system can act as cosmic speedometers. Researchers at Stanford showed that dune morphology can reveal how fast alien winds are blowing, solving a long-standing riddle in planetary meteorology.",
+    "added": "2026-11-20T14:41:24-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/20/e-paper-price-tags-become-picture-frames/",
+    "link": "https://hackaday.com/2026/11/20/e-paper-price-tags-become-picture-frames/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-162940-e1795066509203.png",
+    "title": "Repurposing E-Paper Price Tags Into Miniature Desktop Picture Frames",
+    "category": "DotNet and Development",
+    "dept": "from the electronic shelf label hacks dept.",
+    "reasoning": "Hacking commodity hardware with custom firmware always makes for a satisfying project. This work transforms mundane retail displays into charming, low-power browser-connected photo frames.",
+    "summary": "Electronic shelf labels are finding a second life thanks to open firmware projects like pin16. By flashing Solum e-paper price tags over a debug interface, makers can push custom four-color images via Bluetooth to build tiny, battery-efficient slideshow frames.",
+    "added": "2026-11-20T14:40:24-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/19/crashing-microcontrollers-competitively/",
+    "link": "https://hackaday.com/2026/11/19/crashing-microcontrollers-competitively/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/brett-e1795068033981.webp",
+    "title": "A Browser Game Where You Compete by Crashing Real Microcontrollers",
+    "category": "DotNet and Development",
+    "dept": "from the distributed hardware abuse dept.",
+    "reasoning": "Combining web applications with physical microcontroller stress tests is delightfully unhinged engineering. It turns server overload into an interactive, chaotic multiplayer sport.",
+    "summary": "A new browser-based game pits players against each other in a race to secure festival toilets by digitally knocking on their doors. Each virtual knock increases the computational load on a real-world ESP8266 microcontroller until it runs out of memory, crashes, and reboots.",
+    "added": "2026-11-20T14:39:24-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TUjJ6akZHdk5XcXplVFdCT3EyQWtYZ3lHZ0FMZkp1S0diSXZua2xkQmRxOFprMElxSW9ucVhOa2E3Qm5IWkh3bzR2Sm5GN203a2NhNVRGOXVLTlpLWUcyWUszU0J4WHlsY054eWtyQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TUjJ6akZHdk5XcXplVFdCT3EyQWtYZ3lHZ0FMZkp1S0diSXZua2xkQmRxOFprMElxSW9ucVhOa2E3Qm5IWkh3bzR2Sm5GN203a2NhNVRGOXVLTlpLWUcyWUszU0J4WHlsY054eWtyQQ?oc=5",
+    "source": "Sacramento Bee",
+    "title": "Relentless Atmospheric River Smashes Decades-Old Rainfall Records in California",
+    "category": "Weather & Meteorology",
+    "dept": "from the atmospheric dynamics dept.",
+    "reasoning": "Tracking major meteorological extremes provides valuable context on moisture transport without getting bogged down in routine forecasts or climate policy shouting matches.",
+    "summary": "A punishing succession of atmospheric rivers has lashed California, dumping heavy snow in the mountains and flooding urban centers like San Francisco's Financial District. The storm system shattered rainfall records that had stood for 76 years.",
+    "added": "2026-11-20T14:38:24-06:00"
+  },
+  {
+    "id": "https://www.atlasobscura.com/places/thunder-hole-in-acadia-national-park",
+    "link": "https://www.atlasobscura.com/places/thunder-hole-in-acadia-national-park",
+    "source": "Atlas Obscura",
+    "image": "https://img.atlasobscura.com/Ay6WA0FJyMkQPbxcfO7UsKz9gJ_ckVR3yJHAjO4j8Ko/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xYjk1/ZDhlYS0zODYxLTQ5/YmYtODFkYy05N2Ex/ZjUxZTBhYWY1NTQw/NjA3NjNlY2M5NjAz/OTNfNTEzMjgyMTUz/MjhfY2JhOWFmOTY5/YV9vLnBuZw.png",
+    "title": "The Glacial Plumbing Behind Maine's Thundering Coastal Cavern",
+    "category": "Curious Discoveries",
+    "dept": "from the geological acoustics dept.",
+    "reasoning": "Understanding the physical forces that turn ancient glacial fissures into roaring tourist attractions marries geology with pure acoustic wonder.",
+    "summary": "Acadia National Park's Thunder Hole is a natural geological formation created by thousands of years of glacial activity. As high tide forces waves into a narrow granite channel and a submerged cavern, the compressed air produces a booming roar and massive water sprays.",
+    "added": "2026-11-20T14:37:24-06:00"
+  },
+  {
+    "id": "https://reactormag.com/wachowskis-the-matrix-rights/",
+    "link": "https://reactormag.com/wachowskis-the-matrix-rights/",
+    "source": "Reactor",
+    "image": "https://reactormag.com/wp-content/uploads/2024/05/the-matrix-neo-740x433.png",
+    "title": "The Wachowskis Formally Exercise Copyright Termination to Reclaim The Matrix",
+    "category": "Science Fiction",
+    "dept": "from the cyberpunk IP reclamation dept.",
+    "reasoning": "Copyright termination clauses offer a fascinating legal mechanism for creators to take back their foundational works after three decades. It is a notable milestone for science fiction film history.",
+    "summary": "Filmmakers Lana and Lilly Wachowski have notified Warner Bros. that they are exercising their copyright termination rights under U.S. law. The move could allow the creative team behind The Matrix to reclaim rights to the iconic franchise by February 2029.",
+    "added": "2026-11-20T14:36:24-06:00"
+  },
+  {
     "id": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
     "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
     "source": "NASA News",
