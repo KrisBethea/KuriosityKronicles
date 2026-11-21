@@ -54,6 +54,10 @@ jobs:
         with:
           path: public
 
+     # Give GitHub time to make the uploaded artifact discoverable.
+      - name: Wait for artifact availability
+        run: sleep 30
+
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
