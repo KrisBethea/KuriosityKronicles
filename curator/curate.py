@@ -19,7 +19,8 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
-from check_picks import CATEGORIES, norm, problems  # noqa: E402
+from check_picks import CATEGORIES, DEPT, norm, problems  # noqa: E402
+
 
 MODEL = "gemini-3.5-flash-lite"  # free-tier model configured for this project
 MAX_CANDIDATES = 100
@@ -162,11 +163,19 @@ def validate_and_materialize(response, choices, existing, now):
         seen_idx.add(i)
         c = choices[i]
         link = c["link"]
+        dept = x.get("dept")
+        if (
+            not isinstance(dept, str)
+            or not 12 <= len(dept.strip()) <= 90
+            or not DEPT.fullmatch(dept.strip())
+        ):
+            print(f"Using fallback department for candidate #{i}")
+            dept = "from the editorial-desk dept."
         it = {
             "id": link, "link": link, "source": c.get("source", "Unknown"),
             "image": c.get("image"),
-            "title": x.get("title"), "category": x.get("category"),
-            "dept": x.get("dept"), "reasoning": x.get("reasoning"),
+            "title": x.get("title"), "category": x.get("category"),        
+            "dept": dept, "reasoning": x.get("reasoning"),
             "summary": x.get("summary"),
             "added": (now - timedelta(minutes=response_index)).isoformat(timespec="seconds"),
         }
