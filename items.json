@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+    "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26805/PIA26805.jpg?w=1536&h=603&fit=clip",
+    "title": "Curiosity Spots Drifting Twilight Clouds on Mars",
+    "category": "Astronomy and Space",
+    "dept": "from the Martian meteorology dept.",
+    "reasoning": "Observing seasonal weather patterns on another planet gives planetary scientists valuable comparative data on atmospheric dynamics. It's a wonderful reminder of how dynamic neighboring worlds really are.",
+    "summary": "NASA's Curiosity rover has captured drifting post-sunset twilight clouds over Gale Crater during its ongoing Martian exploration. These delicate clouds appear briefly each fall and are documented using the rover's navigation cameras.",
+    "added": "2026-11-20T19:31:16-06:00"
+  },
+  {
+    "id": "https://www.atlasobscura.com/places/alta-rock-carvings",
+    "link": "https://www.atlasobscura.com/places/alta-rock-carvings",
+    "source": "Atlas Obscura",
+    "image": "https://img.atlasobscura.com/4XVbb0qEhCFwiwbk2sJkNqHHN8DdP7eTuocYRvZIJHs/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84Yzk0/MmRjNy1kYmExLTQ3/ODMtYTQ4OC1jZTY4/NDI3ZGVkZDBiYmRh/OTllYjg3OGQzMDQz/NjZfSU1HXzkzMzUu/SlBH.jpg",
+    "title": "Exploring the Prehistoric Rock Carvings of Alta, Norway",
+    "category": "Curious Discoveries",
+    "dept": "from the ancient art dept.",
+    "reasoning": "Ancient rock art offers a direct physical window into the lives and observations of prehistoric humans millennia ago. It's fascinating to see how geological uplift has preserved these ancient galleries along rising coastlines.",
+    "summary": "Thousands of original prehistoric artworks carved directly into bedrock can be found at Alta Museum's outdoor site in northern Norway. Dating back over 7,000 years, these ancient petroglyphs depict wildlife, hunting scenes, and rituals along what was once an ancient shoreline.",
+    "added": "2026-11-20T19:30:16-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/20/old-firewire-audio-interface-gets-usb-c-upgrade/",
+    "link": "https://hackaday.com/2026/11/20/old-firewire-audio-interface-gets-usb-c-upgrade/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/fuegocable_presonus_fsp_finishing_01-d158c-3264-e1795088226682.webp",
+    "title": "Breathing New Life Into an Old FireWire Audio Interface with USB-C",
+    "category": "DotNet and Development",
+    "dept": "from the hardware retrofitting dept.",
+    "reasoning": "Rescuing capable legacy hardware from planned obsolescence is an endlessly satisfying engineering exercise. This project demonstrates clever reverse engineering and practical circuit modification.",
+    "summary": "A resourceful hacker successfully modernized a classic PreSonus Firestudio Project audio interface by replacing its obsolete FireWire controller with an XMOS-based USB audio setup. By carefully tracing digital audio signals and maintaining equal-length conductors, the project brings eight inputs and outputs to modern machines.",
+    "added": "2026-11-20T19:29:16-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun",
+    "link": "https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/DKIST-First-Sunspot_20261120_145705.jpg",
+    "title": "Sound Waves from Sunspots Launch Plasma Jets Across the Sun",
+    "category": "Astronomy and Space",
+    "dept": "from the solar physics dept.",
+    "reasoning": "Understanding the mechanisms behind coronal heating remains one of solar physics' most compelling challenges. Tracking these dynamic fibrils brings us one step closer to explaining our star's extreme outer temperatures.",
+    "summary": "New research published in The Astrophysical Journal details the tracking of roughly two hundred dynamic fibrils—jet-like bursts of plasma launched from the Sun's surface. These observations help solve the enduring mystery of why the Sun's outer atmosphere is hundreds of times hotter than its core.",
+    "added": "2026-11-20T19:28:16-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg?w=2048&h=2048&fit=clip",
+    "title": "Morse Code Message Shines into the Night Sky for Voyager 1",
+    "category": "Astrophotography",
+    "dept": "from the interstellar signals dept.",
+    "reasoning": "Blending amateur astronomy techniques with a tribute to humanity's most distant emissary makes for a delightful astrophotography project. It highlights both technical creativity and enduring cosmic curiosity.",
+    "summary": "Observers at the Emirates Astronomical Observatory used a flashlight beam to trace a Morse code call sign into a time-exposure night sky photo. The message spelled 'V-G-R' to honor fans of interstellar spaceflight and the distant Voyager 1 spacecraft.",
+    "added": "2026-11-20T19:27:16-06:00"
+  },
+  {
     "id": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
     "link": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
     "source": "Universe Today",
