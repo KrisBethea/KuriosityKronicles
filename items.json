@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://skyandtelescope.org/astronomy-news/bepicolombo-arrives-at-mercury-after-8-year-odyssey/",
+    "link": "https://skyandtelescope.org/astronomy-news/bepicolombo-arrives-at-mercury-after-8-year-odyssey/",
+    "source": "Sky and Telescope News",
+    "title": "BepiColombo Arrives at Mercury After 8-Year Odyssey",
+    "category": "Astronomy and Space",
+    "dept": "from the innermost-planet dept.",
+    "reasoning": "After an eight-year journey filled with gravity assists, twin orbiters from Europe and Japan have finally reached Mercury to unlock its planetary secrets. Interplanetary rendezvous of this complexity represent monumental feats of orbital mechanics and international cooperation.",
+    "summary": "Europe and Japan's joint BepiColombo mission successfully arrived at Mercury on November 21st, beginning its long-awaited orbital exploration of the innermost planet.",
+    "added": "2026-11-21T13:45:42-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/a-triple-star-system-that-shouldnt-exist-only-28-light-years-from-earth",
+    "link": "https://www.universetoday.com/articles/a-triple-star-system-that-shouldnt-exist-only-28-light-years-from-earth",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/IMHD-UdeM-System_Welopoai_20261120_130730.jpg",
+    "title": "A Triple Star System 'That Shouldn't Exist,' Only 28 Light-Years from Earth",
+    "category": "Astronomy and Space",
+    "dept": "from the stellar-oddities dept.",
+    "reasoning": "Discovering astronomical systems that defy current models of stellar evolution is what keeps astrophysics thrilling. Finding such an oddity right in our local galactic neighborhood makes it even better.",
+    "summary": "Astronomers have identified a triple star system only 28 light-years away that defies standard models of stellar evolution and common envelopes, existing despite theoretical odds.",
+    "added": "2026-11-21T13:44:42-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
+    "source": "NASA Astronomy Picture of the Day",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/solar_M_flare.jpg",
+    "title": "A Medium-Sized Solar Flare",
+    "category": "Astrophotography",
+    "dept": "from the chromatic-flare dept.",
+    "reasoning": "Combining exposures of the solar chromosphere over a ten-minute window reveals the dynamic thermal layers of our nearest star. It is a stunning visual reminder of how active our Sun remains day-to-day.",
+    "summary": "Astrophotographer Mario Cogo captured a medium-sized solar flare using specialized techniques to reveal the Sun's chromosphere and the magnetic heating mechanisms above its surface.",
+    "added": "2026-11-21T13:43:42-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmJWajdCQlVpdzlvZjcySF9OOVpuaExBaFhPVzQzaXE5a2N4UU4yTjNZaGNKQjBDbHNOWWxYc1ZUWHJjaXNPamVnYnpCS0t0ZE54OEt5WEZQV0hqNnIzeWNUajhzdng1el9nZWVseFd4anBMY1RnVXRjQmpTd09ZWlVUMnN3M1lJbmZB?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmJWajdCQlVpdzlvZjcySF9OOVpuaExBaFhPVzQzaXE5a2N4UU4yTjNZaGNKQjBDbHNOWWxYc1ZUWHJjaXNPamVnYnpCS0t0ZE54OEt5WEZQV0hqNnIzeWNUajhzdng1el9nZWVseFd4anBMY1RnVXRjQmpTd09ZWlVUMnN3M1lJbmZB?oc=5",
+    "source": "Yahoo",
+    "title": "Multiple Wavelengths Of Sun Blasts X1.2-Class Solar Flare",
+    "category": "Space Weather and Aurora",
+    "dept": "from the coronal-mass dept.",
+    "reasoning": "Major flare activity captured across multiple wavelengths provides researchers with critical data on high-energy solar events. Keeping an eye on X-class eruptions is essential for understanding real-world space weather impacts.",
+    "summary": "The Sun recently blasted an X1.2-class solar flare observed across multiple wavelengths, highlighting ongoing space weather dynamics.",
+    "added": "2026-11-21T13:42:42-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/complex-life-on-earth-may-not-have-appeared-without-tall-mountains",
+    "link": "https://www.universetoday.com/articles/complex-life-on-earth-may-not-have-appeared-without-tall-mountains",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/North-Norway_Credit-Matthijs-Smit_1000x680_20261120_183507.jpg",
+    "title": "Complex Life on Earth May Not Have Appeared Without Tall Mountains",
+    "category": "Astronomy and Space",
+    "dept": "from the tectonic-origins dept.",
+    "reasoning": "Linking planetary geomorphology directly to the rise of atmospheric oxygen and complex life connects geology with astrobiology in a fascinating way. It provides fresh context for what makes an exoplanet truly habitable.",
+    "summary": "New research suggests that ancient mountain-building spurts washed vital nutrients into early oceans, driving oxygenation events that made complex life on Earth possible.",
+    "added": "2026-11-21T13:41:42-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/20/printable-homelab-racks-you-can-design-in-a-browser/",
+    "link": "https://hackaday.com/2026/11/20/printable-homelab-racks-you-can-design-in-a-browser/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-231530-e1795090603933.png",
+    "title": "Printable Homelab Racks You Can Design In A Browser",
+    "category": "DotNet and Development",
+    "dept": "from the 3d-printing dept.",
+    "reasoning": "For anyone drowning in small single-board computers, switches, and tangled cables, a browser-based tool to plan 3D-printable racks is immensely practical. It bridges digital design with physical homelab organization.",
+    "summary": "A new browser-based tool called Printable Racks allows makers to design and test fits for custom 10-inch hardware enclosures using a catalog of hundreds of 3D-printable components.",
+    "added": "2026-11-21T13:40:42-06:00"
+  },
+  {
     "id": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
     "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
     "source": "NASA News",
