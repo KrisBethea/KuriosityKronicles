@@ -144,3 +144,10 @@ https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-fl
 https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmJWajdCQlVpdzlvZjcySF9OOVpuaExBaFhPVzQzaXE5a2N4UU4yTjNZaGNKQjBDbHNOWWxYc1ZUWHJjaXNPamVnYnpCS0t0ZE54OEt5WEZQV0hqNnIzeWNUajhzdng1el9nZWVseFd4anBMY1RnVXRjQmpTd09ZWlVUMnN3M1lJbmZB?oc=5
 https://www.universetoday.com/articles/complex-life-on-earth-may-not-have-appeared-without-tall-mountains
 https://hackaday.com/2026/11/20/printable-homelab-racks-you-can-design-in-a-browser/
+https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/
+https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean
+https://skyandtelescope.org/astronomy-news/astronomers-watch-one-star-swallow-another/
+https://hackaday.com/2026/11/21/automation-for-the-swimming-pool/
+https://hackaday.com/2026/11/21/custom-firmware-for-the-cmu200/
+https://hackaday.com/2026/11/21/hdmi-to-csi-for-anyone/
+https://hackaday.com/2026/11/20/improving-aluminium-anodes-for-lithium-batteries-with-magnesium/

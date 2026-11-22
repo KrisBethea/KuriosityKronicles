@@ -5,8 +5,98 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 21 Nov 2026 19:45:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 00:19:31 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>ESP32 Drives Vintage MDA Monochrome Display for Wireless Terminal</title>
+<link>https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/</guid>
+<pubDate>Sat, 21 Nov 2026 18:19:30 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>This delightful hardware-software hack bridges modern microcontrollers with ancient display tech. It shows how oscilloscope timing and custom terminal firmware can bring classic green-and-amber iron back to life.</description>
+<content:encoded><![CDATA[<p><small>from the editorial-desk dept.</small></p>
+<p><em>This delightful hardware-software hack bridges modern microcontrollers with ancient display tech. It shows how oscilloscope timing and custom terminal firmware can bring classic green-and-amber iron back to life.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/ESP32-TLL-CRT.jpg" alt=""></p>
+<p>An ESP32 development board has been programmed to drive a Monochrome Display Adapter monitor, complete with custom VGA-to-TTL timing. The setup runs a retro command-line interface styled like IBM OfficeVision, serving as both a word processor and a media server controller.</p>
+<p><a href="https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>A Radical Theory About a 26.7-Billion-Year-Old Universe Passes Key Tests</title>
+<link>https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean</guid>
+<pubDate>Sat, 21 Nov 2026 18:18:30 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Alternative cosmological models that challenge the standard Lambda-CDM paradigm are always worth watching when they face rigorous testing. This University of Ottawa study explores a universe that requires neither dark matter nor dark energy.</description>
+<content:encoded><![CDATA[<p><small>from the editorial-desk dept.</small></p>
+<p><em>Alternative cosmological models that challenge the standard Lambda-CDM paradigm are always worth watching when they face rigorous testing. This University of Ottawa study explores a universe that requires neither dark matter nor dark energy.</em></p>
+<p><img src="https://www.universetoday.com/article_images/960px-Messier_77_spiral_galaxy_by_HST_20260515_070014_20261120_200628.jpg" alt=""></p>
+<p>A bold alternative model proposing a 26.7-billion-year-old universe has held up against several major cosmology tests. The hypothesis dispenses with the need for dark matter and dark energy, offering a fresh perspective on cosmic evolution.</p>
+<p><a href="https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Astronomers Watch One Star Swallow Another in Real Time</title>
+<link>https://skyandtelescope.org/astronomy-news/astronomers-watch-one-star-swallow-another/</link>
+<guid isPermaLink="false">https://skyandtelescope.org/astronomy-news/astronomers-watch-one-star-swallow-another/</guid>
+<pubDate>Sat, 21 Nov 2026 18:17:30 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Catching a stellar merger in progress is an extraordinary astronomical observation that illuminates the violent life cycles of binary systems. This multi-year study captures the exact infall of a star spiraling into its giant companion's core.</description>
+<content:encoded><![CDATA[<p><small>from the editorial-desk dept.</small></p>
+<p><em>Catching a stellar merger in progress is an extraordinary astronomical observation that illuminates the violent life cycles of binary systems. This multi-year study captures the exact infall of a star spiraling into its giant companion&#x27;s core.</em></p>
+<p>For the first time, astronomers have documented the multi-year infall of a star spiraling into a giant stellar companion. The observations culminated in the smaller star splashing directly into the core of its host.</p>
+<p><a href="https://skyandtelescope.org/astronomy-news/astronomers-watch-one-star-swallow-another/">Read it</a> · Astronomy and Space · Sky and Telescope News</p>]]></content:encoded>
+</item>
+<item>
+<title>Open-Source Swimming Pool Automation Controller Built on ESP32-S3</title>
+<link>https://hackaday.com/2026/11/21/automation-for-the-swimming-pool/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/21/automation-for-the-swimming-pool/</guid>
+<pubDate>Sat, 21 Nov 2026 18:16:30 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Practical home automation projects that solve messy physical maintenance problems with microcontroller logic are a joy to examine. This open-source design monitors water chemistry and pump safety without proprietary lock-in.</description>
+<content:encoded><![CDATA[<p><small>from the editorial-desk dept.</small></p>
+<p><em>Practical home automation projects that solve messy physical maintenance problems with microcontroller logic are a joy to examine. This open-source design monitors water chemistry and pump safety without proprietary lock-in.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/4805701792398468069-e1795094773583.png" alt=""></p>
+<p>The Swimming Pool System Open (SPSO) project uses an ESP32-S3 microcontroller to monitor pH, chlorine, temperature, and filter pressure. It automatically controls chemical dosing and filtration pumps while integrating neatly with Home Assistant.</p>
+<p><a href="https://hackaday.com/2026/11/21/automation-for-the-swimming-pool/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Custom Firmware Unlocks Advanced RF and Ham Radio Features on Communication Analyzers</title>
+<link>https://hackaday.com/2026/11/21/custom-firmware-for-the-cmu200/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/21/custom-firmware-for-the-cmu200/</guid>
+<pubDate>Sat, 21 Nov 2026 18:15:30 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Unlocking specialized test equipment with community-built firmware demonstrates deep engineering reverse-engineering skill. It turns expensive lab gear into an even more versatile tool for radio enthusiasts.</description>
+<content:encoded><![CDATA[<p><small>from the editorial-desk dept.</small></p>
+<p><em>Unlocking specialized test equipment with community-built firmware demonstrates deep engineering reverse-engineering skill. It turns expensive lab gear into an even more versatile tool for radio enthusiasts.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/Rohde-Schwarz-CMU200-as-Tracking-Analyzer-v2-0-9-screenshot-e1795093451235.png" alt=""></p>
+<p>Developer [iu2frl] has created custom firmware for Rhode &amp; Schwarz CMU200 and CMU300 communication analyzers. The upgrade adds a tracking generator, WFM reception with RDS decoding, amateur radio test suites, and remote control via FTP, VNC, and HTTP servers.</p>
+<p><a href="https://hackaday.com/2026/11/21/custom-firmware-for-the-cmu200/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Open-Source HDMI-to-CSI Bridge Boards Bring Clean Video Capture to SBCs</title>
+<link>https://hackaday.com/2026/11/21/hdmi-to-csi-for-anyone/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/21/hdmi-to-csi-for-anyone/</guid>
+<pubDate>Sat, 21 Nov 2026 18:14:30 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Converting HDMI inputs directly into camera serial interfaces opens up fantastic possibilities for custom KVMs and embedded video projects. Releasing open-source hardware designs for multiple single-board computers is a great boon for builders.</description>
+<content:encoded><![CDATA[<p><small>from the editorial-desk dept.</small></p>
+<p><em>Converting HDMI inputs directly into camera serial interfaces opens up fantastic possibilities for custom KVMs and embedded video projects. Releasing open-source hardware designs for multiple single-board computers is a great boon for builders.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/hdmi-csi-featured.jpg" alt=""></p>
+<p>The WarpKVM team has released open-source CERN OHL board designs that convert HDMI signals into CSI camera interfaces. Tailored for popular single-board computers, the hardware supports 4K at 30 FPS and 1080p at 120 FPS for digital video capture.</p>
+<p><a href="https://hackaday.com/2026/11/21/hdmi-to-csi-for-anyone/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Manganese Alloying Addresses Durability Challenges in Aluminum Anode Batteries</title>
+<link>https://hackaday.com/2026/11/20/improving-aluminium-anodes-for-lithium-batteries-with-magnesium/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/20/improving-aluminium-anodes-for-lithium-batteries-with-magnesium/</guid>
+<pubDate>Sat, 21 Nov 2026 18:13:30 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Improving metal alloy anodes for lithium-ion batteries is crucial for pushing energy density and charge rates forward. Addressing volumetric expansion through manganese alloying represents a clever metallurgical fix to a stubborn chemical problem.</description>
+<content:encoded><![CDATA[<p><small>from the editorial-desk dept.</small></p>
+<p><em>Improving metal alloy anodes for lithium-ion batteries is crucial for pushing energy density and charge rates forward. Addressing volumetric expansion through manganese alloying represents a clever metallurgical fix to a stubborn chemical problem.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/43246_2026_1377_Fig1_HTML.jpg" alt=""></p>
+<p>Researchers have found that alloying aluminum battery anodes with manganese can prevent lithium from getting trapped beneath cracked, delithiated surfaces. This approach tackles the durability challenges of volumetric expansion, paving the way for higher-capacity metal alloy batteries.</p>
+<p><a href="https://hackaday.com/2026/11/20/improving-aluminium-anodes-for-lithium-batteries-with-magnesium/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
 <item>
 <title>BepiColombo Arrives at Mercury After 8-Year Odyssey</title>
 <link>https://skyandtelescope.org/astronomy-news/bepicolombo-arrives-at-mercury-after-8-year-odyssey/</link>
