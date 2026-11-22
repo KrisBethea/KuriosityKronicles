@@ -10,6 +10,7 @@ import json
 import os
 import sys
 import time
+import re
 from collections import defaultdict
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -163,14 +164,28 @@ def validate_and_materialize(response, choices, existing, now):
         seen_idx.add(i)
         c = choices[i]
         link = c["link"]
+      
         dept = x.get("dept")
+
+        if isinstance(dept, str):
+            match = re.fullmatch(
+                r"from the (.+?) dept[.!?]*",
+                dept.strip(),
+                flags=re.IGNORECASE
+            )
+            if match:
+                phrase = re.sub(
+                    r"[^A-Za-z0-9'’ -]", "", match.group(1)
+                ).strip()
+                dept = f"from the {phrase} dept."
+
         if (
             not isinstance(dept, str)
-            or not 12 <= len(dept.strip()) <= 90
-            or not DEPT.fullmatch(dept.strip())
+            or not 12 <= len(dept) <= 90
+            or not DEPT.fullmatch(dept)
         ):
-            print(f"Using fallback department for candidate #{i}")
-            dept = "from the editorial-desk dept."
+            dept = "from the curiosity-never-sleeps dept."
+
         it = {
             "id": link, "link": link, "source": c.get("source", "Unknown"),
             "image": c.get("image"),
