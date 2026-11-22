@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22T00:46-06:00",
- "count": 279,
+ "generated": "2026-11-22T10:17-06:00",
+ "count": 278,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -69,13 +69,13 @@
   "Space Weather and Aurora | Google News space weather": {
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 11,
+   "kept": 9,
    "entries": 70,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 57,
+   "old": 59,
    "seen_or_dup": 2,
    "no_title_or_link": 0
   },
@@ -134,25 +134,25 @@
    "url": "https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 1,
-   "entries": 13,
+   "entries": 14,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 12,
+   "old": 13,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Weather & Meteorology | Google News unusual weather": {
    "url": "https://news.google.com/rss/search?q=%22rare+weather%22+OR+%22atmospheric+phenomenon%22+OR+%22unusual+cloud%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 2,
+   "kept": 1,
    "entries": 51,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 48,
+   "old": 49,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
@@ -173,12 +173,12 @@
    "url": "https://news.google.com/rss/search?q=%22Minnesota%22+%22severe+weather%22+OR+%22Midwest%22+%22winter+storm%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 36,
+   "entries": 35,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 36,
+   "old": 35,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -237,14 +237,14 @@
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 4,
+   "kept": 7,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 3,
+   "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
@@ -289,13 +289,13 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 9,
-   "entries": 58,
+   "kept": 7,
+   "entries": 57,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 49,
+   "old": 50,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -329,12 +329,12 @@
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 20,
-   "entries": 73,
+   "entries": 76,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 18,
+   "old": 16,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -354,8 +354,8 @@
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 9,
-   "entries": 29,
+   "kept": 10,
+   "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -432,6 +432,167 @@
  },
  "items": [
   {
+   "title": "Sun news: The man who guessed what makes the sun shine - EarthSky",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTENXc2NPTTFabFFfamwtXzBKVjRXSzJ3ZEZwcTJXeTR4X1pZa3NQUnZPdzdOWUZkYWtlYzIzMkdsR0FmYWViR0piblRUTWtVTEdlTjJMZXN5b0g1NmFQbmhBTnFuaGZRWUJmel9VWC12M1hLNEFnM3d0eGJ6OXc?oc=5",
+   "source": "EarthSky",
+   "category": "Space Weather and Aurora",
+   "summary": "Sun news: The man who guessed what makes the sun shine EarthSky",
+   "published": "2026-11-22T09:01-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Soft Robot Made for the Races",
+   "link": "https://hackaday.com/2026/11/22/soft-robot-made-for-the-races/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Soft robotics is a relatively untapped field of robotics. However, that doesn’t mean there aren’t some good examples of what it could do in the near future. Speed is a metric that has been lacking in the soft space, but in a recent UC San Diego study, there’s been a “slight” increase in the land speed record for soft robotics . What’s perhaps the most impressive part of this study isn’t the speed itself, but the method used to obtain those speeds. Unlike many previous soft robots, the actuation isn’t controlled directly from a microcontroller. Pneumatic logic gates are used instead, which allow for quick cycling between abduction and adduction. The compliant oscillations even allow for other fluids such as water. While the entire robot was 3D printed on a commercial printer, there were some modifications needed to print the TPE as desired. It would be interesting to see the robot printed in a silicone material , as the TPE needed to be worked in before full speed capabilities. It’s always neat to see the evolution of niche technologies such as soft robotics. If you want to see what came before this speed demon, check out some work with soft logic ! What about using miniature SCUBA bottles? They can hold on like a thousands pressures of air in a single volume. It could power the robot for many times. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-22T09:00-06:00",
+   "tags": [
+    "Robots Hacks",
+    "3d printing pneumatic muscles",
+    "pneumatic actuator",
+    "pneumatic logic",
+    "soft robotics"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/scirobotics.aei1264-f1.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Trump Reviews Federal Gray Wolf Protections Amid Farmer Disputes - cwibc.co.id",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVzF2UVNhM3BudU40MzRKU2ZIOXhCMWNwZ3haQk1CS1BLZnBGd0ZuRF85NU9GbE5hLTJpMzJUTmdXMXJybDlZM1JwMTlBeHdpOGlzYTJmRGx1MEE2a2Y0Q1ZwNFFsSVBMYkE?oc=5",
+   "source": "cwibc.co.id",
+   "category": "Minnesota and Nature",
+   "summary": "Trump Reviews Federal Gray Wolf Protections Amid Farmer Disputes cwibc.co.id",
+   "published": "2026-11-22T07:52-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NWS Confirms Saturday Evening Tornado in Palm Beach County - WPTV",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHMzTHFGR2J4ajd1aDVIN0hFeEJBSmVnck9lX2ZwWU9WbndYYVdIVmJrZTFwYVRpdU9mbTU3SzR0MXZjM3gwcGJPYjZDMDYzX1lFRnhTR1B4dDRnSUxKZVFvUnI2S3V5NGFIYlNtTjRFOWcybEVGbGJrSE1qM0h0ejlpeWZsUQ?oc=5",
+   "source": "WPTV",
+   "category": "Weather & Meteorology",
+   "summary": "NWS Confirms Saturday Evening Tornado in Palm Beach County WPTV",
+   "published": "2026-11-22T07:30-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Potatoes Grow in Simulated Lunar Soil as Well as on Earth",
+   "link": "https://hackaday.com/2026/11/22/potatoes-grow-in-simulated-lunar-soil-as-well-as-on-earth/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Popularized by a certain book about a Martian, growing potatoes in very non-Earth-like environments has become somewhat of a meme. Perhaps unsurprisingly, it’s not so far from actual science being performed today, such as Oregon State University researchers who are spending their time growing potatoes in lunar regolith simulants . In addition to the paper in npj Microgravity there’re also a PR piece from the university and a video that has been embedded below. All of this seeks to answer the question of whether you can farm potatoes on the Moon, a question that will become important if humanity sets up lunar bases and do not want to become reliant on constant food resupplies from Earth. It’s probably not too shocking that since regolith is rather poor in plant nutrients that adding fertilizer helped them grow a lot better, pretty much following what fans of The Martian already knew. In addition to simply seeing how well the potatoes grew the researchers also investigated the nutritional value, absorbed metals like copper and cellular health. Notable is that compared to the Earth soil (Adkins) control all lunar regolith potatoes were less healthy and produced less biomass. This is likely due to how sharp regolith is on a microscopic level, which are postulated to cause constant damage to the roots and other elements of the plant. In short, while you can grow potatoes on the Moon, you better bring suitable fertilizer and expect a lower yield than on Earth. As any yeast farmer knows the absolute best nutrient is dead yeast cells. They have perfection balance for new yeast to grow. So I wonder if potatoes are the same, can new ones be fed dead ones. And if they are able to grow well, what is the delta from the chemicals in dead potatoes relative to moon soil. Basically, wha",
+   "published": "2026-11-22T06:00-06:00",
+   "tags": [
+    "green hacks",
+    "Science",
+    "Space",
+    "moon",
+    "potatos",
+    "reglith"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/lunar_regolith_potatoes_oregon_state_university_youtube.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Anderson: Minnesota desperately needs a conservation-minded governor. Is it Klobuchar? - Star Tribune",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1BwTVdIX01EX2IydWFGVVpoQTJad1RtcjVlSXhwQW02VGh4WGlwR0NuUEp2Y0Y2N1M5RU92Qk5oRWo1VnBYY3lIWkdrcjlmdTU0ZmpKMWVDNzJSMEpjb29lTzMweVRVV0Y0Y0NKQUg0ZnN6ZXIxd2tFODZGbjFBVHZVNHBmLUtiSDBVak5BRkdOOUFhdWh2eGJVMDlORFRfcjV6OHJkbkNJT1dBTVJYM3VrdGJlQXpPNDNxVHF3?oc=5",
+   "source": "Star Tribune",
+   "category": "Minnesota and Nature",
+   "summary": "Anderson: Minnesota desperately needs a conservation-minded governor. Is it Klobuchar? Star Tribune",
+   "published": "2026-11-22T05:30-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Xingyun Awards 2026 Winners",
+   "link": "https://file770.com/xingyun-awards-2026-winners/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "The 17th annual Xingyun Awards for Chinese science fiction were announced by the World Chinese Science Fiction Association at a ceremony held in Chengdu on November 15. Best Novel Best Novella Best Short Story Best Translated Work Best Non-Fiction Best … Continue reading →",
+   "published": "2026-11-22T03:22-06:00",
+   "tags": [
+    "Awards",
+    "Xingyun Award"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Quick WIFI Adapter Through USB",
+   "link": "https://hackaday.com/2026/11/22/quick-wifi-adapter-through-usb/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "There’s breaking news! Quick, check your computer and look it up! What? Your computer doesn’t have internet right now because its WiFi chip fried itself? Well, it’s a good thing that [Phil Schatzmann] made a quick 4-line upload to make a makeshift internet adapter called TinyWifiDongle ! TinyWifiDongle is literally 4 lines of C++ (though the inclusions are doing some heavy lifting). The simple Arduino based project is not meant to browse through your streaming services at 4K, but can provide simple browsing capabilities by plugging into a USB port. The codebase has been tested on both the ESP32-S3 and Pi Pico 2 W with 600 KB/s and 250 KB/s, respectively. So certainly not blazing by any means, but enough to update your laptop’s own network drivers. Though, the TinyWifiDongle does provide some particularly useful features in a pinch. Logging and transparency features are built into the codebase to allow the adaptor to work for any light IOT devices that need monitoring. If the slow speeds shown here aren’t quick enough for you, that doesn’t mean we can’t find something for you. How does 10 gigabit sound? If that’s up your alley, be sure to check out this adaptor’s autopsy ! TinyWifiDongle is literally 4 lines of C++ (though the inclusions are doing some heavy lifting). That’s a silly comment, considering the inclusions come from the same project. Since when is the size of a project determined by the size of its setup() function? The history of the esp8266 comes from USB dongles. Back in 2013 there were traces in the code of a similar chip that was used as a USB wifi dongle. Probably referring to ESP8089, but that didn’t have USB interface either. Would have used SDIO or SPI in an embedded/tablet sitcheeation. I think you have that confused – the original esp8266 was for c",
+   "published": "2026-11-22T03:00-06:00",
+   "tags": [
+    "Peripherals Hacks",
+    "arduino",
+    "ESP32",
+    "pi pico",
+    "wifi adapter"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/esp32_e51860.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "A Replacement PCB for the Echo Dot",
+   "link": "https://hackaday.com/2026/11/22/a-replacement-pcb-for-the-echo-dot/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "The Amazon Echo and other voice-controlled home assistants provide so much promise of a Jetsons style future of machines at your service. They would be a must-have accessory, were it not that they rely on the data centres of a large corporation that does not necessarily have your best interests at heart. But what if you like the Echo, but not the cloud? If you’re [ale1800], you take a 3rd generation Echo Dot, gut it, and put your own PCB inside to offer a local service . The device keeps the Dot interface and microphone array, and connects to a Home Assistant server. As you’d imagine it needs a more powerful computer at its heart than a run-of-the-mill microcontroller, so it uses an ESP32-P4 application processor, with the usual ESP32-S3 companion for connectivity. We’ve been following P4 projects as they gather steam, and it’s interesting to see one that’s not using a screen-based interface. There’s a YouTube video below the break, so you can see it in action. We like this device, on many levels. In using the P4 it’s pushing forward with the next generation of microcontrollers, and in providing a local voice assistant it’s freeing its users from the cloud. What’s not to like! I like the echo but it is stupid as a rock. Can it be echo with the Claude? That would be perfect. https://www.crowdsupply.com/micimike-rev-devices/micimike-home-mini-drop-in-pcb Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-22T03:00-06:00",
+   "tags": [
+    "home hacks",
+    "Amazon Echo",
+    "ESP32-P4",
+    "home automation"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/dot-local-featured.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Palm Beach County residents survey damage, describe windy conditions - WPBF",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWs5SlJLbHBFMTViY2VxM2dUalh6M0pJeGI0MW1FeU9pcHBnZ3o2YnBqZTYwUlVWRTlidU1tek1oZkszVmlaeDhOLTR0eVNmVzJDTHZZazdjc19vNTdaTExzckd2U3ExbHo2VUd1RGlUeDBhTGlWMEZWdDM5QTluRU9rbVNsV19RRWo5QndVcTVqOGFTN0E?oc=5",
+   "source": "WPBF",
+   "category": "Weather & Meteorology",
+   "summary": "Palm Beach County residents survey damage, describe windy conditions WPBF",
+   "published": "2026-11-22T01:41-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Building a Robotic Hand on a Budget",
    "link": "https://hackaday.com/2026/11/21/building-a-robotic-hand-on-a-budget/",
    "source": "Hackaday",
@@ -453,6 +614,19 @@
    "summary_from": "page"
   },
   {
+   "title": "Tornado touches down near Delray Beach, leaving damage behind - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVZsbUZpT21vMlk2d3o5aVMzQmZ3LUZFb0NSUlFZNmp5ZnJ2TWRsTjh1Mm1jcVFxb1RycmM0c3IyYzZhaU5KYUQ3MWZCZWhnTTByNTFZV05GUlNUYXVfM3JUNFFPWEdPZUdGcnhneVFiTmgtdlpDMy1JYW12WGNwaTZqZGIyTmVEdUU3OEpMWlhXTTBkSnRHU0NMaWFSUQ?oc=5",
+   "source": "CBS News",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado touches down near Delray Beach, leaving damage behind CBS News",
+   "published": "2026-11-21T23:45-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
    "source": "NASA News",
@@ -469,12 +643,25 @@
    "summary_from": "feed"
   },
   {
-   "title": "Tornado Watch expires after Palm Beach County residents report damage - WPBF",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLWs5SlJLbHBFMTViY2VxM2dUalh6M0pJeGI0MW1FeU9pcHBnZ3o2YnBqZTYwUlVWRTlidU1tek1oZkszVmlaeDhOLTR0eVNmVzJDTHZZazdjc19vNTdaTExzckd2U3ExbHo2VUd1RGlUeDBhTGlWMEZWdDM5QTluRU9rbVNsV19RRWo5QndVcTVqOGFTN0E?oc=5",
-   "source": "WPBF",
+   "title": "Tornado watch lifted for Indian River County - Vero News",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUWotcTlqUEpXckIwcHptTGREMXdaTm9DNC1CN1AweGFvemVYX1dLVXZ5b3p5X2p0Z2dPSGhXTG1rOW96SXpZc1NXZ082b1dRSlJuZnFKb01SZS04MEttNTZCVlhfQUEwRzhPckwyR3VjTHhxWndkbTdVQWFBY1NXeUUtZG9Hdw?oc=5",
+   "source": "Vero News",
    "category": "Weather & Meteorology",
-   "summary": "Tornado Watch expires after Palm Beach County residents report damage WPBF",
-   "published": "2026-11-21T21:56-06:00",
+   "summary": "Tornado watch lifted for Indian River County Vero News",
+   "published": "2026-11-21T21:40-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Throughout the day, the National Weather Service issued five tornado warnings—three from the Miami office and two from the Melbourne office. - Facebook",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUFI0N3J4b3BBUnBMSnc3clA1djNNdzM4OWV1MjhfOGlPQVBFT1BwWWhrbGVBX0pmZzl1UDVGOTktMlRGY19lYlhheHNyWlBKMVE4RzRnMVQteFhPTThSbnBRSU5jVGxveFMtc0tjUVdJcmVfcFRfV0NtUmVjWkxtZFN3RVcwdDlaX3NEM3dvcHVzS2gyZWxsdzRWY3B0eS1lX1BFNUxsMW9pZmFKWHF4S2tCcXpuWURvX01WeGh4WkhKd3FQRUU0ZmlLcjNpOHpyQ1QtMy02Yjd6QVRrSV84?oc=5",
+   "source": "Facebook",
+   "category": "Weather & Meteorology",
+   "summary": "Throughout the day, the National Weather Service issued five tornado warnings—three from the Miami office and two from the Melbourne office. Facebook",
+   "published": "2026-11-21T21:36-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -621,19 +808,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Severe Thunderstorm Warning for Indian River & St. Lucie County - WPEC",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGJWb08yekM5Wnp4VzhWeWNqb0paeks3cFUtOUhwT0d0NGp0aTdYUEtlTnFtbVNXT2I5X2pOdGVhS0pOeEtjWGt3eE1FeE1aM0syaXdJWmFONWpRMHF4QkllT0dVWnhOenZ4OG9LM3BPa0o0M0ZJNUNCMnNoQlFiTUxsVl9NQV9wSnZIbEg0SldCQ2M?oc=5",
-   "source": "WPEC",
-   "category": "Weather & Meteorology",
-   "summary": "Severe Thunderstorm Warning for Indian River & St. Lucie County WPEC",
-   "published": "2026-11-21T20:08-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Possible tornado brings down trees, causes damage in southern Palm Beach County - WPEC",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0dWOWRUbnNnSjE0a0ZFV0FCSmEzRk44MzJVc2NtLUFFeXpCLXZ1STlleHJrTC1EbHBFc0J5YzRuU1NxcUY2Z1pYekhKX1diZUNCb2s0SkpiNlVVNU95MmxEZzV0bHRKVG1RM05nWlVkR3VSLTZmNnd4RkNSUXZFclg0ck9XODFUdHZaZmt4RnA?oc=5",
    "source": "WPEC",
@@ -647,51 +821,12 @@
    "summary_from": "feed"
   },
   {
-   "title": "Possible tornado brings down trees, causes damage in southern Palm Beach County - WPEC",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDE0WUc3Ml9FODh5VG9uZTZVdUR4SnQ3N2NlQ1N2c2w0WjV3Yy1ZS1lKUS1mSGJERlg4eUFzTTlTampkYklJTkE1Z1FBTFR3cXJ6VGRKWDcxRTVGLVJCSDl5ckJ1MFdOV1RnRXZMcHUwaEI4aDF5YkM0MjdYaXBKT3lTbDk5SW56eVFwMWhyOE5yRGFSYWhzT3VWTQ?oc=5",
-   "source": "WPEC",
-   "category": "Weather & Meteorology",
-   "summary": "Possible tornado brings down trees, causes damage in southern Palm Beach County WPEC",
-   "published": "2026-11-21T19:09-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "ALERT: Possible Tornado Touchdown in West Delray - The Boca Raton Tribune",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYzBmUmN4MFZwczlWNkwwc1Jsakp5VmlZSGVmeVRET2I3S2xialVDeWU2Q0ZyRHVzOVZLZ3ZLenBfTEV0aFVQWDlWa0ZsaC0zcHYzMFhYWVFNZ2R6WnBJUjhiazF1X3BfTWFUWGF0V0hCaWdyQk1MUDhvQS1fYzRqbUxaRm1hQ2FCM0kzX3Y3dmgtNGpfRmRTbXVfZzJ4bmM?oc=5",
-   "source": "The Boca Raton Tribune",
-   "category": "Weather & Meteorology",
-   "summary": "ALERT: Possible Tornado Touchdown in West Delray The Boca Raton Tribune",
-   "published": "2026-11-21T19:04-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Tornado warning issued for St. Lucie and Indian River counties - Treasure Coast News",
+   "title": "Tornado watch issued for St. Lucie and Indian River counties - Treasure Coast News",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFBHUF93TGxMSjVDb3o2aktPUEh5MUtwQ3MtV3I5M09CcjdncXNYTWZPVGJWVU5wdWczbjBFVW43UUxYN3JqV2ZfY3E2REZ6UnNWeXNVNmdKUUdLeFM0U2dIOHN4c1dkdXAtOTJvSTF5RU51NFRPbnQ5cEJ6Mkp0UmRDNUMxWHhlREFTeWN3dFRvM3FMYU9YLXNwY0xaZGlWenk1a0MxVU9LVUhJRTJhM3JwNXpJcnhD?oc=5",
    "source": "Treasure Coast News",
    "category": "Weather & Meteorology",
-   "summary": "Tornado warning issued for St. Lucie and Indian River counties Treasure Coast News",
-   "published": "2026-11-21T18:30-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Tornado Touches Down In West Delray Beach - BocaNewsNow.com",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2VkU1hTQkFjaHJBVktiOHRZdVFlUHAzdE1wRHdxTmhyLXhvc21tQ29OaEN3U0VKYnI4di1YYkltdTh3TGZ4WlgzWnBNVl9DTGVrNl9EeFktMzdYNUt5MXR1MmdkWS1mVWlKcDFDWmoyQTJ4TXNuZXRLWkxsSTBZcDZ0bw?oc=5",
-   "source": "BocaNewsNow.com",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado Touches Down In West Delray Beach BocaNewsNow.com",
-   "published": "2026-11-21T18:07-06:00",
+   "summary": "Tornado watch issued for St. Lucie and Indian River counties Treasure Coast News",
+   "published": "2026-11-21T18:25-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -718,12 +853,12 @@
    "summary_from": "page"
   },
   {
-   "title": "WEATHER ALERT: STRONG STORMS IN WEST BOCA RATON - BocaNewsNow.com",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHZ1VnVfZ2tsWkRFM2d1M1JDaW91MGZxTDR0aE9nUUxsanRvNUJpb0JvV1hlZ2NJNmlnTEZodURMUkFxOS1HSHFMMmFGeG84NUZqWDYyRG9DZUQ0SzhNcVZZbU9oTmZvNVdqWl9Iekx6enN2MmhCSTI4UjR3Rno2NzFSMTJDeGNTb3c?oc=5",
-   "source": "BocaNewsNow.com",
+   "title": "Tornado warning in Palm Beach County near Boca Raton - FOX Weather",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yOHA2U3JDaGRia0tqczRuNzhzTnZGQkhnTGF6bzNYbmRTdldHTjVwdjE0RmpZalc2MnhMVmJITHNpM3NmWE5LS2IxbVFjaUJiRjRkRk8ycmhpczloLWhWODBqbw?oc=5",
+   "source": "FOX Weather",
    "category": "Weather & Meteorology",
-   "summary": "WEATHER ALERT: STRONG STORMS IN WEST BOCA RATON BocaNewsNow.com",
-   "published": "2026-11-21T16:59-06:00",
+   "summary": "Tornado warning in Palm Beach County near Boca Raton FOX Weather",
+   "published": "2026-11-21T17:17-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -744,6 +879,19 @@
     "Maurizio Manzieri"
    ],
    "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Talk & Do: The History of Progressive Political Organizing in Minnesota (based on a book by Jennifer Delton) - Minnesota Women's Press",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYk0xalhLTFVuZXVHUkpPcHA3MzFCbnYzdi1veFNSeDE2M0dpSjhUb1VJRkgzSV9ISDhoUUkyQXM3Q252bWZKd0tHQUdfelgzNHFuT1h3YTl3RFgxeGhLOGdScDRmRkp0cjRETC1RSFR1UmRnSnBDSVB6TldWdV9HekVfMjBpRlVDbC1MdXBhT2tPV3RFTGxMejFrS1RidHVINlhN?oc=5",
+   "source": "Minnesota Women's Press",
+   "category": "Minnesota and Nature",
+   "summary": "Talk & Do: The History of Progressive Political Organizing in Minnesota (based on a book by Jennifer Delton) Minnesota Women's Press",
+   "published": "2026-11-21T13:25-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -797,32 +945,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Tornado warning now canceled was issued for parts of Miami-Dade, Broward counties - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmN5OE1zZnk3dF9RZktiU1g2bTA4STliZzVPRGY4dXZraXR6VVo3VmVrQjlxb2ZiMlJYWUdZMTJHMXpFbGZHQzNCc0dGd1EweEhfd01sVnhqbzhmRlVYa0FNT1F2Ri03LTktd28ybTdheUliaTV5cWFZTVJray1adkhEQmRZZnB3?oc=5",
-   "source": "CBS News",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado warning now canceled was issued for parts of Miami-Dade, Broward counties CBS News",
-   "published": "2026-11-21T11:17-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Tornado Warning issued for northern Miami-Dade, southern Broward counties - WPLG Local 10",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWm5qT19OQUhKT2ZwZDB5TXJGOXo2RlBKYnNjYmFxZWtfQUxVS2JPcjZvQW1GUElaWTV2bFFqTjExeXFfMDlLaTg4QnlyR1QxLXFldFJCVlVDUXE4SEJPN1Q0b1IzVUdta2JDYS1NbldFdEcycGpEcm9NeEx3NXBfbDBmR1RyQnExak5fUHc3OUp6WnRVUS1hMkxvWmRidmQtWlM5X1hYcHViSFVuZXdFZmVnWlExanc4d2I5d2MtVQ?oc=5",
-   "source": "WPLG Local 10",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado Warning issued for northern Miami-Dade, southern Broward counties WPLG Local 10",
-   "published": "2026-11-21T11:15-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Tornado warning issued for Miami-Dade County as storms lash Florida - FOX Weather",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fVzJNQ25PNW9wZmFNUHk1U1dob0YzRG1OMklOVFFPSG1CMTdVV1puMHNIR01GTWNCb2c3TWlCRXliaDY3NmF1QU5EUU1fbWptTmVqV2ZNcjZ6MU5TeHFCaU94NA?oc=5",
    "source": "FOX Weather",
@@ -834,29 +956,6 @@
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "LiDAR Glasses For the Visually Impaired",
-   "link": "https://hackaday.com/2026/11/21/lidar-glasses-for-the-visually-impaired/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "The human brain has a fairly remarkable ability to take any sensory input and convert it into another type. Most notably, those with vision impairments can use systems that produce sound from what they see in the environment, with the brain learning to process this information visually after some time. Touch is another sense that can be remapped to vision, and [DebackTech] has come up with this system which uses a series of vibration motors to assist the visually impaired . The brain’s ability to transfer information from one system to another is known as cross-modal plasticity . This system specifically uses a pair of glasses that have LiDAR built in. The sensors continually scan the environment, providing a computer with distance and direction information. The computer processes this and outputs its findings immediately to a shirt with an array of vibration motors sewn into it. With practice, a user can learn to identify obstacles based on the vibration of these motors. As far as actually usability goes, [DebackTech] was able to use them to walk around, ride an electric scooter, and play catch with a large, slow-moving ball. The prototype system is a little bit bulky for now but in a place like Boston with so many universities this presumably wouldn’t draw that much attention, and it could also be streamlined in future versions. There are some other interesting methods that can be used to help those with visual disabilities, sometimes without using any technology at all . Why do you believe you not getting exposed to a harmless laser is more important than a visually impaired person being better equipped to navigate the world? As someone, who knows I can clearly state that this solution won’t help visually impaired person much. It makes it worse because it replaces th",
-   "published": "2026-11-21T09:00-06:00",
-   "tags": [
-    "Lifehacks",
-    "Medical Hacks",
-    "assistive technology",
-    "blind",
-    "direction",
-    "disability",
-    "glasses",
-    "lidar"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/lidar-glasses-main.png",
-   "summary_from": "page"
   },
   {
    "title": "AI agents ace 79% of training-run checks but stumble on core software engineering - TechRadar",
@@ -903,7 +1002,7 @@
    "source": "Grand Forks Herald",
    "category": "Minnesota and Nature",
    "summary": "Minnesota hunters can help effort to collar bears by reporting dens Grand Forks Herald",
-   "published": "2026-11-21T06:48-06:00",
+   "published": "2026-11-21T06:45-06:00",
    "tags": [],
    "feed": "Google News Minnesota nature",
    "evergreen": false,
@@ -951,19 +1050,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Studying solar storms from the bottom of the world - Technology Org",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaldhNVppTUxTeW5jOGVIbzExZ2FLQ2hCN25yZlMwT2V1NG40V0NqTjV3Rk84Vk0wQmluYTJSSHlKV2E4X25iTDUxZXExOUlmVkwwN253eE5mbXMxdXd2TDBBdk9DSEpNajhJN0pHSWxuZEhDdVhLSk5kaks1bVJLMjYtOGQ0VU1hbGZ2d1M4NzQwUDQ?oc=5",
-   "source": "Technology Org",
-   "category": "Space Weather and Aurora",
-   "summary": "Studying solar storms from the bottom of the world Technology Org",
-   "published": "2026-11-21T00:30-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "APOD: 2026 November 21 – Voyager’s Neptune",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
    "source": "NASA News",
@@ -997,6 +1083,19 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/05/intuitionpumpsdennett.jpg?w=680&ssl=1",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Tornado Warning expires for southwest Merced County, National Weather Service says - ABC30 Fresno",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUmRUSkVheHFYWnpySmgzakNqQURXdTJ4T0F1UjlSQlU3M0JZcVh1MG1DUkFBa29ldnd5MmZzTkpWZ0NUVWtIbXV5dzZQZkVLZlN5M3lNLTkzUWQ0UjVXb0FZYkFYY2luamdja3lEN01FczVoWU5iN25oendTSWxJM3BWTk0yNTJjT2FhaHA1dzQtYXE5RXlkQlUwaVFic2dRdmJmZXZJQdIBrAFBVV95cUxQTlc2T1pVRHZQalRhQ0pic0Y1T3I1NFRvclJrN2lVUnpVZHh2S1JOLVRxNVlvaE1kblpSOVE5bUEwcXpLWGNDR2NRVElWcmJyeGo3YXZOdTRxaVV6U2tfVkxDZXlEUEx0ZGxPaVhRcTloZ1NDblNDTlZEd1VLd1lzbTZuVHZqNUNncmZwWWRYQWdQc0RPbWJTZ09tZkdmUVpKRG1jQkVWSHZBSjE2?oc=5",
+   "source": "ABC30 Fresno",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado Warning expires for southwest Merced County, National Weather Service says ABC30 Fresno",
+   "published": "2026-11-20T21:03-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -1092,6 +1191,19 @@
    "published": "2026-11-20T14:37-06:00",
    "tags": [],
    "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Inside a software factory: how AI agents move through the software lifecycle - news.lavx.hu",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc09velVzTWhuaVNSTmx4TnlXRFlrMzhMUDAtX1dxSUxkODVOXzE5QWtDMk9CS3EyVGhWR0FCZTBvcG1aQVpkejk5UFdJbHNPVHRaMVZUUUdiR0JDODJzWUQzRzFuaGptcVlvalRHTmNYQy1VN3UxQnVnTDFvcUFZbjZudWZET2xUcGtvVkRvUHQ2TVpaQXN3bFVvajE4QnZSQkxlQ3pTSQ?oc=5",
+   "source": "news.lavx.hu",
+   "category": "AI and Agents",
+   "summary": "Inside a software factory: how AI agents move through the software lifecycle news.lavx.hu",
+   "published": "2026-11-20T14:16-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1453,19 +1565,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Brutal maps show exact date rare weather event to hit UK as temperatures plunge - Daily Express",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0NKcGxMR2tlYTVkYkdhQXRuenV5TGkxT0tpb3JfbmR0Szk1NEpNT2R1NmloSHBEZFFQelBmd1RJeGNJem1BRWlobUFyb3dSOHFjUkUxLTdSRXZvREQzdllsR0pzQnp0TXdnaWdORE5WSHRPNDRqdFFYREFja2dfYlpKeEltTVZxRWtHMEx1akvSAZYBQVVfeXFMT1BtclZnRlkwcGM5NUdjenRJM09uRDRaaXJlVGRzUjBta2Z2R0FFQ012T1pfTW1Vd09FVGhELWpMVHdFeF92QmdnQ21MTzBWeFVTYlhyampkd3JZV1lIRHJUMHlXVlFGZko2ZjVqZjY1VldydlJRcHFqbXN5WDFsblRRRTZPazMxMmk1TzNkcHpDeVpNdjd3?oc=5",
-   "source": "Daily Express",
-   "category": "Weather & Meteorology",
-   "summary": "Brutal maps show exact date rare weather event to hit UK as temperatures plunge Daily Express",
-   "published": "2026-11-20T07:55-06:00",
-   "tags": [],
-   "feed": "Google News unusual weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "COO is Grand Theft Auto but with pigeons.",
    "link": "https://kottke.org/26/11/0050034-coo",
    "source": "Kottke",
@@ -1487,6 +1586,19 @@
    "published": "2026-11-20T05:12-06:00",
    "tags": [],
    "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hitachi Digital demonstrated how AI agents will be able to develop software on their own - LIGA.net",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVm5yQ1NsWmlFeko4VVpGdXFWeF9ybFFwNEc5Y3ZtWFZLYkllOU15VlZ2QV9BWDNRaElNWEZWbEJpVndZWkxzenJ1N2NfRkdLRHJsTllaZXR6TTJLOERSSlRMbzhxbW03aEV6YkhTdkJQeF9UdFh4amljRGJNcUpjeml2YjFFY19oNU1jMWNzWUtNLTVxb09aWXRVVnh0UE9Dd2pSMEhqYmxuX2NGQTZTZVFUeGw5cnBCWXFCd1RMdU5iV1pRVk1zNdIBzgFBVV95cUxQbjVfMzVZYndUZDJsX2pRd0VLNTFoTmUxOWhrVk4zTHNRYzJWNm1hNDNoemxITnZ2UDRmS2VKYW5uNXl6SVFBa3JNeElIWHpJX2tQN2RaYXBTUm5TdkpNa2FKVlJpcHV3TjlNaWZNS0ZVRndvVjhLd2I4MDZ0ZHlVUzRKWjlkb3FrdkxYekJHSFFIYkFlSDh4ZlRGVkFfdFViVXY0NHQ0bkR6bHNsdW9rbldOM1M4a3VBbXFibnY3V1IzNjNvRFFwb3I4cU9aZw?oc=5",
+   "source": "LIGA.net",
+   "category": "AI and Agents",
+   "summary": "Hitachi Digital demonstrated how AI agents will be able to develop software on their own LIGA.net",
+   "published": "2026-11-20T04:16-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1519,6 +1631,19 @@
    "published": "2026-11-20T04:00-06:00",
    "tags": [],
    "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "WoW: Forever Hotfixes - November 20, 2026 — World of Warcraft — Blizzard News - Blizzard News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNm9ZZ0IwSjFSdzFEX3hJeGk4Nlhhc3Y2Q1U5TmJuZWRnaWplS0pMdTBHT0h3a2lnYkhvaFZNVVBacHpxRV9TN3BWSGgxamM2bTlhSGZib0Iza25icjZ0bHRuX3Q4UHM5a290emJhWlR5dHE3ZXpoX1I0QmtwX0R4U3JybGNSd1E?oc=5",
+   "source": "Blizzard News",
+   "category": "Weather & Meteorology",
+   "summary": "WoW: Forever Hotfixes - November 20, 2026 — World of Warcraft — Blizzard News Blizzard News",
+   "published": "2026-11-20T02:00-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1590,19 +1715,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "3 new dinosaurs coming to Carnegie Museum of Natural History - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVk9CbHJ0Qzl0cFQzRGFHSUZPMVU2ZnlJMUZXR09ScVFBR0JDUkdnS1NiSUFQNE1PMkxINGZpNXhRUmJHWjZzbWFyMEU1WVc1OHBXcVByQjhtQ2c0TGl6RzJxdFJSVzE4TGV2X2NlVkk2dndaMmJxMjF4aGZPMkRGdTN6RmNLTi1hdk8xb1B1UmNUUUlYdUNUNzMyZzJFS2xNYmRrYg?oc=5",
-   "source": "CBS News",
-   "category": "Minnesota and Nature",
-   "summary": "3 new dinosaurs coming to Carnegie Museum of Natural History CBS News",
-   "published": "2026-11-19T21:10-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "AI agents reshape software delivery, creating new bottlenecks - TechGig",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3VLVG5aMzVGYmVEY2ZKV0ZWMTBnZm92eGRQVVJucFBxT2JLekVOVDJoMEVxUnRld05ZQk56X1hPQVk3MWFXUkdCdTJGU29GS0cwdVl2RERnTThEZzd4VmoxbXVQMGs0NURoT2ttcENudHhCSUFHWUN1czFrM2hpTU01Vm9ZQXlyWTRvTWd1Qm1OeEVZSHhiOC1FTmJzcnM?oc=5",
    "source": "TechGig",
@@ -1657,32 +1769,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "'Not a threat that keeps many people up at night': insurers told to confront severe space weather risk - InsuranceAsia News",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObEpseDl2SElvMGhOM0FPVXBrUkRXclJPMW9YelVKcERaMktUdFdUODVfbnRrV21vRzVRR0dVdmlMTG9Iem9yd0V1SFRBdW41V0VNT29SWGt2RzlTM3NGSldncVZYWnlTaWJfSV9TenFmajcwckROalExVEFqWXNzOHQ5SzQ4eVA1UVE0S2JJbHlNMFRZaTE0UUNHS00wMDQxeFI1by1Qd2RpZ3lfcnNsRDFkWkxaVzJoa2JTQ2c2eDdyaTJQLVRPZ193?oc=5",
-   "source": "InsuranceAsia News",
-   "category": "Space Weather and Aurora",
-   "summary": "'Not a threat that keeps many people up at night': insurers told to confront severe space weather risk InsuranceAsia News",
-   "published": "2026-11-19T17:35-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Give thanks for the great outdoors: November 27 is Free Park Day in MN - Hometown Focus",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNW1EQ3RhVFhFOV8yQmtPLUd3YXRrczRmS1llMm5kWWVReFFRaUxiUmVSRzFjOTBnOVlNeEhSTHVLaEh3Q21ZLVpCcEdGLW1vNk1ZS2FRejViTDhBSGYtb1VHZDdqckhSYlZxUnZ4ZTEyYWNwVXo0M3k4RFVmSC1SN1EySmM2d3ZqNUp5dE1TR2xncFJ1d2NHZmxfZjl0U0gtWkRpWkp1Wm4zVnJK?oc=5",
-   "source": "Hometown Focus",
-   "category": "Minnesota and Nature",
-   "summary": "Give thanks for the great outdoors: November 27 is Free Park Day in MN Hometown Focus",
-   "published": "2026-11-19T17:00-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Stock Photos of Muscular Men in Odd Places",
    "link": "https://kottke.org/26/11/stock-photos-of-muscular-men-in-odd-places",
    "source": "Kottke",
@@ -1707,19 +1793,6 @@
     "The Game Awards"
    ],
    "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Hackers Hijack Microsoft’s AI Agent Software to Steal Cloud Credentials - Vision Times",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3BhUEZnSTlTVUJsemphc0F6ZU9XeHlGcjJkbldzcjhzMkNqNGotamNCNWtlWGpyMThYOWdXZVM4WS1Tdy1BUXZMM0p4WGNONUZSUVJxejZKeWdCUUN6N0owY1VVNTRhZE53TEp3TzZrSGN4bVViemxLVXBPdndoUFdrMVZrSkJQdnhrV29ndG03R2U1bmYwRVE2ZjJQNjZVZDFsZ3VUS2ZTQ0x2bVBGc21PcXk?oc=5",
-   "source": "Vision Times",
-   "category": "AI and Agents",
-   "summary": "Hackers Hijack Microsoft’s AI Agent Software to Steal Cloud Credentials Vision Times",
-   "published": "2026-11-19T16:51-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2057,19 +2130,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check - IEEE Spectrum",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11MExYUVJuOVYyZGRIX0lwX0hSd1NPVlZYZDlHd2EzYlBkSUxwM0hiMkVQR005ajlLY3o0Q1RfRzVzVG80dktyQ2laZzlaal9Eei1lQw?oc=5",
-   "source": "IEEE Spectrum",
-   "category": "AI and Agents",
-   "summary": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check IEEE Spectrum",
-   "published": "2026-11-19T09:03-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Why Did Flying Cars Become the Ultimate Symbol of Sci-Fi Progress?",
    "link": "https://reactormag.com/why-did-flying-cars-become-the-ultimate-symbol-of-sci-fi-progress/",
    "source": "Reactor",
@@ -2229,19 +2289,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "The age of AI agents: How machines are learning to plan, coordinate and get work done with limited human - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQV1BUNUk2a0VTTGRGX1R4VTZpamNxT2RtVXVYcW5wMDhhUlNPZUNDNHZEeWV5aGhYSXJ4UjZsNjVVQmpxVFR6WG9COVQtdzVWWWQ5WlNSeXd0M0NoRkxKY3duMU5aT3R4TF9pTHV2RnVhSkJ4dlM0S2ptRkJKdENxd3IySEFYbGpTZVQ0RmI0Y1JfQmNCc0xOQThyQmlEQkQ0V1l4V19YSFdNako1VzlLbzVYQWN4aU10SjFNejNLY2lWeXk1Z3QybWhmaHVFeUpQTTRHZ2djX1FRNTRjRVdlX2hOSXFIOERtdkJSSHY4WHNuMEdXOTJHY2NzQkFiOTBWbWtRN09iRWpMaWhXdmhUQ25ZUUx2NlpaUTJWZ9IBogJBVV95cUxNNkMxM2JzdmtOQXB5dVVIeEtFNTZPV1QzNTVKamM2cllaSWxRSUlKbEtwMDdqbzNZUmZLbWdoSHlnMHd0MkY2WjZEel9ObWUxaGd3MXNrc0RIVlRSZmgwbk5LWlk1MXVnZDhKOGdMaklrak5sNWc1T1Fpb1RnTU9FQ1J6aVBfUVo2SGMwdzNIUFpWM1VHRGxqZ1YzaFJIQk1rVVFXMVB5clNvN0dJRWhpejlaNHgteHlfWGxSRW93ZUFGTmxHQnJUV1B4ZnlzNU5TbkMtX0lsNGxxdXhXdlVBRmhFeFQ4T25RVHQ2bnZJTTc3QS1ueVdYT2pIU3lXVDN6TmFUWWJ6NWJYMTdzLVZ6aGdxbFFqOXRrV2hRY1Y3cWJ3Zw?oc=5",
-   "source": "The Times of India",
-   "category": "AI and Agents",
-   "summary": "The age of AI agents: How machines are learning to plan, coordinate and get work done with limited human The Times of India",
-   "published": "2026-11-18T22:00-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "National weather forecast: Severe storms for Vic, NSW and Qld - The Bureau of Meteorology",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVjd1OTdRcUFmUU0zTnp1YXdpOTJUbm9aYlRKOGQwNHlMRldjWXNJS3hxNHRFbko3WmxHbFBPRmEyU29Vcy1teHcxaHhaOTBjS0dFdXEyTmdaRzlVb3M2YnBZQzVGaUJFcGw4YkxTT25XcUh4YWlzSnM4LWg4OTRsUlotYUVPdVJyMXRHejE4Wl9xUQ?oc=5",
    "source": "The Bureau of Meteorology",
@@ -2272,19 +2319,6 @@
     "Jack Kirby"
    ],
    "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Spider Networks launches KUKURI for AI agent rules - IT Brief Asia",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY2FIUlZqQ2NaTVl2dHVMMmVONFJISWMxY3ZnMGJPQU50c2tXVEJKcDJTd1lXNWltXzlUcFhxQlJYZV81MWxJc3BLdVJVVmxoVk1JWnBQTEQ4MnJrWWp5b0RheXFUWDU3ZzEwcUpGeUNQWE1feGkwS2llLXhva0huMW00WQ?oc=5",
-   "source": "IT Brief Asia",
-   "category": "AI and Agents",
-   "summary": "Spider Networks launches KUKURI for AI agent rules IT Brief Asia",
-   "published": "2026-11-18T19:30-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2830,19 +2864,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Doctor Who | Final bidders revealed for future of the show - Film Stories",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHBxYnlXVkhfMG5MV1ZpWWNUbTdaeGVCSDN2N0xHMlJtUldSNHQxS0pNdDhCSl9lU2tGWWtldUJXaXgzSmhtMkowX0wyZkhrbTI2TDJjTWVBSWtEVFNsN3JrLWxRRVRGWEJ4QjVzT3djd01DOUFfNkxIbzlENXFJWGpaZVRUOUc1RkZ4QTROQQ?oc=5",
-   "source": "Film Stories",
-   "category": "Science Fiction",
-   "summary": "Doctor Who | Final bidders revealed for future of the show Film Stories",
-   "published": "2026-11-18T02:03-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
    "link": "https://openai.com/business/customer-stories/sumitomo-life",
    "source": "OpenAI News",
@@ -2896,24 +2917,6 @@
     "Safety"
    ],
    "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Ed Kramer Sentenced to Prison for Violating Terms of Previous Child Molestation Sentence",
-   "link": "https://file770.com/ed-kramer-sentenced-to-prison-for-violating-terms-of-previous-child-molestation-sentence/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "Dragon Con co-founder Ed Kramer is heading to prison more than 25 years after his initial arrest on child sexual abuse charges reports WSB-TV Channel 2 – Atlanta. Kramer was found guilty of three counts of child molestation in Gwinnett … Continue reading →",
-   "published": "2026-11-17T23:30-06:00",
-   "tags": [
-    "Heard Online",
-    "crime",
-    "Dragon Con",
-    "Ed Kramer"
-   ],
-   "feed": "File 770",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2990,6 +2993,19 @@
     "Company"
    ],
    "feed": "OpenAI News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "BBC Sets \"Doctor Who\" Producer Shortlist - Dark Horizons",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43RkJlTGhhSWFlVUhiQmVDdElmSEN1QTRuSHBxWm5yMGh6ekh4cGhkNnNrVnRTVzJzenVoMEdJVU1KQ3VVQzFKaHJ6cVBsRWNzeHN2Q2JaY1ZqUV85Q2NnTHBmcUpTMUdqbGxLV1ZJZVJGU0NTV1NN?oc=5",
+   "source": "Dark Horizons",
+   "category": "Science Fiction",
+   "summary": "BBC Sets \"Doctor Who\" Producer Shortlist Dark Horizons",
+   "published": "2026-11-17T15:56-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3076,7 +3092,7 @@
    "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
    "source": "Microsoft Azure Blog",
    "category": "DotNet and Development",
-   "summary": "The top announcements: AKS and Microsoft Foundry Azure Catalyst Windows Server 2028 As AI continues to reshape how every business builds, operates, and competes, it is rapidly emerging as the defining workload in the cloud. This new class of agents, more demanding, complex, and dynamic than anything before them, is rewriting the rules of cloud infrastructure. Reasoning across multi-agent systems, drawing on rich context, acting in real time, and running continuously, they ask more of every layer of the platform beneath them. This week, we’re introducing innovations across Microsoft Azure that set a new standard for how the cloud powers AI: expanded AI core capabilities in Azure to build what",
+   "summary": "As AI continues to reshape how every business builds, operates, and competes, it is rapidly emerging as the defining workload in the cloud. This new class of agents, more demanding, complex, and dynamic than anything before them, is rewriting the rules of cloud infrastructure. Reasoning across multi-agent systems, drawing on rich context, acting in real time, and running continuously, they ask more of every layer of the platform beneath them. This week, we’re introducing innovations across Microsoft Azure that set a new standard for how the cloud powers AI: expanded AI core capabilities in Azure to build what’s next, and Azure Catalyst, an intelligent agent-led solution to modernize the apps",
    "published": "2026-11-17T12:35-06:00",
    "tags": [
     "AI + machine learning",
@@ -3270,19 +3286,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Cyprus Unveils First Home-Built Satellites and AI Space Weather Centre - POLITIS - To the point",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXlfOGt3RU14VkxUOW1KeXpncExGSHJZWWk4MDYxenlYeXdSQXlqRHVMdk16VjdvblU0UjF1UndJTUlkTE9LRDlxTUF0dlR4UkZsekx6VmdwVGtkcVRhc0dKc3U2RmMxd1U3OGZ4bFEwR1NUcjlOSHAwMWo0NWtPaVFTaWU5ZkFLT3FCX2ZCRERoXzRiOS1TRk5MZV9OQlFkMkV6bnRxTGJLR3VlTFE?oc=5",
-   "source": "POLITIS - To the point",
-   "category": "Space Weather and Aurora",
-   "summary": "Cyprus Unveils First Home-Built Satellites and AI Space Weather Centre POLITIS - To the point",
-   "published": "2026-11-17T07:06-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Doctor Who now has final tender contenders left in the race to take over franchise – including Line of Duty boss - Radio Times",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzNSRWVIRkVIbWNsNmxxbURBUHRFdlNGdXVuZ0RNZzRaSXNqb2lqYVRQWTNqTmxabnhlT3ozb2RFZjcxeTZSeVZuNnVGVUs4R29NazdWYnFtNDZBNFV4a2VwbVhjeGJnUXRWa3p3clF5UEV5NVQ0dThCZl9ER1d0Y2dvODlCRURCd2xvSnBENVRlZXRicVZRYw?oc=5",
    "source": "Radio Times",
@@ -3304,6 +3307,19 @@
    "published": "2026-11-17T05:25-06:00",
    "tags": [],
    "feed": "Google News aurora",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "‘Doctor Who’: BBC Draws Up Producer Shortlist As Race To Regenerate Iconic Series Moves To Next Stage - IMDb",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WVE41QnpuaGFOS3JHYUtTVlcxYWtLNDRvNXRqbUF4TzlWb0dvWWxoQzJkam9FanVjeEsyT01NeGdEUktQZ0VpbTJiUE9tbjJtU2ZVdWZJcXBlR25TN1lmcHVxOUd2WEk?oc=5",
+   "source": "IMDb",
+   "category": "Science Fiction",
+   "summary": "‘Doctor Who’: BBC Draws Up Producer Shortlist As Race To Regenerate Iconic Series Moves To Next Stage IMDb",
+   "published": "2026-11-17T03:25-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3573,19 +3589,6 @@
     "Telescopes"
    ],
    "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "David Tennant on whether Doctor Who will survive the BBC tender - Radio Times",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2I1ekdtLWQ0ajhQX204LW9WcG9udzhRRklzSGF0U1dLX1dhWDcydUU4STJhRjJGUmdYbUZ0OG9sRm5LWW96SlYyZlhCbFBkTldPYzZNOW5ZbHpwNjgtWjBoMUZ1TDhjUExWb1FMcGJVTGpKbnd1dUY3bFVnZ3doeTJXdS1lRW01OUo2ZDJYUDBDLTRtQU1kRzZwSEE?oc=5",
-   "source": "Radio Times",
-   "category": "Science Fiction",
-   "summary": "David Tennant on whether Doctor Who will survive the BBC tender Radio Times",
-   "published": "2026-11-16T05:32-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
