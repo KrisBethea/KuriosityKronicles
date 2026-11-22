@@ -23,7 +23,11 @@ published items. The collector, checker, and publisher remain ordinary Python.
 - `index`: integer matching the supplied candidate index.
 - `title`: an accurate and readable headline (5-200 characters).
 - `category`: exactly one allowed category in the profile/checker.
-- `dept`: a short, original line `from the ... dept.`.
+- `dept`: a short, witty, original line in classic Slashdot style.
+  Prefer playful hyphenated phrases, such as
+  `from the what-could-possibly-go-wrong dept.` or
+  `from the somebody-tell-the-satellites dept.`.
+  Preserve the `from the ... dept.` format and keep it under 90 characters.
 - `reasoning`: 2-3 sentences about why the pick matters (40-900 characters).
 - `summary`: 2-3 sentences accurately explaining the story (40-900 characters).
 
