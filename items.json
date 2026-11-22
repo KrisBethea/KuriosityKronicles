@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg?w=2048&h=2048&fit=clip",
+    "title": "Swirls and Colors on Jupiter from Juno",
+    "category": "Astronomy and Space",
+    "dept": "from the gas giant dept.",
+    "reasoning": "NASA's Juno spacecraft continues to provide breathtaking views of Jupiter's complex cloud tops. Even with decades of observation, the exact trace molecules responsible for the vibrant color bands in the hydrogen and helium atmosphere remain an active area of research.",
+    "summary": "A stunning new image from the Juno spacecraft highlights the colorful swirls and cloud formations of Jupiter. While the giant planet's atmosphere is mostly colorless hydrogen and helium at low temperatures, researchers continue to study which trace molecules create its distinct hues.",
+    "added": "2026-11-22T10:17:30-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/21/building-a-robotic-hand-on-a-budget/",
+    "link": "https://hackaday.com/2026/11/21/building-a-robotic-hand-on-a-budget/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/robot_hand.png",
+    "title": "Building a Robotic Hand on a Budget",
+    "category": "DotNet and Development",
+    "dept": "from the servo and tendon dept.",
+    "reasoning": "Dexterity in robotics is notoriously difficult and expensive to achieve, making this sub-$300 eighteen-degree-of-freedom hand a fascinating hardware project. Utilizing 3D-printed skeletons and thin steel rope instead of synthetic fiber cables provides clever engineering solutions for makers.",
+    "summary": "A builder has designed an 18-degree-of-freedom robot hand and forearm for under $300 in parts. The design uses 3D-printed components, servo motors in the forearm, and thin steel rope running through PTFE tubing to actuate joints without tricky knots.",
+    "added": "2026-11-22T10:16:30-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/22/potatoes-grow-in-simulated-lunar-soil-as-well-as-on-earth/",
+    "link": "https://hackaday.com/2026/11/22/potatoes-grow-in-simulated-lunar-soil-as-well-as-on-earth/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/lunar_regolith_potatoes_oregon_state_university_youtube.jpg",
+    "title": "Potatoes Grow in Simulated Lunar Soil as Well as on Earth",
+    "category": "Curious Discoveries",
+    "dept": "from the space agriculture dept.",
+    "reasoning": "Testing whether crops can thrive in lunar regolith simulants is an essential step for future crewed bases on the Moon. Oregon State University researchers evaluated not just growth, but nutritional value and absorbed metals in these harsh conditions.",
+    "summary": "Researchers at Oregon State University have successfully grown potatoes in lunar regolith simulants, analyzing both crop yield and nutritional value. As expected for nutrient-poor regolith, adding fertilizer significantly improved growth, providing practical data for future lunar habitats.",
+    "added": "2026-11-22T10:15:30-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVZsbUZpT21vMlk2d3o5aVMzQmZ3LUZFb0NSUlFZNmp5ZnJ2TWRsTjh1Mm1jcVFxb1RycmM0c3IyYzZhaU5KYUQ3MWZCZWhnTTByNTFZV05GUlNUYXVfM3JUNFFPWEdPZUdGcnhneVFiTmgtdlpDMy1JYW12WGNwaTZqZGIyTmVEdUU3OEpMWlhXTTBkSnRHU0NMaWFSUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVZsbUZpT21vMlk2d3o5aVMzQmZ3LUZFb0NSUlFZNmp5ZnJ2TWRsTjh1Mm1jcVFxb1RycmM0c3IyYzZhaU5KYUQ3MWZCZWhnTTByNTFZV05GUlNUYXVfM3JUNFFPWEdPZUdGcnhneVFiTmgtdlpDMy1JYW12WGNwaTZqZGIyTmVEdUU3OEpMWlhXTTBkSnRHU0NMaWFSUQ?oc=5",
+    "source": "CBS News",
+    "title": "Tornado Touches Down Near Delray Beach, Leaving Damage Behind",
+    "category": "Weather & Meteorology",
+    "dept": "from the radar and warning dept.",
+    "reasoning": "The National Weather Service confirmed a late-season tornado in South Florida that left behind structural damage in local neighborhoods. Severe weather reports of this nature highlight the localized intensity of unexpected atmospheric disturbances.",
+    "summary": "A confirmed tornado touched down near Delray Beach in Palm Beach County, bringing high winds and causing reported property damage in the area. The National Weather Service tracked the system through multiple local warning offices before the threat subsided.",
+    "added": "2026-11-22T10:14:30-06:00"
+  },
+  {
+    "id": "https://file770.com/xingyun-awards-2026-winners/",
+    "link": "https://file770.com/xingyun-awards-2026-winners/",
+    "source": "File 770",
+    "title": "Xingyun Awards 2026 Winners Announced",
+    "category": "Science Fiction",
+    "dept": "from the speculative fiction dept.",
+    "reasoning": "Tracking major international science fiction awards highlights prominent works and translations shaping the genre globally. The World Chinese Science Fiction Association recently announced its latest slate of winners in Chengdu.",
+    "summary": "The 17th annual Xingyun Awards for Chinese science fiction were announced by the World Chinese Science Fiction Association during a ceremony in Chengdu. The awards recognized top achievements across novels, novellas, short stories, and translated works.",
+    "added": "2026-11-22T10:13:30-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+    "link": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg?w=1440&h=960&fit=clip",
+    "title": "The Stormy Southwest Pacific",
+    "category": "Space Weather and Aurora",
+    "dept": "from the meteorology dept.",
+    "reasoning": "While the North Atlantic hurricane season wound down quietly, activity in the Southern Hemisphere picked up sharply. The rapid intensification of tropical cyclone Xavier provides a textbook look at regional storm dynamics.",
+    "summary": "As the Atlantic storm season winds down, the Southwest Pacific has seen severe weather stir with the rapid intensification of a tropical system named Xavier. The Fiji Meteorological Service tracked the slow-moving disturbance as it quickly grew into a powerful November tropical cyclone.",
+    "added": "2026-11-22T10:12:30-06:00"
+  },
+  {
     "id": "https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/",
     "link": "https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/",
     "source": "Hackaday",
