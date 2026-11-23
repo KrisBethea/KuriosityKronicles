@@ -1,5 +1,63 @@
 [
   {
+    "id": "https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start",
+    "link": "https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/Closer_Euclid_view_of_Abell_2390-1024x682.jpg",
+    "title": "Euclid's Hunt for Strong Gravitational Lenses is Off to a Strong Start",
+    "category": "Astronomy and Space",
+    "dept": "from the cosmic-magnifying-glass dept.",
+    "reasoning": "The Euclid space telescope has quickly cataloged 15,000 strong gravitational lens candidates in its initial data release. These natural cosmic lenses are critical probes for mapping dark matter and understanding the expansion history of the universe.",
+    "summary": "The Euclid space telescope is off to a remarkably productive start in its mission to map cosmic structure, identifying 15,000 strong gravitational lens candidates in its first data release. These massive structures bend light from distant galaxies, providing astronomers with powerful tools to study dark matter.",
+    "added": "2026-11-22T18:53:18-06:00"
+  },
+  {
+    "id": "https://astrobackyard.com/november-2026-astronomy/",
+    "link": "https://astrobackyard.com/november-2026-astronomy/",
+    "source": "AstroBackyard",
+    "title": "November 2026 Night Sky: What to See",
+    "category": "Astrophotography",
+    "dept": "from the planetary-alignment dept.",
+    "reasoning": "November brings an exceptional lineup for observers and astrophotographers, featuring meteor showers, planetary conjunctions, and Uranus at opposition. Practical astronomical guides help backyard observers plan their imaging sessions around optimal lunar phases.",
+    "summary": "November 2026 offers a rich selection of astronomical observing targets, including the Taurid and Leonid meteor showers, a tight conjunction of Mars and Jupiter, and Uranus reaching opposition. Stargazers can also catch the full Beaver Supermoon while taking advantage of longer autumn nights.",
+    "added": "2026-11-22T18:52:18-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkV2dThRNHNpZmdZU3hkcWJ6YjhOaXVPRUE2Tkx1NHkzNExpek1oYVhaQzlYWF96SXJHMDNhNEdFX2tGRVhkOHR4SDJwLVl3YUkxRG1iRVdpeXlOUldnajNTTjB5MHBPVG05M1dHVVZYUGw4czBiNmdfdER2LS1FSy1fbGdzam1ROWdCSzdpMGI3VHRhVkNN?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkV2dThRNHNpZmdZU3hkcWJ6YjhOaXVPRUE2Tkx1NHkzNExpek1oYVhaQzlYWF96SXJHMDNhNEdFX2tGRVhkOHR4SDJwLVl3YUkxRG1iRVdpeXlOUldnajNTTjB5MHBPVG05M1dHVVZYUGw4czBiNmdfdER2LS1FSy1fbGdzam1ROWdCSzdpMGI3VHRhVkNN?oc=5",
+    "source": "CBS News",
+    "title": "EF-1 tornado confirmed in Palm Beach County during Saturday storms",
+    "category": "Weather & Meteorology",
+    "dept": "from the rotation-detected dept.",
+    "reasoning": "Regional severe weather events provide important case studies for local meteorology and radar tracking. Confirming damage paths helps researchers correlate Doppler signatures with ground truth.",
+    "summary": "National Weather Service meteorologists have confirmed an EF-1 tornado touched down in Palm Beach County during a round of severe Saturday storms. The twister caused localized property damage, downed trees, and prompted multiple tornado warnings across South Florida.",
+    "added": "2026-11-22T18:51:18-06:00"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup/",
+    "link": "https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup/",
+    "source": "Microsoft Foundry Blog",
+    "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/agent-subnet-traffic.webp",
+    "title": "Hosted agents in your own virtual network: five checks when the Agents page times out",
+    "category": "DotNet and Development",
+    "dept": "from the virtual-private-network dept.",
+    "reasoning": "Deploying hosted AI agents inside locked-down virtual networks frequently leads to subtle routing and DNS configuration traps. This troubleshooting checklist walks through the exact diagnostic commands needed when private endpoints and firewalls block traffic.",
+    "summary": "Moving hosted AI agents into a spoke virtual network with strict outbound inspection and private endpoints often results in initialization timeouts. This troubleshooting guide provides five targeted checks to isolate DNS and routing issues when agent management pages fail to load.",
+    "added": "2026-11-22T18:50:18-06:00"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/foundry/managed-compute-ga/",
+    "link": "https://devblogs.microsoft.com/foundry/managed-compute-ga/",
+    "source": "Microsoft Foundry Blog",
+    "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/managed-compute-ga-banner.webp",
+    "title": "Serve open models in production with Foundry Managed Compute",
+    "category": "AI and Agents",
+    "dept": "from the managed-infrastructure dept.",
+    "reasoning": "Managing open-source model runtimes in production requires balancing GPU provisioning, container lifecycles, and regional scaling constraints. General availability announcements like this highlight how cloud platforms are streamlining deployment pipelines for custom AI models.",
+    "summary": "Microsoft has announced the general availability of Managed Compute in Microsoft Foundry, designed to simplify serving open-source models in production. The service handles GPU provisioning, runtime containers, and deployment scaling across multiple data zones.",
+    "added": "2026-11-22T18:49:18-06:00"
+  },
+  {
     "id": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
     "link": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
     "source": "NASA News",

@@ -5,8 +5,71 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 22 Nov 2026 19:57:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 00:53:19 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Euclid's Hunt for Strong Gravitational Lenses is Off to a Strong Start</title>
+<link>https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start</guid>
+<pubDate>Sun, 22 Nov 2026 18:53:18 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>The Euclid space telescope has quickly cataloged 15,000 strong gravitational lens candidates in its initial data release. These natural cosmic lenses are critical probes for mapping dark matter and understanding the expansion history of the universe.</description>
+<content:encoded><![CDATA[<p><small>from the cosmic-magnifying-glass dept.</small></p>
+<p><em>The Euclid space telescope has quickly cataloged 15,000 strong gravitational lens candidates in its initial data release. These natural cosmic lenses are critical probes for mapping dark matter and understanding the expansion history of the universe.</em></p>
+<p><img src="https://www.universetoday.com/article_images/Closer_Euclid_view_of_Abell_2390-1024x682.jpg" alt=""></p>
+<p>The Euclid space telescope is off to a remarkably productive start in its mission to map cosmic structure, identifying 15,000 strong gravitational lens candidates in its first data release. These massive structures bend light from distant galaxies, providing astronomers with powerful tools to study dark matter.</p>
+<p><a href="https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>November 2026 Night Sky: What to See</title>
+<link>https://astrobackyard.com/november-2026-astronomy/</link>
+<guid isPermaLink="false">https://astrobackyard.com/november-2026-astronomy/</guid>
+<pubDate>Sun, 22 Nov 2026 18:52:18 -0600</pubDate>
+<category>Astrophotography</category>
+<description>November brings an exceptional lineup for observers and astrophotographers, featuring meteor showers, planetary conjunctions, and Uranus at opposition. Practical astronomical guides help backyard observers plan their imaging sessions around optimal lunar phases.</description>
+<content:encoded><![CDATA[<p><small>from the planetary-alignment dept.</small></p>
+<p><em>November brings an exceptional lineup for observers and astrophotographers, featuring meteor showers, planetary conjunctions, and Uranus at opposition. Practical astronomical guides help backyard observers plan their imaging sessions around optimal lunar phases.</em></p>
+<p>November 2026 offers a rich selection of astronomical observing targets, including the Taurid and Leonid meteor showers, a tight conjunction of Mars and Jupiter, and Uranus reaching opposition. Stargazers can also catch the full Beaver Supermoon while taking advantage of longer autumn nights.</p>
+<p><a href="https://astrobackyard.com/november-2026-astronomy/">Read it</a> · Astrophotography · AstroBackyard</p>]]></content:encoded>
+</item>
+<item>
+<title>EF-1 tornado confirmed in Palm Beach County during Saturday storms</title>
+<link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkV2dThRNHNpZmdZU3hkcWJ6YjhOaXVPRUE2Tkx1NHkzNExpek1oYVhaQzlYWF96SXJHMDNhNEdFX2tGRVhkOHR4SDJwLVl3YUkxRG1iRVdpeXlOUldnajNTTjB5MHBPVG05M1dHVVZYUGw4czBiNmdfdER2LS1FSy1fbGdzam1ROWdCSzdpMGI3VHRhVkNN?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkV2dThRNHNpZmdZU3hkcWJ6YjhOaXVPRUE2Tkx1NHkzNExpek1oYVhaQzlYWF96SXJHMDNhNEdFX2tGRVhkOHR4SDJwLVl3YUkxRG1iRVdpeXlOUldnajNTTjB5MHBPVG05M1dHVVZYUGw4czBiNmdfdER2LS1FSy1fbGdzam1ROWdCSzdpMGI3VHRhVkNN?oc=5</guid>
+<pubDate>Sun, 22 Nov 2026 18:51:18 -0600</pubDate>
+<category>Weather &amp; Meteorology</category>
+<description>Regional severe weather events provide important case studies for local meteorology and radar tracking. Confirming damage paths helps researchers correlate Doppler signatures with ground truth.</description>
+<content:encoded><![CDATA[<p><small>from the rotation-detected dept.</small></p>
+<p><em>Regional severe weather events provide important case studies for local meteorology and radar tracking. Confirming damage paths helps researchers correlate Doppler signatures with ground truth.</em></p>
+<p>National Weather Service meteorologists have confirmed an EF-1 tornado touched down in Palm Beach County during a round of severe Saturday storms. The twister caused localized property damage, downed trees, and prompted multiple tornado warnings across South Florida.</p>
+<p><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkV2dThRNHNpZmdZU3hkcWJ6YjhOaXVPRUE2Tkx1NHkzNExpek1oYVhaQzlYWF96SXJHMDNhNEdFX2tGRVhkOHR4SDJwLVl3YUkxRG1iRVdpeXlOUldnajNTTjB5MHBPVG05M1dHVVZYUGw4czBiNmdfdER2LS1FSy1fbGdzam1ROWdCSzdpMGI3VHRhVkNN?oc=5">Read it</a> · Weather &amp; Meteorology · CBS News</p>]]></content:encoded>
+</item>
+<item>
+<title>Hosted agents in your own virtual network: five checks when the Agents page times out</title>
+<link>https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup/</guid>
+<pubDate>Sun, 22 Nov 2026 18:50:18 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Deploying hosted AI agents inside locked-down virtual networks frequently leads to subtle routing and DNS configuration traps. This troubleshooting checklist walks through the exact diagnostic commands needed when private endpoints and firewalls block traffic.</description>
+<content:encoded><![CDATA[<p><small>from the virtual-private-network dept.</small></p>
+<p><em>Deploying hosted AI agents inside locked-down virtual networks frequently leads to subtle routing and DNS configuration traps. This troubleshooting checklist walks through the exact diagnostic commands needed when private endpoints and firewalls block traffic.</em></p>
+<p><img src="https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/agent-subnet-traffic.webp" alt=""></p>
+<p>Moving hosted AI agents into a spoke virtual network with strict outbound inspection and private endpoints often results in initialization timeouts. This troubleshooting guide provides five targeted checks to isolate DNS and routing issues when agent management pages fail to load.</p>
+<p><a href="https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup/">Read it</a> · DotNet and Development · Microsoft Foundry Blog</p>]]></content:encoded>
+</item>
+<item>
+<title>Serve open models in production with Foundry Managed Compute</title>
+<link>https://devblogs.microsoft.com/foundry/managed-compute-ga/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/foundry/managed-compute-ga/</guid>
+<pubDate>Sun, 22 Nov 2026 18:49:18 -0600</pubDate>
+<category>AI and Agents</category>
+<description>Managing open-source model runtimes in production requires balancing GPU provisioning, container lifecycles, and regional scaling constraints. General availability announcements like this highlight how cloud platforms are streamlining deployment pipelines for custom AI models.</description>
+<content:encoded><![CDATA[<p><small>from the managed-infrastructure dept.</small></p>
+<p><em>Managing open-source model runtimes in production requires balancing GPU provisioning, container lifecycles, and regional scaling constraints. General availability announcements like this highlight how cloud platforms are streamlining deployment pipelines for custom AI models.</em></p>
+<p><img src="https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/managed-compute-ga-banner.webp" alt=""></p>
+<p>Microsoft has announced the general availability of Managed Compute in Microsoft Foundry, designed to simplify serving open-source models in production. The service handles GPU provisioning, runtime containers, and deployment scaling across multiple data zones.</p>
+<p><a href="https://devblogs.microsoft.com/foundry/managed-compute-ga/">Read it</a> · AI and Agents · Microsoft Foundry Blog</p>]]></content:encoded>
+</item>
 <item>
 <title>NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars</title>
 <link>https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/</link>

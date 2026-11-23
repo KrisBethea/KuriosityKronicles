@@ -165,3 +165,8 @@ https://news.google.com/rss/articles/CBMi8gFBVV95cUxON3pXeFNnemNyQWZpY3VNRm82TEt
 https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHMzTHFGR2J4ajd1aDVIN0hFeEJBSmVnck9lX2ZwWU9WbndYYVdIVmJrZTFwYVRpdU9mbTU3SzR0MXZjM3gwcGJPYjZDMDYzX1lFRnhTR1B4dDRnSUxKZVFvUnI2S3V5NGFIYlNtTjRFOWcybEVGbGJrSE1qM0h0ejlpeWZsUQ?oc=5
 https://hackaday.com/2026/11/22/soft-robot-made-for-the-races/
 https://reactormag.com/movie-review-the-hunger-games-sunrise-on-the-reaping/
+https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start
+https://astrobackyard.com/november-2026-astronomy/
+https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkV2dThRNHNpZmdZU3hkcWJ6YjhOaXVPRUE2Tkx1NHkzNExpek1oYVhaQzlYWF96SXJHMDNhNEdFX2tGRVhkOHR4SDJwLVl3YUkxRG1iRVdpeXlOUldnajNTTjB5MHBPVG05M1dHVVZYUGw4czBiNmdfdER2LS1FSy1fbGdzam1ROWdCSzdpMGI3VHRhVkNN?oc=5
+https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup/
+https://devblogs.microsoft.com/foundry/managed-compute-ga/
