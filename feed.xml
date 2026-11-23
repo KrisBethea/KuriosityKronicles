@@ -5,8 +5,86 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 23 Nov 2026 00:53:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 23:46:42 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Making Sense of Chaotic Supernova Ejecta With the JWST</title>
+<link>https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst</guid>
+<pubDate>Mon, 23 Nov 2026 17:46:42 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Stars keep their secrets close until they explode, scattering their insides across the cosmos where astronomers can finally examine them. The James Webb Space Telescope provides a remarkably detailed look at these messy stellar remains, helping researchers piece together how stars live and die. It is a fantastic reminder of how violent cosmic events fuel our understanding of the universe.</description>
+<content:encoded><![CDATA[<p><small>from the stellar-forensics dept.</small></p>
+<p><em>Stars keep their secrets close until they explode, scattering their insides across the cosmos where astronomers can finally examine them. The James Webb Space Telescope provides a remarkably detailed look at these messy stellar remains, helping researchers piece together how stars live and die. It is a fantastic reminder of how violent cosmic events fuel our understanding of the universe.</em></p>
+<p><img src="https://www.universetoday.com/article_images/weic2624a_20261123_202517.jpg" alt=""></p>
+<p>Although it is impossible to look inside an active star, exploding stars spread their material outward for detailed examination. Astronomers are using the JWST as a stellar forensics tool to make sense of chaotic supernova ejecta.</p>
+<p><a href="https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Run local models in your .NET apps with Llama on Windows</title>
+<link>https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/</guid>
+<pubDate>Mon, 23 Nov 2026 17:45:42 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Running AI models locally has traditionally required a mountain of specialized configuration and command-line setup. Llama on Windows bridges that gap by providing a simple tray app to manage downloads and local execution. Best of all, it opens the door for .NET 11 C# file-based applications to talk directly to local models without paying per request.</description>
+<content:encoded><![CDATA[<p><small>from the keep-it-on-your-pc dept.</small></p>
+<p><em>Running AI models locally has traditionally required a mountain of specialized configuration and command-line setup. Llama on Windows bridges that gap by providing a simple tray app to manage downloads and local execution. Best of all, it opens the door for .NET 11 C# file-based applications to talk directly to local models without paying per request.</em></p>
+<p><img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/llama-windows-dotnet-thumbnail.webp" alt=""></p>
+<p>A new tray app called Llama on Windows makes it easy to find, download, and run open models locally on your PC. Once running, .NET apps can seamlessly communicate with the local server to handle queries offline.</p>
+<p><a href="https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/">Read it</a> · DotNet and Development · Microsoft .NET Blog</p>]]></content:encoded>
+</item>
+<item>
+<title>Ultra-Thin "Rainbow" Sails Could Power Spacecraft and Shade the Earth</title>
+<link>https://www.universetoday.com/articles/ultra-thin-rainbow-sails-could-power-spacecraft-and-shade-the-earth</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/ultra-thin-rainbow-sails-could-power-spacecraft-and-shade-the-earth</guid>
+<pubDate>Mon, 23 Nov 2026 17:44:42 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Solar sailing relies on the gentle momentum of photons bouncing off reflective surfaces to push spacecraft through the void. A new preprint paper from Rochester Institute of Technology researchers proposes an ingenious design using ultra-thin rainbow sails capable of sideways steering. If scaled up, these clever sails could even help shade the Earth.</description>
+<content:encoded><![CDATA[<p><small>from the catch-a-rainbow dept.</small></p>
+<p><em>Solar sailing relies on the gentle momentum of photons bouncing off reflective surfaces to push spacecraft through the void. A new preprint paper from Rochester Institute of Technology researchers proposes an ingenious design using ultra-thin rainbow sails capable of sideways steering. If scaled up, these clever sails could even help shade the Earth.</em></p>
+<p><img src="https://www.universetoday.com/article_images/Diffractive_solar_sail_concept_art_1_20261123_185918.png" alt=""></p>
+<p>Researchers have unveiled a novel solar sail design that uses light momentum and specialized optical properties to steer sideways. The concept offers exciting possibilities for both propulsion and planetary-scale shading.</p>
+<p><a href="https://www.universetoday.com/articles/ultra-thin-rainbow-sails-could-power-spacecraft-and-shade-the-earth">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Building a wireless network adapter for the Super Nintendo</title>
+<link>https://hackaday.com/2026/11/23/building-a-wireless-network-adapter-for-the-super-nintendo/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/23/building-a-wireless-network-adapter-for-the-super-nintendo/</guid>
+<pubDate>Mon, 23 Nov 2026 17:43:42 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Retrofitting networking onto a 16-bit console built in 1990 is the ultimate hacker project. By tapping into the front serial controller ports, this project connects an RP2350 and an ESP32-C3 to bridge vintage hardware with modern WebDAV servers and LLM-generated dialogue. It is a delightful blend of retrocomputing nostalgia and modern engineering.</description>
+<content:encoded><![CDATA[<p><small>from the retro-packet-loss dept.</small></p>
+<p><em>Retrofitting networking onto a 16-bit console built in 1990 is the ultimate hacker project. By tapping into the front serial controller ports, this project connects an RP2350 and an ESP32-C3 to bridge vintage hardware with modern WebDAV servers and LLM-generated dialogue. It is a delightful blend of retrocomputing nostalgia and modern engineering.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/super_network_adapter_boland.jpg" alt=""></p>
+<p>A new hardware project adds wireless networking to the Super Nintendo by interfacing with its controller ports. The adapter pairs an RP2350 with an ESP32-C3, allowing patched ROMs to sync game saves and even generate dynamic NPC text.</p>
+<p><a href="https://hackaday.com/2026/11/23/building-a-wireless-network-adapter-for-the-super-nintendo/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>LISA's Gravitational Wave Detections Could Reveal Exoplanets</title>
+<link>https://www.universetoday.com/articles/lisas-gravitational-wave-detections-could-reveal-exoplanets</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/lisas-gravitational-wave-detections-could-reveal-exoplanets</guid>
+<pubDate>Mon, 23 Nov 2026 17:42:42 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>The upcoming Laser Interferometry Space Antenna is designed to catch gravitational waves from massive merging objects far across the universe. New research demonstrates that exoplanets orbiting those systems leave subtle, detectable signatures in the ripples of spacetime. It is a brilliant example of how next-generation observatories will uncover hidden worlds.</description>
+<content:encoded><![CDATA[<p><small>from the cosmic-ripples dept.</small></p>
+<p><em>The upcoming Laser Interferometry Space Antenna is designed to catch gravitational waves from massive merging objects far across the universe. New research demonstrates that exoplanets orbiting those systems leave subtle, detectable signatures in the ripples of spacetime. It is a brilliant example of how next-generation observatories will uncover hidden worlds.</em></p>
+<p><img src="https://www.universetoday.com/article_images/LISA_key_visual_ESA_lg_ac_20261123_154512.jpg" alt=""></p>
+<p>ESA&#x27;s upcoming LISA gravitational wave observatory might be able to spot exoplanets through the tiny gravitational tugs they exert on merging massive objects. Researchers show that these planetary influences leave a measurable trace on spacetime ripples.</p>
+<p><a href="https://www.universetoday.com/articles/lisas-gravitational-wave-detections-could-reveal-exoplanets">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution</title>
+<link>https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/</link>
+<guid isPermaLink="false">https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/</guid>
+<pubDate>Mon, 23 Nov 2026 17:41:42 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Supernova remnants like Cassiopeia A are treasure troves of astrophysical data, preserving the history of ancient stars in their expanding clouds. The James Webb Space Telescope has captured vibrant new imagery of the hot dust within the remnant. This data provides crucial clues regarding the structure and composition of the original star.</description>
+<content:encoded><![CDATA[<p><small>from the cosmic-dust-pan dept.</small></p>
+<p><em>Supernova remnants like Cassiopeia A are treasure troves of astrophysical data, preserving the history of ancient stars in their expanding clouds. The James Webb Space Telescope has captured vibrant new imagery of the hot dust within the remnant. This data provides crucial clues regarding the structure and composition of the original star.</em></p>
+<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6PRXJ9A7S81CH1C9SJP1MB0.jpg?w=1536&amp;h=1536&amp;fit=clip" alt=""></p>
+<p>NASA&#x27;s James Webb Space Telescope has imaged the hot dust inside the Cassiopeia A supernova remnant. The detailed composition of the dust offers new clues into the structure and life cycle of the star that formed it.</p>
+<p><a href="https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/">Read it</a> · Astronomy and Space · NASA News</p>]]></content:encoded>
+</item>
 <item>
 <title>Euclid's Hunt for Strong Gravitational Lenses is Off to a Strong Start</title>
 <link>https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start</link>
