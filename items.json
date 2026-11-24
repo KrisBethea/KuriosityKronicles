@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-rule-the-forecast",
+    "link": "https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-rule-the-forecast",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/NASAs_Laser_Communication_Relay_Demonstrations_LCRD_Optical_Ground_Station_2_OGS-2_in_Haleakala_Hawaii._ogs-2_hawaii_20261124_140143.jpg",
+    "title": "Space Lasers Are Fast, But Clouds Still Rule the Forecast",
+    "category": "Astronomy and Space",
+    "dept": "from the somebody-tell-the-satellites dept.",
+    "reasoning": "Infrared laser communications promise incredible bandwidth upgrades for deep-space and orbital networking compared to congested radio waves. However, atmospheric physics and cloud cover still impose stubborn constraints on ground stations. It's a fascinating look at the engineering tradeoffs between raw speed and terrestrial weather.",
+    "summary": "While optical laser links offer massive data transfer rates for spacecraft communications, pre-print research highlights how atmospheric interference and clouds continue to pose significant operational challenges for ground-based receivers.",
+    "added": "2026-11-24T14:44:06-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/24/troubleshooting-ethernet-networks-with-the-esp32/",
+    "link": "https://hackaday.com/2026/11/24/troubleshooting-ethernet-networks-with-the-esp32/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/syndetis_feat.jpg",
+    "title": "Troubleshooting Ethernet Networks with the ESP32",
+    "category": "DotNet and Development",
+    "dept": "from the pocket-sized-packet-sniffer dept.",
+    "reasoning": "Diagnosing live TCP/IP networks and flaky physical links usually requires lugging around a bulky laptop or expensive specialized testers. Turning a cheap microcontroller development board into a self-contained diagnostic tool is classic hardware hacking ingenuity. Any developer who has crawled under a desk will appreciate this compact build.",
+    "summary": "A clever open-source firmware project transforms an ESP32 development board into a pocket-sized Ethernet tester capable of checking link status, pinging IP addresses, detecting LLDP devices, and inspecting DHCP services.",
+    "added": "2026-11-24T14:43:06-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/new-research-reveals-europas-sodium-cloud-originated-from-its-interior-ocean",
+    "link": "https://www.universetoday.com/articles/new-research-reveals-europas-sodium-cloud-originated-from-its-interior-ocean",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/Europas_surface_20260316_002106_20261123_182825.jpg",
+    "title": "New Research Reveals Europa's Sodium Cloud Originated from its Interior Ocean",
+    "category": "Astronomy and Space",
+    "dept": "from the salty-space-sprinkles dept.",
+    "reasoning": "Understanding the composition of icy moons gives planetary scientists critical clues about subsurface oceans and potential habitability without needing to drill through kilometers of ice. This spectroscopic observation connects surface phenomena directly to internal water bodies. It's a brilliant example of remote planetary analysis.",
+    "summary": "Using the W.M. Keck Observatory's HIRISE spectrometer, researchers have traced the origin of Europa's sodium cloud back to its subsurface interior ocean, offering new insights into the moon's internal chemistry.",
+    "added": "2026-11-24T14:42:06-06:00"
+  },
+  {
+    "id": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+    "link": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+    "source": "NASA News",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/srd-fsp-isru02b.jpg?w=2048",
+    "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+    "category": "Astronomy and Space",
+    "dept": "from the fission-on-the-frontier dept.",
+    "reasoning": "Solar power alone cannot reliably sustain a permanent lunar base through the long, dark lunar nights, making small fission reactors a critical engineering necessity. NASA's push for a 20-kilowatt system moves lunar habitation one step closer to reality. It's a major milestone for off-world energy infrastructure.",
+    "summary": "NASA is soliciting industry proposals to develop Lunar Reactor-1, a compact 20-kilowatt fission power system intended to supply continuous electricity for future long-duration human habitats and scientific equipment on the Moon.",
+    "added": "2026-11-24T14:41:06-06:00"
+  },
+  {
     "id": "https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst",
     "link": "https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst",
     "source": "Universe Today",

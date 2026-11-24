@@ -176,3 +176,7 @@ https://www.universetoday.com/articles/ultra-thin-rainbow-sails-could-power-spac
 https://hackaday.com/2026/11/23/building-a-wireless-network-adapter-for-the-super-nintendo/
 https://www.universetoday.com/articles/lisas-gravitational-wave-detections-could-reveal-exoplanets
 https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/
+https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-rule-the-forecast
+https://hackaday.com/2026/11/24/troubleshooting-ethernet-networks-with-the-esp32/
+https://www.universetoday.com/articles/new-research-reveals-europas-sodium-cloud-originated-from-its-interior-ocean
+https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/
