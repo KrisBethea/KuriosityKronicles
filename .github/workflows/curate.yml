@@ -1,15 +1,11 @@
 name: Curate news with Gemini (free tier)
 
 on:
+
   schedule:
-    # Primary editions, Chicago time (automatic DST handling).
-    - cron: "43 6,12,17 * * *"
-      timezone: "America/Chicago"
-    # Staggered backups. Most exit before Gemini is called.
-    - cron: "13 7,8,13,14,18,19 * * *"
-      timezone: "America/Chicago"
-    - cron: "47 7,13,18 * * *"
-      timezone: "America/Chicago"
+    # Check every 20 minutes; the edition guard prevents duplicates.
+    - cron: "7,27,47 * * * *"
+
   # Independently scheduled collector runs provide another recovery trigger.
   workflow_run:
     workflows: ["Collect feeds"]
