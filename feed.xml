@@ -5,8 +5,86 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 25 Nov 2026 00:44:52 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 20:36:56 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>The Physics Wall Facing Orbital AI Data Centers</title>
+<link>https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers</guid>
+<pubDate>Wed, 25 Nov 2026 14:36:55 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>While tech companies frequently tout the boundless energy of space for orbital AI data centers, a new preprint paper highlights the harsh physical constraints that make such ambitions impractical for the foreseeable future. Grounded engineering analysis offers a refreshing dose of reality against speculative industry hype.</description>
+<content:encoded><![CDATA[<p><small>from the back-of-the-envelope-math dept.</small></p>
+<p><em>While tech companies frequently tout the boundless energy of space for orbital AI data centers, a new preprint paper highlights the harsh physical constraints that make such ambitions impractical for the foreseeable future. Grounded engineering analysis offers a refreshing dose of reality against speculative industry hype.</em></p>
+<p><img src="https://www.universetoday.com/article_images/ISS-54_ELC-1_main_solar_arrays_and_radiators_seen_from_the_Cupola_20261125_193647.jpg" alt=""></p>
+<p>A new paper by Dr. Slava Turyshev of NASA’s Jet Propulsion Laboratory examines the physical hurdles facing orbital AI data centers. While the math might look good on paper, utilizing the Sun&#x27;s free energy and processing power in space involves prohibitive constraints that will take a long time to overcome.</p>
+<p><a href="https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter</title>
+<link>https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/</link>
+<guid isPermaLink="false">https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/</guid>
+<pubDate>Wed, 25 Nov 2026 14:35:55 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Dark matter remains one of the most compelling mysteries in modern astrophysics, and expanding the search into ultralight candidates showcases the clever experimental setups physicists use to probe the unseen universe.</description>
+<content:encoded><![CDATA[<p><small>from the invisible-universe dept.</small></p>
+<p><em>Dark matter remains one of the most compelling mysteries in modern astrophysics, and expanding the search into ultralight candidates showcases the clever experimental setups physicists use to probe the unseen universe.</em></p>
+<p><img src="https://www.quantamagazine.org/wp-content/uploads/2026/11/UltralightDarkMatter-crCelsiusPictor-Default.webp" alt=""></p>
+<p>Nearly a century after Fritz Zwicky and Vera Rubin established the case for dark matter, modern researchers are deploying novel experimental approaches to hunt for hypothetical ultralight dark matter particles, continuing our quest to understand what makes up the vast majority of the cosmos.</p>
+<p><a href="https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/">Read it</a> · Astronomy and Space · Quanta Magazine</p>]]></content:encoded>
+</item>
+<item>
+<title>The Curious Case of the Second Spacebar</title>
+<link>https://hackaday.com/2026/11/25/the-curious-case-of-the-second-spacebar/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/25/the-curious-case-of-the-second-spacebar/</guid>
+<pubDate>Wed, 25 Nov 2026 14:34:55 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Hardware modding stories from decades past provide a wonderful window into how early computer hobbyists adapted their machines before standard peripherals settled into today's uniform layouts.</description>
+<content:encoded><![CDATA[<p><small>from the retro-hardware-hacking dept.</small></p>
+<p><em>Hardware modding stories from decades past provide a wonderful window into how early computer hobbyists adapted their machines before standard peripherals settled into today&#x27;s uniform layouts.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/Wait-.-what_-Why-is-there-an-extra-spacebar_-40-22-screenshot-banner.png" alt=""></p>
+<p>A retrocomputing enthusiast recently investigated a heavily modified Commodore 64 featuring both an unexplained DIP socket and a mysterious second spacebar above the number row. Reverse engineering revealed the modifications served as a makeshift numeric keypad port and an extra shift key for quick symbol entry.</p>
+<p><a href="https://hackaday.com/2026/11/25/the-curious-case-of-the-second-spacebar/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>AI is Changing the Cross-Platform Decision Matrix</title>
+<link>https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/</guid>
+<pubDate>Wed, 25 Nov 2026 14:33:55 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Software engineering decisions have historically been bound by team size, knowledge, and maintenance costs. Factoring AI coding assistants into that matrix changes the calculus for cross-platform app development in meaningful ways.</description>
+<content:encoded><![CDATA[<p><small>from the moving-the-goalposts dept.</small></p>
+<p><em>Software engineering decisions have historically been bound by team size, knowledge, and maintenance costs. Factoring AI coding assistants into that matrix changes the calculus for cross-platform app development in meaningful ways.</em></p>
+<p><img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/baristanotes-hero.webp" alt=""></p>
+<p>The factors guiding cross-platform app development decisions—such as team capacity, tech stack familiarity, and maintenance overhead—are evolving. With well-configured AI coding tools and assistants becoming standard parts of the workflow, traditional team knowledge constraints look quite different.</p>
+<p><a href="https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/">Read it</a> · DotNet and Development · Microsoft .NET Blog</p>]]></content:encoded>
+</item>
+<item>
+<title>ALMA Reveals a Dying Star's Final Breath, Encoded In a Giant Ring of Gas</title>
+<link>https://www.universetoday.com/articles/alma-reveals-a-dying-stars-final-breath-encoded-in-a-giant-ring-of-gas</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/alma-reveals-a-dying-stars-final-breath-encoded-in-a-giant-ring-of-gas</guid>
+<pubDate>Wed, 25 Nov 2026 14:32:55 -0600</pubDate>
+<category>Astrophotography</category>
+<description>Observational astronomy that captures the intricate final stages of stellar evolution offers stunning physical evidence for theoretical models of dying stars.</description>
+<content:encoded><![CDATA[<p><small>from the stellar-last-gasp dept.</small></p>
+<p><em>Observational astronomy that captures the intricate final stages of stellar evolution offers stunning physical evidence for theoretical models of dying stars.</em></p>
+<p><img src="https://www.universetoday.com/article_images/IRAS06530-co32-all-ch74to77-ring-pap_20261125_142736.jpg" alt=""></p>
+<p>Using the ALMA observatory, astronomers have detected a giant ring of gas emitted during a thermal pulse by a dying star 6,500 years ago. This observation provides the first direct evidence supporting theoretical predictions about how these stellar remnants form complex nebulae.</p>
+<p><a href="https://www.universetoday.com/articles/alma-reveals-a-dying-stars-final-breath-encoded-in-a-giant-ring-of-gas">Read it</a> · Astrophotography · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>The Hidden Spiegeltent in Chicago, Illinois</title>
+<link>https://www.atlasobscura.com/places/the-hidden-spiegeltent</link>
+<guid isPermaLink="false">https://www.atlasobscura.com/places/the-hidden-spiegeltent</guid>
+<pubDate>Wed, 25 Nov 2026 14:31:55 -0600</pubDate>
+<category>Curious Discoveries</category>
+<description>Overlooked historical spaces tucked away inside modern or repurposed buildings offer a fascinating glimpse into urban architectural oddities and past eras of entertainment.</description>
+<content:encoded><![CDATA[<p><small>from the architecture-secrets dept.</small></p>
+<p><em>Overlooked historical spaces tucked away inside modern or repurposed buildings offer a fascinating glimpse into urban architectural oddities and past eras of entertainment.</em></p>
+<p><img src="https://img.atlasobscura.com/4LesaiZ6APDqv95nL2XO4_wP8xQcfYvo4NBDhuVhZZo/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83YWQw/NjY2Mi00NTlhLTQ0/NGEtYjcwNi01NTZk/MGI1ZGEyYjc4MTY2/NGVlZmE0NzQxMjYw/Y2Nfa2VybWVzcy10/ZW50LWV4dGVyaW9y/LmpwZw.jpg" alt=""></p>
+<p>While traditional Spiegeltents were designed as portable wooden dance halls, the example tucked away on the 14th floor of a Chicago building was constructed entirely indoors in 1926. Originally built as a Masonic hall above a movie palace, it stands as a unique indoor relic of another era.</p>
+<p><a href="https://www.atlasobscura.com/places/the-hidden-spiegeltent">Read it</a> · Curious Discoveries · Atlas Obscura</p>]]></content:encoded>
+</item>
 <item>
 <title>Sodium Vapor Around Europa Hints at Its Hidden Ocean</title>
 <link>https://skyandtelescope.org/astronomy-news/sodium-vapor-around-europa-hints-at-its-ocean/</link>
