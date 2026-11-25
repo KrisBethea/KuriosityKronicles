@@ -180,3 +180,10 @@ https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-ru
 https://hackaday.com/2026/11/24/troubleshooting-ethernet-networks-with-the-esp32/
 https://www.universetoday.com/articles/new-research-reveals-europas-sodium-cloud-originated-from-its-interior-ocean
 https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/
+https://skyandtelescope.org/astronomy-news/sodium-vapor-around-europa-hints-at-its-ocean/
+https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/
+https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/
+https://hackaday.com/2026/11/24/designing-a-passively-morphing-quadcopter-that-can-fly-through-gaps/
+https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkdJWmJRMTRFVnNtb0pQaHNHZXMtOHJ5WTBkSmhseGVoUzdJR2FNU1JMR3o0YklNY3FqY3BnY20wT19HZWFBMmRNRllFSXZ0MkE4c2dObEctUFgwTXptSmdtSlV0UkowTGJ6U2VlRlRsT0RjTS1XSGg5SEtCSEVkdzlXUVduSTdsRHY5bTNUUjU5endSNDdkOVZoSmU5dnM0MVd4V0s1dWtLTTc4UUduWHNiWFU5RGc?oc=5
+https://www.atlasobscura.com/places/dinosaur-pulpit-at-wat-that-phra-aram
+https://news.google.com/rss/articles/CBMizAFBVV95cUxPNF9TVFhHanhsa3FZZTZwMEF2VmFIajBidHdXRzNpMFZWdllFbF9qMGEtM3RnRUxaUUdxS25zMDQ2a3JfTUhoME5pbHBQM2pBLXpkZjJtbUJ3WXhBOC1Xd3dwU2dwZ2NhODlMTUhLYnM5S0c2YXByWC1KdWZKQzA5NFRZTkFlN0VpYmZFcGR5akVUV3NYbGR3NHlxRWN0RHFXcnR5NUZaRUZaUUx4dHRMVUU0WlVKYVNYRkFnekVHcTVON01CaE9EVnFDREs?oc=5

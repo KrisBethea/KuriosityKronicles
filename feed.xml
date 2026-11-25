@@ -5,8 +5,96 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 24 Nov 2026 20:44:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 00:44:52 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Sodium Vapor Around Europa Hints at Its Hidden Ocean</title>
+<link>https://skyandtelescope.org/astronomy-news/sodium-vapor-around-europa-hints-at-its-ocean/</link>
+<guid isPermaLink="false">https://skyandtelescope.org/astronomy-news/sodium-vapor-around-europa-hints-at-its-ocean/</guid>
+<pubDate>Tue, 24 Nov 2026 18:44:52 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Planetary science breakthroughs that connect observable atmospheric phenomena to subsurface oceans are vital for understanding Jovian moons. Astronomers have found a stable cloud of sodium vapor around Europa that originates directly from its interior ocean.</description>
+<content:encoded><![CDATA[<p><small>from the follow-the-glowing-sodium dept.</small></p>
+<p><em>Planetary science breakthroughs that connect observable atmospheric phenomena to subsurface oceans are vital for understanding Jovian moons. Astronomers have found a stable cloud of sodium vapor around Europa that originates directly from its interior ocean.</em></p>
+<p>Observations indicate that a steady cloud of sodium vapor surrounding Jupiter&#x27;s moon Europa likely traces its source back to the moon&#x27;s subsurface ocean.</p>
+<p><a href="https://skyandtelescope.org/astronomy-news/sodium-vapor-around-europa-hints-at-its-ocean/">Read it</a> · Astronomy and Space · Sky and Telescope News</p>]]></content:encoded>
+</item>
+<item>
+<title>DocumentExtractionClient Preview Brings Unified Document Parsing to .NET</title>
+<link>https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/</guid>
+<pubDate>Tue, 24 Nov 2026 18:43:52 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Extracting structured data from PDFs, invoices, and office files is a standard requirement for modern enterprise applications and AI context pipelines. The new preview of DocumentExtractionClient in Microsoft.Extensions.DocumentExtraction provides a standardized approach rather than forcing developers to use disparate SDKs.</description>
+<content:encoded><![CDATA[<p><small>from the parse-all-the-things dept.</small></p>
+<p><em>Extracting structured data from PDFs, invoices, and office files is a standard requirement for modern enterprise applications and AI context pipelines. The new preview of DocumentExtractionClient in Microsoft.Extensions.DocumentExtraction provides a standardized approach rather than forcing developers to use disparate SDKs.</em></p>
+<p><img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/document-extraction-dotnet-thumbnail.webp" alt=""></p>
+<p>A new .NET preview package offers a unified client interface to extract content and structure from documents like PDFs, scans, and office files for downstream apps and AI models.</p>
+<p><a href="https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/">Read it</a> · DotNet and Development · Microsoft .NET Blog</p>]]></content:encoded>
+</item>
+<item>
+<title>The Emergence of Dark Nebula Lynds 1251</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/</link>
+<guid isPermaLink="false">https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/</guid>
+<pubDate>Tue, 24 Nov 2026 18:42:52 -0600</pubDate>
+<category>Astrophotography</category>
+<description>Deep-sky astrophotography often reveals complex dust clouds that remain hidden to casual observation. This stunning capture of dark nebula Lynds 1251 highlights how long exposure times bring out obscured cosmic structures.</description>
+<content:encoded><![CDATA[<p><small>from the staring-into-the-abyss dept.</small></p>
+<p><em>Deep-sky astrophotography often reveals complex dust clouds that remain hidden to casual observation. This stunning capture of dark nebula Lynds 1251 highlights how long exposure times bring out obscured cosmic structures.</em></p>
+<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Ldn1251Comparison_Cruz_2160.jpg" alt=""></p>
+<p>An astrophotography capture reveals the intricate dust lanes and emerging star-forming regions of the dark nebula Lynds 1251.</p>
+<p><a href="https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/">Read it</a> · Astrophotography · NASA Astronomy Picture of the Day</p>]]></content:encoded>
+</item>
+<item>
+<title>Designing a Passively Morphing Quadcopter for Narrow Gaps</title>
+<link>https://hackaday.com/2026/11/24/designing-a-passively-morphing-quadcopter-that-can-fly-through-gaps/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/24/designing-a-passively-morphing-quadcopter-that-can-fly-through-gaps/</guid>
+<pubDate>Tue, 24 Nov 2026 18:41:52 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Engineering reliable robotic hardware without adding excessive mechanical complexity is a perpetual challenge in drone design. Researchers have demonstrated a quadcopter that uses flexible elastic rolling cam joints to passively fold its arms when encountering obstacles.</description>
+<content:encoded><![CDATA[<p><small>from the squeeze-through-the-gap dept.</small></p>
+<p><em>Engineering reliable robotic hardware without adding excessive mechanical complexity is a perpetual challenge in drone design. Researchers have demonstrated a quadcopter that uses flexible elastic rolling cam joints to passively fold its arms when encountering obstacles.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/optimising_soft_quadcopter_overview_arza_et_al.jpg" alt=""></p>
+<p>Engineers built a quadcopter with flexible joints that allows the frame to passively morph and squeeze through narrow gaps before snapping back into place.</p>
+<p><a href="https://hackaday.com/2026/11/24/designing-a-passively-morphing-quadcopter-that-can-fly-through-gaps/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Air Force Deploys New System to Warn of Solar Disruptions in Space</title>
+<link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkdJWmJRMTRFVnNtb0pQaHNHZXMtOHJ5WTBkSmhseGVoUzdJR2FNU1JMR3o0YklNY3FqY3BnY20wT19HZWFBMmRNRllFSXZ0MkE4c2dObEctUFgwTXptSmdtSlV0UkowTGJ6U2VlRlRsT0RjTS1XSGg5SEtCSEVkdzlXUVduSTdsRHY5bTNUUjU5endSNDdkOVZoSmU5dnM0MVd4V0s1dWtLTTc4UUduWHNiWFU5RGc?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkdJWmJRMTRFVnNtb0pQaHNHZXMtOHJ5WTBkSmhseGVoUzdJR2FNU1JMR3o0YklNY3FqY3BnY20wT19HZWFBMmRNRllFSXZ0MkE4c2dObEctUFgwTXptSmdtSlV0UkowTGJ6U2VlRlRsT0RjTS1XSGg5SEtCSEVkdzlXUVduSTdsRHY5bTNUUjU5endSNDdkOVZoSmU5dnM0MVd4V0s1dWtLTTc4UUduWHNiWFU5RGc?oc=5</guid>
+<pubDate>Tue, 24 Nov 2026 18:40:52 -0600</pubDate>
+<category>Space Weather and Aurora</category>
+<description>Space weather monitoring is increasingly critical for protecting operational satellites and ground infrastructure from geomagnetic activity. New early warning systems enhance our ability to track solar disruptions before they impact orbital assets.</description>
+<content:encoded><![CDATA[<p><small>from the keep-an-eye-on-the-sun dept.</small></p>
+<p><em>Space weather monitoring is increasingly critical for protecting operational satellites and ground infrastructure from geomagnetic activity. New early warning systems enhance our ability to track solar disruptions before they impact orbital assets.</em></p>
+<p>Military and meteorological authorities have deployed new early warning infrastructure to monitor solar disruptions and protect space assets from space weather impacts.</p>
+<p><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkdJWmJRMTRFVnNtb0pQaHNHZXMtOHJ5WTBkSmhseGVoUzdJR2FNU1JMR3o0YklNY3FqY3BnY20wT19HZWFBMmRNRllFSXZ0MkE4c2dObEctUFgwTXptSmdtSlV0UkowTGJ6U2VlRlRsT0RjTS1XSGg5SEtCSEVkdzlXUVduSTdsRHY5bTNUUjU5endSNDdkOVZoSmU5dnM0MVd4V0s1dWtLTTc4UUduWHNiWFU5RGc?oc=5">Read it</a> · Space Weather and Aurora · Korea JoongAng Daily</p>]]></content:encoded>
+</item>
+<item>
+<title>Discovering the World's Only Dinosaur Pulpit in Thailand</title>
+<link>https://www.atlasobscura.com/places/dinosaur-pulpit-at-wat-that-phra-aram</link>
+<guid isPermaLink="false">https://www.atlasobscura.com/places/dinosaur-pulpit-at-wat-that-phra-aram</guid>
+<pubDate>Tue, 24 Nov 2026 18:39:52 -0600</pubDate>
+<category>Curious Discoveries</category>
+<description>Local history and peculiar architectural quirks make for delightful cultural discoveries outside mainstream tech. A Buddhist temple in Thailand features a pulpit uniquely styled around dinosaur fossils discovered in the region.</description>
+<content:encoded><![CDATA[<p><small>from the prehistoric-sermon dept.</small></p>
+<p><em>Local history and peculiar architectural quirks make for delightful cultural discoveries outside mainstream tech. A Buddhist temple in Thailand features a pulpit uniquely styled around dinosaur fossils discovered in the region.</em></p>
+<p><img src="https://img.atlasobscura.com/gek6-o5Ev-_b84qd404KS1WZYS7vXj_MWeClyf3rL28/rs:fill:300:200:1/g:ce/c:2920:1946:nowe:104:603/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hZjZj/NTcxMC0wODcyLTQ3/NDQtYTk5YS1jZjI1/NzUwNGI2MzU0MjBm/NmU4MThiYmIwOTNl/ZjZfV2F0IFRoYXQg/UGhyYSBBcmFtIEx1/YW5nIF8gS2hvbiBL/ZWFuIFRoYWlsYW5k/ICgyMSkuanBn.jpg" alt=""></p>
+<p>A temple in Thailand&#x27;s Isan region houses a one-of-a-kind pulpit adorned with dinosaur motifs, nodding to the area&#x27;s history as the site of the country&#x27;s first fossil finds.</p>
+<p><a href="https://www.atlasobscura.com/places/dinosaur-pulpit-at-wat-that-phra-aram">Read it</a> · Curious Discoveries · Atlas Obscura</p>]]></content:encoded>
+</item>
+<item>
+<title>Minnesota Officials Urge Ice Safety Awareness as Cold Weather Approaches</title>
+<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPNF9TVFhHanhsa3FZZTZwMEF2VmFIajBidHdXRzNpMFZWdllFbF9qMGEtM3RnRUxaUUdxS25zMDQ2a3JfTUhoME5pbHBQM2pBLXpkZjJtbUJ3WXhBOC1Xd3dwU2dwZ2NhODlMTUhLYnM5S0c2YXByWC1KdWZKQzA5NFRZTkFlN0VpYmZFcGR5akVUV3NYbGR3NHlxRWN0RHFXcnR5NUZaRUZaUUx4dHRMVUU0WlVKYVNYRkFnekVHcTVON01CaE9EVnFDREs?oc=5</link>
+<guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxPNF9TVFhHanhsa3FZZTZwMEF2VmFIajBidHdXRzNpMFZWdllFbF9qMGEtM3RnRUxaUUdxS25zMDQ2a3JfTUhoME5pbHBQM2pBLXpkZjJtbUJ3WXhBOC1Xd3dwU2dwZ2NhODlMTUhLYnM5S0c2YXByWC1KdWZKQzA5NFRZTkFlN0VpYmZFcGR5akVUV3NYbGR3NHlxRWN0RHFXcnR5NUZaRUZaUUx4dHRMVUU0WlVKYVNYRkFnekVHcTVON01CaE9EVnFDREs?oc=5</guid>
+<pubDate>Tue, 24 Nov 2026 18:38:52 -0600</pubDate>
+<category>Minnesota and Nature</category>
+<description>Early winter safety warnings are an essential seasonal ritual for outdoor enthusiasts across Minnesota. Local authorities are reminding parents and residents to talk about ice safety before early-season freezes prove dangerous.</description>
+<content:encoded><![CDATA[<p><small>from the thin-ice-warning dept.</small></p>
+<p><em>Early winter safety warnings are an essential seasonal ritual for outdoor enthusiasts across Minnesota. Local authorities are reminding parents and residents to talk about ice safety before early-season freezes prove dangerous.</em></p>
+<p>Minnesota safety officials are urging parents and communities to discuss ice safety with children as early winter temperatures begin to settle across the region.</p>
+<p><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPNF9TVFhHanhsa3FZZTZwMEF2VmFIajBidHdXRzNpMFZWdllFbF9qMGEtM3RnRUxaUUdxS25zMDQ2a3JfTUhoME5pbHBQM2pBLXpkZjJtbUJ3WXhBOC1Xd3dwU2dwZ2NhODlMTUhLYnM5S0c2YXByWC1KdWZKQzA5NFRZTkFlN0VpYmZFcGR5akVUV3NYbGR3NHlxRWN0RHFXcnR5NUZaRUZaUUx4dHRMVUU0WlVKYVNYRkFnekVHcTVON01CaE9EVnFDREs?oc=5">Read it</a> · Minnesota and Nature · KIMT</p>]]></content:encoded>
+</item>
 <item>
 <title>Space Lasers Are Fast, But Clouds Still Rule the Forecast</title>
 <link>https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-rule-the-forecast</link>
