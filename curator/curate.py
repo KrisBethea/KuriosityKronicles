@@ -102,48 +102,87 @@ def model_payload(choices, history):
         },
     }
 
+def request_gemini(payload, key):
+    models = (MODEL, "gemini-3.8-flash")
 
-def request_gemini(payload, key, model=MODEL):
-    if model != MODEL:
-        raise ValueError(f"Refusing model {model!r}; only configured free-tier model {MODEL!r} is allowed")
-    request = Request(ENDPOINT.format(model),
-                      data=json.dumps(payload, ensure_ascii=False).encode("utf-8"),
-                      headers={"Content-Type": "application/json", "x-goog-api-key": key},
-                      method="POST")
+    for model in models:
+        request = Request(
+            ENDPOINT.format(model),
+            data=json.dumps(
+                payload, ensure_ascii=False
+            ).encode("utf-8"),
+            headers={
+                "Content-Type": "application/json",
+                "x-goog-api-key": key
+            },
+            method="POST"
+        )
 
-    # Free-tier Gemini may briefly return 503 while capacity is constrained.
-    # Retry transient server/network failures, but NOT account/quota/permission
-    # errors (429, 401, 403) or invalid model requests (404).
-    retry_delays = [3, 9, 20]
-    for attempt in range(len(retry_delays) + 1):
-        try:
-            with urlopen(request, timeout=90) as response:
-                raw = response.read(1_500_000)
-            break
-        except HTTPError as exc:
-            if exc.code in (500, 502, 503, 504) and attempt < len(retry_delays):
-                delay = retry_delays[attempt]
-                print(f"Gemini HTTP {exc.code}; retrying in {delay}s (attempt {attempt + 2}/4)", flush=True)
-                time.sleep(delay)
-                continue
-            raise RuntimeError(f"Gemini returned HTTP {exc.code}; no changes were published") from exc
-        except URLError as exc:
-            if attempt < len(retry_delays):
-                delay = retry_delays[attempt]
-                print(f"Gemini network error; retrying in {delay}s (attempt {attempt + 2}/4)", flush=True)
-                time.sleep(delay)
-                continue
-            raise RuntimeError("Gemini connection failed after retries; no changes were published") from exc
+        for attempt in range(2):
+            print(
+                f"Trying {model} (attempt {attempt + 1}/2)",
+                flush=True
+            )
 
-    result = json.loads(raw)
-    candidates = result.get("candidates") or []
-    if not candidates:
-        raise RuntimeError("Gemini returned no generated candidates; no changes were published")
-    parts = candidates[0].get("content", {}).get("parts", [])
-    text = "".join(str(part.get("text", "")) for part in parts)
-    if not text:
-        raise RuntimeError("Gemini returned no JSON text; no changes were published")
-    return json.loads(text)
+            try:
+                with urlopen(request, timeout=90) as response:
+                    raw = response.read(1_500_000)
+
+            except HTTPError as exc:
+                if exc.code not in (500, 502, 503, 504):
+                    raise RuntimeError(
+                        f"{model} returned HTTP {exc.code}; "
+                        "no changes published"
+                    ) from exc
+
+                print(f"{model}: HTTP {exc.code}", flush=True)
+
+            except (URLError, TimeoutError) as exc:
+                print(
+                    f"{model}: connection failure "
+                    f"({type(exc).__name__})",
+                    flush=True
+                )
+
+            else:
+                result = json.loads(raw)
+                candidates = result.get("candidates") or []
+
+                if not candidates:
+                    raise RuntimeError(
+                        f"{model} returned no candidates"
+                    )
+
+                parts = candidates[0].get(
+                    "content", {}
+                ).get("parts", [])
+
+                text = "".join(
+                    str(p.get("text", ""))
+                    for p in parts
+                    if not p.get("thought")
+                )
+
+                if not text:
+                    raise RuntimeError(
+                        f"{model} returned no JSON text"
+                    )
+
+                return json.loads(text)
+
+            if attempt == 0:
+                time.sleep(9)
+
+        print(
+            f"{model} unavailable; "
+            "moving to next model if configured.",
+            flush=True
+        )
+
+    raise RuntimeError(
+        "All configured Gemini models unavailable; "
+        "no changes published"
+    )
 
 def validate_and_materialize(response, choices, existing, now):
     if not isinstance(response, dict) or not isinstance(response.get("picks"), list):
