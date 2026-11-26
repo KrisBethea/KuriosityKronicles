@@ -5,8 +5,112 @@
 <link>https://KrisBethea.github.io/KuriosityKronicles/</link>
 <description>Stories about space, code, and the wonderfully unexpected, selected with AI.</description>
 <atom:link href="https://KrisBethea.github.io/KuriosityKronicles/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 25 Nov 2026 20:36:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 00:21:13 +0000</lastBuildDate>
 <image><url>https://KrisBethea.github.io/KuriosityKronicles/favicon.svg</url><title>Kuriosity Kronicles</title><link>https://KrisBethea.github.io/KuriosityKronicles/</link></image>
+<item>
+<title>Euclid's Record-Setting Quasar Probes Black Hole Formation</title>
+<link>https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation</guid>
+<pubDate>Wed, 25 Nov 2026 18:21:13 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>The ESA's Euclid Space Telescope has identified a record-setting quasar at redshift z=8.13, pushing our view back to about 630 million years after the Big Bang. Finding supermassive black holes this early in cosmic history is a major puzzle for astronomers, and each distant detection helps test theories of how they formed so quickly.</description>
+<content:encoded><![CDATA[<p><small>from the look-how-fast-they-grow dept.</small></p>
+<p><em>The ESA&#x27;s Euclid Space Telescope has identified a record-setting quasar at redshift z=8.13, pushing our view back to about 630 million years after the Big Bang. Finding supermassive black holes this early in cosmic history is a major puzzle for astronomers, and each distant detection helps test theories of how they formed so quickly.</em></p>
+<p><img src="https://www.universetoday.com/article_images/quasar_illustration_20261125_174042.jpg" alt=""></p>
+<p>Euclid&#x27;s discovery breaks previous distance records by roughly 40 million years, giving scientists an unprecedented glimpse into the early universe. Capturing light from just 630 million years post-Big Bang helps researchers piece together how massive black holes grew so rapidly in the cosmic dawn.</p>
+<p><a href="https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>A New Discovery is Re-Drawing the Map of the Milky Way</title>
+<link>https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way</link>
+<guid isPermaLink="false">https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way</guid>
+<pubDate>Wed, 25 Nov 2026 18:20:13 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>New research reveals that star formation is actively occurring right in the Milky Way's central bar, overturning previous assumptions and observations of other barred spiral galaxies. A PhD student's work demonstrates that a massive rotating structure near the galactic center drives shock fronts through gas clouds, sparking new stellar nurseries.</description>
+<content:encoded><![CDATA[<p><small>from the check-your-galactic-GPS dept.</small></p>
+<p><em>New research reveals that star formation is actively occurring right in the Milky Way&#x27;s central bar, overturning previous assumptions and observations of other barred spiral galaxies. A PhD student&#x27;s work demonstrates that a massive rotating structure near the galactic center drives shock fronts through gas clouds, sparking new stellar nurseries.</em></p>
+<p><img src="https://www.universetoday.com/article_images/cq5dam.web.1280.1280_20261124_201307.jpg" alt=""></p>
+<p>Fresh observations show star formation happening within the Milky Way&#x27;s central bar, contrary to past models. A massive rotating structure is compressing gas clouds with intense shock fronts, creating prime conditions for new stars to ignite near the core of our galaxy.</p>
+<p><a href="https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way">Read it</a> · Astronomy and Space · Universe Today</p>]]></content:encoded>
+</item>
+<item>
+<title>Daisy Chaining Stepper Motors</title>
+<link>https://hackaday.com/2026/11/25/daisy-chaining-stepper-motors/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/25/daisy-chaining-stepper-motors/</guid>
+<pubDate>Wed, 25 Nov 2026 18:19:13 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Controlling dozens of stepper motors usually requires a rat's nest of wiring or complex multi-channel controller boards. This clever open project puts a smart ESP32-S3 and driver chip directly on each NEMA 17 motor, letting builders daisy-chain commands much like addressable LED strings.</description>
+<content:encoded><![CDATA[<p><small>from the addressable-hardware-hacks dept.</small></p>
+<p><em>Controlling dozens of stepper motors usually requires a rat&#x27;s nest of wiring or complex multi-channel controller boards. This clever open project puts a smart ESP32-S3 and driver chip directly on each NEMA 17 motor, letting builders daisy-chain commands much like addressable LED strings.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/DSC_1176_edited_1dd27e30-f5b8-4135-b2d5-0197d679d29a-e1795599260716.webp" alt=""></p>
+<p>Josh Rogan&#x27;s CANBUS Stepper project simplifies multi-motor setups by packing a microcontroller and driver onto a compact board mounted straight to each NEMA 17 motor. Commands are passed down the line from a single connected node, eliminating massive wiring harnesses for complex builds.</p>
+<p><a href="https://hackaday.com/2026/11/25/daisy-chaining-stepper-motors/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Game Boy Museum on a Cart Gives the Gift of Knowledge</title>
+<link>https://hackaday.com/2026/11/25/game-boy-museum-on-a-cart-gives-the-gift-of-knowledge/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/25/game-boy-museum-on-a-cart-gives-the-gift-of-knowledge/</guid>
+<pubDate>Wed, 25 Nov 2026 18:18:13 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Distilling an entire online history museum onto a monochromatic 160x144 Game Boy screen is an incredible exercise in retro constraints and data packing. It highlights the ingenuity required to make readable text and images fit within tiny hardware footprints.</description>
+<content:encoded><![CDATA[<p><small>from the squeezed-into-sixteen-shades dept.</small></p>
+<p><em>Distilling an entire online history museum onto a monochromatic 160x144 Game Boy screen is an incredible exercise in retro constraints and data packing. It highlights the ingenuity required to make readable text and images fit within tiny hardware footprints.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/GB-Museum-Cart.png" alt=""></p>
+<p>Developer Marcel managed to pack his entire Game Boy memorabilia museum onto a single standard game cartridge. Overcoming tight resolution limits and font spacing issues, the project preserves hardware variants and obscure peripherals right on vintage handheld hardware.</p>
+<p><a href="https://hackaday.com/2026/11/25/game-boy-museum-on-a-cart-gives-the-gift-of-knowledge/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>Touching a Spinner Makes Things Feel Sticky or Slippery, in VR</title>
+<link>https://hackaday.com/2026/11/25/touching-a-spinner-makes-things-feel-sticky-or-slippery-in-vr/</link>
+<guid isPermaLink="false">https://hackaday.com/2026/11/25/touching-a-spinner-makes-things-feel-sticky-or-slippery-in-vr/</guid>
+<pubDate>Wed, 25 Nov 2026 18:17:13 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>Haptic feedback in virtual reality often relies on simple vibration rumble packs, but simulating actual surface texture requires clever perceptual tricks. By dynamically manipulating the relative speed of a touched wheel, researchers have figured out how to make virtual honey feel sticky and virtual oil feel slick.</description>
+<content:encoded><![CDATA[<p><small>from the mind-over-motor-friction dept.</small></p>
+<p><em>Haptic feedback in virtual reality often relies on simple vibration rumble packs, but simulating actual surface texture requires clever perceptual tricks. By dynamically manipulating the relative speed of a touched wheel, researchers have figured out how to make virtual honey feel sticky and virtual oil feel slick.</em></p>
+<p><img src="https://hackaday.com/wp-content/uploads/2026/11/Surf-Roll-Device-banner.png" alt=""></p>
+<p>The Surf-Roll virtual reality haptic project uses a spinning wheel under the user&#x27;s fingertip to trick the brain into feeling friction. When the wheel spins faster or slower than expected relative to movement, virtual gobs of honey or oil feel remarkably tactile.</p>
+<p><a href="https://hackaday.com/2026/11/25/touching-a-spinner-makes-things-feel-sticky-or-slippery-in-vr/">Read it</a> · DotNet and Development · Hackaday</p>]]></content:encoded>
+</item>
+<item>
+<title>What’s new in Microsoft Foundry</title>
+<link>https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-ignite-2026/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-ignite-2026/</guid>
+<pubDate>Wed, 25 Nov 2026 18:16:13 -0600</pubDate>
+<category>AI and Agents</category>
+<description>As agentic workflows become standard enterprise architecture, moving from debugging a trace to testing a fix needs tighter integration. Microsoft's latest updates connect diagnostic insights directly to agent optimization and continuous evaluation tools.</description>
+<content:encoded><![CDATA[<p><small>from the continuous-loop-controllers dept.</small></p>
+<p><em>As agentic workflows become standard enterprise architecture, moving from debugging a trace to testing a fix needs tighter integration. Microsoft&#x27;s latest updates connect diagnostic insights directly to agent optimization and continuous evaluation tools.</em></p>
+<p><img src="https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/whats-new-in-foundry-nov-2026.webp" alt=""></p>
+<p>Microsoft Foundry&#x27;s latest preview features tie runtime insights directly to its Agent Optimizer, helping developers turn trace failures into tested fixes. The updates bring continuous improvement tools and multi-turn evaluation capabilities into standard agent development pipelines.</p>
+<p><a href="https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-ignite-2026/">Read it</a> · AI and Agents · Microsoft Foundry Blog</p>]]></content:encoded>
+</item>
+<item>
+<title>Is “sort by impact” just vibes?</title>
+<link>https://devblogs.microsoft.com/blog/is-sort-by-impact-just-vibes/</link>
+<guid isPermaLink="false">https://devblogs.microsoft.com/blog/is-sort-by-impact-just-vibes/</guid>
+<pubDate>Wed, 25 Nov 2026 18:15:13 -0600</pubDate>
+<category>DotNet and Development</category>
+<description>When developers ask AI agents to sort backlogs by impact without defining the metric, it's easy to assume the model is just guessing based on tone. A new study by Microsoft developers reveals a surprising consistency across models, even if the underlying definition remains implicit.</description>
+<content:encoded><![CDATA[<p><small>from the subjective-algorithm-studies dept.</small></p>
+<p><em>When developers ask AI agents to sort backlogs by impact without defining the metric, it&#x27;s easy to assume the model is just guessing based on tone. A new study by Microsoft developers reveals a surprising consistency across models, even if the underlying definition remains implicit.</em></p>
+<p><img src="https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Ranking-Questioned.webp" alt=""></p>
+<p>Testing how AI agents rank items by vague criteria like impact, researchers found that different models largely agreed with each other across thousands of runs. Even without explicit definitions for impact, the agents converged on remarkably consistent prioritization orders.</p>
+<p><a href="https://devblogs.microsoft.com/blog/is-sort-by-impact-just-vibes/">Read it</a> · DotNet and Development · Microsoft DevBlogs</p>]]></content:encoded>
+</item>
+<item>
+<title>Eye of the Sahara</title>
+<link>https://www.nasa.gov/image-article/eye-of-the-sahara/</link>
+<guid isPermaLink="false">https://www.nasa.gov/image-article/eye-of-the-sahara/</guid>
+<pubDate>Wed, 25 Nov 2026 18:14:13 -0600</pubDate>
+<category>Astronomy and Space</category>
+<description>Orbital photography offers breathtaking perspectives on terrestrial geology that ground-level views simply cannot match. This crisp shot of the Richat Structure from the International Space Station highlights millions of years of geological uplift and erosion in stunning detail.</description>
+<content:encoded><![CDATA[<p><small>from the bullseye-from-orbit dept.</small></p>
+<p><em>Orbital photography offers breathtaking perspectives on terrestrial geology that ground-level views simply cannot match. This crisp shot of the Richat Structure from the International Space Station highlights millions of years of geological uplift and erosion in stunning detail.</em></p>
+<p><img src="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg?w=2048" alt=""></p>
+<p>Captured from the International Space Station, the Richat Structure in Mauritania displays its massive concentric rings in striking clarity. Known as the Eye of the Sahara, the 45-kilometer-wide geological dome was shaped by ancient igneous activity and differential rock erosion.</p>
+<p><a href="https://www.nasa.gov/image-article/eye-of-the-sahara/">Read it</a> · Astronomy and Space · NASA News</p>]]></content:encoded>
+</item>
 <item>
 <title>The Physics Wall Facing Orbital AI Data Centers</title>
 <link>https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers</link>
@@ -2464,45 +2568,6 @@
 <p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/2023/06/s/stsci-j-p2223a_0.jpeg?w=2048&amp;h=1593&amp;fit=clip&amp;crop=faces%2Cfocalpoint" alt=""></p>
 <p>Recent studies led by NASA astrophysicists detail how the upcoming LISA gravitational wave observatory could detect exoplanets throughout our galaxy. By analyzing how a planet modifies gravitational wave signals from orbiting white dwarfs, astronomers can spot unseen worlds.</p>
 <p><a href="https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/">Read it</a> · Astronomy and Space · NASA News</p>]]></content:encoded>
-</item>
-<item>
-<title>Rigel and the Witch Head Nebula</title>
-<link>https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/</link>
-<guid isPermaLink="false">https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/</guid>
-<pubDate>Tue, 10 Nov 2026 17:14:38 -0600</pubDate>
-<category>Astrophotography</category>
-<description>Reflection nebulae illuminated by bright supergiants always provide stunning visual targets for astrophotographers. IC 2118 near Rigel offers a classic case of pareidolia coupled with intricate interstellar dust structures.</description>
-<content:encoded><![CDATA[<p><small>from the cosmic illusion dept.</small></p>
-<p><em>Reflection nebulae illuminated by bright supergiants always provide stunning visual targets for astrophotographers. IC 2118 near Rigel offers a classic case of pareidolia coupled with intricate interstellar dust structures.</em></p>
-<p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg" alt=""></p>
-<p>An astrophotograph captures IC 2118, a faint reflection nebula known popularly as the Witch Head Nebula due to its uncanny resemblance to a caricature. Illuminated by the bright blue supergiant Rigel, the sprawling dust cloud spans about 50 light-years.</p>
-<p><a href="https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/">Read it</a> · Astrophotography · NASA Astronomy Picture of the Day</p>]]></content:encoded>
-</item>
-<item>
-<title>M. John Harrison’s The End of Everything Wins the Booker Prize</title>
-<link>https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/</link>
-<guid isPermaLink="false">https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/</guid>
-<pubDate>Tue, 10 Nov 2026 17:13:38 -0600</pubDate>
-<category>Science Fiction</category>
-<description>It is a rare and welcome event when uncompromising speculative fiction takes home a major mainstream literary prize like the Booker. M. John Harrison's win is a brilliant milestone for imaginative storytelling.</description>
-<content:encoded><![CDATA[<p><small>from the literary apocalypse dept.</small></p>
-<p><em>It is a rare and welcome event when uncompromising speculative fiction takes home a major mainstream literary prize like the Booker. M. John Harrison&#x27;s win is a brilliant milestone for imaginative storytelling.</em></p>
-<p><img src="https://reactormag.com/wp-content/uploads/2026/11/M.-John-Harrison-The-End-of-Everything-740x493.jpg" alt=""></p>
-<p>M. John Harrison’s post-apocalyptic sci-fi novel The End of Everything has won the prestigious Booker Prize. Set in a bleak, post-collapse England, the book&#x27;s victory has been widely celebrated across the science fiction community.</p>
-<p><a href="https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/">Read it</a> · Science Fiction · Reactor</p>]]></content:encoded>
-</item>
-<item>
-<title>Do AI Coding Agents Care About SemVer?</title>
-<link>https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/</link>
-<guid isPermaLink="false">https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/</guid>
-<pubDate>Tue, 10 Nov 2026 17:12:38 -0600</pubDate>
-<category>AI and Agents</category>
-<description>This is a clever piece of practical engineering research that tests an assumption about how autonomous agents interact with codebases. It turns out that version numbers still act as a subtle psychological nudge even for LLMs.</description>
-<content:encoded><![CDATA[<p><small>from the semantic versioning dept.</small></p>
-<p><em>This is a clever piece of practical engineering research that tests an assumption about how autonomous agents interact with codebases. It turns out that version numbers still act as a subtle psychological nudge even for LLMs.</em></p>
-<p><img src="https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Experience_-SemVer-and-Agent-Behavior.webp" alt=""></p>
-<p>Microsoft researchers tested whether AI coding agents pay attention to semantic versioning when upgrading dependencies. Surprisingly, experiments revealed that version numbers alone changed how models handled byte-identical code modifications.</p>
-<p><a href="https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/">Read it</a> · AI and Agents · Microsoft DevBlogs</p>]]></content:encoded>
 </item>
 </channel>
 </rss>
