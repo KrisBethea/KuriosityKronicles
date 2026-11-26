@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+    "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+    "source": "NASA News",
+    "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048",
+    "title": "Voyager 1 Reaches One Light-Day Distance from Earth",
+    "category": "Astronomy and Space",
+    "dept": "from the deep-space-signal dept.",
+    "reasoning": "Reaching a distance where radio signals take 24 hours to make a one-way trip is a mind-boggling milestone for humanity's most distant emissary. NASA's celebration of Voyager 1's historic 50-year journey offers a wonderful moment to reflect on interstellar operations.",
+    "summary": "Nearly 50 years after its launch in 1977, Voyager 1 is set to cross the one light-day distance threshold, sitting more than 16 billion miles away from Earth. NASA is marking the historic interplanetary milestone with public engagement events and global participation.",
+    "added": "2026-11-11T11:30:25-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe",
+    "link": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/demo_sky_image_20261110_185831.png",
+    "title": "First Direct Measurement of Cosmic Hydrogen Mapping the Universe",
+    "category": "Astronomy and Space",
+    "dept": "from the neutral-gas dept.",
+    "reasoning": "Radio astronomy breakthroughs that give us a new handle on large-scale cosmic structure are always worth highlighting. The MeerKLASS collaboration's work offers a concrete look at how direct hydrogen mapping will change cosmological surveys.",
+    "summary": "The international MeerKLASS collaboration has achieved the first direct measurement of the large-scale clustering of cosmic hydrogen in the universe. The breakthrough technique promises to open new ways for astronomers to map cosmic structure and galaxy evolution.",
+    "added": "2026-11-11T11:29:25-06:00"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+    "source": "Microsoft .NET Blog",
+    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/announcing-dotnet-11-scaled.webp",
+    "title": "Announcing .NET 11",
+    "category": "DotNet and Development",
+    "dept": "from the runtime optimization dept.",
+    "reasoning": "The latest major .NET release has arrived with hundreds of runtime performance boosts, C# language updates, and enhanced tooling. It is a Standard Term Support release aimed at making cross-platform and cloud development smoother.",
+    "summary": "Microsoft officially launched .NET 11, bringing speed improvements across C# 15, ASP.NET Core, and .NET MAUI. The new version features streamlined SDK tooling and expanded capabilities for agentic and AI-assisted development workflows.",
+    "added": "2026-11-10T17:18:38-06:00"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/",
+    "source": "Microsoft .NET Blog",
+    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/net-net-framework-november-2026.webp",
+    "title": ".NET and .NET Framework November 2026 Servicing Updates",
+    "category": "DotNet and Development",
+    "dept": "from the critical patch dept.",
+    "reasoning": "Staying on top of monthly servicing releases is essential for maintaining production security across multiple target frameworks. This month addresses key elevation of privilege and denial of service vulnerabilities.",
+    "summary": "Microsoft released its November 2026 security and non-security updates for .NET 8, 9, 10, and 11. Administrators should review the advisories for CVE-2026-114146 and related patches to apply necessary remediation guidance.",
+    "added": "2026-11-10T17:17:38-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
+    "link": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/program-darpa-nom4d-phase-3_20261110_173344.jpg",
+    "title": "Automated Assembly in Space Is the Future and NOM4D Is Showing the Way",
+    "category": "Astronomy and Space",
+    "dept": "from the orbital construction dept.",
+    "reasoning": "Moving past pre-constructed station modules requires entirely new robotic assembly techniques for large structures in orbit. Programs like NOM4D are proving that simple automated systems can successfully build trusses from component parts.",
+    "summary": "A new space construction program called NOM4D demonstrated that autonomous robots can successfully assemble truss-like structures in space using premade components. This milestone marks a step forward in our ability to fabricate large infrastructure directly in orbit.",
+    "added": "2026-11-10T17:16:38-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+    "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/2023/06/s/stsci-j-p2223a_0.jpeg?w=2048&h=1593&fit=clip&crop=faces%2Cfocalpoint",
+    "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+    "category": "Astronomy and Space",
+    "dept": "from the spacetime ripples dept.",
+    "reasoning": "Combining gravitational wave astronomy with exoplanet hunting opens up an entirely novel way to detect distant worlds. Upcoming observatories like LISA could soon spot planets orbiting tightly bound white dwarf systems thousands of light-years away.",
+    "summary": "Recent studies led by NASA astrophysicists detail how the upcoming LISA gravitational wave observatory could detect exoplanets throughout our galaxy. By analyzing how a planet modifies gravitational wave signals from orbiting white dwarfs, astronomers can spot unseen worlds.",
+    "added": "2026-11-10T17:15:38-06:00"
+  },
+  {
     "id": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
     "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
     "source": "NASA Astronomy Picture of the Day",
