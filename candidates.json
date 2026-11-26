@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25T14:36-06:00",
- "count": 295,
+ "generated": "2026-11-25T18:20-06:00",
+ "count": 284,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -43,26 +43,26 @@
   "Astronomy and Space | Quanta Magazine": {
    "url": "https://api.quantamagazine.org/feed/",
    "ok": true,
-   "kept": 5,
+   "kept": 4,
    "entries": 5,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Astronomy and Space | Sky and Telescope News": {
    "url": "https://www.skyandtelescope.com/astronomy-news/feed/",
    "ok": true,
-   "kept": 4,
+   "kept": 5,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 1,
+   "old": 0,
    "seen_or_dup": 5,
    "no_title_or_link": 0
   },
@@ -70,12 +70,12 @@
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 9,
-   "entries": 75,
+   "entries": 76,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 65,
+   "old": 66,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
@@ -88,8 +88,8 @@
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 97,
-   "seen_or_dup": 0,
+   "old": 96,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Space Weather and Aurora | NASA Science": {
@@ -134,25 +134,25 @@
    "url": "https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 3,
-   "entries": 19,
+   "entries": 18,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 16,
+   "old": 15,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Weather & Meteorology | Google News unusual weather": {
    "url": "https://news.google.com/rss/search?q=%22rare+weather%22+OR+%22atmospheric+phenomenon%22+OR+%22unusual+cloud%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 1,
+   "kept": 2,
    "entries": 100,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 98,
+   "old": 97,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
@@ -166,24 +166,11 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 2,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Weather & Meteorology | Google News Minnesota and Midwest weather": {
    "url": "https://news.google.com/rss/search?q=%22Minnesota%22+%22severe+weather%22+OR+%22Midwest%22+%22winter+storm%22&hl=en-US&gl=US&ceid=US:en",
-   "ok": true,
-   "kept": 0,
-   "entries": 37,
-   "dropped_rust": 0,
-   "dropped_drama": 0,
-   "skipped": 0,
-   "held": 0,
-   "old": 37,
-   "seen_or_dup": 0,
-   "no_title_or_link": 0
-  },
-  "Weather & Meteorology | Google News NOAA weather science": {
-   "url": "https://news.google.com/rss/search?q=%22NOAA%22+%22weather+radar%22+OR+%22weather+satellite%22+OR+%22forecast+model%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
    "entries": 100,
@@ -195,17 +182,30 @@
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
+  "Weather & Meteorology | Google News NOAA weather science": {
+   "url": "https://news.google.com/rss/search?q=%22NOAA%22+%22weather+radar%22+OR+%22weather+satellite%22+OR+%22forecast+model%22&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "kept": 0,
+   "entries": 46,
+   "dropped_rust": 0,
+   "dropped_drama": 0,
+   "skipped": 0,
+   "held": 0,
+   "old": 46,
+   "seen_or_dup": 0,
+   "no_title_or_link": 0
+  },
   "DotNet and Development | Microsoft .NET Blog": {
    "url": "https://devblogs.microsoft.com/dotnet/feed/",
    "ok": true,
-   "kept": 1,
+   "kept": 0,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 3,
-   "seen_or_dup": 6,
+   "seen_or_dup": 7,
    "no_title_or_link": 0
   },
   "DotNet and Development | Microsoft DevBlogs": {
@@ -237,14 +237,14 @@
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 7,
+   "kept": 6,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
@@ -289,13 +289,13 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 16,
+   "kept": 15,
    "entries": 100,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 84,
+   "old": 85,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -328,13 +328,13 @@
   "Science Fiction | Google News Doctor Who": {
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 17,
+   "kept": 18,
    "entries": 100,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 83,
+   "old": 82,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -342,26 +342,26 @@
    "url": "https://news.google.com/rss/search?q=Minnesota+astronomy+OR+aurora+OR+observatory&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 57,
+   "entries": 100,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 57,
+   "old": 100,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 10,
-   "entries": 30,
+   "kept": 0,
+   "entries": 94,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 19,
-   "seen_or_dup": 1,
+   "old": 94,
+   "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Curious Discoveries | Public Domain Review": {
@@ -387,7 +387,7 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "Curious Discoveries | Damn Interesting": {
@@ -432,7 +432,164 @@
  },
  "items": [
   {
-   "title": "The Event Horizon Telescope Views the Dynamics and Geometry of a Black Hole Jet in Extreme Detailelescope",
+   "title": "Camera Upgrades for 3D Printers",
+   "link": "https://hackaday.com/2026/11/25/camera-upgrades-for-3d-printers/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "3D printing has come a long way over the years, from being a fussy, barely usable mess to essentially being plug-and-play for a large variety of plastics. And the industry tends to cater to makers and hackers as well, with the printers mostly being easily upgradable and even the firmware for them often being open source. [Sam] tested these concepts to the extreme with his Prusa Core One. The printer does have an open-source firmware and will even somewhat automatically accommodate a camera if one is plugged in, but he wanted it to do a few extra things and went through 42 firmware revisions to get it just right . The first upgrade was to the camera hardware. The ESP32-S3-based camera has an autofocus feature, so that was the first thing to build in. From there it needed access to an SD card to support taking timelapse videos of the prints. This was surprisingly complicated and delved into the intricacies of filesystems but eventually this was solved as well. From there, [Sam] tackled issues with digital zoom, exposures randomly changing and washing out the image, and then finally on to making sure the timelapse feature was easy to use and reliable. This is the feature he uses the most on his printers, so he made it auto-start the recording and also made the recording process more robust to power outages. With all of that, [Sam] has an upgraded camera for his Prusa printers that dramatically improves quality and reliability. And the fact that these printers are among those that are more open and easier to work on certainly facilitated that journey. To that end, his own firmware is available on his GitHub page , and if you’re unlucky enough to have a printer which doesn’t abide by the open ethos of other printers, there will always be community solutions to those problems",
+   "published": "2026-11-25T18:00-06:00",
+   "tags": [
+    "3d Printer hacks",
+    "3d printer",
+    "camera",
+    "core one",
+    "ESP32",
+    "firmware",
+    "open",
+    "prusa"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/prusa-camera-main.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Atmospheric river feeds moisture to western Montana for Thanksgiving - KPAX News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODNTeUNKdnJ2aGtvVUNxOUp6eHNITGVQNkJ6WWI5cG0yOTV0NkFybjlhWWlUQmhpU21Pb1BtT1QxR1hLRlpVaXFyZVVwQ09PUldFZkJBX0w2al9JSnFvc3hDWVNac2xyUFBmaVZtSDdyN0lORVB4OVhJX3ZmRDZwLU9KYlhwYktJdmFQSDd5ZGJBRXdWdEp4VktuelhnZw?oc=5",
+   "source": "KPAX News",
+   "category": "Weather & Meteorology",
+   "summary": "Atmospheric river feeds moisture to western Montana for Thanksgiving KPAX News",
+   "published": "2026-11-25T17:22-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Euclid's Record-Setting Quasar Probes Black Hole Formation",
+   "link": "https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "The ESA's Euclid Space Telescope has found a record-setting quasar. Euclid found it at redshift z=8.13, corresponding to about 630 million years after the Big Bang. It beats the record by about 40 million years. How these quasars formed is puzzling, but each new detection at greater distances leads incrementally toward an answer.",
+   "published": "2026-11-25T17:04-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/quasar_illustration_20261125_174042.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Study Finds Artemis Astronauts Will Enjoy Moon-Grown Potatoes",
+   "link": "https://www.universetoday.com/articles/study-finds-artemis-astronauts-will-enjoy-moon-grown-potatoes",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Researchers have shown that potatoes grown in simulated lunar soil fortified with organic matter are safe to eat and can achieve growth and yields comparable to those produced on Earth.",
+   "published": "2026-11-25T16:53-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/lunartaters_20261125_224441.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hera's Images of Smashed Asteroid Moon Dimorphos, Unveiled",
+   "link": "https://skyandtelescope.org/astronomy-news/hera-images-dimorphos-unveiled/",
+   "source": "Sky and Telescope News",
+   "category": "Astronomy and Space",
+   "summary": "On November 25th, Hera revealed new images of Didymos and its moon Dimorphos. The post Hera's Images of Smashed Asteroid Moon Dimorphos, Unveiled appeared first on Sky & Telescope .",
+   "published": "2026-11-25T15:54-06:00",
+   "tags": [
+    "Astronomy & Observing News",
+    "Solar System",
+    "Dimorphos",
+    "Hera"
+   ],
+   "feed": "Sky and Telescope News",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Patti Smith’s Tiny Desk Concert.",
+   "link": "https://kottke.org/26/11/0050061-patti-smiths-tiny-desk-co",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Patti Smith’s Tiny Desk Concert .",
+   "published": "2026-11-25T15:45-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NIPSCO blames outdated system for extended power outages after August derecho - Chicago Tribune",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWVJcjRheEs2ZTBlMVcwajBCdXd0bWd5YS0tVTctX2dxaU90Z0JzZ0tOOGliQmRCVzBTR3BzaVJFUlFuaWtqc1VYR0h3eERWMXEwOHNxU2c4ZXhhTDhnXzVfZ1hFU09IWEN6bFNfSXlURkNiSGNUNGtRa2VjcG5qSGx1djhaSWw0dWU2ZW05UXpxUkVnNzBadDU4a1hHeGhGaTliNWZlWmsyY0hvcjJUR1hSRHNOSjJCcUhybQ?oc=5",
+   "source": "Chicago Tribune",
+   "category": "Weather & Meteorology",
+   "summary": "NIPSCO blames outdated system for extended power outages after August derecho Chicago Tribune",
+   "published": "2026-11-25T15:43-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Geomagnetic storms may show northern lights in Metro Vancouver as storms clear - Vancouver Is Awesome",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZngtMG1pblMtUnprbFc5bHdLaXd1Q1B1X0tPOFJRd3F1c25Wdk9QUXpXWVdtNXVuNmE3el9xdWNQT0tVeVFqTjdIUHhxamlyd0xsa3NRM09abTRNQmJuQXRwdHIxaWdYSDcyS1BGdEF4cVVqbXdZYlRRNExLWFp0QjJIY0RzalpzR3l3TzY1eUVwNlRQaGFDanRSWmprUQ?oc=5",
+   "source": "Vancouver Is Awesome",
+   "category": "Space Weather and Aurora",
+   "summary": "Geomagnetic storms may show northern lights in Metro Vancouver as storms clear Vancouver Is Awesome",
+   "published": "2026-11-25T15:15-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Daisy Chaining Stepper Motors",
+   "link": "https://hackaday.com/2026/11/25/daisy-chaining-stepper-motors/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Let’s say you want to control a whole bunch of stepper motors. You can use a multi-channel controller board, or whip something up with a microcontroller or two. Or, you could look at [Josh Rogan’s] design for a system of daisy chainable stepper motors that can all be controlled together. The idea is simple enough—give each stepper motor a smart controller that can accept commands and also pass them on to other units in a daisy chain. It’s not unlike the idea behind addressable LED strings, but with stepper motors instead. [Josh] refers to it as the CANBUS Stepper project, and it’s designed for NEMA 17 steppers—putting everything necessary to drive one into a single compact board that sits on the back of the motor itself. It’s built around the ESP32-S3 microcontroller, and the TCM2209 stepper driver chip. It’s intended that one node will be hooked up over USB, Wi-Fi, Serial, or CAN, and the rest of the steppers in the chain get commands passed down from the first node as needed. We’ve seen [Josh]’s work before, too— with his earlier development of USB-PD powered steppers . It’s well worth checking out if you’re into this sort of thing. Video after the break. One thing Ive been looking for a while is a closed loop stepper board like this that impliments cia402 CANopen. Would give a huge amount of intercompatability with existing controlls. Needing a seperate can stack for each model of motor like this holds me back from using them. This looks like well built hardware though. About 25 years ago a group of us made a 343 stepper motor project with zero microcontrollers. https://hackaday.io/project/565-controlling-343-stepper-motors-from-linux It consisted of seven chains of 8-bit serial-in parallel open collector out shift registers. Each serial chain was 224 bits long and r",
+   "published": "2026-11-25T15:00-06:00",
+   "tags": [
+    "Misc Hacks",
+    "ESP32",
+    "NEMA-17",
+    "stepper",
+    "stepper motor"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/DSC_1176_edited_1dd27e30-f5b8-4135-b2d5-0197d679d29a-e1795599260716.webp",
+   "summary_from": "page"
+  },
+  {
+   "title": "Hockanum School House in Hadley, Massachusetts",
+   "link": "https://www.atlasobscura.com/places/hockanum-school-house",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "Built in 1840, this one-room School House served as the educational center for all of the first to eighth grade children in the Hockanum area, later serving only up to sixth grade. This was one of several school houses serving small neighborhood communities around Hadley. A 1647 Massachusetts law required all towns with 50 or more families to hire a teacher to instruct their children in reading and writing. Parents and students contributed to their school in the form of money, goods, supplies, and chores. These were one-room schoolhouses, on land that was usually donated. Most schools had one book, the \"New England Primer,\" that was used to teach the alphabet, syllables, and prayer. The last",
+   "published": "2026-11-25T15:00-06:00",
+   "tags": [
+    "schools"
+   ],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/Fjk7Vx8KWypUOx8RD1sJ8Sjxy_nvyHQ3stdvuK1Yl7Q/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85OWZj/YzM0Mi02ZmFkLTRk/Y2YtYWFkYi1mNTM1/ZjE5YzNlYzJjOGY2/ZTFlMjVlYTEwZjA2/YzNfSU1HXzE5NTgu/anBn.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The Event Horizon Telescope Views the Dynamics and Geometry of a Black Hole Jet in Extreme Detail",
    "link": "https://www.universetoday.com/articles/the-event-horizon-telescope-views-the-dynamics-and-geometry-of-a-black-hole-jet-in-extreme-detailele",
    "source": "Universe Today",
    "category": "Astronomy and Space",
@@ -481,54 +638,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "The Physics Wall Facing Orbital AI Data Centers",
-   "link": "https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Basing entire business plans on back-of-the-envelope calculations might not seem like the best idea. However, according to a new paper available in preprint on arXiv by Dr. Slava Turyshev of NASA’s Jet Propulsion Laboratory, that is precisely what the companies touting orbital AI data centers are doing. While on paper, the math looks good, the physical constraints of actually utilizing all the processing power and free energy of the Sun that orbit provides is prohibitive in a number of ways - and it will be a long time before we have the technology to truly capitalize on the advantages of space-based AI.",
-   "published": "2026-11-25T13:36-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/ISS-54_ELC-1_main_solar_arrays_and_radiators_seen_from_the_Cupola_20261125_193647.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Curious Case of the Second Spacebar",
-   "link": "https://hackaday.com/2026/11/25/the-curious-case-of-the-second-spacebar/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "[Adrian] shared a very unusual Commodore 64 he came across with some unique modifications made to it. Not only did it have an unexplained DIP socket on the back, it also had a second space bar . What a mystery! Before [Adrian] could solve this he needed to do some good old refurbishing to get the machine back up and running. A mechanical inspection showed both the red DIP socket on the back of the machine and the extra space bar were wired up to the main keyboard PCB. Once the machine was functional, he was able to do some reverse engineering to figure out what these decades-old hacks were for. Even our own [Kristina Panos] who has again and again dived into how creative keyboards can get has never seen a second space bar above the number row. [Adrian] determines the DIP socket was almost certainly used as a makeshift port for plugging in some kind of numeric keypad, probably one built by the same person did the modifications. As for the extra space bar located right above the number row? It acts as an extra SHIFT key. That means entering symbols like the dollar sign, parentheses, and so forth becomes a one-handed operation. [Adrian] demonstrates pressing the top space bar (which is actually SHIFT) then numbers to get the corresponding symbols. It’s a two-finger operation that, as he puts it, “feels kind of natural, to be honest”. It sure looks like this machine was modified to have a separate number pad for one-handed numeric entry, and the extra space bar as a way to more easily enter symbols using the other hand. The mods still left the keyboard able to work normally. And based on the visible wear in the form of shiny spots on the plastic, this modded keyboard saw a lot of use. [Adrian] suspects these mods were made to support some financial application. That seems s",
-   "published": "2026-11-25T13:30-06:00",
-   "tags": [
-    "Peripherals Hacks",
-    "Retrocomputing",
-    "c64",
-    "keyboard mod",
-    "numberpad",
-    "vintage"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Wait-.-what_-Why-is-there-an-extra-spacebar_-40-22-screenshot-banner.png",
-   "summary_from": "page"
-  },
-  {
-   "title": "Geomagnetic storms may show northern lights in Metro Vancouver as storms clear - Vancouver Is Awesome",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZngtMG1pblMtUnprbFc5bHdLaXd1Q1B1X0tPOFJRd3F1c25Wdk9QUXpXWVdtNXVuNmE3el9xdWNQT0tVeVFqTjdIUHhxamlyd0xsa3NRM09abTRNQmJuQXRwdHIxaWdYSDcyS1BGdEF4cVVqbXdZYlRRNExLWFp0QjJIY0RzalpzR3l3TzY1eUVwNlRQaGFDanRSWmprUQ?oc=5",
-   "source": "Vancouver Is Awesome",
-   "category": "Space Weather and Aurora",
-   "summary": "Geomagnetic storms may show northern lights in Metro Vancouver as storms clear Vancouver Is Awesome",
-   "published": "2026-11-25T13:19-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
    "link": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
    "source": "NASA News",
@@ -558,24 +667,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "The Hidden Spiegeltent in Chicago, Illinois",
-   "link": "https://www.atlasobscura.com/places/the-hidden-spiegeltent",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "Spiegeltents were made to travel. These round wooden dance halls, lined with mirrors and stained glass, went from fair to fair. They went up fast and came down fast. The one on Randolph Street is not going anywhere. It was built indoors, on the 14th floor of a Loop building. The building opened in 1926. Rapp & Rapp designed it, with the Oriental Theatre movie palace on the lower floors. The theater is now the James M. Nederlander Theatre. The whole building stands on the site of the Iroquois Theatre, where a fire in 1903 became one of the deadliest in American history. High above the theater, the architects put a large hall for Masonic meetings. It sat empty for decades. Later it was turned ",
-   "published": "2026-11-25T13:00-06:00",
-   "tags": [
-    "dancing",
-    "theaters",
-    "circus"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/4LesaiZ6APDqv95nL2XO4_wP8xQcfYvo4NBDhuVhZZo/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83YWQw/NjY2Mi00NTlhLTQ0/NGEtYjcwNi01NTZk/MGI1ZGEyYjc4MTY2/NGVlZmE0NzQxMjYw/Y2Nfa2VybWVzcy10/ZW50LWV4dGVyaW9y/LmpwZw.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Best Dark Fantasy Movies for Dark Winter Nights: What to Stream This December",
    "link": "https://reactormag.com/best-sci-fi-fantasy-horror-movies-shows-streaming-december-2026/",
    "source": "Reactor",
@@ -596,19 +687,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/Streaming-Dec-2026-header-740x423.png",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Minnesotans can visit state parks for free on Friday - Mankato Free Press",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLV83OXBvWnR2VWFTMmw0Zm9ib0VkRllUcjBQYkt3M3BmSENOc3g0ODVKLV9abUR5QXBsYkd0WXVLcFlMZTdMOUM0MFc0Rm9TaXpqaW83VjF4ZWxfcVhMYzBheUgwNkhRYlZHUEtfM1ljUUI5VFpxU2pvaXY2eEQ0M3JIQTJ6b0lLendYTXhaeDZWM1ZqQmxrS1JWUGlWMGpaaGZBa2RmaGdHcVlPMGFqdGtRTE8wc3ZvMXhybjlBU3pRNnEtYlppR3NaaDc4dGk0ajVUTTdzRV9rcUJmT2tmaWVqbXdzZw?oc=5",
-   "source": "Mankato Free Press",
-   "category": "Minnesota and Nature",
-   "summary": "Minnesotans can visit state parks for free on Friday Mankato Free Press",
-   "published": "2026-11-25T12:27-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -653,20 +731,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/SpaceCrops_thanksgiving.jpg?w=1366&h=618&fit=clip",
-   "summary_from": "feed"
-  },
-  {
-   "title": "ALMA Reveals a Dying Star's Final Breath, Encoded In a Giant Ring of Gas",
-   "link": "https://www.universetoday.com/articles/alma-reveals-a-dying-stars-final-breath-encoded-in-a-giant-ring-of-gas",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "About 6,500 years ago, a dying star emitted its final thermal pulse. That dying breath created a giant ring of gas detected by ALMA. Then only 700 years ago, the star formed an hourglass nebula. Theory predicted this, but this is the first direct evidence supporting it.",
-   "published": "2026-11-25T11:24-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/IRAS06530-co32-all-ch74to77-ring-pap_20261125_142736.jpg",
    "summary_from": "feed"
   },
   {
@@ -835,19 +899,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "7 Of The Most Adorable Small Towns In Minnesota - WorldAtlas",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2hZVHRyem1SNXFzb2FlcC01M3FsMTMzMWc3S0ZLRVFkVF9qRjBqYVJSQVBNQjFBbVdxdFNXSWNYcW9UMFozc05tTFBmMzZ1ZFZIal9fMXZHazVyYVJhd1NjY3V2TXBPSzlRRF9GOC1fdTBYa2lpZGhVUzk2N0IyZU5ZSHRyYWxJNFg4NzFGT3BrVnNqT1E?oc=5",
-   "source": "WorldAtlas",
-   "category": "Minnesota and Nature",
-   "summary": "7 Of The Most Adorable Small Towns In Minnesota WorldAtlas",
-   "published": "2026-11-25T09:30-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "First Smartphone? Think Blue",
    "link": "https://hackaday.com/2026/11/25/first-smartphone-think-blue/",
    "source": "Hackaday",
@@ -976,22 +1027,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Novel Experiments Expand the Hunt for ‘Ultralight’ Dark Matter",
-   "link": "https://www.quantamagazine.org/novel-experiments-expand-the-hunt-for-ultralight-dark-matter-20261125/",
-   "source": "Quanta Magazine",
-   "category": "Astronomy and Space",
-   "summary": "For the most part, we are blind to the universe. Almost a century ago — in 1933, to be exact — Fritz Zwicky’s studies of distant galaxies led him to suggest that “dark matter is present in very much greater density than luminous matter.” Observations by the astronomer Vera Rubin would later substantiate the case for the intangible, leading her to write in 1980 that “the conclusion is inescapable… Source",
-   "published": "2026-11-25T08:00-06:00",
-   "tags": [
-    "Physics"
-   ],
-   "feed": "Quanta Magazine",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/UltralightDarkMatter-crCelsiusPictor-Default.webp",
-   "summary_from": "feed"
-  },
-  {
    "title": "A New Discovery is Re-Drawing the Map of the Milky Way",
    "link": "https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way",
    "source": "Universe Today",
@@ -1111,19 +1146,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Make the most of Minnesota’s vibrant culture and spectacular natural wonders - London Evening Standard",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUo4dXlWVU1xUmdidDRnTWUzSHZSZHZhY0NudlRteTU5MzlrQ2Q5VEl0R1BfeF8yMDdka2V4OG1YNWJCUHdYc21kTkwtQjl3Z3ozWllzNE94bzZwdjhxaGEydXRLemJyNldEZ2lWQzVEMnM0c2hHbm9sa3ZKeHJTTERscWRadkJCWC1ZRDg4cXpnLTJPTzBjS2U3MFFJNTA?oc=5",
-   "source": "London Evening Standard",
-   "category": "Minnesota and Nature",
-   "summary": "Make the most of Minnesota’s vibrant culture and spectacular natural wonders London Evening Standard",
-   "published": "2026-11-25T04:37-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Comet Encke's Shape and Heat Revealed in Thermal Glow",
    "link": "https://www.universetoday.com/articles/comet-enckes-shape-and-heat-revealed-in-thermal-glow",
    "source": "Universe Today",
@@ -1154,24 +1176,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://hackaday.com/wp-content/uploads/2026/11/Surf-Roll-Device-banner.png",
-   "summary_from": "page"
-  },
-  {
-   "title": "The 3D Printer Scam Targeting UK Hackerspaces",
-   "link": "https://hackaday.com/2026/11/24/the-3d-printer-scam-targeting-uk-hackerspaces/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "It’s likely that most Hackaday readers will be familiar with online scams, from those faraway princes with an embarrassing matter of needing to shift some oil millions, to too-good-to-be-true offers which require a bankers draft for payment. There’s an oddly specific one targeting multiple hackerspaces in the UK, and over at Machynlleth Makerspace in Wales they’ve done a deep dive into it . The scam arrives as an email from a school pupil, asking for a surplus 3D printer. They’re based in Cambridge, about 4 or 5 hours drive from Machynlleth, and their writing style bears all the hallmarks of an LLM. The Machynlleth folks decided to string the scammer along, and elicited a handwritten letter from the lad’s teacher which the real teacher confirmed was fake, then a request that the makerspace pay for the shipping. The provided address in Cambridge was real enough, though they have no word on whether a crook would be there to pick up the printer when it arrived. They reported it all to the UK online fraud reporting service, but realistically given the volume of such crime it’s unlikely to be followed up. This is a run-of-the-mill scam then, and worth alerting any others in the hackerspace community about. But sitting here, we can’t help wondering exactly what the real scam was going to be. It’s unlikely they’re going to all this effort in the hopes of somebody’s failed RepRap project from 2014 alone, so no doubt had anyone sent a printer, it would have been followed up by something containing the real payload. So watch out for this if you run a hackerspace. Meanwhile, this gives us the happy discovery that there’s a makerspace in Machynlleth ! One to visit, next time the lure of tiny trains takes us into Wales. Could be a variant of the postage scam. When it comes to the ac",
-   "published": "2026-11-25T00:00-06:00",
-   "tags": [
-    "Hackerspaces",
-    "hackerspaces",
-    "scam"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/hackerspace-scam-featured.jpg",
    "summary_from": "page"
   },
   {
@@ -1229,36 +1233,6 @@
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "Hunters Illegally Shoot Three Bull Elk in Minnesota - Wisevoter",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWNqcVIydDRKU3EzNGFNRWhDQ2JhVFNOMFhEUW9FcTZtNkliNWgtUUtoZVBDMnRPNTBDSVZvd21DSy1TQzlLdTJVbjNPbnI0cW5tWklBY09STDU3N0RjcXlIMmNaU25FSmJEWHF1X0VFc0QwbUJNbmxicTBhYkxlMWJfSEZwODByVFp6ZkZPNEdEMTRfalZ6ZA?oc=5",
-   "source": "Wisevoter",
-   "category": "Minnesota and Nature",
-   "summary": "Hunters Illegally Shoot Three Bull Elk in Minnesota Wisevoter",
-   "published": "2026-11-24T21:13-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Keeping your Molten Salt Reactor Fuel Fresh with Helium Bubbles",
-   "link": "https://hackaday.com/2026/11/24/keeping-your-molten-salt-reactor-fuel-fresh-with-helium-bubbles/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Recently [Huihua Yang] and fellow researchers at Argonne National Laboratory and Rensselaer Polytechnic Institute reported a way (paywalled, no preprint available) to keep the inside of molten salt reactors squeaky-clean from elemental metal contaminants that will otherwise build up. There are a lot of advantages to a molten salt fission reactor (MSR) where the fuel is mixed in with the salt coolant, such as an inherently safe design, and very easy refueling by just dumping in more of the salt and fuel while scooping out any fission products that cannot be further fissioned. One issue is however the formation of noble metals like tellurium and palladium as well as semi-noble metals like silver that really prefer to stay in their metallic form, cluttering up the MSR’s internals. Noble gases like xenon and krypton also naturally build up as fission products and are correspondingly removed from the loop, while helium can be added to encourage the metal particles to follow the same path even if they do not dissolve in the salt medium. The benefits of adding more helium was already observed with the US MSRE project half a century ago, as noted by [Frederix] in a 2022 paper on noble metal particle growth in MSRs. The working principle appears to be that many small bubbles of a noble gas like helium prevents the metal from depositing on nearby surfaces, with this new study by [Yang] et al. thus providing more simulation-based evidence that with enough helium bubbles added, build-up of these noble metals can likely be largely avoided. With MSRs such as China’s TMSR-LF1 being a popular design in upcoming nuclear-powered cargo ship designs due to their low maintenance characteristics, having such ways to reduce maintenance costs and downtime even more is always a good thing. Cool",
-   "published": "2026-11-24T21:00-06:00",
-   "tags": [
-    "Science",
-    "molten salt reactor"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2023/05/MSRE_Diagram.png",
-   "summary_from": "page"
   },
   {
    "title": "Maybe Dark Energy Isn't so Inexplicable After All",
@@ -1495,6 +1469,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Diablo IV Patch Notes - Blizzard News",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LVmVGR2R0MGdIMURvbDZ1bzVxRkQ0NWp0cm5sbmU2S2tCOHdTMkpRNGR2eTVxSjNsZ1JtRnFpQzhWMGZnMFRZcEZZZlNlSnpaTzJIMzVVclI1SF9KX3lhekJqNlMwb0dFOXlkdHZlcTJqUzlhVWRfbE5B?oc=5",
+   "source": "Blizzard News",
+   "category": "Weather & Meteorology",
+   "summary": "Diablo IV Patch Notes Blizzard News",
+   "published": "2026-11-24T13:38-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Amateur Astronomer? Be a Kilonova Catcher!",
    "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
    "source": "NASA News",
@@ -1595,19 +1582,6 @@
    "tags": [],
    "feed": "Kottke",
    "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Bygones: Hunting violations marked this day in Northland history - Duluth News Tribune",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTQ3UHhIdzBGc080OTZhNzM4RTRxMjllS1ZfUWxhc2JkYUgyU1pYV01nS3RHQnh5MVRSU05LclJyN2I1U3VYNDRldlhldTBIRXFEM01BX1JEN2FMRDRPY2c4TDJvOE9EdnRTd0V3VkMyR0RVZ2U4alpPZHlNbnNBQVNpcTNrTGczbFJOM2REQW1qZWVPVmwyWEdMS2cxM0FvMFhKZlViLVRYbWww?oc=5",
-   "source": "Duluth News Tribune",
-   "category": "Minnesota and Nature",
-   "summary": "Bygones: Hunting violations marked this day in Northland history Duluth News Tribune",
-   "published": "2026-11-24T12:04-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -1742,32 +1716,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/noirlab2629a_20261124_144911.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "State Awards $7 Million in ReLeaf Tree Grants - Wisevoter",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWXJqb2JRZGZPNmxvQVFZMUp2akFtSDZyVGlTTXh5OGhtNl9QZmhRZFpKM1hPdk9Dc0U0amEyNktMdDJIdE1HU2lzbWpYRGhaRUJzXy0zWms1YTN3MUZvY0ZWXzBwc2RQdUxLbUcydGp1TUd4WEJqNWFRTmxHbXdfaHk4UEg1VS1halg5bjNLVENqN1V0?oc=5",
-   "source": "Wisevoter",
-   "category": "Minnesota and Nature",
-   "summary": "State Awards $7 Million in ReLeaf Tree Grants Wisevoter",
-   "published": "2026-11-24T10:18-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "BilTAY Technology manages operations with 18 autonomous AI agents since February - ssbulten.com.tr",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWVBvZDZfVlJpdjFFcGgzY2FSdGxPU25UUFpSMUhGWW5yUDl4ZWNOU0pxdXlhMDlVN0prX1NnNTRUY2d4UVloRk9FLWxOS3FLVG50RVhXUWpKMEljSHhwck1MWjRlaU90YnYwdHlrbGVyTmFxeHBBUkUtUUJtUG5uSVZaR09hN3VNQmlGWjl3akRHODNkZnl1NW1OdkRBVlpYcm1GblJubXpkajdVVHZCdWpMWm9sLW1Vdm1BT1V4S09YdkFpcEE?oc=5",
-   "source": "ssbulten.com.tr",
-   "category": "AI and Agents",
-   "summary": "BilTAY Technology manages operations with 18 autonomous AI agents since February ssbulten.com.tr",
-   "published": "2026-11-24T10:10-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2030,19 +1978,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "8 Financial Companies That Put AI Agents on Their 2026 Earnings Agenda - AIM Media House",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXhfbEhDN3JsSmNNeXRteU04cHcyS3loeXZZMzdQakhqemZpVjVuZGJSNE8zSTlvQTdMdllmQzNuSFJSRVdrWDNyanhRck5hQjVESE1KWkJrV1h2NHRhYXhPMXMtUzBSdGlDUzJhOXltS0NBUXFqV1FQd21PdXJBQ0x4aGM5RkNveGVHX1JpTGQtand0T1RLbmJ1eUt0bEdTZGVrZmlOVQ?oc=5",
-   "source": "AIM Media House",
-   "category": "AI and Agents",
-   "summary": "8 Financial Companies That Put AI Agents on Their 2026 Earnings Agenda AIM Media House",
-   "published": "2026-11-24T08:30-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
    "source": "OpenAI News",
@@ -2109,19 +2044,6 @@
    "published": "2026-11-23T21:25-06:00",
    "tags": [],
    "feed": "Google News severe weather science",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Minnesota DNR: 5 ways to keep young trees alive this winter - KIMT",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMENPVGVCa0ZrTk56bEcwY2hqdkY5aG01WHVxRjgyUWFoX0NuTDc4UmJybkRfMFZlV1lVamlNdWxLcUdKQ2FEaWtGQTVGc3BpaDdBUkNYbHUzMTVrRzdCV1ZGNHlSUkFnaDFMM05kZ2FiNGlGYzBvd0lvclZPNkxzaGRLRFhjcDM5Z1E5eko2V05qYmdCWExSb2RCMW5UTDVlalE2RGloRlMybXllcHViZFZEZGJQOEl4U0hEakd3V05FME5lMFVuVkZySjVmZjA?oc=5",
-   "source": "KIMT",
-   "category": "Minnesota and Nature",
-   "summary": "Minnesota DNR: 5 ways to keep young trees alive this winter KIMT",
-   "published": "2026-11-23T21:15-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2349,19 +2271,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "DNR Report: Minnesota conservation officers conduct angling, small game enforcement - Grand Forks Herald",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeGpFSTBjeDdDZm1sNjhtczVERG1iSmd4TDBkcy1wNjBXZjF1dkRjVDJlMEZOcEhSc3ZuUGdOdk54Z3g0bDZFN1lJOVVtMkFHWU90VC1OOFowMXlNTnNDS3YzNFJFOUI5ZnNkNFotYVVSel9EelNDMzNGdHB0eTEtNXJmaXdxSnlnb0p1NW9MSnV4VG5xZkl1bk1JT2N3YUMxQlllTEltN2RVV19pMlgySkktdUJJSHdTclVxc0w1ZUY0Y191elhLbXlyNk9DNVdpbGk3Tzh6bw?oc=5",
-   "source": "Grand Forks Herald",
-   "category": "Minnesota and Nature",
-   "summary": "DNR Report: Minnesota conservation officers conduct angling, small game enforcement Grand Forks Herald",
-   "published": "2026-11-23T13:40-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Detecting Primordial Black Holes By The Stars They Destroy",
    "link": "https://www.universetoday.com/articles/detecting-primordial-black-holes-by-the-stars-they-destroy",
    "source": "Universe Today",
@@ -2511,26 +2420,6 @@
    "feed": "Kottke",
    "evergreen": true,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Summit House/Prospect House in Hadley, Massachusetts",
-   "link": "https://www.atlasobscura.com/places/summit-house-prospect-house",
-   "source": "Atlas Obscura",
-   "category": "Curious Discoveries",
-   "summary": "The 400-plus-acre Skinner State Park adjoins the 3,000-acre Mount Holyoke Range State Park, where visitors can enjoy scenic vistas, picnic areas, and more than 40 miles of trails open year-round. At the heart of Skinner State Park stands the Prospect House, better known as the Summit House, a hotel that opened in 1851 and quickly became a fashionable destination for wealthy travelers from eastern Massachusetts and New York City. During its heyday, the hotel welcomed an impressive array of notable guests. Jenny Lind, the celebrated opera singer known as the “Swedish Nightingale,” visited in the year the hotel opened, and Alexander Graham Bell was a regular guest. Ralph Waldo Emerson, Henry Wa",
-   "published": "2026-11-23T11:00-06:00",
-   "tags": [
-    "mountains",
-    "railroads",
-    "funicular",
-    "state parks",
-    "parks"
-   ],
-   "feed": "Atlas Obscura",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://img.atlasobscura.com/0v1PjhXWUgC8OWBWptzQXKwT3WewuKtriSxB8biuIJQ/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83NTdj/Yjk4OC02MjgwLTQy/NTQtYmQ5Ni0yMzg1/ZjE0NmMwMmE0ODNi/ZDA0MGFlNjE2Y2M4/ZmVfQ29weSBvZiBQ/cm9zcGVjdCBIb3Vz/ZSBhbmQgVHJhbXdh/eSwgbGF0ZSAxODAw/cyAobG9zdCBuZXcg/ZW5nbGFuZCkuanBn.jpg",
    "summary_from": "feed"
   },
   {
@@ -2691,19 +2580,6 @@
     "Startup"
    ],
    "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Hidden for 100 million years: X-rays reveal an ancient flower from the age of dinosaurs - Phys.org",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yVTk5ZWRZTWs0eENlamF0bE54TnlJTG5VUlRUWWp2NVNBaEp0ZURoNVV2SWw0bkZvdzUwNU82Y0xubjhIM0FWYjQ0LXpRclRiRlNQeDJnVl9zdFRBVzlRVElwQWtpYVZGdzhWbFJYbEVLWFhkalE?oc=5",
-   "source": "Phys.org",
-   "category": "Minnesota and Nature",
-   "summary": "Hidden for 100 million years: X-rays reveal an ancient flower from the age of dinosaurs Phys.org",
-   "published": "2026-11-23T02:00-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2893,19 +2769,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Anderson: Minnesota desperately needs a conservation-minded governor. Is it Klobuchar? - Star Tribune",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1BwTVdIX01EX2IydWFGVVpoQTJad1RtcjVlSXhwQW02VGh4WGlwR0NuUEp2Y0Y2N1M5RU92Qk5oRWo1VnBYY3lIWkdrcjlmdTU0ZmpKMWVDNzJSMEpjb29lTzMweVRVV0Y0Y0NKQUg0ZnN6ZXIxd2tFODZGbjFBVHZVNHBmLUtiSDBVak5BRkdOOUFhdWh2eGJVMDlORFRfcjV6OHJkbkNJT1dBTVJYM3VrdGJlQXpPNDNxVHF3?oc=5",
-   "source": "Star Tribune",
-   "category": "Minnesota and Nature",
-   "summary": "Anderson: Minnesota desperately needs a conservation-minded governor. Is it Klobuchar? Star Tribune",
-   "published": "2026-11-22T05:30-06:00",
-   "tags": [],
-   "feed": "Google News Minnesota nature",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Most Powerful Attitude You Can Take Toward Your Life and the Life of the World",
    "link": "https://www.themarginalian.org/2026/11/22/richard-powers-advice/",
    "source": "The Marginalian",
@@ -2982,32 +2845,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "NWS confirms tornado at Kings Point as Boca Raton neighborhoods survey damage - WPEC",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlQ5RjZhYjdkTl92Ty1ucl9pT00wcEM1d2M3eWljTUZ0VEpvNnpudTF6b2VPdEVMWHRvMmtiN0RTck5FQV8xNlV3ZjN6cnN2dXZPeTBpLU5fVG4xczB0UDVrenRvbFJ5aWI0b2t2WGNmTjFYZkdlMzFiMVM5RU95S3owcW5JX2hKNGNyLTlXazNSV0oyMkZMdlNpNEpRdGRGekF2WkFqUERYUQ?oc=5",
-   "source": "WPEC",
-   "category": "Weather & Meteorology",
-   "summary": "NWS confirms tornado at Kings Point as Boca Raton neighborhoods survey damage WPEC",
-   "published": "2026-11-21T20:08-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Possible tornado brings down trees, causes damage in southern Palm Beach County - WPEC",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0dWOWRUbnNnSjE0a0ZFV0FCSmEzRk44MzJVc2NtLUFFeXpCLXZ1STlleHJrTC1EbHBFc0J5YzRuU1NxcUY2Z1pYekhKX1diZUNCb2s0SkpiNlVVNU95MmxEZzV0bHRKVG1RM05nWlVkR3VSLTZmNnd4RkNSUXZFclg0ck9XODFUdHZaZmt4RnA?oc=5",
-   "source": "WPEC",
-   "category": "Weather & Meteorology",
-   "summary": "Possible tornado brings down trees, causes damage in southern Palm Beach County WPEC",
-   "published": "2026-11-21T19:55-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Perplexity and Intelligence",
    "link": "https://openai.com/index/perplexity-and-intelligence",
    "source": "OpenAI News",
@@ -3047,19 +2884,6 @@
    "category": "Weather & Meteorology",
    "summary": "Tornado warning cancelled as storm rolls through Miami-Dade, Broward NBC 6 South Florida",
    "published": "2026-11-21T11:30-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Tornado warning issued for Miami-Dade County as storms lash Florida - FOX Weather",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fVzJNQ25PNW9wZmFNUHk1U1dob0YzRG1OMklOVFFPSG1CMTdVV1puMHNIR01GTWNCb2c3TWlCRXliaDY3NmF1QU5EUU1fbWptTmVqV2ZNcjZ6MU5TeHFCaU94NA?oc=5",
-   "source": "FOX Weather",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado warning issued for Miami-Dade County as storms lash Florida FOX Weather",
-   "published": "2026-11-21T11:09-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -3249,24 +3073,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "AI is Changing the Cross-Platform Decision Matrix",
-   "link": "https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/",
-   "source": "Microsoft .NET Blog",
-   "category": "DotNet and Development",
-   "summary": "How you build a cross-platform app has always come down to a few hard constraints. Over the years I’ve talked with a lot of teams about how they chose their approach, and the factors are consistent: what the team already knows, how many codebases it has the capacity to support, what it costs to build and to maintain, solution characteristics like app size and performance, and the health of the ecosystem and support behind the stack. Many of you reevaluate your technology investment choice on at least an annual basis. In 2026 there’s a major new factor to consider: AI coding agents. Today the first two factors, team knowledge and team capacity, look different. A well-configured GitHub Copilot",
-   "published": "2026-11-20T12:00-06:00",
-   "tags": [
-    ".NET",
-    ".NET MAUI",
-    ".net maui"
-   ],
-   "feed": "Microsoft .NET Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/baristanotes-hero.webp",
-   "summary_from": "feed"
-  },
-  {
    "title": "What the Death Penalty Says About Us. “It’s dehumanizing,...",
    "link": "https://kottke.org/26/11/0050035-what-the-death-penalty-sa",
    "source": "Kottke",
@@ -3301,15 +3107,15 @@
    "summary_from": "feed"
   },
   {
-   "title": "Quick new feature for the Video Closet: Lazy mode picks a...",
-   "link": "https://kottke.org/26/11/0050043-the-video-closet",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "Quick new feature for the Video Closet : Lazy mode picks a video at random from the archive (or from the current search results) and plays it. You don’t have to make any decisions today, my friends.",
-   "published": "2026-11-20T10:58-06:00",
+   "title": "Doctor Who editor reveals Russell T Davies reaction to new cut of David Tennant episodes - Radio Times",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNW9fNkRxUFA4X0lDZWlueXlSa3h0VG41bTlUZVlfS0NrYm16YVppZGhZY3VSRnFXZGVUSWI0VkI0SWI1cmRLM1ZhR1VMWTVieDBTTjlILUdKOGN5cHRjYzFTODVFTHFUWVlHVlpYVml2MWZTR1BsTk1FREh0dEt4ZU9xaGdsUkJPYjV6Zk1PTlYxQlJBeFhEUTBINFdBSXBmY1VIRzY2S0Y?oc=5",
+   "source": "Radio Times",
+   "category": "Science Fiction",
+   "summary": "Doctor Who editor reveals Russell T Davies reaction to new cut of David Tennant episodes Radio Times",
+   "published": "2026-11-20T11:06-06:00",
    "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -3327,6 +3133,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/11/net-resilience-cr.DVDP-Default.webp",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Brutal maps show exact date rare weather event to hit UK as temperatures plunge - AOL.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVSW9SeUdqZVFyNElidUI4Mlh2Q09QTExOa1pKd2Y4MGFja09OemJLcnNYblFQMllaRVFCMno5MDhHeWJWMnRlNkVLV1VMSjJVNXZxWUpjQWlXaG5ZWmRlOElfV2gtYUJUZVU1YThtbk5LbEo0UmRiM3ZmeWJDZw?oc=5",
+   "source": "AOL.co.uk",
+   "category": "Weather & Meteorology",
+   "summary": "Brutal maps show exact date rare weather event to hit UK as temperatures plunge AOL.co.uk",
+   "published": "2026-11-20T08:01-06:00",
+   "tags": [],
+   "feed": "Google News unusual weather",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3467,7 +3286,7 @@
    "source": "IEEE Spectrum",
    "category": "AI and Agents",
    "summary": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check IEEE Spectrum",
-   "published": "2026-11-19T09:02-06:00",
+   "published": "2026-11-19T09:03-06:00",
    "tags": [],
    "feed": "Google News AI agents",
    "evergreen": false,
@@ -3809,6 +3628,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "One in Four Organizations Now Run AI Agents on APIs in Production, Postman’s 2026 State of the API Report Finds - Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcTdBUURKQ2ZrbE1GSkFfQjVfMDZPdVlGZ1psYVJwQXJYOUJMajktMU9kQzgxQlp5elI0QUdlaW0zMTEyNUU3SDFwaXJ5NUU0T05FRjdzVUpfbDR4MWxpUmFjV1N6S0tlUFFrZVlkZEVYWHJfNFVEdWdjN0pmUmNKcF9EZDVZRXhvUkNnTWZkcXdJVEU3QkFLTzlYR096NWNOY2l0UlNyVGdxN1NFLVU0MGJlMDFKS1pMRUJ4Uzd4VDZnejVOSlZ3Y3RIc05qMHRibGc5UkF0d0tnWnNZZU5mc0pkYlI1SDBHbEJHc2FuTEF1ekV3b2dMNlFn?oc=5",
+   "source": "Business Wire",
+   "category": "AI and Agents",
+   "summary": "One in Four Organizations Now Run AI Agents on APIs in Production, Postman’s 2026 State of the API Report Finds Business Wire",
+   "published": "2026-11-18T08:05-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "NASA chooses as image of the day a bright M1 solar flare from May 14, 2025 - MARCA",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjQ5aGVHSnl2LXNScF9BT3RsZjhuYTJ0eGdrOW1aaGJMeGstLVR0b0ZRSWl6WHZUbVNFVHU1YTRtVXN2VXIwSlRSRW5TTnZfM0xsWENaVURROFF1OFJnSnhnMGsyV09sWVJfQ1l2NjQ1S3FUeF9ndnVpNmJFaWQ3RHVxVWFuRjdkZEVvVG03MDEtZHBSYTFWLW5VRWs1eDM4cHZEY01hVDNfX3FqVGZHeE5KRFdLcTZBWjRwU2RQSUNfdjlUbGFKcG54eDDSAcwBQVVfeXFMT2N3MmFWdUxNNkp6bEc1R0s2anJBRkxMdS03QkFXaEhoOUlZOW95QXBZSU5Rb3I2dmZ2V3JJamxqdE1kdVFpWHhmaE9Uckx6N2lLOVRob0lLbHRTRzA0NGRYcC1kNXRxdnhfYXlTX1J6VHBRdVpUS0gxTy1MWGdqYV9UUmh3S1o3Vk5YSENWZG9xYXcwS1N3T1JoTFNiY0dQcHVsOHJiTUhHVEQtZEpodFZpb25FbkNYbkFtSDllTEk2SXdHWFF6Z0hJeDcy?oc=5",
    "source": "MARCA",
@@ -4141,19 +3973,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "2026 State of Cloud Security Report: Beyond Human Scale - How AI Agents Reshape Cloud Risk - Palo Alto Networks",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3BIZG1VbmNFZ2YzNHQwT0RQTFVWSmxqOUduWExkenotdFM1NUNNSjN2NmdwZjZOSTFnbGhTUUNqTXEyMklLaGxyUDZmQW1zQ1RBNUdhakFQd1BRR3NWSy1kVnJGdlo0OU1kQ00yYnQxazlVNjZQSXM2Zi1Lb05icTNad1ZKS3VObzgtWG0zSEtZRWhoOFV0aF9GYVhheWEtRlJEOWpOZzBVNFFsNUh3?oc=5",
-   "source": "Palo Alto Networks",
-   "category": "AI and Agents",
-   "summary": "2026 State of Cloud Security Report: Beyond Human Scale - How AI Agents Reshape Cloud Risk Palo Alto Networks",
-   "published": "2026-11-16T06:59-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Reimagining Autonomous Software Development with Factory’s AI Agents - Wipro",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejdUa3B1bjYxOWtEeHJGT3B4c2duaG9oVzVVWHdrazdHZ2xxOTBIcTlDTGs0YzZ3UF9Cb01wTVk5SzkxQlYzbmYxeVFIWThMa2x1eHQ2T0tBN004M2pyWXRTMkEwOVFUTzNvZzFWcV9LZzI3U3BHQmVMY1JYSk10SWV2VDdKNlhFcDRxeV93dlZ0QUNFNThNMmFmZjlpX3BXdm5iMmNOZUlkYy11QkdDSzZ3UVVlVXJv?oc=5",
    "source": "Wipro",
@@ -4175,6 +3994,19 @@
    "published": "2026-11-16T02:00-06:00",
    "tags": [],
    "feed": "Google News aurora",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "2026 State of Cloud Security Report: Beyond Human Scale - How AI Agents Reshape Cloud Risk - Palo Alto Networks",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3BIZG1VbmNFZ2YzNHQwT0RQTFVWSmxqOUduWExkenotdFM1NUNNSjN2NmdwZjZOSTFnbGhTUUNqTXEyMklLaGxyUDZmQW1zQ1RBNUdhakFQd1BRR3NWSy1kVnJGdlo0OU1kQ00yYnQxazlVNjZQSXM2Zi1Lb05icTNad1ZKS3VObzgtWG0zSEtZRWhoOFV0aF9GYVhheWEtRlJEOWpOZzBVNFFsNUh3?oc=5",
+   "source": "Palo Alto Networks",
+   "category": "AI and Agents",
+   "summary": "2026 State of Cloud Security Report: Beyond Human Scale - How AI Agents Reshape Cloud Risk Palo Alto Networks",
+   "published": "2026-11-16T02:00-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -4509,6 +4341,20 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://pdr-assets.b-cdn.net//collections/krishna-and-radha-exchanging-clothes/krishna-radha-thumb.jpeg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Where to See the World’s Most Famous Preserved Body Parts",
+   "link": "https://www.atlasobscura.com/articles/preserved-body-parts-around-the-world",
+   "source": "Atlas Obscura",
+   "category": "Curious Discoveries",
+   "summary": "Sure, you’ve seen a dead body before, but have you ever seen a thumb preserved in salt? How about a saint’s heart shrouded in gold? Beyond the normal displays of skeletons in medical museums and holy leaders’ bodies in churches and temples, there’s a whole world of bits and pieces to explore. Throughout history, body parts have been taken as trophies during wartime, worshipped as miraculous healing agents, cut off and displayed to honor their owners, or simply saved incidentally by natural processes. If seeing a whole body feels banal, we recommend delving from the complete corpse to its components. Here are some of our favorites from around the world. 1. National Museum of Health and Medici",
+   "published": "2026-10-16T08:29-05:00",
+   "tags": [],
+   "feed": "Atlas Obscura",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://img.atlasobscura.com/kbWK5wcb9s35ps9-QHRQvrSaKSWZbh77llreNB9c2UY/rs:fill:12000:12000/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9hNWZlZWFkMS01/NjAwLTQwYzQtYjc0/Yy0yYTMwOTIwNTgy/MDJmMmQzZjVlZmJh/NjUxZDY1ZGJfU2Ny/ZWVuc2hvdCAyMDI2/LTEwLTE0IGF0IDEy/LjU4LjQ3IFBNLnBu/Zw.png",
    "summary_from": "feed"
   },
   {
