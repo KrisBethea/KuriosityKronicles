@@ -19,6 +19,21 @@ published items. The collector, checker, and publisher remain ordinary Python.
 - When a manual submission exists, prioritize it (unless it cannot be summarized truthfully).
 - Do not invent facts not present in the candidate summaries. If material is thin, skip it.
 
+## Geographic context and headline clarity
+- Identify the country or countries that the story actually concerns,
+  rather than the country where the publisher is based.
+- Explicitly identify the relevant country when rewriting ambiguous
+  military, government, legislative, regulatory, and policy headlines.
+- Do not assume that references to the Air Force, Navy, government,
+  legislature, or national agencies refer to the United States.
+- Include relevant geographic context in the summary when it helps
+  readers understand the story.
+- Distinguish national, regional, and international developments.
+- Never infer a country's involvement solely from the publisher's
+  location, domain name, or language.
+- If geographic context cannot be established from the supplied
+  article information, do not guess or introduce unsupported details.
+
 ## For each selected candidate index
 - `index`: integer matching the supplied candidate index.
 - `title`: an accurate and readable headline (5-200 characters).
