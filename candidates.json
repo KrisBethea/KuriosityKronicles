@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25T18:20-06:00",
- "count": 284,
+ "generated": "2026-11-26T07:53-06:00",
+ "count": 285,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -11,27 +11,27 @@
   "Astronomy and Space | NASA News": {
    "url": "https://www.nasa.gov/news-release/feed/",
    "ok": true,
-   "kept": 10,
+   "kept": 9,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 0,
+   "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Astronomy and Space | Universe Today": {
    "url": "https://www.universetoday.com/feed",
    "ok": true,
-   "kept": 15,
+   "kept": 14,
    "entries": 20,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 5,
+   "seen_or_dup": 6,
    "no_title_or_link": 0
   },
   "Astronomy and Space | ESA Space Science": {
@@ -56,39 +56,39 @@
   "Astronomy and Space | Sky and Telescope News": {
    "url": "https://www.skyandtelescope.com/astronomy-news/feed/",
    "ok": true,
-   "kept": 5,
+   "kept": 4,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 0,
+   "old": 1,
    "seen_or_dup": 5,
    "no_title_or_link": 0
   },
   "Space Weather and Aurora | Google News space weather": {
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 9,
-   "entries": 76,
+   "kept": 10,
+   "entries": 70,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 66,
+   "old": 59,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
   "Space Weather and Aurora | Google News aurora": {
    "url": "https://news.google.com/rss/search?q=aurora+NOAA+OR+SWPC+OR+satellite+OR+ionosphere&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 3,
+   "kept": 2,
    "entries": 100,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 96,
+   "old": 97,
    "seen_or_dup": 1,
    "no_title_or_link": 0
   },
@@ -120,8 +120,8 @@
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 11,
-   "seen_or_dup": 17,
+   "old": 10,
+   "seen_or_dup": 18,
    "no_title_or_link": 0
   },
   "Astrophotography | Sky and Telescope Observing": {
@@ -133,13 +133,13 @@
   "Weather & Meteorology | Google News severe weather science": {
    "url": "https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 3,
-   "entries": 18,
+   "kept": 4,
+   "entries": 26,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 15,
+   "old": 22,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -147,13 +147,13 @@
    "url": "https://news.google.com/rss/search?q=%22rare+weather%22+OR+%22atmospheric+phenomenon%22+OR+%22unusual+cloud%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 2,
-   "entries": 100,
+   "entries": 52,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 97,
-   "seen_or_dup": 1,
+   "old": 50,
+   "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Weather & Meteorology | Google News major storms": {
@@ -166,7 +166,7 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "Weather & Meteorology | Google News Minnesota and Midwest weather": {
@@ -211,14 +211,14 @@
   "DotNet and Development | Microsoft DevBlogs": {
    "url": "https://devblogs.microsoft.com/feed/",
    "ok": true,
-   "kept": 3,
+   "kept": 2,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 5,
-   "seen_or_dup": 2,
+   "seen_or_dup": 3,
    "no_title_or_link": 0
   },
   "DotNet and Development | Microsoft Azure Blog": {
@@ -237,27 +237,27 @@
   "DotNet and Development | Hackaday": {
    "url": "https://hackaday.com/feed/",
    "ok": true,
-   "kept": 6,
+   "kept": 5,
    "entries": 7,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "AI and Agents | Microsoft Foundry Blog": {
    "url": "https://devblogs.microsoft.com/foundry/feed/",
    "ok": true,
-   "kept": 7,
+   "kept": 6,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 1,
-   "seen_or_dup": 2,
+   "seen_or_dup": 3,
    "no_title_or_link": 0
   },
   "AI and Agents | Google AI Developers Blog": {
@@ -289,13 +289,13 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 15,
-   "entries": 100,
+   "kept": 9,
+   "entries": 60,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 85,
+   "old": 51,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -329,12 +329,12 @@
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 18,
-   "entries": 100,
+   "entries": 69,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 82,
+   "old": 51,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -342,25 +342,25 @@
    "url": "https://news.google.com/rss/search?q=Minnesota+astronomy+OR+aurora+OR+observatory&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 100,
+   "entries": 57,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 100,
+   "old": 57,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
   "Minnesota and Nature | Google News Minnesota nature": {
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 0,
-   "entries": 94,
+   "kept": 12,
+   "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 94,
+   "old": 18,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -432,6 +432,400 @@
  },
  "items": [
   {
+   "title": "Doctor Who Star Billie Piper Reveals Why She Left After 2 Seasons - Bleeding Cool News",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcks5QXdjQVloTkxKQTNaM25YNmppS242V3dyMld5Y3dMLXBRcDZLUUtrZW5WU1JfYVB4dXpLSWRhM2lnOWVFbjVubmxueENQZng5QTVvZ3Atd2EySGE0RmdRNGhWSG14YmdWdmlKMXR0bVpLdmtqaHZ2V2pvVjlRS1o1S0xURTdTVkdIdVRzU0FmaDZIQ09ZQmdR?oc=5",
+   "source": "Bleeding Cool News",
+   "category": "Science Fiction",
+   "summary": "Doctor Who Star Billie Piper Reveals Why She Left After 2 Seasons Bleeding Cool News",
+   "published": "2026-11-26T07:37-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Chang'e-6 Samples Reveal the Violent Chain Reaction That Built the Moon’s Largest Crater",
+   "link": "https://www.universetoday.com/articles/change-6-samples-reveal-the-violent-chain-reaction-that-built-the-moons-largest-crater",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "One of the most prominent features on the Moon is one we can’t regularly see, at least not completely. The South Pole-Aitken (SPA) basin is one of the largest, oldest, and deepest impact craters on the Moon, and until recently we’ve only been able to observe it from afar - and even then only when we sent orbiters around to the far side, which is never in direct line of sight with the Earth. Recently China has been busily sending landers and rovers to the site, and a new paper, published in Science Advances, details the actual samples returned to Earth by the Chang’e-6 mission and combines them with the in-situ data from the Chang’e-4 mission and rover. Those details combine to form a complet",
+   "published": "2026-11-26T07:31-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/lola_sp.0570_print_20261126_133034.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NASA’s Perseverance and Odyssey Teams Investigate Technical Issues",
+   "link": "https://hackaday.com/2026/11/26/nasas-perseverance-and-odyssey-teams-investigate-technical-issues/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Teams over at NASA are currently dealing with two major issues affecting the Perseverance rover and the 2001 Mars Odyssey orbiter, with the former losing one of its two UHF radios and the latter limping along on two reaction wheels that impede its ability to orient itself without burning through the hydrazine for its thrusters. The Perseverance rover is basically a copy of the Curiosity rover which landed on Mars in 2012, with its sibling — featuring updated instruments and the Ingenuity helicopter — following in its proverbial wheel tracks in 2021. Both missions were going swimmingly until on October 30th, when Perseverance ‘s primary downlink radio did not send its usual heartbeats to the rover’s computer. Following this the system switched to its backup radio, but this led to a second issue being discovered. The backup’s radio’s transmit link was only at half of its rated power. Although the rover has a backup X-band communications system that works directly with the Deep Space Network (DSN), this is only capable of 800 bps versus the 2 Mbps of the UHF link, putting the rover out of commission until the issue can be diagnosed and repaired or worked around. Perhaps more troublesome is that the 2001 Mars Odyssey orbiter suddenly got a deadline of 1 to 2 months before it runs out of hydrazine and can no longer orient itself. Since reaching Mars orbit in 2001, its total of four reaction wheels which control the spacecraft’s orientation have gradually begun to fail. The first wheel failed in 2013, with now a second reaction wheel having ceased to function. With three required, the thrusters are thus the last option and attempts are underway to coax at least one wheel back to life. Although a successful outcome to these diagnostics-and-repair sessions will be great, it’ll ",
+   "published": "2026-11-26T06:00-06:00",
+   "tags": [
+    "News",
+    "Space",
+    "mars",
+    "mars rover",
+    "Perseverance"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2021/04/perseverance-ingenuity-selfie.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "How Americans, including Minnesota librarians, are saving the history Trump is trying to erase - News From The States",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQckZmZlpBOUhfeE0xbllHN1lVWHVRMVlLSXdvMUxBX2Z4NVN2eGtYZGY0WXNxRmdLMVZnNERmdDJJMDBKTkVqci1PdFVEeV9MbldZM1VkNlRwaEpWUXRzTElzT3poWVhHdXlrTEg5MDdxeFFSZ016VDdjeUNhWEZwUWFUdTVsdnhxMk9Bak9jX3p6cGZqejFEeG94TnhBYmRha2EwN1lzdHl3cGdaUjl2dDRabU5HSWRzd2Q4X2ZBcDQtZw?oc=5",
+   "source": "News From The States",
+   "category": "Minnesota and Nature",
+   "summary": "How Americans, including Minnesota librarians, are saving the history Trump is trying to erase News From The States",
+   "published": "2026-11-26T06:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Demon Records to release Doctor Who: Fury from the Deep on LP - seenit.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTTZubVFSYkxNSzVlUkJMMkdkZVdicUxiWVY2QnJrbEhFVkhnaUNKNEUtdkNoUzhCZnJ2MEFJb3l4eTY2T0dhN3pJTjdMdWYwT09La2w0dUN4UjFob29QVw?oc=5",
+   "source": "seenit.co.uk",
+   "category": "Science Fiction",
+   "summary": "Demon Records to release Doctor Who: Fury from the Deep on LP seenit.co.uk",
+   "published": "2026-11-26T05:25-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Billie Piper on why she almost left Doctor Who with Christopher Eccleston - Radio Times",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdGptcTcxQzk2a2dMbENmX2JUMTNnNmR3MHhQOEJmcVFoaE1JcUgyVjBqQXV6OVZZNTFhbnZ6SGd6VWpRQ0JlOFl1YXdDVGxUNDlKdUl2LWx4UkpTNDJPRUlwNjBSUkVLeUNSUHozMkwzbTJLVXZFaTBjSGhaSGxMZEZIWQ?oc=5",
+   "source": "Radio Times",
+   "category": "Science Fiction",
+   "summary": "Billie Piper on why she almost left Doctor Who with Christopher Eccleston Radio Times",
+   "published": "2026-11-26T05:11-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "‘Why not go help other people?’: Neighbors pitched in after the Aug. 11 derecho hit Northwest Indiana - Chicago Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTR3N2hjRE1IQldpRmoxM1lYa1V5aWxEd192UTZIZHNIRlJMN1I5VzZsallpR1QwVFdYLVA2WWtjU2pIcUo5ODRReFlDTmNlRWg4WDFNTHRsRmQ0bE1saFhJdC11VmtjbFVtM01lX1VLOThjRHFfSlVJQlFoZGZnY3M0eFFhbDM3?oc=5",
+   "source": "Chicago Tribune",
+   "category": "Weather & Meteorology",
+   "summary": "‘Why not go help other people?’: Neighbors pitched in after the Aug. 11 derecho hit Northwest Indiana Chicago Tribune",
+   "published": "2026-11-26T05:00-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Minnesota, Colorado and South Carolina are waiving state park entry fees the day after Thanksgiving, so Black Friday can be spent on a trail instead of a checkout line - ECOticias.com - El periódico verde",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeFhNWGFvUElXRTBWSkxpVThsVi1kcmd0dVNyTmRhamt5dDBrVEpYZUlmdzM3RXNaMmROSHJPNm9nakF1X3p0QWdqSmNJZkVKZmQxcXRiVHQ5ajhfNmhhOG5rc1duTF82TkJ1S1NvVm4zTmtnUnB6ZTBabzBWdjJzQ0R0X1VzOXI0ODdONGNueElNS1hpQUNJRHY1SVluaVRxUUdSaE5RZjl1c2dtUXc?oc=5",
+   "source": "ECOticias.com - El periódico verde",
+   "category": "Minnesota and Nature",
+   "summary": "Minnesota, Colorado and South Carolina are waiving state park entry fees the day after Thanksgiving, so Black Friday can be spent on a trail instead of a checkout line ECOticias.com - El periódico verde",
+   "published": "2026-11-26T04:03-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Universe Today's AI Policy",
+   "link": "https://www.universetoday.com/articles/universe-todays-ai-policy",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "AI is everywhere. But is it here, inside Universe Today right now? Here's a rant, loosely disguised as a policy, that's really just a pity party.",
+   "published": "2026-11-26T03:45-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/made-by-humans_20261126_094532.png",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Thanksgiving blizzard 1956, as Erie residents read and saw it then - Erie Times-News",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGxuN200T2ZFei1QVEFOYzdVWGQxcGktbzEzdlh6eldCbF9GeHVZZ29YUUZKOU5UZ0FNSWlTNFQ5Q0czcmhkU0xCYTlFQlVIejBJc2Vqc3dHbXVTQ0RycldfN2VQdWluUHZhRmZNdHl5X0hyNDNYcTRoQXNxYmRLZ2RVX1hHRFlhV1F3ZndoZWhFbzNGTkM5cHdKVUlwdldJT2JSdUhvUnlSMFhtdmhSNW9WU3dTZ0I1dkhjbUhRV3M?oc=5",
+   "source": "Erie Times-News",
+   "category": "Weather & Meteorology",
+   "summary": "Thanksgiving blizzard 1956, as Erie residents read and saw it then Erie Times-News",
+   "published": "2026-11-26T03:45-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Make the most of Minnesota’s vibrant culture and spectacular natural wonders - London Evening Standard",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUo4dXlWVU1xUmdidDRnTWUzSHZSZHZhY0NudlRteTU5MzlrQ2Q5VEl0R1BfeF8yMDdka2V4OG1YNWJCUHdYc21kTkwtQjl3Z3ozWllzNE94bzZwdjhxaGEydXRLemJyNldEZ2lWQzVEMnM0c2hHbm9sa3ZKeHJTTERscWRadkJCWC1ZRDg4cXpnLTJPTzBjS2U3MFFJNTA?oc=5",
+   "source": "London Evening Standard",
+   "category": "Minnesota and Nature",
+   "summary": "Make the most of Minnesota’s vibrant culture and spectacular natural wonders London Evening Standard",
+   "published": "2026-11-26T03:37-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "A Toolkit For Identifying RFID Tags",
+   "link": "https://hackaday.com/2026/11/26/a-toolkit-for-identifying-rfid-tags/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Let’s say you happen across a random RFID or NFC tag. You look at it… it’s in a form factor you haven’t seen before and it’s not easily describable enough to figure out what it is by searching online. In this case, you might appreciate the toolkit whipped up by [William Chen]. [William] whipped up a cross-platform Python tool that can help you figure out what you’re dealing with when it comes to RFID and NFC tags. It can work with a whole bunch of different hardware readers—like the Flipper Zero, the Proxmark3 RDV4 and Proxmark 5, the iCopy-XS, and the Chameleon Ultra, among others. It can identify tags using ATQA/SAK/ATQB responses from ISO/IEC 14443-A, 14443-B, and 15693 tags, and classify the tag family where relevant. It can also read UIDs, inventory, and block descriptors for tags of the ISO/IEC 15693 variety. If your work has you often coming across random tags that are hard to pick at a glance, you might find this tool useful. Looking into this sort of thing might help tell you whether your building has an insecure access system thanks to poorly-specified RFID tags, too . Worth thinking about! Meanwhile, if you’re hacking away on similar tech, don’t hesitate to let us know on the tipsline. Is there something out there with similar functionality that runs on average Joe’s smartphone hardware? I’m still looking for a minimal-cost reader for pet chips, preferably something with USB output that could be made into a dongle for a cellphone or part of a water station, to help identify stray cats. Which brings up the question, ‘Do stray cats really wish to be identified?’ At under $35 USD, I would think this unit would be as cheap or cheaper than a home build out: Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses",
+   "published": "2026-11-26T03:00-06:00",
+   "tags": [
+    "Software Hacks",
+    "NFC",
+    "NFC tag",
+    "rfid",
+    "rfid tag",
+    "tag"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/gcenter-l33g.webp",
+   "summary_from": "page"
+  },
+  {
+   "title": "Doctor Who's new cinema release offers a crucial lesson that the show's next writer can't ignore - Radio Times",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ29MSzNTUzkzSExCNGJpUE1LM0pnRXBpSlRHYTg3WnlrRmE5dTdOS2llZkctanJ2ZFB2ZklKSmJ2X3liUG1XWDE0RzlwS2ZBa0lUUXliUW5QMWR3TjJPcEVrNG9QNVp1Q2RwYjVfcWNMbnlwMGZnX3I2U19vNkN0LVYwWXg3OENsV2pXQTF2WQ?oc=5",
+   "source": "Radio Times",
+   "category": "Science Fiction",
+   "summary": "Doctor Who's new cinema release offers a crucial lesson that the show's next writer can't ignore Radio Times",
+   "published": "2026-11-26T02:06-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Sega Saturn Portable Pays Homage to the Sega CDX Design",
+   "link": "https://hackaday.com/2026/11/25/sega-saturn-portable-pays-homage-to-the-sega-cdx-design/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Back in the 90’s the Sega Corporation put out game hardware for every type of video game player under the sun. There was the Sega Genesis for average gamers, the Sega Nomad for folks on the go, and the Sega CD add-on for people with too much money on their hands. Though for the players that found themselves in the middle of that Venn diagram there was the Sega CDX. It was a console that combined a portable CD player with the ability to play Genesis carts when hooked up to a TV. Late last year modder [TZMWX] proposed an idea , what if there was a successor to the CDX…a Saturn CDX? The mod began with trimming down a Sega Saturn motherboard to squeeze inside a Sanyo portable CD player. A custom 3D-printed bottom case was used in order to accommodate the Saturn’s controller ports as well as integrate the original CD player’s control buttons for music playback. Sound can be output through a couple of integrated speakers from an Apple laptop or the Sanyo CD player’s original 3.5mm audio jack. Incredibly a detachable LCD screen can be attached to the back of the unit, though video can still output through the original Saturn 10-pin Mini-DIN connector. The console’s memory card slot was retained for maximum game compatibility, and sneaking in the cartridge slot in the back of the unit was clever as it allowed for a prominent space for a “CDX Saturn” logo. During the Sega Saturn’s heyday, engineers at the company tinkered with a number of other console combinations along the lines of [TZMWX’s] mod. Sega of Japan actually released a fun informative video a few years ago showing off the original Sega Nomad prototype (Project Venus) along with all the other hardware released from the era. Somehow Saturn ended up being the only one of the code-names derived from our solar system tha",
+   "published": "2026-11-26T00:00-06:00",
+   "tags": [
+    "Games",
+    "audio cd",
+    "portable",
+    "sega",
+    "Sega Saturn"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/Sega-Saturn-CDX-1.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Gray wolves roaming northern Minnesota may help wild blueberries spread: researchers found 96% of seeds r - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPRWpHWEE5SU5aa1k2RF9oQTdmTFk3ZTJQU3NKaDZFeFZ2eVgzekVGZTJEQ1JUc1pvY2c1MzhfWEtrckN3RnJaN19tYkd5SnNjS3NqZGJjWTVXTzNsalVETmtFMW9ScEZ3cU5MWFNoTFN3T1lnc3FMODdnRS1ENnhTdURESWNWRFhPTi1LTkNDeG1FS2tjWTJxbjFPQy1KLTZTRHpEMzlOZDFlYjJfMHNYY2dfZkdqN19wNERMQmZvajhhZDRWdjJpajlIVmFRNDJrLWplZEtJZmdrb0NBdWw0SXMxeWotcXNacldmNXBmNHAwVzV6UWdiOHg2dzRhVXdVSmEycm5mbUV6Y0pXd2VNc09Sa19nVGM0ekRZdVF1UUpGTXFlUUQwWXhXNmVwSC00ZmRQNkd2eVctQUIyV1MzRE1ISWRSTVVBSUxsMW10VThKRU5SZTdBTE83bWRBWWVmd2VYZTFpS053bzdfc2pxNUNvM1plTDZSR1M4VGR4WHZUQ2VfUmdROFN30gGPA0FVX3lxTE1XRzdETW1fMWdlV1J3SWx2SEZlLTdFdGpLWWF6VXVHYmVUQlBYcl9rR0Zncm9vVzVMYmtOMko5dVVqZlF6dWNZRzdJYmJ2M3JEME9BbW5rbUl6YzdSR1U1dzdDRHFzbFNzeUY3NklBaE9XVDRsNy0xMU53WkpETHQ0VHNyY1NCZHN5blFhVTRNZ0NXNU41NWc4ZEZEQlBRV2l0OFFLTlozQlA5VFR3aGhuc09lNzZjb0JXLUVlUWlFWWI2dm9yTUh1bjNfdktNYVhhOTdVajR1NVp4dDFYY0FNbHhCcDYwT3VCbWVfM0YycWx5TVZSQzJYLXhQQy0xSEN5cFJFcngzd2gxM1pOeE85WXBvQ2hRcWo1Y0JINnpQZ1pCNGl3Z2dQYWdzQktBQkl2SzlvM214ZTNkMjZfQmtYaGJvZWd0VW5vN3dLcmczS1dpUjZIbUp1SFV5VUV3TFUyWWo3U2JtRURZMXBJMTFmZEZNLTBGQ3FZd3EzQUExX0p5X3FMZDFFVDhmSGFQYw?oc=5",
+   "source": "The Times of India",
+   "category": "Minnesota and Nature",
+   "summary": "Gray wolves roaming northern Minnesota may help wild blueberries spread: researchers found 96% of seeds r The Times of India",
+   "published": "2026-11-25T23:28-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
+   "link": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Eye in the Sky: The Milky Way over Lençóis Explanation: Beauty is in the eye of the beholder. And there is much to behold in today’s featured image . The Milky Way shines bright in the sky of Brazil , over the white sand dunes and dark lagoons of Lençóis Maranhenses National Park . We can see different parts of the Milky Way as it apparently rotates in the sky ",
+   "published": "2026-11-25T23:05-06:00",
+   "tags": [
+    "APOD"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Milky_Way_Lencois.jpg?w=2048&h=2048&fit=clip",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Seeking Refuge on Resolution Island",
+   "link": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "Earth Observatory Science Earth Observatory Seeking Refuge on Resolution… Earth Earth Observatory Image of the Day EO Explorer Topics More Content About Search In the late 1800s, wildlife conservationists in New Zealand were recognizing how predators such as stoats , brought to the country to control other nonnative animal populations, were becoming a threat to native birds. Naturalists at the time surmised that some of the nation’s islands could serve as sanctuaries where endemic species could persist, free from the voracious newcomers. Resolution Island, located in the Fiordland region along the rugged southwest edge of New Zealand’s South Island, was one of the first eyed for this purpose",
+   "published": "2026-11-25T23:01-06:00",
+   "tags": [
+    "Earth Observatory",
+    "Landsat 9",
+    "Topography",
+    "Wildlife"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/seeking-refuge-on-resolution-island/nzresolution_oli2_20251212.jpg?w=2048&h=1949&fit=clip",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Australia summer weather forecast: El Nino warning as Australia set for hotter than normal summer - Nine.com.au",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2lJZGxwcTA2NERfX3ZmS3loUkNUTDRfVFByWmxvcjlseFgydTdHNmtwMUFoZkh4Mm0tVVViSE1PLTBfUjRMRTZxYW1aUmRfMW5GdGpYOFE1X2V0MW8zQ2tTQ3NWRXh4VkZkUXFtUVRrSWtLUHNSX0JwRHNLT2p5RmhPTHFWQXlmSDBVeVNXdjI4RDl3clNYczBhNkF2Qi1sbjJDRU04NDY1RE9jUngxOTZzc0dBcURRWGtabVAwaw?oc=5",
+   "source": "Nine.com.au",
+   "category": "Weather & Meteorology",
+   "summary": "Australia summer weather forecast: El Nino warning as Australia set for hotter than normal summer Nine.com.au",
+   "published": "2026-11-25T22:46-06:00",
+   "tags": [],
+   "feed": "Google News severe weather science",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Dragon Ball Z S.H.Figuarts Krillin \"Z-FIGHTERS\" Recreates the Solar Flare and Emergency Stop Controller Scenes! - 玩具人 TOY PEOPLE",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RdTlOYXh6XzN3eUgwdEI0aUpJeXZJN2pQUThsVEg3ZmhOdnlNaFlnblN4bTlBYzNQN0o2Y2lOWWZEYWN1UGhBYTFhWVluWHpl?oc=5",
+   "source": "玩具人 TOY PEOPLE",
+   "category": "Space Weather and Aurora",
+   "summary": "Dragon Ball Z S.H.Figuarts Krillin \"Z-FIGHTERS\" Recreates the Solar Flare and Emergency Stop Controller Scenes! 玩具人 TOY PEOPLE",
+   "published": "2026-11-25T22:26-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "AI agents shift developer role to review, verification - TechGig",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkJqemcyUTJmVmlYYTJWcVdPRW9KMzhCWGhCNWpRUmhIQVV1Tk1JVDl0UHVzaDlOcG9UVFlMc1V3djJoMmZPb0pwWVFGRmZtOWxLQnZpS1pHN3dVSmsyZ0hyaFdkcnplWUl3UmtqNW42RHpraWVOLUFaOHBPV0JCaWJzU2czdGNOOFM1RElWeTExcW1uZFE?oc=5",
+   "source": "TechGig",
+   "category": "AI and Agents",
+   "summary": "AI agents shift developer role to review, verification TechGig",
+   "published": "2026-11-25T21:32-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Self-Sensing Artificial Muscles From Liquid Crystal Elastomer With Graphene",
+   "link": "https://hackaday.com/2026/11/25/self-sensing-artificial-muscles-from-liquid-crystal-elastomer-with-graphene/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Although we tend to be more aware of the large muscles in our bodies that enable our legs and arms to move, the real stars are the many small muscles found in our face, hands and so on. Everything from focusing our eyeballs to typing on a keyboard requires the precise cooperation of many small muscles, which is not a feat easily emulated by technology. Here the liquid crystal elastomer LCE) and graphene composite fibers demonstrated by [Ziyun Zhang] et al. provide an interesting example of how artificial muscles could approach such versatility. Although LCEs are not new technology – having been invented in the 1970s – it’s not enough to simply have an actuator for delicate tasks. In the paper their CoilLCE is demonstrated. This involves a closed loop system with multistage actuation by creating an LCE-graphene composite with a thin copper heating coil that is embedded into the artificial muscle. The addition of graphene was mostly to increase toughness and to increase thermal conductivity. To self-sense the state of the muscle the copper coil’s resistance measurement as it relates to temperature was used, which turned out to be accurate to within about 2%. The performance of these muscles was demonstrated both with a robotic hand on a toy piano and with a human eye model. Although not exactly a speed demon or incredibly convenient unless you have a way to also efficiently cool the muscle after heating, it does show promise for the use of LCEs for this kind of fine-grained control. I’m curious which will come first technology that shrinks power storage, actuators and connectivity to a size competitive with muscle or medical technology that lets us grow muscle fibers wherever we want, control them, and keep them alive with ease. I’m absolutely a fan of the certainty of st",
+   "published": "2026-11-25T21:00-06:00",
+   "tags": [
+    "Robots Hacks",
+    "Science",
+    "artificial muscle",
+    "liquid crystal"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/lce_graphene_muscle_zhang_et_al_adv_func_mat_2026.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "How to Love the World More: Artist and Poet Rachel Hébert’s Breathtaking Catalogue of Gratitudes",
+   "link": "https://www.themarginalian.org/2026/11/25/rachel-hebert-thanks/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "Here we are, living these lives bright and perishable as a poppy, hard and shimmering as obsidian. We know that they are entirely improbable , that we bless that bright improbability with each flash of gratitude for it all, that if we pay attention closely and generously enough we are always repaid in gladness, that it is the handle of the door to the world. And yet over and over we choose to live in the cage of complaint, too preoccupied with how the will of life betrayed our wishes, the wanting monster always growling in the other corner of the cage. Imagine parting the bars and stepping out. Imagine waking up with a rush of gladness at everything we were never promised but got anyway — tr",
+   "published": "2026-11-25T20:29-06:00",
+   "tags": [
+    "art",
+    "culture",
+    "books",
+    "philosophy",
+    "poetry",
+    "Rachel Hébert"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
+   "tier": "main",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/11/hebert_thanks1.jpg?fit=320%2C407&ssl=1",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Deer Crashes Peak in Minnesota This Fall - Wisevoter",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNU1fR3hVYVZzUDlWNFlNM0dycmx3SWhDU3EzM2VFcHBCWmkyRC1HLTJRTC1wTEFpOWtndUk3R2trdzFITGFhS2JSbzROay02X1BkQ2NGNUFrLUJpcGtoQ2t6cEZ4OWtuZEFONDdGYXI3QmxkWkNoeGV5cEFOYkhqNG1adnBTM1daYjVEdjd3bE81N0ZV?oc=5",
+   "source": "Wisevoter",
+   "category": "Minnesota and Nature",
+   "summary": "Deer Crashes Peak in Minnesota This Fall Wisevoter",
+   "published": "2026-11-25T20:27-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Pixel Scroll 11/25/26 Nobody Scrolls There Anymore, It’s Too Pixelated",
+   "link": "https://file770.com/pixel-scroll-11-25-26-nobody-scrolls-there-anymore/",
+   "source": "File 770",
+   "category": "Science Fiction",
+   "summary": "(1) MONTRÉAL 2027 WORLDCON POSTS HOTEL RATES. [Item by Frank Catalano.] I was checking the Montréal 2027 Worldcon site for any updates, and was (pleasantly) surprised to see it now lists all the official con hotels and prices: “Convention Hotels … Continue reading →",
+   "published": "2026-11-25T20:15-06:00",
+   "tags": [
+    "Pixel Scroll",
+    "artificial intellgence",
+    "Christa Carmen",
+    "Colin Kuskie",
+    "Fantastic Fiction at KGB",
+    "Frank Catalano",
+    "Mari Ness",
+    "Montréal Worldcon 2027"
+   ],
+   "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "14.9M boost for Sydney industry research partnership - The University of Sydney",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNak8xMmg5Y0t2Tk9hcHp6azV1cE56WEl6ZlF2VVIyYnNiWFpSdHZiU1ZWbjFyMW81LTROVV9xWHRuTEhFaFNWblpGRmFEaWtDa1RyRnJOcG9BekFKdVhYYVJjbk1Oa2Zob1Z4ZzBoSUlvS1hYZzlnUTBCNHFWb0Y5a0RVTExaMkRHLXl1YXZ6cUZZR004eEkycFRONDJ4V0lKRlJVMVI3emw4OVN5Y2hR?oc=5",
+   "source": "The University of Sydney",
+   "category": "Space Weather and Aurora",
+   "summary": "14.9M boost for Sydney industry research partnership The University of Sydney",
+   "published": "2026-11-25T18:53-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "New Minnesota fisheries manager tackles a wide gamut of issues - Pioneer Press",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMV9iVnloVEpJdjltY0JhUWUxOTQ4Zm9YRUtFYzVkMkpjeFJHbFJMdkEtdmx6Nm9iZ01RcVNCdXdHMXh5SWhnajgwYUlYVC1zRkQwakhkM0ZMajR1UEVmTlVOX3lvQnRWNC1VcVNHYzg5czI2T1pzUzNaOGg4dGIyeUtKZUN5WjBfSTFBb2U3eDdMQUIyUlNBMkpjZXlHVlR0azBF?oc=5",
+   "source": "Pioneer Press",
+   "category": "Minnesota and Nature",
+   "summary": "New Minnesota fisheries manager tackles a wide gamut of issues Pioneer Press",
+   "published": "2026-11-25T18:31-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Camera Upgrades for 3D Printers",
    "link": "https://hackaday.com/2026/11/25/camera-upgrades-for-3d-printers/",
    "source": "Hackaday",
@@ -455,12 +849,12 @@
    "summary_from": "page"
   },
   {
-   "title": "Atmospheric river feeds moisture to western Montana for Thanksgiving - KPAX News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQODNTeUNKdnJ2aGtvVUNxOUp6eHNITGVQNkJ6WWI5cG0yOTV0NkFybjlhWWlUQmhpU21Pb1BtT1QxR1hLRlpVaXFyZVVwQ09PUldFZkJBX0w2al9JSnFvc3hDWVNac2xyUFBmaVZtSDdyN0lORVB4OVhJX3ZmRDZwLU9KYlhwYktJdmFQSDd5ZGJBRXdWdEp4VktuelhnZw?oc=5",
-   "source": "KPAX News",
+   "title": "Forever Hotfixes - November 25, 2026 - World of Warcraft",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84YWZyZll2SjRObnJrejdRQW0wN3hTbDJDQjZuS2ZwOUFJTUFtSDNtdGJkbXR5bWNCaVVvUkxOckdCdk02eGVheFdiMHpGd1kwczRHOXROZDhoQ3o2dUxLMklmQnczRzQ?oc=5",
+   "source": "World of Warcraft",
    "category": "Weather & Meteorology",
-   "summary": "Atmospheric river feeds moisture to western Montana for Thanksgiving KPAX News",
-   "published": "2026-11-25T17:22-06:00",
+   "summary": "Forever Hotfixes - November 25, 2026 World of Warcraft",
+   "published": "2026-11-25T17:19-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -468,17 +862,25 @@
    "summary_from": "feed"
   },
   {
-   "title": "Euclid's Record-Setting Quasar Probes Black Hole Formation",
-   "link": "https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "The ESA's Euclid Space Telescope has found a record-setting quasar. Euclid found it at redshift z=8.13, corresponding to about 630 million years after the Big Bang. It beats the record by about 40 million years. How these quasars formed is puzzling, but each new detection at greater distances leads incrementally toward an answer.",
-   "published": "2026-11-25T17:04-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
+   "title": "The Paradox of “Finding Yourself”",
+   "link": "https://www.themarginalian.org/2026/11/25/robert-penn-warren-democracy-poetry-finding-yourself/",
+   "source": "The Marginalian",
+   "category": "Curious Discoveries",
+   "summary": "“The self is a style of being, continually expanding in a vital process of definition, affirmation, revision, and growth…” “No one can build you the bridge on which you, and only you, must cross the river of life,” thirty-year-old Nietzsche wrote in his treatise on how to find yourself . And yet in the century and a half since, a curious dissonance has begun to reverberate across culture: On the one hand, we have grown increasingly fixated on the self as the focal lens for interpreting the world — a fixation which Ian McEwan so brilliantly satirized and which has precipitated today’s tragic epidemic of militant identity politics; on the other hand, the rise of neuroscience has demonstrated a",
+   "published": "2026-11-25T17:15-06:00",
+   "tags": [
+    "culture",
+    "psychology",
+    "books",
+    "out of print",
+    "philosophy",
+    "poetry",
+    "Robert Penn Warren"
+   ],
+   "feed": "The Marginalian",
+   "evergreen": true,
    "tier": "main",
-   "image": "https://www.universetoday.com/article_images/quasar_illustration_20261125_174042.jpg",
+   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/05/democracyandpoetry_warren.jpg?fit=320%2C478&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -514,6 +916,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Josh Allen's First Movie on the 2022 Blizzard + the Real Story Behind It - Step Out Buffalo",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNUQ1Z3F3TG1MS0Q4WUZDWnVPY2RvS01IM3M2T0NPMzlDUlZNbEk3QkZjUG8yMlU5UU9pbWQ1MzNQVWgtQVd6UTNOeW4zdW5aX3JqUk16U2o5RFNZQTRRN3c0c2lJOFkwaTBzcmwwdUdkWlk4Q3dNaXVxSTJBdmFrZzVEdjJUdw?oc=5",
+   "source": "Step Out Buffalo",
+   "category": "Weather & Meteorology",
+   "summary": "Josh Allen's First Movie on the 2022 Blizzard + the Real Story Behind It Step Out Buffalo",
+   "published": "2026-11-25T15:47-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Patti Smith’s Tiny Desk Concert.",
    "link": "https://kottke.org/26/11/0050061-patti-smiths-tiny-desk-co",
    "source": "Kottke",
@@ -523,19 +938,6 @@
    "tags": [],
    "feed": "Kottke",
    "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "NIPSCO blames outdated system for extended power outages after August derecho - Chicago Tribune",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWVJcjRheEs2ZTBlMVcwajBCdXd0bWd5YS0tVTctX2dxaU90Z0JzZ0tOOGliQmRCVzBTR3BzaVJFUlFuaWtqc1VYR0h3eERWMXEwOHNxU2c4ZXhhTDhnXzVfZ1hFU09IWEN6bFNfSXlURkNiSGNUNGtRa2VjcG5qSGx1djhaSWw0dWU2ZW05UXpxUkVnNzBadDU4a1hHeGhGaTliNWZlWmsyY0hvcjJUR1hSRHNOSjJCcUhybQ?oc=5",
-   "source": "Chicago Tribune",
-   "category": "Weather & Meteorology",
-   "summary": "NIPSCO blames outdated system for extended power outages after August derecho Chicago Tribune",
-   "published": "2026-11-25T15:43-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
   },
@@ -551,26 +953,6 @@
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "Daisy Chaining Stepper Motors",
-   "link": "https://hackaday.com/2026/11/25/daisy-chaining-stepper-motors/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Let’s say you want to control a whole bunch of stepper motors. You can use a multi-channel controller board, or whip something up with a microcontroller or two. Or, you could look at [Josh Rogan’s] design for a system of daisy chainable stepper motors that can all be controlled together. The idea is simple enough—give each stepper motor a smart controller that can accept commands and also pass them on to other units in a daisy chain. It’s not unlike the idea behind addressable LED strings, but with stepper motors instead. [Josh] refers to it as the CANBUS Stepper project, and it’s designed for NEMA 17 steppers—putting everything necessary to drive one into a single compact board that sits on the back of the motor itself. It’s built around the ESP32-S3 microcontroller, and the TCM2209 stepper driver chip. It’s intended that one node will be hooked up over USB, Wi-Fi, Serial, or CAN, and the rest of the steppers in the chain get commands passed down from the first node as needed. We’ve seen [Josh]’s work before, too— with his earlier development of USB-PD powered steppers . It’s well worth checking out if you’re into this sort of thing. Video after the break. One thing Ive been looking for a while is a closed loop stepper board like this that impliments cia402 CANopen. Would give a huge amount of intercompatability with existing controlls. Needing a seperate can stack for each model of motor like this holds me back from using them. This looks like well built hardware though. About 25 years ago a group of us made a 343 stepper motor project with zero microcontrollers. https://hackaday.io/project/565-controlling-343-stepper-motors-from-linux It consisted of seven chains of 8-bit serial-in parallel open collector out shift registers. Each serial chain was 224 bits long and r",
-   "published": "2026-11-25T15:00-06:00",
-   "tags": [
-    "Misc Hacks",
-    "ESP32",
-    "NEMA-17",
-    "stepper",
-    "stepper motor"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/DSC_1176_edited_1dd27e30-f5b8-4135-b2d5-0197d679d29a-e1795599260716.webp",
-   "summary_from": "page"
   },
   {
    "title": "Hockanum School House in Hadley, Massachusetts",
@@ -622,19 +1004,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/11/lotr-trop-s3finale-header-740x343.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Businesses work to build back after tornado - WPSD Local 6",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFctdy1hUkRKSG9UejhJc2lfcE1ZTlJ0bG1xVFBaZlNhZGZTY3Q2RnR1U3lfTjF1cElUNjYzQ0VoUnBwWlRrX2IxNnhJU0tWQTdxdEFJVndrOEhOT01CM0ZUclV3c01CQ19GYU5WZGVPSnBtZVEwU2FlTHMyeEpMQ2tmZmdKOGxpbE9xc1poOWw5NWRQbVdfT1NMWUpEb2FGRUpReEI4cE1uRmQzSkhQWEtlSFdfaEdsSWNORjBBZw?oc=5",
-   "source": "WPSD Local 6",
-   "category": "Weather & Meteorology",
-   "summary": "Businesses work to build back after tornado WPSD Local 6",
-   "published": "2026-11-25T13:51-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -691,7 +1060,7 @@
   },
   {
    "title": "WoW Celebration Pass, WoW Forever's \"Al'Aketh Rising\" Comic, December Trading Post, and More in WoW Weekly - Blizzard News",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTkJOZnZFcGFhYTd0X2IxZDFNUUJYWW5pTWtILW9mNWZDczZoQUZQRjkxa0IzNHcxVEdZWXROSjhrSHRVeVYxdnVJa18wdFp0Ym12ZDluVTZBLUxXR1ZubGsxdmZkbF9qajZ3TmRaZFp2N0hfWGFHMEZqVUxwUGRya2FXREhRakw0cERYeTc3UUdhb011TU5GdDliaWtnaEZjRkJaRmVpa05oZ19yTi00RDZpQ2JKT0N2b3VyRWd0eGRvTzQ2eldON01DNVJvejEwaHdFOTRudVZrNEw2U2x4cnU2Wks?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbU5jWUgtUElpVUJaSmVyVEwyLWp0Szljc2cza3dDSWNYM29ibC1mUlo2THdpbDdZMldDNC1XUDl2M3ZFSE15OUVYNjBYX2VKQTYzWDlQamJndC1ZZGFfeUpsNl85VktOcFY3TFl6S0p1V3VSUDNQQnlzZ2haUjFRd2VhSmgtMlljcllMZUdaWjVsb285Q2Zhc2tmbTRUelc1YTNkM0lRUVduTGtRQ2VDREw3TWxZdFlEYkVxWGp3Z3I1M20ySWNFMmY5RjVVVUItMng1akxieW4weFd0SDBCb2dxb2Q?oc=5",
    "source": "Blizzard News",
    "category": "Weather & Meteorology",
    "summary": "WoW Celebration Pass, WoW Forever's \"Al'Aketh Rising\" Comic, December Trading Post, and More in WoW Weekly Blizzard News",
@@ -703,24 +1072,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Bethel nursing, physician assistant students practice mass-casualty response in tornado scenario - WBBJ-TV",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQclZ4MzBFZ1VYRk1pZ2k1V2dBMWpIb1ZwX1BINlV4Nl9XSmJneHdNNnlta0xxV084WmJoUVVhaVNrQ28zV2k4Qi1LVV9JZjVpS3VwS0l4U3FtWGhMZEVtQ0VDOGxlaG95VVBaWHlCRGFSY0RvMVRadEZGTmc1SkNfb1luZGNqWkl6RDZBWV9oVGlpNmt5d0NiZk13emVlMU1fSUMzRFlBdDM1aDZDdWdKQmFtblV5a3NJTl9UNnhHVXdWbEVzUUE?oc=5",
-   "source": "WBBJ-TV",
-   "category": "Weather & Meteorology",
-   "summary": "Bethel nursing, physician assistant students practice mass-casualty response in tornado scenario WBBJ-TV",
-   "published": "2026-11-25T12:12-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "NASA Eyes Crop Candidates for Future Menus",
    "link": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
    "source": "NASA News",
    "category": "Astronomy and Space",
-   "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Strawberries grown in the Space Life Sciences Lab’s controlled environment chamber. Cucumbers are grown in a controlled environment chamber at NASA’s Kennedy Space Center in Florida. Lemon basil is growing in chambers on the International Space Station. NASA Recent testing points to strawberries, cucumbers, and lemon basil as potential options for future explorers. Space crops can absorb carbon di",
+   "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Strawberries (left) grown in the Space Life Sciences Lab’s controlled environment chamber. Cucumbers (center) and lemon basil (right) grown in a controlled environment chamber at NASA’s Kennedy Space Center in Florida. NASA Recent testing points to strawberries, cucumbers, and lemon basil as potential options for future explorers. Space crops can absorb carbon dioxide, produce oxygen, and recycle ",
    "published": "2026-11-25T11:53-06:00",
    "tags": [
     "Biological & Physical Sciences",
@@ -731,6 +1087,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/SpaceCrops_thanksgiving.jpg?w=1366&h=618&fit=clip",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Indian IT’s next big test is getting AI economics right: Thomas Dohmke, founder, Entire and former CEO, Gi - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOeXNvV2FPTTlhQVlmeFE2akV0ekRNOUJhTjFQUjNyM0xpSm03M3BaTGZzT0I5NHpQMzZHVWxyOHc5R2tvdFowODI5THdicG5HWlpBQTZnTFJNRW5pTHZKZWFIaTNOYm1UT3lqUDFmQl9LVnYxT1Y0SWlPaVdRWnNFMGVfOHU5N0RGZWVxNHc2aGV4RFN1UzBZZTFhOHk5ZHlCZU8xVE0wYzJBeURBZ3pkYkQ4VWJvRHR5MnNOZGRNU01RU0wyd21ZQ05YNENhUDBKREZ3NW1YLVZTMzlkeW5NbFpoaGpvXzJtc1dMb0dPbktqQzYzMURmMWFfQ1J3OENNNHBnT29zcVAzM1VkNzBvd1JEVWFwMDhk0gGeAkFVX3lxTE5aaS1naldlM255MzhiQVhORWpuUjdyX25PVlprR0c4c01wa1JLTmtMcnZ0V0otZzN1Y2NNRExNRUVudjFUb0NybGJlWk81TTVPb0doXzB1QWpfbXpXeW4tM1JETVB1eEJNSmtEbnM5VjlDcFpTZ21Bd19ibktDMHY2X1FpN1dRY0lLbzJzQjUybTh5LTVjSVFESkN4STh5NXVUTjFNWW9TbnRvLVBtaTN6c2hraHp2bzdTem1Ldlg0RTRRcHV5OXdjcW5ucUtmRlVDM2E5Q0tCOWtXTmNIYTFKcUJGdkFfblJWdHNSanVHc1pMVW1yQ2NaSnZEaTczRmxRZVhEY0hXcmFDNUZtVFRKMlFBUnlKNUtPUzdRUlE?oc=5",
+   "source": "The Economic Times",
+   "category": "AI and Agents",
+   "summary": "Indian IT’s next big test is getting AI economics right: Thomas Dohmke, founder, Entire and former CEO, Gi The Economic Times",
+   "published": "2026-11-25T11:29-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -818,39 +1187,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Voyager 1 Stops Sending Data, Reaches One Light-Day from Earth",
-   "link": "https://hackaday.com/2026/11/25/voyager-1-stops-sending-data-reaches-one-light-day-from-earth/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Recently NASA confirmed that the Voyager 1 spacecraft is now one light-day from Earth , taking more than 49 years to reach this point since its launch in 1977. Marring this memorable occasion is the disconcerting discovery that although the spacecraft is still sending a carrier wave back to Earth via the Deep Space Network (DSN), it’s no longer sending science- and engineering data , with the cause still to be determined. This is reminiscent of the 2023 incident in which Voyager 1 went completely silent aside from the carrier signal, before being coaxed back to life. Following this, a defective flight data system (FDS) RAM chip was remotely diagnosed and bypassed. More recently Voyager 1 went quiet for about two days for an unknown reason, which may be related to this current issue. With the spacecraft’s radioisotope thermoelectric generators (RTGs) slowly running out of juice , failing RAM chips, and various instances of clogged fuel lines hampering basic orientation controls it’s hard to tell how many more kilometers we’ll get out of Voyager 1 or its sibling, or whether it’ll make it to the 2030s. Until we invent faster-than-light space travel, both Voyagers will remain the most distant human-made objects from Earth, as well as our furthest glimpse at what lies beyond this solar system should we ever venture outside it. Or as the ancient Roman poet Virgil once wrote: Sic itur ad astra . “…as well as our furthest glimpse at what lies beyond this solar system should we ever venture outside it.” I wonder how easy it would be to match that feat today. On the one hand, our ability to send and receive strong radio signals efficiently has improved, and we can put more computing power and more redundancy within given space and mass constraints. On the other hand, I’m not sure",
-   "published": "2026-11-25T10:30-06:00",
-   "tags": [
-    "Space",
-    "Voyager 1"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/voyager_1_spacecraft-profile-1.jpg",
-   "summary_from": "page"
-  },
-  {
-   "title": "Eye of the Sahara",
-   "link": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "NASA/Luke Delaney The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks exposed in the center of the “bullseye” are older than rocks forming the outer rings. This structure measures 45 kilometers (28 miles) across and is made up of igneous and sedimentary rocks. Image credit: NASA/Luke Delaney",
-   "published": "2026-11-25T10:21-06:00",
-   "tags": [
-    "Earth"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg?w=2048",
-   "summary_from": "feed"
-  },
-  {
    "title": "Using Lunar Craters as Free Radiation Shields for Moon Base Nuclear Reactors",
    "link": "https://www.universetoday.com/articles/using-lunar-craters-as-free-radiation-shields-for-moon-base-nuclear-reactors",
    "source": "Universe Today",
@@ -899,25 +1235,17 @@
    "summary_from": "feed"
   },
   {
-   "title": "First Smartphone? Think Blue",
-   "link": "https://hackaday.com/2026/11/25/first-smartphone-think-blue/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "High-tech for the 90s. “ IBM Simon Personal Communicator ” by [Bcos47] If you ask most people when the smartphone arrived, they will usually say 2007 with the first iPhone. Others might argue for a BlackBerry or a Nokia Communicator. But the IBM Simon Personal Communicator beats them all. It wasn’t even close. This early smartphone went on sale on August 16, 1994, more than twelve years before the iPhone, and it already had the defining features we now take for granted: a touch screen, applications, electronic mail, and a single device that was both a telephone and a small computer. Simon started as a prototype code-named Sweetspot, at COMDEX two years earlier. It was the brainchild of IBM engineer [Frank Canova]. The prototype could make calls, send faxes, electronic mail, and cellular pages, and it had services such as maps, stocks, and news that would not be ordinary phone apps for years. IBM refined the design as Angler, and the finished product got its final name from BellSouth, which would sell it. Simon was reportedly a nod to Simon Says, because the device was supposed to do what you told it to do. IBM didn’t build the phone, however. That was left to Mitsubishi Electric. Informally, many people called it a “ThinkPhone” in a nod to the famous IBM Think sign that was always somewhere around an IBM mainframe. Inside, Simon was an 8086 computer. It used an NEC V30HL processor running at 16 MHz. It sported a whopping one megabyte of RAM, one megabyte of flash storage, a PCMCIA slot for expansion, and it ran Datalight ROM-DOS under a touch interface called Navigator. No DOS prompt in sight. The display was a monochrome, backlit LCD at 160 by 293 pixels, operated with a stylus, and the whole thing weighed eighteen ounces and measured eight inches tall. Pocketable? May",
-   "published": "2026-11-25T09:00-06:00",
-   "tags": [
-    "Featured",
-    "History",
-    "Original Art",
-    "ibm",
-    "simon",
-    "smartphone"
-   ],
-   "feed": "Hackaday",
+   "title": "7 Of The Most Adorable Small Towns In Minnesota - WorldAtlas",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2hZVHRyem1SNXFzb2FlcC01M3FsMTMzMWc3S0ZLRVFkVF9qRjBqYVJSQVBNQjFBbVdxdFNXSWNYcW9UMFozc05tTFBmMzZ1ZFZIal9fMXZHazVyYVJhd1NjY3V2TXBPSzlRRF9GOC1fdTBYa2lpZGhVUzk2N0IyZU5ZSHRyYWxJNFg4NzFGT3BrVnNqT1E?oc=5",
+   "source": "WorldAtlas",
+   "category": "Minnesota and Nature",
+   "summary": "7 Of The Most Adorable Small Towns In Minnesota WorldAtlas",
+   "published": "2026-11-25T09:30-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Simon.jpg",
-   "summary_from": "page"
+   "summary_from": "feed"
   },
   {
    "title": "Celebrating Poul Anderson at 100: Five Favorite Short Works",
@@ -1014,30 +1342,42 @@
    "summary_from": "feed"
   },
   {
-   "title": "A Thanksgiving Blizzard Pushed Big Mule Deer Off the Mountain — and Down to Us - Outdoor Life",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aOWxDRnd4M3lGYmJKZnM2cTg4M2xZMzJDTGpUcjQ2MEFwWjVQelpXSi1oVHRlcVdESGJ6dmpIYk1CcmthZGVBN0djODdVWkFSenpGTVJKZVlMVHBQSzJwYmtqUWdQVjZjVGp2LW9WUUVDdUNtd1JtOEI3YWVoZw?oc=5",
-   "source": "Outdoor Life",
-   "category": "Weather & Meteorology",
-   "summary": "A Thanksgiving Blizzard Pushed Big Mule Deer Off the Mountain — and Down to Us Outdoor Life",
-   "published": "2026-11-25T08:23-06:00",
+   "title": "Preston GP who saved footballer Fabrice Muamba in 2012 struck off - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MbGlvRFVrQTdPdzFpd29yR2Via2J3MnVYdERBdDROQnFiTkxYeDZsUmJDTzBNeDhVMld2cDlKWGhybWxkTm5henM3TEJBNjV5Z1htSG41a213VUk?oc=5",
+   "source": "BBC",
+   "category": "Science Fiction",
+   "summary": "Preston GP who saved footballer Fabrice Muamba in 2012 struck off BBC",
+   "published": "2026-11-25T07:35-06:00",
    "tags": [],
-   "feed": "Google News major storms",
+   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
   },
   {
-   "title": "A New Discovery is Re-Drawing the Map of the Milky Way",
-   "link": "https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "New research shows that star formation is occurring in the Milky Way's central bar. This goes against previous research, and against observations of other barred spiral galaxies. The discovery by a PhD student shows a vast rotating structure of stars near the centre of our Galaxy is driving enormous shock fronts through clouds of gas, compressing them and creating conditions for new stars to form.",
-   "published": "2026-11-25T07:13-06:00",
+   "title": "GP who saved footballer struck off over patient relationship - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwYjBoNDJKUHp4N3dSUWtwV283Zmp6MVpkNU9qVmpDVElsdW95bWgwSFZkYWloOW1qaHRwZURxVzR0Vmk1aHV2eXFfT3Vqa1BoQWFGamZOOElnUFlCSGc?oc=5",
+   "source": "BBC",
+   "category": "Science Fiction",
+   "summary": "GP who saved footballer struck off over patient relationship BBC",
+   "published": "2026-11-25T07:35-06:00",
    "tags": [],
-   "feed": "Universe Today",
+   "feed": "Google News Doctor Who",
    "evergreen": false,
    "tier": "main",
-   "image": "https://www.universetoday.com/article_images/cq5dam.web.1280.1280_20261124_201307.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NHS Grampian surgeon, recovering from endoscopy, operated on patient while on drugs - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KN2dmQUktYUVvSWxtOWdQYk9TSmFadjA1dGVYWnQ2OHJkVkY0SlcxYWc2LVFNcTRKOVZUckIyb25icE1DQ2J6aHVabVVuRnFxMVA3Y3JoVkZ2QmY3Ync?oc=5",
+   "source": "BBC",
+   "category": "Science Fiction",
+   "summary": "NHS Grampian surgeon, recovering from endoscopy, operated on patient while on drugs BBC",
+   "published": "2026-11-25T07:26-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -1049,19 +1389,6 @@
    "published": "2026-11-25T07:10-06:00",
    "tags": [],
    "feed": "Google News aurora",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Cherokee Nation invests $10M to expand tornado siren coverage - The Journal Record",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOENUQ1NHZm1sMFpaVU9ZamlaeWZzZmdkUTEzZGtpVE9rNC00b2EzaENYaGJ2X0F1T19RNUhJVW5jTzZWV3J4cVVpdm5GcmhMX3BLdDBfeWg5dWdFc2RPZFVwZEtVRndVTnZhcm5MM2FqbzNVcUlMMVlicmZYVEJCT1k2dTFkWnZ0ejRHcFA4UmE1NXFWV2lkX3Vn?oc=5",
-   "source": "The Journal Record",
-   "category": "Weather & Meteorology",
-   "summary": "Cherokee Nation invests $10M to expand tornado siren coverage The Journal Record",
-   "published": "2026-11-25T07:02-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1080,26 +1407,17 @@
    "summary_from": "feed"
   },
   {
-   "title": "Game Boy Museum on a Cart Gives the Gift of Knowledge",
-   "link": "https://hackaday.com/2026/11/25/game-boy-museum-on-a-cart-gives-the-gift-of-knowledge/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "What’s in a name? Clearly a device named the Game Boy was designed to play games. The handheld game system has successfully done so for decades since releasing in the late 1980’s, and has delivered that entertainment in four glistening shades of gray. However, [Marcel] saw the opportunity to do more with the game console by condensing his online museum onto a single Game Boy cartridge and sharing it with the world. The museum website [Marcel] developed contains tons of photos and articles on Game Boy memorabilia. Hardware variants, obscure peripherals, and game boxes are digitally preserved for the general public’s perusal. As one might imagine, distilling all this information onto a monochromatic screen with a resolution of 160 x 144 is a tall task. The solution to displaying text on screen was to limit it to eight lines of thirty characters. Font choice was another key decision as at that low resolution an lower case “c” can merge with the next character to form an “o”. So good luck reading about “cuccos” from the Legend of Zelda franchise. The most impressive feature of this project would have to be the inclusion of QR codes that link out to [Marcel’s] website . Since compressing all the museum photos into an incoherent gray mess of pixels wasn’t a sensible option, the Game Boy display’s 255 tile budget was carefully constructed to form a QR code that modern devices can read. Though one photo did make it onto the cartridge, a simple self photograph of its creator holding an original DMG-01 model Game Boy system. There are a number of ways to access the GB Museum. It’s provided as a download on the collection website which encourages the use of original hardware. Those interested can run it with any reliable ROM-cart like the Everdrive GB. Extra credit goes to those w",
-   "published": "2026-11-25T06:00-06:00",
-   "tags": [
-    "Games",
-    "DMG-01",
-    "game boy",
-    "game cartridge",
-    "gameboy",
-    "museum",
-    "nintendo"
-   ],
-   "feed": "Hackaday",
+   "title": "Bygones: Hunting violations marked this day in Northland history - Duluth News Tribune",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTQ3UHhIdzBGc080OTZhNzM4RTRxMjllS1ZfUWxhc2JkYUgyU1pYV01nS3RHQnh5MVRSU05LclJyN2I1U3VYNDRldlhldTBIRXFEM01BX1JEN2FMRDRPY2c4TDJvOE9EdnRTd0V3VkMyR0RVZ2U4alpPZHlNbnNBQVNpcTNrTGczbFJOM2REQW1qZWVPVmwyWEdMS2cxM0FvMFhKZlViLVRYbWww?oc=5",
+   "source": "Duluth News Tribune",
+   "category": "Minnesota and Nature",
+   "summary": "Bygones: Hunting violations marked this day in Northland history Duluth News Tribune",
+   "published": "2026-11-25T06:02-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/GB-Museum-Cart.png",
-   "summary_from": "page"
+   "summary_from": "feed"
   },
   {
    "title": "Do inconsistent docs hurt AI coding agents?",
@@ -1146,6 +1464,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Minor G1 geomagnetic storm - SpaceWeatherLive.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd1M3ZExwTkVTS0ZWdXYxR2tjTTA5dmEyZFpodU1IQU0zenVLZjRsWU4tSVgtMDRoVko2Ql9XMlZ2aF9qVlQxU0MxWUt1Qm9rRUdWZlA5OXhnUWlkRjNTVXNtdHItRW9ZWF84eXkzbzNyQ1BhUHVXZnZybXdKdFJhVTM4MWN1RE9XRXVTZlZrd2FJcjVY?oc=5",
+   "source": "SpaceWeatherLive.com",
+   "category": "Space Weather and Aurora",
+   "summary": "Minor G1 geomagnetic storm SpaceWeatherLive.com",
+   "published": "2026-11-25T04:10-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Comet Encke's Shape and Heat Revealed in Thermal Glow",
    "link": "https://www.universetoday.com/articles/comet-enckes-shape-and-heat-revealed-in-thermal-glow",
    "source": "Universe Today",
@@ -1160,23 +1491,17 @@
    "summary_from": "feed"
   },
   {
-   "title": "Touching a Spinner Makes Things Feel Sticky or Slippery, in VR",
-   "link": "https://hackaday.com/2026/11/25/touching-a-spinner-makes-things-feel-sticky-or-slippery-in-vr/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Every now and again, folks get an idea for a new kind of feedback that is as strange as it is intriguing. Surf-Roll is exactly that — it simulates feelings of slippery and sticky by changing how fast a touched surface moves, relative to the one touching it. The basic idea is this: when one drags their fingertip across a surface, there’s an expectation that the surface will slide under their skin at a certain rate. Researchers discovered that if the surface moves faster than expected, it’s perceived as slippery. If it moves slower than expected, it creates a feeling of sticky. Surf-Roll demonstrates this in virtual reality with dabs of virtual “oil” and “honey”, and a small handheld device with a wheel to deliver the sensations. The viewer’s fingertip rests on the surface of the wheel, and the device rotates it at a rate depending on what the user is touching in VR. If the viewer is touching nothing, the wheel does not spin. But when dragging their fingertip across a virtual tabletop and through virtual gobs of honey or oil, it spins the wheel to match the sensations required. It’s an interesting effect, demonstrated with a relatively simple prototype. It’s a kind of physical illusion. Most illusions are visual in nature, but some involve other senses . Surf-Roll fools the sense of touch by subverting expectations, and the method happens to dovetail nicely with VR in general. Ye, you will never get a point where something is liked by ALL, not even sex is, not even food is. There is a good number of people who like and use VR, and that is enough, why the hell is there this thing with 3D and VR that if there isn’t a 100% market it ‘failed’ and has t be killed? There’s tons of things that only a few percent or even a fraction of a percent is interested in that has been kept",
-   "published": "2026-11-25T03:00-06:00",
-   "tags": [
-    "Virtual Reality",
-    "haptic feedback",
-    "illusion",
-    "vr"
-   ],
-   "feed": "Hackaday",
+   "title": "The Next Phase of DevOps Could Be Teams of Specialized AI Agents - TechBullion",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWWZxQUxpMjJRVktVejg2azJLMFpJQlI0Z3B0anBCbnh1MkFQTmdLRnpSeVo3UTRfWjRud0wwSXVEYTZFeXJiWGd6emJuM2x1NDBqcDdpRXVzOEJXdlBmSDdnU0RaREYybTFQUjhyQkg0TVFZb3dVb21Gd0hLcXF1WmJQakRZOV9md1RCWk9KMVQxWTQ?oc=5",
+   "source": "TechBullion",
+   "category": "AI and Agents",
+   "summary": "The Next Phase of DevOps Could Be Teams of Specialized AI Agents TechBullion",
+   "published": "2026-11-24T23:41-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Surf-Roll-Device-banner.png",
-   "summary_from": "page"
+   "summary_from": "feed"
   },
   {
    "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
@@ -1230,6 +1555,19 @@
     "Oghenechovwe Donald Ekpeki"
    ],
    "feed": "File 770",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hunters Illegally Shoot Three Bull Elk in Minnesota - Wisevoter",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWNqcVIydDRKU3EzNGFNRWhDQ2JhVFNOMFhEUW9FcTZtNkliNWgtUUtoZVBDMnRPNTBDSVZvd21DSy1TQzlLdTJVbjNPbnI0cW5tWklBY09STDU3N0RjcXlIMmNaU25FSmJEWHF1X0VFc0QwbUJNbmxicTBhYkxlMWJfSEZwODByVFp6ZkZPNEdEMTRfalZ6ZA?oc=5",
+   "source": "Wisevoter",
+   "category": "Minnesota and Nature",
+   "summary": "Hunters Illegally Shoot Three Bull Elk in Minnesota Wisevoter",
+   "published": "2026-11-24T21:13-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1372,24 +1710,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
-   "link": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom NASA completed a major review for SR-1 (Space Reactor-1) Freedom and locked in key elements of the spacecraft, set to demonstrate nuclear electric propulsion. nonadult",
-   "published": "2026-11-24T15:04-06:00",
-   "tags": [
-    "General",
-    "Research and Technology Mission Directorate",
-    "Space Reactor-1 Freedom",
-    "Space Reactors Division"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Jeanne Gomoll Wins Moth GrandSLAM Storytelling Contest",
    "link": "https://file770.com/jeanne-gomoll-wins-moth-grandslam-storytelling-contest/",
    "source": "File 770",
@@ -1479,24 +1799,6 @@
    "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Amateur Astronomer? Be a Kilonova Catcher!",
-   "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Explore This Section Science Citizen Science Amateur Astronomer? Be a… Overview Resources Opportunities Citizen Science Highlights About Science Activation Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova . These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory can watch the whole sky. But if you have a telescope with a camera, or access to one, you can help find and follow these cosmic fireworks as a part of NASA’s Kilonova Catcher project! Kilonova Cat",
-   "published": "2026-11-24T13:19-06:00",
-   "tags": [
-    "Black Holes",
-    "Citizen Science",
-    "Neutron Stars"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/NGC_4993.jpg?w=700&h=748&fit=clip",
    "summary_from": "feed"
   },
   {
@@ -1626,19 +1928,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Lawmakers Press NASA, NOAA Over Space Weather Coordination Delays - Legis1",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Dd2d1b1JtWWpTZTUwelJISEZoOWs5b1VhSElHbk80QnI4Q1BUZWdpT3VyMHdIV2FaSVVNckpqTzlSYzdEMlFiZ1RlaWY5MlEzVkx4Qi1nMDBwZy1jSkxueV9ST1BQTlZqMk9tSGxMZUtmUDA?oc=5",
-   "source": "Legis1",
-   "category": "Space Weather and Aurora",
-   "summary": "Lawmakers Press NASA, NOAA Over Space Weather Coordination Delays Legis1",
-   "published": "2026-11-24T11:51-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Coronal hole faces Earth - SpaceWeatherLive.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzVIZjNMUHBqYkhacTFvdmY2WU9YSXVXQkU3OWhVRVhhcmtSeGtSNHdOdFlSLTNHMjJEb2Q5cEVkaVFZQ29XU0lTWmxTZk41N3M4ZWFrWkxNRHVlV2NUOTYxSFFaTjg3UHQwOEhOWkUxS1lWbzZCNURPa0ZieGtrMThFNWg3cHJ2TXVYNzRFLUdXQQ?oc=5",
    "source": "SpaceWeatherLive.com",
@@ -1692,19 +1981,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "What is a Solar Flare? - NASA Science (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kVTRRdk0zaE9Xb1hDOGF2a2hmZHVGM2RCZnotbW5qZ2RPYmJ3OE9DZWZ2MjEyeFZncUhGczNwLU9FRHFGN0lmekpwUmFNazY0eWt0d0FmQk45RDZSWDcyVWJhaUkxZzlHMEtPdg?oc=5",
-   "source": "NASA Science (.gov)",
-   "category": "Space Weather and Aurora",
-   "summary": "What is a Solar Flare? NASA Science (.gov)",
-   "published": "2026-11-24T10:55-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "A Dark Energy Camera Portrait of the Betta Fish Nebula",
    "link": "https://www.universetoday.com/articles/a-dark-energy-camera-portrait-of-the-betta-fish-nebula",
    "source": "Universe Today",
@@ -1729,29 +2005,6 @@
    "feed": "Kottke",
    "evergreen": true,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "What’s new in Microsoft Foundry | Ignite 2026",
-   "link": "https://devblogs.microsoft.com/foundry/whats-new-in-microsoft-foundry-ignite-2026/",
-   "source": "Microsoft Foundry Blog",
-   "category": "AI and Agents",
-   "summary": "At Ignite, we added a more direct path from a recurring problem in your agent’s traces to a fix you can test. New preview capabilities connect Insights to Agent Optimizer, learn reusable skills from real conversations, and find cheaper configurations that still meet your quality bar. You decide which changes go into the next version. At a glance Continuous improvement : Insights and multi-turn evaluation are GA. Human annotation, rubric evaluators, and new Agent Optimizer capabilities are in preview. Agents : Voice agents, external-agent registration, hosted-agent egress controls, and the A2A tool are GA. Browser Automation adds enterprise features and previews. Developer tools : The Foundry",
-   "published": "2026-11-24T10:00-06:00",
-   "tags": [
-    "Microsoft Foundry",
-    "What's New",
-    "agent-optimizer",
-    "evaluations",
-    "Foundry Agent Service",
-    "foundry-iq",
-    "governance",
-    "Hosted Agents"
-   ],
-   "feed": "Microsoft Foundry Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/whats-new-in-foundry-nov-2026.webp",
    "summary_from": "feed"
   },
   {
@@ -1904,24 +2157,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Is “sort by impact” just vibes?",
-   "link": "https://devblogs.microsoft.com/blog/is-sort-by-impact-just-vibes/",
-   "source": "Microsoft DevBlogs",
-   "category": "DotNet and Development",
-   "summary": "“Give me the top five, sorted by impact.” People ask AI agents for this all the time, whether it’s a backlog or a pile of growth ideas. Yet “impact” is one of the vaguest words in the language. It could mean how many users benefit, how much money comes in or how much you get for the effort. Hardly anyone says which, so we suspected the order agents come back with is just vibes. It looks plausible, but there’s nothing behind it. We were wrong, though not in a reassuring way. Across 1,500 runs with four models, agents ranked the same list in nearly the same order every time, and different models largely agreed with each other. Our prompt never said what impact meant, so the agents picked a def",
-   "published": "2026-11-24T09:23-06:00",
-   "tags": [
-    "AI",
-    "Agent Experience",
-    "AX"
-   ],
-   "feed": "Microsoft DevBlogs",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Ranking-Questioned.webp",
-   "summary_from": "feed"
-  },
-  {
    "title": "Anthropic Launches Claude Ship to Automate Code Reviews and Give AI Agents Authority to Approve Software Changes - Tekedia",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSldvUDFTVjh6a01WRDN3eG5fcWtZYzhTbEE4NlA5ckVOMVpFanhuZktxdWNTZmMyWmxLNS1RN05HQjAxckZlWmk4czdXdmdLVmR3Vi1vNGZpLWI2UHpyMlRHdDZkUTZ2Y2dTbDdHR3pWU2lyRXpMZGxGaXE2anJyZUlmdTdiZ1BuRDVJMHBKSGlVNjZQSHFJMHZnZ3VwODZjc1kwdkJaeTRmckNxZVdtb1VNaXlESjdqcWtpQVhGQ3lGb2IyMTMwRmIxMVlkVVV6d0Vv?oc=5",
    "source": "Tekedia",
@@ -1978,6 +2213,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "8 Financial Companies That Put AI Agents on Their 2026 Earnings Agenda - AIM Media House",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXhfbEhDN3JsSmNNeXRteU04cHcyS3loeXZZMzdQakhqemZpVjVuZGJSNE8zSTlvQTdMdllmQzNuSFJSRVdrWDNyanhRck5hQjVESE1KWkJrV1h2NHRhYXhPMXMtUzBSdGlDUzJhOXltS0NBUXFqV1FQd21PdXJBQ0x4aGM5RkNveGVHX1JpTGQtand0T1RLbmJ1eUt0bEdTZGVrZmlOVQ?oc=5",
+   "source": "AIM Media House",
+   "category": "AI and Agents",
+   "summary": "8 Financial Companies That Put AI Agents on Their 2026 Earnings Agenda AIM Media House",
+   "published": "2026-11-24T08:30-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
    "source": "OpenAI News",
@@ -2008,6 +2256,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "What is a Solar Flare? - NASA Science (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kVTRRdk0zaE9Xb1hDOGF2a2hmZHVGM2RCZnotbW5qZ2RPYmJ3OE9DZWZ2MjEyeFZncUhGczNwLU9FRHFGN0lmekpwUmFNazY0eWt0d0FmQk45RDZSWDcyVWJhaUkxZzlHMEtPdg?oc=5",
+   "source": "NASA Science (.gov)",
+   "category": "Space Weather and Aurora",
+   "summary": "What is a Solar Flare? NASA Science (.gov)",
+   "published": "2026-11-24T04:16-06:00",
+   "tags": [],
+   "feed": "Google News space weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "A Star’s ‘Obliquity’ Likely Has Little Impact On A Given Planet’s Habitability",
    "link": "https://www.universetoday.com/articles/a-stars-obliquity-likely-has-little-impact-on-a-given-planets-habitability",
    "source": "Universe Today",
@@ -2019,6 +2280,19 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.universetoday.com/article_images/3000x20001_20261124_090516.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Microsoft Says AI Agents Will Become Software's Main Users, Forcing Apps to Change - Windows Report",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnZucEZyc3dSMDYwU3B2ckRjX0RPZXZRaVFWN1NOY093Q2hlN09ZZnFzWmJaWkoxa0ktU0RGbV9jOENkcmtMNlNpSHl2aG9YQ0hZTDRaOTdlN1I4YVd5UVpobjBGZGQtb0RsS2lBZGJ0NU5kMUhkbDUxU3pvSTBtYmVlUmlBdHNpUy1BRjhYSHF4QTlQT1E5WTRDVlY2ZEY2T3hRdDExcHEyRzA?oc=5",
+   "source": "Windows Report",
+   "category": "AI and Agents",
+   "summary": "Microsoft Says AI Agents Will Become Software's Main Users, Forcing Apps to Change Windows Report",
+   "published": "2026-11-24T03:28-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2044,6 +2318,19 @@
    "published": "2026-11-23T21:25-06:00",
    "tags": [],
    "feed": "Google News severe weather science",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Minnesota DNR: 5 ways to keep young trees alive this winter - KIMT",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMENPVGVCa0ZrTk56bEcwY2hqdkY5aG01WHVxRjgyUWFoX0NuTDc4UmJybkRfMFZlV1lVamlNdWxLcUdKQ2FEaWtGQTVGc3BpaDdBUkNYbHUzMTVrRzdCV1ZGNHlSUkFnaDFMM05kZ2FiNGlGYzBvd0lvclZPNkxzaGRLRFhjcDM5Z1E5eko2V05qYmdCWExSb2RCMW5UTDVlalE2RGloRlMybXllcHViZFZEZGJQOEl4U0hEakd3V05FME5lMFVuVkZySjVmZjA?oc=5",
+   "source": "KIMT",
+   "category": "Minnesota and Nature",
+   "summary": "Minnesota DNR: 5 ways to keep young trees alive this winter KIMT",
+   "published": "2026-11-23T21:15-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2141,19 +2428,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/03/JEH.jpg?w=680&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "‘Doctor Who’ Has Survived 63 Years. Its Best Business Lesson Isn’t Nostalgia - Inc.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlJ5OE9rN0FRaXJtQnBTMHFzTmZ0TWdJLUNTSTA2enM2Mm5talJZOTJlNExabzdWdGpSTVk0cHpCUzNJMjZMNEMwLUV1dURHcUpiZlRVYk9Ib2tQRzhMSDdtS0toTk9ndWpxaFVJWkdERENDWDdPYzhyR1FlSHpBSXVPbUpCTTczcG5SbExmekt3M0hET05oYWlOckdiYjdjRnhGc2g5RjNQc0cxTE1NUGRHTQ?oc=5",
-   "source": "Inc.com",
-   "category": "Science Fiction",
-   "summary": "‘Doctor Who’ Has Survived 63 Years. Its Best Business Lesson Isn’t Nostalgia Inc.com",
-   "published": "2026-11-23T16:56-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2271,20 +2545,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Detecting Primordial Black Holes By The Stars They Destroy",
-   "link": "https://www.universetoday.com/articles/detecting-primordial-black-holes-by-the-stars-they-destroy",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Astrophysicists wonder if primordial black holes could be part, or maybe all, of dark matter. They're theorized to have formed immediately after the Big Bang from pockets of dense matter. New research shows how they might be detected: in the bbright flash generated by the stars they consume from the inside out.",
-   "published": "2026-11-23T13:39-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/MIT-PrimordialFates-01-press_0_20261123_172708.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Here Are All the Genre TV Premieres Airing in December!",
    "link": "https://reactormag.com/new-genre-tv-december-2026/",
    "source": "Reactor",
@@ -2350,6 +2610,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "UK snow forecast as maps show England blanketed - extremly rare weather event - Daily Express",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGtEZlQ2RGE3V1NCZVNLbVo3UGhmSWF0VlNUWVhKUWsyTENQV0dDaG5DN2dvcHFobWdfRTVtNVBIdHRDTXZWNmZ2QlhSV1Zzc2NWbTB5akRrOXNFQzliTzh6MDhLU0NvWnJFd2l3ZktJOEZmbzFxd1h5cFdmWmZIQkEtUUR5YnhuczlZVGZzONIBlAFBVV95cUxPbFNOSkJ0NGVTa0p6Z2ptNy1RbWpSUkhCLVlMV3RGNVlVV1ZVYzdreGc4eUdWb2Jfdm5uSU1HQUtoUERpdDNwVU1HaVMzZ3E1WGI1ZzJxY3A3QVg0TFhsTGZ6Ulh0a2Z5b3VkUkVGM25QWWd5dEgwMkV1ZVFtRnZESlhhM3hEa2lFODNTWlRKamUzeXFa?oc=5",
+   "source": "Daily Express",
+   "category": "Weather & Meteorology",
+   "summary": "UK snow forecast as maps show England blanketed - extremly rare weather event Daily Express",
+   "published": "2026-11-23T12:04-06:00",
+   "tags": [],
+   "feed": "Google News unusual weather",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "AWS is making AI agents more decisive and secure with its latest Strands updates - SiliconANGLE",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDd5WnJxVkRlM3FPMjZNSjA2T1JLMm9ZeTA3ellDVGhZZUY1eWhXYXhYSm9SMDA1cEhxMzd3cndkOHFvS2UwUkFQRWJvTkJJV3RqWG5ua2psOUZpZllLQ1Z5UE5ZTGg0b0F0VFRnXzM5T29nMlZTelNGLTNNdGd2bVFXWnJpWVhtcDZ6TzBBczBYakRJa0N4d2JtSUJ0SjFsdFVtSjJQWjVWZW0tb0RqTzVuc3ZNNXN0?oc=5",
    "source": "SiliconANGLE",
@@ -2394,19 +2667,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://reactormag.com/wp-content/uploads/2026/06/werwulf-trailer-740x494.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "What should Doctor Who's future look like? 4,000 fans share their verdicts – from longer seasons to scarier monsters - Radio Times",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVp6TUNUWUxxMEdQLTF4Mk82ZnhVYUhmbzJsbzdKR1NwTkFkMXBDR2VnOGJTdk9Gd1UxVlZvc1I4Q29Ea0d2aXRvai1MN1lRamVrVHlBcmRXS1pINzRRM1hlMV9SdTRLQWRoU1ZqU2p4SFJWUEFRbDNha1dNN2gyc2RXbS1aSUJaR21YTWQtd0tpakg1?oc=5",
-   "source": "Radio Times",
-   "category": "Science Fiction",
-   "summary": "What should Doctor Who's future look like? 4,000 fans share their verdicts – from longer seasons to scarier monsters Radio Times",
-   "published": "2026-11-23T11:06-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2511,6 +2771,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Tardis-style police box installed to deter crime - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzTFNzWi1SdHpUaGhzV05zNmREMUJjY0xhZGFjSk1ZdWhPYnJzMVNzcllIQTYzbzIyZk41SjdmNEpWZ2pDMDI1dFNHUnNaSURyWHBTc0dDdERVV05NdVE?oc=5",
+   "source": "BBC",
+   "category": "Science Fiction",
+   "summary": "Tardis-style police box installed to deter crime BBC",
+   "published": "2026-11-23T05:53-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Tornado tears through Delray Beach country club, damages golf course, facilities - WPEC",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkhEU3RwalRqUi0xNWI3YU1DRlphZ0FxaFpNbkdlSVdVRHhrcDRVMXpwVFNQTXRVZWtuY1p0Vjd3LUFuRVBjRkNaMVhuTnJJQ2JJLXB1UHUxNTk4al96ZjVtX0t0cEQ5ZUl1RWpRNlZHblZUSUVkWkVmaHJVd0ZzN201X19NRExvSFFHdFVUS0ZxaXUwYnVxeE9idGdMSGxGMkNvaG1tc2xVSlU?oc=5",
    "source": "WPEC",
@@ -2519,19 +2792,6 @@
    "published": "2026-11-23T05:00-06:00",
    "tags": [],
    "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles - Analytics India Magazine",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX09NeUdBcEZqbWFLQVdIU1BYS05WbXZXWmxLN3hJYWFOMk85Tm9HNFFyd25ITkJ5azhZNmVxZEx2NG5FRkF5TW9oMHRMcFEyUGVjczRQOHVJNDNFZHhra2FkelE5SVFVYjBMcnl2VF84WEtvUkRzaU5ZMmJlN2ZXNjVrNEJvZGYycVhHTjAydlMtbWc3ZHFYdnBNNlg0UUx2UXhkcGsweDRoMURLb0VtUmdB?oc=5",
-   "source": "Analytics India Magazine",
-   "category": "AI and Agents",
-   "summary": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles Analytics India Magazine",
-   "published": "2026-11-23T05:00-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2585,6 +2845,32 @@
    "summary_from": "feed"
   },
   {
+   "title": "Who is the next Doctor Who and when will the show return? - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UX3JJV2pJeVJKcndqZ3FkX1k5NmhoLWpqWlpOYmJlSHVRWWJGY01zRUlWY29pVEptOXpwU0JTQTMzQXR6UVZvR0hmUW5RMXMwVHRNNnNkMzRXNEU?oc=5",
+   "source": "BBC",
+   "category": "Science Fiction",
+   "summary": "Who is the next Doctor Who and when will the show return? BBC",
+   "published": "2026-11-23T02:00-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hidden for 100 million years: X-rays reveal an ancient flower from the age of dinosaurs - Phys.org",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yVTk5ZWRZTWs0eENlamF0bE54TnlJTG5VUlRUWWp2NVNBaEp0ZURoNVV2SWw0bkZvdzUwNU82Y0xubjhIM0FWYjQ0LXpRclRiRlNQeDJnVl9zdFRBVzlRVElwQWtpYVZGdzhWbFJYbEVLWFhkalE?oc=5",
+   "source": "Phys.org",
+   "category": "Minnesota and Nature",
+   "summary": "Hidden for 100 million years: X-rays reveal an ancient flower from the age of dinosaurs Phys.org",
+   "published": "2026-11-23T02:00-06:00",
+   "tags": [],
+   "feed": "Google News Minnesota nature",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Doctor Who Celebrates Its 63rd Anniversary - Doctor Who TV",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9teWx0UGg5eXN1UGRFQTZIbDVsS1RNZmx0TENua0hsMHpDRTEteVlKMUlyTGltNEU4QzB4cXd5a3l4S0F5Y1V1c0ZXNjRwZWFxbHUtb05zLWRmV3pCRjNUOW1CNzdHN0pB?oc=5",
    "source": "Doctor Who TV",
@@ -2624,6 +2910,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Legendary sci-fi show set for big-screen adventure in Colchester - Colchester Gazette",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2o0UkNHUXZxWGN0bFAycERabDE2S2ZWbDE2YmtBWGtJRnNpaHpSLVBaamRYaDNZRENDMmQ2ZFQ5b3RPVmFKMm1ZSV9mZnJPdEZjTG9oOHhrZnJ1eE51UWFRNFFIZlpEWEotNmxUUDNRcW1ZLU9KRnB6LTRBQ2k3ZXJNMlY5SVdqWFgxUDVadnNieVhzTkFDTzVqSFU?oc=5",
+   "source": "Colchester Gazette",
+   "category": "Science Fiction",
+   "summary": "Legendary sci-fi show set for big-screen adventure in Colchester Colchester Gazette",
+   "published": "2026-11-22T23:00-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Tornado causes significant damage to communities in Palm Beach County - WPBF",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFN6ck1KZnlCXzR3VUJmd3JBcjZ4ZFBzVDR5UWluSlFkSjNGd3FZcVBBQXpHbDBiTUFteVBFSHpqU3h3NEVJWFRwSWVIYnM0MFc0cXRSbHhuQ2tPRjhSd3QteVEybDRjNTdXTHNIUWNvUzVuRTM2Vmp6QXVoa20zcUQ3VEQxWkk1Q0Exc1Q2ODJDbThmYkRiSmlfampzbXc0REZFZmFTcElTWms?oc=5",
    "source": "WPBF",
@@ -2656,14 +2955,14 @@
    "summary_from": "feed"
   },
   {
-   "title": "AI Agents Are Changing Software Development - Medya Press",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lYl8yTXFSME9yQnY2OENzSWFna0ZtdXJCdHpqUFY5cGZKdzJ1aVkzNVBkNmVVYTZXYUowLWx0a2JFektJQzFOY2tpbFN5ejJRbHJrZVF4NUZoTTAzX0tqd1lHN1psZnpDbkRQSHlmUW9uN05aS0E?oc=5",
-   "source": "Medya Press",
-   "category": "AI and Agents",
-   "summary": "AI Agents Are Changing Software Development Medya Press",
-   "published": "2026-11-22T21:16-06:00",
+   "title": "EF-1 tornado damages communities in southern Palm Beach County with 102 mph winds - WPTV",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ2JkTUFNWkllbGU1S2M2T2NMQUFnYllHWFlIRTZYc1VOYVVrMUo5cE9fc2VneVNUaEZqTDVHdzFFYXVFUVZWaDU4V1ZXMFRZN3Z6MERhYWYtNU1NSFJidU5YdHpRSGY0N2VSUHVmQjhkSTdTVlFsNEdTX1N0cF8tRzVHT2U5S1lBd1c3VFQwbWp6R1VWUERPZlhMMmJNejJ6dFZldXRxcm1yZ0JqWTFPMmtwcERoejQtTXhFOUdPaDY1S1FtczRxS2JmamtvT1dncThhTk5Nc2ZzZ2JvTmc0eTlXTzNyMG8?oc=5",
+   "source": "WPTV",
+   "category": "Weather & Meteorology",
+   "summary": "EF-1 tornado damages communities in southern Palm Beach County with 102 mph winds WPTV",
+   "published": "2026-11-22T21:17-06:00",
    "tags": [],
-   "feed": "Google News AI agents",
+   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2677,19 +2976,6 @@
    "published": "2026-11-22T21:03-06:00",
    "tags": [],
    "feed": "Google News severe weather science",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Why AI-powered software delivery could help decide who wins the market - IT Brief Australia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRER1dDRlWlExV2ZvSFAyRTZ0UkluY0Rrdm40Wm5xRTBUMWZiWlZwNEVzVU4zOXNTdGRLd2dKdy1RZUVHd2tJaWpTNHIzaTJSVnZQN2QxYXg3UkNqeVp6LTQ2Q0kxWnZ6NFZVVWc0VU0zR0xNTHFTY0xLejlOa2JHbU5YRXh5SUZXZURVQm9CVHJzSjZ6Q2tDcUx5cXZVODMx?oc=5",
-   "source": "IT Brief Australia",
-   "category": "AI and Agents",
-   "summary": "Why AI-powered software delivery could help decide who wins the market IT Brief Australia",
-   "published": "2026-11-22T19:03-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2730,6 +3016,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Ring camera captures tornado touch down in Delray Beach - WSVN",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEItczNCdjdXWW1EbFJIdWk2OXlnOTZUYUVDY1NDZjV2a2REZGotZTZBWTB3Qzl3VU9lMC1ma0U0azlRZ2hFcklOUW56d2FCUDhRM09GcW1JS2JpSmYtZHlkUE0tQ0FsZTFCNVZjTGpxNGdUWEVUam5XNGRYTlNlVTVCcjBtbnJYeHgtWHgyUGNSTGcwVGhV?oc=5",
+   "source": "WSVN",
+   "category": "Weather & Meteorology",
+   "summary": "Ring camera captures tornado touch down in Delray Beach WSVN",
+   "published": "2026-11-22T17:30-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "NWS confirms EF-1 tornado touched down in Palm Beach County on Saturday - NBC 6 South Florida",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQanZLUG42ZlZId1NkQXJxbk1WUk5HUXB6NnNUTXhhY3hIR2NMVGprMS1GeFM1bV90NFJhTnYzTUZ1T05oZnF3UlFCQkgteTBFTlBRQ1dxelNlX3F2a1ZuUTZOeWdMUFJUcm5yM1B4SXNlS2lnSWlVQ3lBR1ZDaXFsNzNYY3dHT0s0d2hDMUhhZ2h1Rk1EZUxtUFd0OGZWUnVGaU5YU1BIam02QmZhX0NLOW5hOUJNSWPSAb8BQVVfeXFMTV9YbnEtT1BXMmU1ZFoyNUJSZWtva1BaVHg3bnd0ZUE2bHBEUk9vaWRCUFMyeVp1VEpDOENkSzlwck5tTmNpMXBPRE91bTd1RUpvY3I1UjA1RlMyNTQ0UV9VRi1OWVRYekgwVzFybTZZQ2tCeHBEMDR0cjZTSjEyamloSjZIeElVY2h4VUI2ekVxaVV5cVpBRlZ5cHUxeTZTRTRLT0VoenZ0dzZkZUNCMXZnYTJsWTBoSzUtX082Rjg?oc=5",
    "source": "NBC 6 South Florida",
@@ -2756,14 +3055,14 @@
    "summary_from": "feed"
   },
   {
-   "title": "More Doctor Who cinema releases teased for David Tennant and Freema Agyeman anniversary - Radio Times",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUdmV2RqM19EeVFKNU1qbGdHeENQYVVUaWNzR25ZZkFCUGtvanJGTHBCZV95ZXNEaF9ybnNaaGF5Y05kSnVTRGlkMmtleHBWRDVkWG9USEp2dmVEU2JEZnRkcTFjU1c0M05jQm9EU1p5cEJrUlA0M29XMXBjQ3FES2x6djc3b2w5TUFBVjYyOUc1R2lCYzg3ZnVveUxLMzExekMwcjJxU0ptU2Q2SU1pbzhuZlNrODVrNnhicjdEblNtUEU?oc=5",
-   "source": "Radio Times",
-   "category": "Science Fiction",
-   "summary": "More Doctor Who cinema releases teased for David Tennant and Freema Agyeman anniversary Radio Times",
-   "published": "2026-11-22T05:34-06:00",
+   "title": "Anderson: Minnesota desperately needs a conservation-minded governor. Is it Klobuchar? - Star Tribune",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1BwTVdIX01EX2IydWFGVVpoQTJad1RtcjVlSXhwQW02VGh4WGlwR0NuUEp2Y0Y2N1M5RU92Qk5oRWo1VnBYY3lIWkdrcjlmdTU0ZmpKMWVDNzJSMEpjb29lTzMweVRVV0Y0Y0NKQUg0ZnN6ZXIxd2tFODZGbjFBVHZVNHBmLUtiSDBVak5BRkdOOUFhdWh2eGJVMDlORFRfcjV6OHJkbkNJT1dBTVJYM3VrdGJlQXpPNDNxVHF3?oc=5",
+   "source": "Star Tribune",
+   "category": "Minnesota and Nature",
+   "summary": "Anderson: Minnesota desperately needs a conservation-minded governor. Is it Klobuchar? Star Tribune",
+   "published": "2026-11-22T05:30-06:00",
    "tags": [],
-   "feed": "Google News Doctor Who",
+   "feed": "Google News Minnesota nature",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -2860,6 +3159,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "Tornado warning in Palm Beach County near Boca Raton - FOX Weather",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yOHA2U3JDaGRia0tqczRuNzhzTnZGQkhnTGF6bzNYbmRTdldHTjVwdjE0RmpZalc2MnhMVmJITHNpM3NmWE5LS2IxbVFjaUJiRjRkRk8ycmhpczloLWhWODBqbw?oc=5",
+   "source": "FOX Weather",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado warning in Palm Beach County near Boca Raton FOX Weather",
+   "published": "2026-11-21T17:17-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "2026 Frank R. Paul Awards",
    "link": "https://file770.com/2026-frank-r-paul-awards/",
    "source": "File 770",
@@ -2891,19 +3203,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "AI agents ace 79% of training-run checks but stumble on core software engineering - TechRadar",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOU0VxQTJrVUNHQ2pMMVVMci0tQ1ZwWE5TR1hMMGdvcGlIaHh0NF9CUmdOLXVZNlF1VkVlcGxVa3MzVm1qVTljbjBGNmtlYWxONzQzLXFUdDR6Q0hlWDVIT3NrWURhX0ZkdnRqcU1xRFZiVFQtQ3BodEZDWXlVSE9ES2ZTZnpzcnZoQ1NYMmFoV09sOWVJWklKdERMWlBOZzZqVi1rMEZYdnhNTHpBQVJITlY3dGlUVTRiVVVNRlBURHFvZHp4WERIZF9Ba2FVT3U4bGNOZm5Za09UU3Bkd3lvWkNpdG9fY2xaM1B0Rzl3dERwdlp5Ujl0cVNUSkpDN20xQ3AyNTc5cjRsZw?oc=5",
-   "source": "TechRadar",
-   "category": "AI and Agents",
-   "summary": "AI agents ace 79% of training-run checks but stumble on core software engineering TechRadar",
-   "published": "2026-11-21T08:15-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "'I had a LEGO bouquet and confetti at my wedding' - BBC",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FRE94WVRoWE13NTg5ZUhFdGYzcXdPcU9wbmE0LUthSVBZRFFoUGZ1YjdrTXNLZ1o4ckhpRXFkRkp4TTFtTTZYelZCYWJGM01fcU1XX1VFb1hhLTQ?oc=5",
    "source": "BBC",
@@ -2918,7 +3217,7 @@
   },
   {
    "title": "Doctor Who Dalek built by student dazzles university campus - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wcTBYdGZSbjFzYUVLS1BJTTQ3UFpuVVFMN092S2V3b0NqUGlwNnFwVkhsLUctTk42MXQzRGlzXzJTTUNxd1c1TmlnNXNwc3ZhU1NkaVVjc1AtaXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpbDZOZ0xtYUlOcUhHcHRqamZLeTVtZXQycDdUU1V4b3FKQzBhZXRCcGlKaTVFdEExZ3RzcHd5a3l5SE1rc2V4bnRDTk1iN1lJQ3Jza2NLd3lxVk5neEE?oc=5",
    "source": "BBC",
    "category": "Science Fiction",
    "summary": "Doctor Who Dalek built by student dazzles university campus BBC",
@@ -2961,41 +3260,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/05/intuitionpumpsdennett.jpg?w=680&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Tornado Warning expires for southwest Merced County, National Weather Service says - ABC30 Fresno",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUmRUSkVheHFYWnpySmgzakNqQURXdTJ4T0F1UjlSQlU3M0JZcVh1MG1DUkFBa29ldnd5MmZzTkpWZ0NUVWtIbXV5dzZQZkVLZlN5M3lNLTkzUWQ0UjVXb0FZYkFYY2luamdja3lEN01FczVoWU5iN25oendTSWxJM3BWTk0yNTJjT2FhaHA1dzQtYXE5RXlkQlUwaVFic2dRdmJmZXZJQdIBrAFBVV95cUxQTlc2T1pVRHZQalRhQ0pic0Y1T3I1NFRvclJrN2lVUnpVZHh2S1JOLVRxNVlvaE1kblpSOVE5bUEwcXpLWGNDR2NRVElWcmJyeGo3YXZOdTRxaVV6U2tfVkxDZXlEUEx0ZGxPaVhRcTloZ1NDblNDTlZEd1VLd1lzbTZuVHZqNUNncmZwWWRYQWdQc0RPbWJTZ09tZkdmUVpKRG1jQkVWSHZBSjE2?oc=5",
-   "source": "ABC30 Fresno",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado Warning expires for southwest Merced County, National Weather Service says ABC30 Fresno",
-   "published": "2026-11-20T21:03-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Pixel Scroll 11/20/26 The White Knight Is Filking Backwards, And The Red Pixel’s Off Her Head",
-   "link": "https://file770.com/pixel-scroll-11-20-26-the-white-knight-is-filking-backwards/",
-   "source": "File 770",
-   "category": "Science Fiction",
-   "summary": "(1) PROJECT GUTENBERG STILL DOWN. The Project Gutenberg Literary Foundation today announced that “The gutenberg.org website is undergoing a deep rebuilding due to vandalism. Our volunteers are working to bring it back shortly.” See a more detailed update in File … Continue reading →",
-   "published": "2026-11-20T19:36-06:00",
-   "tags": [
-    "Pixel Scroll",
-    "artificial intellgence",
-    "censorship",
-    "Dune",
-    "Future Tense",
-    "Jared Shurin",
-    "Lavie Tidhar",
-    "Mars"
-   ],
-   "feed": "File 770",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3107,19 +3371,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Doctor Who editor reveals Russell T Davies reaction to new cut of David Tennant episodes - Radio Times",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNW9fNkRxUFA4X0lDZWlueXlSa3h0VG41bTlUZVlfS0NrYm16YVppZGhZY3VSRnFXZGVUSWI0VkI0SWI1cmRLM1ZhR1VMWTVieDBTTjlILUdKOGN5cHRjYzFTODVFTHFUWVlHVlpYVml2MWZTR1BsTk1FREh0dEt4ZU9xaGdsUkJPYjV6Zk1PTlYxQlJBeFhEUTBINFdBSXBmY1VIRzY2S0Y?oc=5",
-   "source": "Radio Times",
-   "category": "Science Fiction",
-   "summary": "Doctor Who editor reveals Russell T Davies reaction to new cut of David Tennant episodes Radio Times",
-   "published": "2026-11-20T11:06-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
    "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
    "source": "Quanta Magazine",
@@ -3176,19 +3427,6 @@
    "published": "2026-11-20T04:00-06:00",
    "tags": [],
    "feed": "OpenAI News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The silent vulnerability of high tech to intense solar storms - AOL.com",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3dVcVpwTFNjVU0zRDZoSW5nczVya0k2elJvZlZiTzR6TEZiRXZwQkJLN0xWaUxGWnZ1RTdhdUNRTEY4VUU2OWRPT2RiWHlHR1p4MjNpM3FOanNERDl4cVZ0a2VrWlFOQ2lQQ1FxbVNVcDV6WDAxakFZcjh6Y24wZnVTU2dWMTd6QlE?oc=5",
-   "source": "AOL.com",
-   "category": "Space Weather and Aurora",
-   "summary": "The silent vulnerability of high tech to intense solar storms AOL.com",
-   "published": "2026-11-19T22:20-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -3278,32 +3516,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/11/pablocasals_joysandsorrows.jpg?w=680&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check - IEEE Spectrum",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11MExYUVJuOVYyZGRIX0lwX0hSd1NPVlZYZDlHd2EzYlBkSUxwM0hiMkVQR005ajlLY3o0Q1RfRzVzVG80dktyQ2laZzlaal9Eei1lQw?oc=5",
-   "source": "IEEE Spectrum",
-   "category": "AI and Agents",
-   "summary": "Meet Shepherd, the Meta-Agent Keeping Rogue AI In Check IEEE Spectrum",
-   "published": "2026-11-19T09:03-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "‘Doctor Who’ Officially Gets One Step Closer to Returning - Collider",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZRkI0Q2t4SGd0SXZaal9odEtnM2lqbW5xM0NVSmR2V2RuRVppWlIxd3ZVZmFBeWY5VF9NU3BKZDlUME9GTDhKd1VkdUhUTTdzMjhjREhJQkRweEFoQVVXOUROQUczQzlkdFR0dWxrblpjXzg?oc=5",
-   "source": "Collider",
-   "category": "Science Fiction",
-   "summary": "‘Doctor Who’ Officially Gets One Step Closer to Returning Collider",
-   "published": "2026-11-19T07:30-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3488,19 +3700,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "BBC's Doctor Who producer shortlist whittled down to four confirmed competitors - Winter is Coming",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzNfZ2ZtVjdxdWoyeWlSWlFiYlRqMmE3Y1JTaXRFRTZLeGxsNlhYVGFkV1FQbFZLbFJlWkl0elZLb0p4eHcwQkdBMENWbWxLcDdBdDUzV21YaWsweDAwVmpMRXZWWGlTMU9YQmpZRzBvR0g0WGczeF9MTlZuR0hNQVZxY3pheGtiU0FpZk1OdXMxcUdFdzlUOHhncHY?oc=5",
-   "source": "Winter is Coming",
-   "category": "Science Fiction",
-   "summary": "BBC's Doctor Who producer shortlist whittled down to four confirmed competitors Winter is Coming",
-   "published": "2026-11-18T12:30-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Hosted agents in Foundry Agent Service at Ignite 2026: from pilot to production inside your enterprise boundaries",
    "link": "https://devblogs.microsoft.com/foundry/hosted-agents-foundry-agent-service-ignite-2026/",
    "source": "Microsoft Foundry Blog",
@@ -3599,19 +3798,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "‘Absurd ambition’: Pulumi expands into software delivery with AI agents that ship and fix code - GeekWire",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa09lUG9wZ1NOWTZWSzVEMV9lSEMwa0JEaGNhUmxLclpLRC1vT3FXRk0tWHBWMG1SU3V4TzhVUHVOX1A3UTUxdUI2eTlpX2RVamVvWkFERkxDRUY5UXNaRVdBQXpiMEgyUlZyU2JoMGVZM1FMdW10bE9WSmF6WVlYbU56ZmkxNTZheTA4VEllaWYyMzdLSmEzcG1xSG5FTjc1SUhZQS0zWWNFbkJKR1hCcDZmZENBTUtDUWJ6ajZ2OA?oc=5",
-   "source": "GeekWire",
-   "category": "AI and Agents",
-   "summary": "‘Absurd ambition’: Pulumi expands into software delivery with AI agents that ship and fix code GeekWire",
-   "published": "2026-11-18T10:57-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
    "link": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
    "source": "Quanta Magazine",
@@ -3625,19 +3811,6 @@
    "evergreen": false,
    "tier": "main",
    "image": "https://www.quantamagazine.org/wp-content/uploads/2042/11/ImageGallery_EscherMath-crSEENOTES-Default.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "One in Four Organizations Now Run AI Agents on APIs in Production, Postman’s 2026 State of the API Report Finds - Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcTdBUURKQ2ZrbE1GSkFfQjVfMDZPdVlGZ1psYVJwQXJYOUJMajktMU9kQzgxQlp5elI0QUdlaW0zMTEyNUU3SDFwaXJ5NUU0T05FRjdzVUpfbDR4MWxpUmFjV1N6S0tlUFFrZVlkZEVYWHJfNFVEdWdjN0pmUmNKcF9EZDVZRXhvUkNnTWZkcXdJVEU3QkFLTzlYR096NWNOY2l0UlNyVGdxN1NFLVU0MGJlMDFKS1pMRUJ4Uzd4VDZnejVOSlZ3Y3RIc05qMHRibGc5UkF0d0tnWnNZZU5mc0pkYlI1SDBHbEJHc2FuTEF1ekV3b2dMNlFn?oc=5",
-   "source": "Business Wire",
-   "category": "AI and Agents",
-   "summary": "One in Four Organizations Now Run AI Agents on APIs in Production, Postman’s 2026 State of the API Report Finds Business Wire",
-   "published": "2026-11-18T08:05-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3804,97 +3977,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "McKinsey partners with Cognition on AI software engineering - Consulting.us",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1lXSDBYRDZXazl0V0tiSVB3TkVPMmVPTUlOTlBqakd3a3hUTXRibnlsTUZZbkVCTmN1YXdMYzA3NFczQUIzNDlzRHRzV1dkeFhMR2FLVGRSYkxGQkdyU3o3clFJUzI1SXVDQ0Q1VnhCeUFGUU5CLVlPNTVrNGZDZ1lLSWEyV1VoMlNxZENrcGhyYnhqc3M4WmxrWVnSAaIBQVVfeXFMT1BHWkpOU1U2c2d0c2hPZkZUeEx3YnlLOFRWaDNTb2dMQjZXOWp5eEdsaDd1elR6QVF4X1NFYnAxdmFxeDRoOFlxMU4tTFBFRVRhOVhNSkwzb3U2cmk1U3BNVDByUC1uSW4tM2J3dDV2M1lrZjRyZThnQndvdmNBcnVIT3Y5SEtpY2IySTRmLWJsdnhicEpxTzhsanF4Y2xReGJB?oc=5",
-   "source": "Consulting.us",
-   "category": "AI and Agents",
-   "summary": "McKinsey partners with Cognition on AI software engineering Consulting.us",
-   "published": "2026-11-17T10:19-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "'Doctor Who' Tender: Shortlist Revealed Inc Jed Mercurio, World, STV - Deadline",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMHFURUlYbXNNSWdLVXdDandkMDZjeHRnZFNxN2NyM2RPNmsxdVk1QTJSQTBQODhJRFBsbURJMlU1SUZZMS13MkFiazlIUjVpRjRkQjZOd3ZqOUdDT3hLRXhGRWx1OFk0WXpTQVpDZXpMZWRlZllqS0xOQmVSRERwakJmaVp3Wk1OUmhVZEJsODRfY2ZxbUlvMw?oc=5",
-   "source": "Deadline",
-   "category": "Science Fiction",
-   "summary": "'Doctor Who' Tender: Shortlist Revealed Inc Jed Mercurio, World, STV Deadline",
-   "published": "2026-11-17T02:00-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "BBC Has a Shortlist of Potential 'Doctor Who' Producers - Gizmodo",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uY1dJNUVhbXBmT01jazdZSmZtSThFXzZ6WVlfaTZRQlZ3Zk03aU1Ja0pfeVRWV29LczVjdk4wdnZ4eUx3Z1hpSjZpR25vbmQzTlppSC0zV1VZT0thZkhoc3RodVlpY3NTOEJtRWFqY19qbFBJZVB3cFlxWURpZw?oc=5",
-   "source": "Gizmodo",
-   "category": "Science Fiction",
-   "summary": "BBC Has a Shortlist of Potential 'Doctor Who' Producers Gizmodo",
-   "published": "2026-11-17T02:00-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "‘Doctor Who’: BBC Draws Up Producer Shortlist As Race To Regenerate Iconic Series Moves To Next Stage - IMDb",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUDY1Wk9GSjdIeTdtUmQ4UHJtWVB3UHBmWjlsOUlCT3pPY0xtbExhUExNaDJ1Q0dwQUdwOE1MM1QyLUZpbnJNMUo0U0xRUQ?oc=5",
-   "source": "IMDb",
-   "category": "Science Fiction",
-   "summary": "‘Doctor Who’: BBC Draws Up Producer Shortlist As Race To Regenerate Iconic Series Moves To Next Stage IMDb",
-   "published": "2026-11-17T02:00-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "BBC draws up Doctor Who shortlist in major update for new era - Metro.co.uk",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTlpzekhoRU5WMzJFYXJuMXBuNzZCbUZZcnpsT1FuQUg5TWZzWlo4NkFQaUxBSjR3SFRpNVgyZXYwMHNJX0lFUGl1Qzl2NmxsRUpqWFRzSkVpRTBCRDJPWVlxN0owOWhScWk2enVxWF9wc2lSdWQzdjlXRHB6OFhOc1laME5tQ3JEcEZPMFJKbUlrUdIBlwFBVV95cUxNWWlrYUhoMVdxdFNtMDRfRTRPNmNfQ3hWSlVtcHhCblg0YVprTC1seVJ1R2x6aHZCSlVPaXo1RVlHTTFhbWpOeWlTWjhtRnFMSGhBaG1HR0hmSXZNaVFuN3FWTE5McHJnaGdjMllIWUEtYktFVm9iMTlfLTFDYjhWQ1NkcTdtMUpMYzBhV2hpQzdtSVV2YjU4?oc=5",
-   "source": "Metro.co.uk",
-   "category": "Science Fiction",
-   "summary": "BBC draws up Doctor Who shortlist in major update for new era Metro.co.uk",
-   "published": "2026-11-17T02:00-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Unusual cloud formation over the borough - Reading Today Online",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jMEJTUFJwVllQQUMzRWZmemd1Z1oxREtuLWcyUTJuTDZjb09kMnJackpscHg3WUZIWXBJS3d1WmlMa2tkTWVFZWdITTJ6dGtXRk0xNGxNM08zUUNSYXNvRkNZTjRIMzNqWjUw?oc=5",
-   "source": "Reading Today Online",
-   "category": "Weather & Meteorology",
-   "summary": "Unusual cloud formation over the borough Reading Today Online",
-   "published": "2026-11-17T01:06-06:00",
-   "tags": [],
-   "feed": "Google News unusual weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Cognition and McKinsey join forces on enterprise AI software development - Portal ERP",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUkp1OHV3SGpESTVZbDNFcFo5Qm5KbUl2TXdfMDBDbFlHdmU2TEVSSmZva0VySlEtejUxS3UxWEZmZ1g5VjRUcFpXYkxnMEtNdTVhOVJSWE4tWkE2S1ZUTDd3cHcyMnhPNmZFZTM2VDRJSHVEeGRVTkJYZzFwX21NT1ZRTFFnZEpHVnBKbXl6NF9VNGREQ2ZyVHpyU1MxeDk5NVBWdw?oc=5",
-   "source": "Portal ERP",
-   "category": "AI and Agents",
-   "summary": "Cognition and McKinsey join forces on enterprise AI software development Portal ERP",
-   "published": "2026-11-16T19:17-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Your Brain on Grief, Your Heart on Healing",
    "link": "https://www.themarginalian.org/2026/11/16/the-grieving-brain-mary-frances-o-connor/",
    "source": "The Marginalian",
@@ -3951,64 +4033,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/11/tolkien_perilousrealm.jpg?w=680&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Four Telescopes for New Observers",
-   "link": "https://skyandtelescope.org/astronomy-equipment/four-telescopes-for-new-observers/",
-   "source": "Sky and Telescope News",
-   "category": "Astronomy and Space",
-   "summary": "For $200 or less, you can buy a complete telescope for first-person contact with the Moon, planets, and deep-sky showpieces. The post Four Telescopes for New Observers appeared first on Sky & Telescope .",
-   "published": "2026-11-16T07:00-06:00",
-   "tags": [
-    "Astronomy & Observing News",
-    "Choosing Your Astronomy Equipment",
-    "Equipment: Guides & Recommendations",
-    "Telescopes: Guides & Recommendations",
-    "Telescopes"
-   ],
-   "feed": "Sky and Telescope News",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Reimagining Autonomous Software Development with Factory’s AI Agents - Wipro",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejdUa3B1bjYxOWtEeHJGT3B4c2duaG9oVzVVWHdrazdHZ2xxOTBIcTlDTGs0YzZ3UF9Cb01wTVk5SzkxQlYzbmYxeVFIWThMa2x1eHQ2T0tBN004M2pyWXRTMkEwOVFUTzNvZzFWcV9LZzI3U3BHQmVMY1JYSk10SWV2VDdKNlhFcDRxeV93dlZ0QUNFNThNMmFmZjlpX3BXdm5iMmNOZUlkYy11QkdDSzZ3UVVlVXJv?oc=5",
-   "source": "Wipro",
-   "category": "AI and Agents",
-   "summary": "Reimagining Autonomous Software Development with Factory’s AI Agents Wipro",
-   "published": "2026-11-16T02:07-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Northern Lights Forecast: Here’s Where The Aurora Could Be Visible This Week - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1lXcFVLaTloMnRmai1vSm9Sc0xsOGU0cXZncERwdlpLWlAzTkVxT1hjMVM3b2ZlbllPYnFTbXYtNTg3bzRpRzNVWjVGOGk4bWU2bzRrdDhXdVZUei1pX29EMVJoUGlKQm9NYUhHUnZscTJmMmI3VmZhX3JjM0xJQXZwNHgyeEFzSVo3U21zQkVjb3BQM1IwVjFGaGhDSjY0VTNr?oc=5",
-   "source": "Yahoo",
-   "category": "Space Weather and Aurora",
-   "summary": "Northern Lights Forecast: Here’s Where The Aurora Could Be Visible This Week Yahoo",
-   "published": "2026-11-16T02:00-06:00",
-   "tags": [],
-   "feed": "Google News aurora",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "2026 State of Cloud Security Report: Beyond Human Scale - How AI Agents Reshape Cloud Risk - Palo Alto Networks",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3BIZG1VbmNFZ2YzNHQwT0RQTFVWSmxqOUduWExkenotdFM1NUNNSjN2NmdwZjZOSTFnbGhTUUNqTXEyMklLaGxyUDZmQW1zQ1RBNUdhakFQd1BRR3NWSy1kVnJGdlo0OU1kQ00yYnQxazlVNjZQSXM2Zi1Lb05icTNad1ZKS3VObzgtWG0zSEtZRWhoOFV0aF9GYVhheWEtRlJEOWpOZzBVNFFsNUh3?oc=5",
-   "source": "Palo Alto Networks",
-   "category": "AI and Agents",
-   "summary": "2026 State of Cloud Security Report: Beyond Human Scale - How AI Agents Reshape Cloud Risk Palo Alto Networks",
-   "published": "2026-11-16T02:00-06:00",
-   "tags": [],
-   "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -4074,29 +4098,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/orhidthief.jpg?fit=320%2C466&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "How to Hear the Song of Life",
-   "link": "https://www.themarginalian.org/2026/11/12/song-of-the-cedars/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "“When we have learned how to listen to trees,” Hermann Hesse wrote in one of his least known, most beautiful essays , “then the brevity and the quickness and the childlike hastiness of our thoughts achieve an incomparable joy. Whoever has learned how to listen to trees no longer wants to be a tree. He wants to be nothing except what he is. That is home. That is happiness.” To be ourselves is rooted in the recognition that, rather than a tree, a self is a forest ; to be at home in the world is rooted in the recognition that a forest is a self. While indigenous cultures have known this since the dawn of knowledge, we are only just beginning to unlearn everything we have been taught by the eras",
-   "published": "2026-11-12T10:38-06:00",
-   "tags": [
-    "art",
-    "culture",
-    "music",
-    "activism",
-    "books",
-    "Cosmo Sheldrake",
-    "Giuliana Furci",
-    "illustration"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/songofthecedars_cover0.jpg?fit=320%2C471&ssl=1",
    "summary_from": "feed"
   },
   {
@@ -4180,27 +4181,6 @@
    "feed": "Atlas Obscura",
    "evergreen": true,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "What Makes You Yourself: Posidonia Australis, Pando, and the Paradox of Personhood",
-   "link": "https://www.themarginalian.org/2026/11/09/pando/",
-   "source": "The Marginalian",
-   "category": "Curious Discoveries",
-   "summary": "Bigger than Manhattan, Earth’s largest living organism sways in the surf south of Australia: Posidonia australis — a species of seagrass that, unable to flower, clones itself. Older than mathematics and the written word, it has been cloning itself since before the pyramids were built — a kind of immortality. And while I kiss my lover on the fresh-cut grass under the Manhattan Bridge, it goes on cloning itself as we go on dying and passing between our lips the heat of our mortality. An organism is a mortal unit of matter distinct from other organisms by its genome — the possibilities encoded in its particular genetic makeup — and its phenotype — the set of traits expressed, the actualities su",
-   "published": "2026-11-09T19:10-06:00",
-   "tags": [
-    "culture",
-    "psychology",
-    "science",
-    "books",
-    "philosophy",
-    "trees"
-   ],
-   "feed": "The Marginalian",
-   "evergreen": true,
-   "tier": "main",
-   "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/05/StellersJay_becoming.jpg",
    "summary_from": "feed"
   },
   {
