@@ -1,0 +1,38 @@
+[
+  {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
+    "source": "NASA Astronomy Picture of the Day",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg",
+    "title": "Rigel and the Witch Head Nebula",
+    "category": "Astrophotography",
+    "dept": "from the cosmic illusion dept.",
+    "reasoning": "Reflection nebulae illuminated by bright supergiants always provide stunning visual targets for astrophotographers. IC 2118 near Rigel offers a classic case of pareidolia coupled with intricate interstellar dust structures.",
+    "summary": "An astrophotograph captures IC 2118, a faint reflection nebula known popularly as the Witch Head Nebula due to its uncanny resemblance to a caricature. Illuminated by the bright blue supergiant Rigel, the sprawling dust cloud spans about 50 light-years.",
+    "added": "2026-11-10T17:14:38-06:00"
+  },
+  {
+    "id": "https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/",
+    "link": "https://reactormag.com/m-john-harrisons-the-end-of-everything-booker-prize/",
+    "source": "Reactor",
+    "image": "https://reactormag.com/wp-content/uploads/2026/11/M.-John-Harrison-The-End-of-Everything-740x493.jpg",
+    "title": "M. John Harrison’s The End of Everything Wins the Booker Prize",
+    "category": "Science Fiction",
+    "dept": "from the literary apocalypse dept.",
+    "reasoning": "It is a rare and welcome event when uncompromising speculative fiction takes home a major mainstream literary prize like the Booker. M. John Harrison's win is a brilliant milestone for imaginative storytelling.",
+    "summary": "M. John Harrison’s post-apocalyptic sci-fi novel The End of Everything has won the prestigious Booker Prize. Set in a bleak, post-collapse England, the book's victory has been widely celebrated across the science fiction community.",
+    "added": "2026-11-10T17:13:38-06:00"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/",
+    "link": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/",
+    "source": "Microsoft DevBlogs",
+    "image": "https://devblogs.microsoft.com/wp-content/uploads/2026/11/Agent-Experience_-SemVer-and-Agent-Behavior.webp",
+    "title": "Do AI Coding Agents Care About SemVer?",
+    "category": "AI and Agents",
+    "dept": "from the semantic versioning dept.",
+    "reasoning": "This is a clever piece of practical engineering research that tests an assumption about how autonomous agents interact with codebases. It turns out that version numbers still act as a subtle psychological nudge even for LLMs.",
+    "summary": "Microsoft researchers tested whether AI coding agents pay attention to semantic versioning when upgrading dependencies. Surprisingly, experiments revealed that version numbers alone changed how models handled byte-identical code modifications.",
+    "added": "2026-11-10T17:12:38-06:00"
+  }
+]
