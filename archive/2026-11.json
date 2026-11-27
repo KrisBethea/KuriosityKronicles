@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/",
+    "link": "https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/3D-printed-whistle-modular.jpg",
+    "title": "Modular, 3D-Printed Train Whistles for Your Inner Conductor",
+    "category": "DotNet and Development",
+    "dept": "from the resonant chamber dept.",
+    "reasoning": "There is something inherently delightful about well-engineered mechanical projects that serve a purely whimsical purpose. This 3D-printable, modular train whistle lets makers swap resonant chambers on the fly to replicate historic steam whistle chimes.",
+    "summary": "A clever 3D-printing project offers a modular 3-inch train whistle with adjustable bell caps to change resonant notes on the fly. By tweaking the chamber dimensions, makers can switch between authentic historic steam whistle chimes using common FDM printers.",
+    "added": "2026-11-11T18:55:46-06:00"
+  },
+  {
+    "id": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
+    "link": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
+    "source": "Atlas Obscura",
+    "image": "https://img.atlasobscura.com/x0-cBeAaRCG8uwV62juYK_ns4yj_LdiOuNK5FrhVw9Y/rs:fill:300:200:1/g:ce/c:1597:1064:nowe:859:321/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82NTY4/NzdmMy05ZGJjLTQ3/ODYtYmE2NC05OWY3/NjViZDdlMTM4OThi/OGNlNTc3OTkxOThj/NjVfUEExODMyMDAu/anBn.jpg",
+    "title": "The Invisible Lamplighter of The Hague",
+    "category": "Curious Discoveries",
+    "dept": "from the bronze age dept.",
+    "reasoning": "Hidden urban art pieces that celebrate forgotten historical professions are always worth highlighting. This charming bronze sculpture in The Hague captures a lamplighter mid-climb from an era before automated electricity took over.",
+    "summary": "Tucked away in an alleyway in The Hague, a bronze sculpture titled De Lantaarnopsteker depicts a lamplighter scrambling up a lamp post. Created by Dutch sculptor Loek Bos, the artwork immortalizes the historic trade of manually lighting city streets before automated electricity.",
+    "added": "2026-11-11T18:54:46-06:00"
+  },
+  {
+    "id": "https://kottke.org/26/11/techno-marching-band",
+    "link": "https://kottke.org/26/11/techno-marching-band",
+    "source": "Kottke",
+    "title": "MEUTE: The 11-Piece Techno Marching Band",
+    "category": "Wildcard",
+    "dept": "from the acoustic bassline dept.",
+    "reasoning": "Bridging the gap between electronic club music and traditional marching band instrumentation is a wonderfully eccentric creative pursuit. It is a refreshing antidote to algorithmic monotony.",
+    "summary": "MEUTE is an 11-piece German marching band that swaps synthesizers and laptops for tubas, trombones, and drum kits to perform electronic music acoustically. Their unique arrangements bring a surprisingly rich physical energy to modern techno tracks.",
+    "added": "2026-11-11T18:53:46-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
+    "link": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/image_7543-Hot-Jupiter_20261110_222441.jpg",
+    "title": "Hot Jupiter Vanishes from Sight After Gravitational Tug from Unseen Neighbor",
+    "category": "Astronomy and Space",
+    "dept": "from the disappearing-act dept.",
+    "reasoning": "When a transiting exoplanet monitored by TESS for seven years suddenly stops showing up, it forces astronomers to look closer at orbital dynamics. This clear, source-backed finding explains how a neighboring giant planet can gravitationally tug a world right out of our line of sight.",
+    "summary": "Astronomers analyzing seven years of TESS data discovered that a hot Jupiter about 1,000 light-years away stopped transiting its star. They determined that an unseen massive companion planet gravitationally tugged the world off its previous transit alignment.",
+    "added": "2026-11-11T11:33:25-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/",
+    "link": "https://hackaday.com/2026/11/10/this-coffee-machine-is-doomed/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/DOOMed-coffee-machine.jpg",
+    "title": "This Smart Coffee Kiosk Is Now Playing DOOM",
+    "category": "DotNet and Development",
+    "dept": "from the caffeine-and-frag-grenades dept.",
+    "reasoning": "There is a wonderful, enduring hacker tradition of getting id Software's classic shooter running on anything with a microprocessor. This detailed teardown of a Linux-powered commercial coffee kiosk provides a clever look into embedded hacking and low-level debugging ports.",
+    "summary": "A hardware hacker managed to run DOOM on the i.MX 6 ARM Cortex-A9 processor powering a commercial self-serve coffee kiosk's touchscreen module. By probing the debug port on the machine's smart controller, they added a whole new kind of hard mode to your morning caffeine run.",
+    "added": "2026-11-11T11:32:25-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/10/watching-the-watchers/",
+    "link": "https://hackaday.com/2026/11/10/watching-the-watchers/",
+    "source": "Hackaday",
+    "title": "A Local Browser Tool for Tracking Overhead Satellites and Imagery",
+    "category": "DotNet and Development",
+    "dept": "from the low-earth-orbit dept.",
+    "reasoning": "With modern skies growing crowded with constellations, open-source utilities that let developers run SGP4 orbital mechanics locally in the browser are fantastic. It is a neat engineering project that highlights how everyday observers can monitor passing hardware and downlinked data.",
+    "summary": "A developer has built a browser-based satellite tracker using simplified perturbation models to map passes over any location in real time. The open-source tool runs entirely client-side and can automatically pull imagery transmitted by passing spacecraft.",
+    "added": "2026-11-11T11:31:25-06:00"
+  },
+  {
     "id": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
     "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
     "source": "NASA News",

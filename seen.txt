@@ -207,3 +207,9 @@ https://news.google.com/rss/articles/CBMiigNBVV95cUxPRWpHWEE5SU5aa1k2RF9oQTdmTFk
 https://skyandtelescope.org/astronomy-news/hera-images-dimorphos-unveiled/
 https://devblogs.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/
 https://reactormag.com/celebrating-poul-anderson-at-100-five-favorite-short-works/
+https://www.universetoday.com/articles/astronomers-discover-a-hidden-binary-in-a-star-system-used-to-calibrate-the-jwst
+https://www.universetoday.com/articles/slingshot-earth-nasas-europa-clipper-will-gain-speed-and-tests-its-instruments-during-its-earth-flyb
+https://www.universetoday.com/articles/ai-helps-three-powerful-supercomputers-simulate-the-milky-way-in-extraordinary-detail
+https://news.google.com/rss/articles/CBMifkFVX3lxTE4yN2dfYUV4dTF2NUE0SHFHdkhpcmNNRVlJZ3N1X1pibUN5REw2UUdqWVFMaHdSdkxRT0pHOWZrMEFVSVlQRzA0dEtqN0hKcndQbmQ5ZHpxTi1uWENuMF94Qk1UenVzYzI0c2xXSU9qdFJEY2JJajV1OElwM010Zw?oc=5
+https://devblogs.microsoft.com/blog/do-ai-coding-agents-struggle-with-non-rest-apis/
+https://hackaday.com/2026/11/26/a-toolkit-for-identifying-rfid-tags/
