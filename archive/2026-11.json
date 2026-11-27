@@ -1,5 +1,88 @@
 [
   {
+    "id": "https://hackaday.com/2026/11/11/its-elite-for-the-commodore-pet/",
+    "link": "https://hackaday.com/2026/11/11/its-elite-for-the-commodore-pet/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/pet-elite-featured.jpg",
+    "title": "Porting Elite to the Commodore PET",
+    "category": "DotNet and Development",
+    "dept": "from the vintage retrocomputing dept.",
+    "reasoning": "Porting a legendary open-world game to a machine with strictly block graphics four decades later is pure hacker joy. It showcases a deep appreciation for classical 6502 assembly constraints and retro systems.",
+    "summary": "Developer David Given has successfully ported the iconic 1980s open-world space trading game Elite to the Commodore PET. Running on a 6502 processor with 32k of memory, the port relies on the PET's block graphics rather than modern high-resolution displays.",
+    "added": "2026-11-12T14:20:34-06:00"
+  },
+  {
+    "id": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+    "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+    "source": "NASA News",
+    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/irregular/NGC%204449.jpg?w=2048&h=1320&fit=clip&crop=faces%2Cfocalpoint",
+    "title": "NGC 4449: The Small Galaxy Punching Above Its Weight",
+    "category": "Astronomy and Space",
+    "dept": "from the stellar nursery dept.",
+    "reasoning": "Dwarf galaxies often harbor intense starburst activity that rivals much larger spirals, providing crucial laboratories for stellar formation. This NASA Astronomy Picture of the Day highlights the surprising ferocity of small cosmic systems.",
+    "summary": "A detailed look at the dwarf irregular galaxy NGC 4449 reveals a widespread, frantic wave of active star formation. Despite being a fraction of the size of the Milky Way, this small galaxy is currently manufacturing stars at an astonishing rate.",
+    "added": "2026-11-12T14:19:34-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor",
+    "link": "https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/at2016blu_labeled_20261111_140315.jpg",
+    "title": "Chandra Unmasks a Supernova Impostor",
+    "category": "Astronomy and Space",
+    "dept": "from the cosmic masquerade dept.",
+    "reasoning": "Distinguishing between cataclysmic stellar deaths and recurring outbursts from unstable massive stars is notoriously difficult. Finding a compact binary companion behind the outbursts solves a long-standing astronomical mystery.",
+    "summary": "New research using the Chandra X-Ray Observatory reveals that a periodic 'supernova impostor' star outburst is actually powered by a binary relationship with a black hole or neutron star. Luminous Blue Variables often mimic true supernovae, but their recurring flares point to complex stellar interactions.",
+    "added": "2026-11-12T14:18:34-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth",
+    "link": "https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/PIA21275_-_Psyche_Artists_Concept_20261111_170620.jpg",
+    "title": "What Happens When Asteroid Mining Hits the Market?",
+    "category": "Astronomy and Space",
+    "dept": "from the extraterrestrial commodities dept.",
+    "reasoning": "Discussions of space mining usually focus on the rocketry and engineering rather than the macroeconomic reality. Applying system dynamics to platinum market shocks provides a grounded look at future space industry economics.",
+    "summary": "A pair of system dynamicists from MIT have modeled the economic impact of harvesting platinum-group metals from asteroids using spacecraft like AstroForge. Their research suggests that while asteroid mining would crash rare-earth commodity prices, the broader industrial availability would benefit Earth immensely.",
+    "added": "2026-11-12T14:17:34-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths",
+    "link": "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/ChiYan-Primary-Art-1-1536x864_20261111_184441.jpg",
+    "title": "The Ice Giants' Strange and Shifting Magnetic Fields",
+    "category": "Astronomy and Space",
+    "dept": "from the planetary dynamo dept.",
+    "reasoning": "Uranus and Neptune have long puzzled astronomers with magnetic fields that bear little resemblance to Earth's orderly dipole. New modeling suggests these chaotic fields may change on surprisingly short timescales compared to our last visit from Voyager 2. It is a fascinating look at the dynamic interiors of the solar system's ice giants.",
+    "summary": "New research suggests that the messy, tilted magnetic fields of Uranus and Neptune may change on very short timescales, potentially looking quite different than they did during Voyager 2's flybys in the 1980s. These findings highlight how little we still know about the unique interiors of our solar system's ice giants.",
+    "added": "2026-11-11T18:58:46-06:00"
+  },
+  {
+    "id": "https://astrobackyard.com/seestar-s30-plus-review/",
+    "link": "https://astrobackyard.com/seestar-s30-plus-review/",
+    "source": "AstroBackyard",
+    "title": "Seestar S30 Plus Review: A New Entry-Level Smart Telescope",
+    "category": "Astrophotography",
+    "dept": "from the automated aperture dept.",
+    "reasoning": "Smart telescopes are rapidly transforming how backyard astronomers capture deep-sky objects without spending a fortune. This review of the Seestar S30 Plus offers a realistic look at what an affordable, app-controlled 30mm apochromatic setup can achieve for beginners.",
+    "summary": "The Seestar S30 Plus bridges the gap between ultra-portable smart scopes and traditional astrophotography gear with a $499 price tag. Featuring a 30mm aperture and dual cameras, it gives beginners an accessible way to image deep-sky targets from the backyard.",
+    "added": "2026-11-11T18:57:46-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/",
+    "link": "https://hackaday.com/2026/11/11/ev-batteries-are-proving-hardier-than-expected/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/10/EVbatteries.jpg",
+    "title": "Data Shows Used EV Batteries Are Holding Up Better Than Expected",
+    "category": "DotNet and Development",
+    "dept": "from the state-of-charge dept.",
+    "reasoning": "Skepticism around battery longevity has been a persistent talking point for electric vehicles, but empirical data tells a much more encouraging story. Diagnostic testing from hundreds of thousands of real-world vehicles provides valuable insight into actual degradation rates over time.",
+    "summary": "Analysis of more than 500,000 battery tests across popular electric vehicle models reveals that packs are degrading far more slowly than critics anticipated. Diagnostics companies utilizing rapid OBD tests are finding that used EV batteries retain health much better than feared.",
+    "added": "2026-11-11T18:56:46-06:00"
+  },
+  {
     "id": "https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/",
     "link": "https://hackaday.com/2026/11/11/modular-3d-printed-train-whistles-for-everyone/",
     "source": "Hackaday",
