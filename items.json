@@ -1,5 +1,76 @@
 [
   {
+    "id": "https://www.universetoday.com/articles/all-the-gaps-we-see-in-protoplanetary-disks-arent-from-planets",
+    "link": "https://www.universetoday.com/articles/all-the-gaps-we-see-in-protoplanetary-disks-arent-from-planets",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/20261124_Yamaguchi_Fig.1_20261126_235908.jpg",
+    "title": "Not All Gaps in Protoplanetary Disks Point to Hidden Planets",
+    "category": "Astronomy and Space",
+    "dept": "from the not-everything-is-a-planet dept.",
+    "reasoning": "Observations from facilities like ALMA frequently reveal striking rings and gaps in protoplanetary disks around young stars, which are often attributed to newly forming planets. However, recent astronomical research demonstrates that other disk features can emerge from alternative physical processes. This is a great reminder to look closer at observational assumptions in stellar evolution.",
+    "summary": "Astronomers using high-powered arrays like ALMA have mapped numerous rings and gaps in protoplanetary disks surrounding young stars. While these structures are commonly interpreted as signs of young planets forming, new research highlights that not all disk features are caused by planetary bodies.",
+    "added": "2026-11-27T18:02:44-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/27/esp32-remote-access-done-light/",
+    "link": "https://hackaday.com/2026/11/27/esp32-remote-access-done-light/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/ESP32-remote-access-in-9.4-KB-of-RAM_-logs-crashes-and-OTA-updates-_-Pinscope-2-15-screenshot-e1795678010431.png",
+    "title": "ESP32 Remote Access Secured Without Heavy TLS",
+    "category": "DotNet and Development",
+    "dept": "from the low-ram-crypto dept.",
+    "reasoning": "When memory-constrained microcontrollers need secure connections without the heavy overhead of TLS, developers have to get creative. Implementing the Noise protocol with pre-shared static keys is a clever engineering workaround for embedded systems.",
+    "summary": "Faced with an ESP32 project lacking enough spare RAM to run full TLS for server communication, developers implemented the Noise protocol instead. By using a pre-shared static server key, the microcontroller establishes secure, encrypted connections with minimal memory overhead.",
+    "added": "2026-11-27T18:01:44-06:00"
+  },
+  {
+    "id": "https://hackaday.com/2026/11/27/classic-pokemon-goes-widescreen/",
+    "link": "https://hackaday.com/2026/11/27/classic-pokemon-goes-widescreen/",
+    "source": "Hackaday",
+    "image": "https://hackaday.com/wp-content/uploads/2026/11/firered-field.webp",
+    "title": "PokeDaisy Brings Classic Pokémon Games to Widescreen Handhelds",
+    "category": "DotNet and Development",
+    "dept": "from the overworld-expansion dept.",
+    "reasoning": "Emulating classic handheld games on modern widescreen hardware often leaves awkward pillarboxing. A clever new tool addresses this by scraping overworld maps and displaying extra companion data, breathing new life into retro titles.",
+    "summary": "PokeDaisy is a new toolkit designed to make classic Pokémon titles from the Game Boy era through the Nintendo DS playable on modern widescreen devices. The software runs a companion tool that displays inventory and party data, and even expands the overworld view for select generation III and original Game Boy games.",
+    "added": "2026-11-27T18:00:44-06:00"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnFpZ1Z6NkFUU3V4VmxIQnNwZDBJeS00NUwyd1VUdG1WTm9kaWN3alM5MVAyZEp5dDdfcW9vUGR3WHctRTRiX2kxRl9kOXZzNk90dkd1OUdpNVJjN1ZWMU9odC04RnVuMWk1MFJldHIxVFNaVnV4cnR6Z0dac2Z5eW43ck04V1daWUI5YzZpR2picEJFcmpDUVJpUl9tcHVhMkduZGRMWEJ6UUE2Zzh1cmhMWlZqR3ZPMVYxMnU0WGZjMmVBX2taaGlULV9pOG15c0Y0MU9Gb0hzWmxkWVdUQ3JSbEI?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnFpZ1Z6NkFUU3V4VmxIQnNwZDBJeS00NUwyd1VUdG1WTm9kaWN3alM5MVAyZEp5dDdfcW9vUGR3WHctRTRiX2kxRl9kOXZzNk90dkd1OUdpNVJjN1ZWMU9odC04RnVuMWk1MFJldHIxVFNaVnV4cnR6Z0dac2Z5eW43ck04V1daWUI5YzZpR2picEJFcmpDUVJpUl9tcHVhMkduZGRMWEJ6UUE2Zzh1cmhMWlZqR3ZPMVYxMnU0WGZjMmVBX2taaGlULV9pOG15c0Y0MU9Gb0hzWmxkWVdUQ3JSbEI?oc=5",
+    "source": "KATU",
+    "title": "National Weather Service Issues Rare Tornado Warning for King County on Thanksgiving Day",
+    "category": "Weather & Meteorology",
+    "dept": "from the unexpected-thanksgiving-twister dept.",
+    "reasoning": "Severe convective weather events are exceptionally rare in Western Washington, let alone on Thanksgiving. This unusual meteorological event caught hikers and residents off guard near Issaquah and Renton.",
+    "summary": "The National Weather Service in Seattle issued a rare tornado warning covering parts of King County, Washington, during Thanksgiving afternoon. The unusual severe weather brought brief tornado activity, heavy rain, and localized flooding to communities including Issaquah, Snoqualmie, and Renton.",
+    "added": "2026-11-27T17:59:44-06:00"
+  },
+  {
+    "id": "https://www.universetoday.com/articles/study-finds-artemis-astronauts-will-enjoy-moon-grown-potatoes",
+    "link": "https://www.universetoday.com/articles/study-finds-artemis-astronauts-will-enjoy-moon-grown-potatoes",
+    "source": "Universe Today",
+    "image": "https://www.universetoday.com/article_images/lunartaters_20261125_224441.jpg",
+    "title": "Study Confirms Artemis Astronauts Can Safely Eat Moon-Grown Potatoes",
+    "category": "Astronomy and Space",
+    "dept": "from the space-tater dept.",
+    "reasoning": "Deep-space exploration requires sustainable life-support systems, and feeding future lunar crews is a major logistical challenge. Demonstrating that crops can thrive in nutrient-fortified lunar regolith simulant is a practical step forward.",
+    "summary": "Researchers have demonstrated that potatoes grown in simulated lunar soil fortified with organic matter are safe for consumption and can achieve yields comparable to Earth-grown crops. The findings support future food production efforts for long-duration missions to the Moon and Mars.",
+    "added": "2026-11-27T17:58:44-06:00"
+  },
+  {
+    "id": "https://www.themarginalian.org/2026/11/26/nabokov-on-what-makes-a-good-reader/",
+    "link": "https://www.themarginalian.org/2026/11/26/nabokov-on-what-makes-a-good-reader/",
+    "source": "The Marginalian",
+    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/01/lecturesonliterature.jpg?w=680&ssl=1",
+    "title": "Vladimir Nabokov on the Art of Being a Rereader",
+    "category": "Curious Discoveries",
+    "dept": "from the memory-lane-rereader dept.",
+    "reasoning": "Exploring literary figures' thoughts on active engagement provides a refreshing philosophical break. Nabokov's perspective on mastery through rereading remains a timeless essay on how we consume text.",
+    "summary": "Drawing on the literary insights of Vladimir Nabokov, this piece explores the idea that a truly active and creative reader must also be a rereader. The discussion highlights how literary appreciation and mastery deepen upon returning to familiar texts with a practiced eye.",
+    "added": "2026-11-27T17:57:44-06:00"
+  },
+  {
     "id": "https://www.universetoday.com/articles/detection-of-vaporized-rock-reveals-the-birth-of-a-solar-system",
     "link": "https://www.universetoday.com/articles/detection-of-vaporized-rock-reveals-the-birth-of-a-solar-system",
     "source": "Universe Today",
@@ -2288,76 +2359,5 @@
     "reasoning": "Passing an evaluation score doesn't tell you why an automated assistant struggled with a coding task, making step-by-step trajectory logs invaluable for engineering improvements. This is a practical reality check for anyone building reliable agent workflows.",
     "summary": "A deep dive into agent evaluation shows that final test scores often hide how many times an assistant stumbled before succeeding. Analyzing the complete trajectory of every step an agent takes provides the necessary insights to improve developer tooling.",
     "added": "2026-11-12T19:02:30-06:00"
-  },
-  {
-    "id": "https://hackaday.com/2026/11/12/upgrade-your-coco-the-modern-way/",
-    "link": "https://hackaday.com/2026/11/12/upgrade-your-coco-the-modern-way/",
-    "source": "Hackaday",
-    "image": "https://hackaday.com/wp-content/uploads/2026/11/coco-tang-featured.jpg",
-    "title": "Modernizing a Classic TRS-80 Color Computer with an FPGA",
-    "category": "DotNet and Development",
-    "dept": "from the retrofitting silicon dept.",
-    "reasoning": "Retrocomputing hardware mods rarely get more invasive or impressive than giving a vintage 1980s machine an entire system architecture upgrade via modern programmable logic. It is a brilliant piece of engineering nostalgia for anyone who loves old iron.",
-    "summary": "A hardware enthusiast has designed a Tang Nano 20K FPGA board modification that brings modern memory expansion, HDMI output, and enhanced sound to the classic Radio Shack TRS-80 Colour Computer 3.",
-    "added": "2026-11-12T19:01:30-06:00"
-  },
-  {
-    "id": "https://astrobackyard.com/askar-n160/",
-    "link": "https://astrobackyard.com/askar-n160/",
-    "source": "AstroBackyard",
-    "title": "First Look at the Askar N160 Ultra-Fast Newtonian Reflector",
-    "category": "Astrophotography",
-    "dept": "from the backyard optics dept.",
-    "reasoning": "Finding a portable telescope that balances a generous aperture with a fast focal ratio without needing a monstrous mount is always a win for backyard astrophotographers. Real-world testing notes offer a grounded perspective on new imaging gear.",
-    "summary": "A first-hand review of the Askar N160 highlights its performance as a compact, ultra-fast 160mm Newtonian reflector designed to provide high light-gathering power for backyard deep-sky imaging.",
-    "added": "2026-11-12T19:00:30-06:00"
-  },
-  {
-    "id": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-    "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-    "source": "NASA News",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif?w=2048",
-    "title": "Hubble and Roman Team Up on Gravitational Lenses",
-    "category": "Astronomy and Space",
-    "dept": "from the cosmic magnifying-glass dept.",
-    "reasoning": "Gravitational lenses offer some of the best tools for studying dark matter and galactic evolution across cosmic time. Combining Hubble's archival sharpness with the Nancy Grace Roman Space Telescope gives astronomers an incredible multi-mission observational pipeline.",
-    "summary": "A new gallery of strong gravitational lenses captured by the Hubble Space Telescope highlights targets that will be revisited by the newly launched Roman Space Telescope. These cosmic magnifying glasses help scientists investigate dark matter distribution and the evolution of distant galaxies.",
-    "added": "2026-11-12T14:24:34-06:00"
-  },
-  {
-    "id": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
-    "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
-    "source": "NASA Astronomy Picture of the Day",
-    "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg",
-    "title": "Saturn Hidden Behind the Lunar Limb",
-    "category": "Astrophotography",
-    "dept": "from the planetary peekaboo dept.",
-    "reasoning": "Occultations provide a rare dynamic moment when observing the outer planets against familiar lunar features. This image captures the quiet precision of planetary tracking and amateur-professional astrophotography at its best.",
-    "summary": "A stunning astrophotography shot captures Saturn disappearing behind the lit limb of Earth's Moon during an occultation event. Such alignments offer a rare perspective on the relative motion of bodies in our inner and outer solar system.",
-    "added": "2026-11-12T14:23:34-06:00"
-  },
-  {
-    "id": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/",
-    "link": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/",
-    "source": "Microsoft .NET Blog",
-    "image": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2026/11/modernize-net-apps-for-windows-arm64.webp",
-    "title": "Modernizing .NET Apps for Windows Arm64 with GitHub Copilot",
-    "category": "DotNet and Development",
-    "dept": "from the silicon-migration dept.",
-    "reasoning": "Moving legacy enterprise workloads to Arm architecture usually involves tracking down hundreds of hidden dependency blockers and build settings. Using an AI assistant to plan and execute that migration saves developers countless hours of manual audit work.",
-    "summary": "The GitHub Copilot upgrade agent now helps developers assess and modernize existing .NET applications for migration to Windows Arm64. The tool identifies platform blockers, builds a migration plan, and updates code and configuration dependencies automatically.",
-    "added": "2026-11-12T14:22:34-06:00"
-  },
-  {
-    "id": "https://hackaday.com/2026/11/12/tiny-transmitters-track-monarch-butterflies/",
-    "link": "https://hackaday.com/2026/11/12/tiny-transmitters-track-monarch-butterflies/",
-    "source": "Hackaday",
-    "image": "https://hackaday.com/wp-content/uploads/2026/11/butterfly.png",
-    "title": "Tiny Solar-Powered Transmitters Track Monarch Butterfly Migration",
-    "category": "DotNet and Development",
-    "dept": "from the lepidopteran telemetry dept.",
-    "reasoning": "Weighing in at just 60 milligrams with zero batteries, these custom Bluetooth tags represent an astonishing feat of biological telemetry. It is a brilliant hardware hack connecting tiny garden visitors to modern mobile location services.",
-    "summary": "Researchers are using a 60-milligram solar-powered Bluetooth transmitter attached with eyelash glue to track the incredible migration of monarch butterflies. The featherlight tags allow scientists and citizen scientists alike to follow the insects using standard smartphone location services.",
-    "added": "2026-11-12T14:21:34-06:00"
   }
 ]
