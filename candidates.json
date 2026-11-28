@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-27T07:51-06:00",
- "count": 269,
+ "generated": "2026-11-27T18:02-06:00",
+ "count": 262,
  "sources": {
   "Astronomy and Space | NASA Science": {
    "url": "https://science.nasa.gov/feed/",
@@ -24,14 +24,14 @@
   "Astronomy and Space | Universe Today": {
    "url": "https://www.universetoday.com/feed",
    "ok": true,
-   "kept": 12,
+   "kept": 9,
    "entries": 20,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 8,
+   "seen_or_dup": 11,
    "no_title_or_link": 0
   },
   "Astronomy and Space | ESA Space Science": {
@@ -70,12 +70,12 @@
    "url": "https://news.google.com/rss/search?q=%22space+weather%22+OR+%22geomagnetic+storm%22+OR+%22solar+flare%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 8,
-   "entries": 68,
+   "entries": 70,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 60,
+   "old": 62,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -114,14 +114,14 @@
   "Astrophotography | NASA Astronomy Picture of the Day": {
    "url": "https://science.nasa.gov/feed/apod-basic/",
    "ok": true,
-   "kept": 2,
+   "kept": 3,
    "entries": 30,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
    "old": 9,
-   "seen_or_dup": 19,
+   "seen_or_dup": 18,
    "no_title_or_link": 0
   },
   "Astrophotography | Sky and Telescope Observing": {
@@ -133,13 +133,13 @@
   "Weather & Meteorology | Google News severe weather science": {
    "url": "https://news.google.com/rss/search?q=%22severe+weather%22+%22research%22+OR+%22meteorology%22+%22forecast%22&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 8,
-   "entries": 28,
+   "kept": 6,
+   "entries": 66,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 20,
+   "old": 60,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -166,20 +166,34 @@
    "skipped": 0,
    "held": 0,
    "old": 0,
-   "seen_or_dup": 1,
+   "seen_or_dup": 2,
    "no_title_or_link": 0
   },
   "Weather & Meteorology | Google News Minnesota and Midwest weather": {
    "url": "https://news.google.com/rss/search?q=%22Minnesota%22+%22severe+weather%22+OR+%22Midwest%22+%22winter+storm%22&hl=en-US&gl=US&ceid=US:en",
-   "ok": false,
-   "error": "HTTP 429",
-   "kept": 0
+   "ok": true,
+   "kept": 0,
+   "entries": 100,
+   "dropped_rust": 0,
+   "dropped_drama": 0,
+   "skipped": 0,
+   "held": 0,
+   "old": 100,
+   "seen_or_dup": 0,
+   "no_title_or_link": 0
   },
   "Weather & Meteorology | Google News NOAA weather science": {
    "url": "https://news.google.com/rss/search?q=%22NOAA%22+%22weather+radar%22+OR+%22weather+satellite%22+OR+%22forecast+model%22&hl=en-US&gl=US&ceid=US:en",
-   "ok": false,
-   "error": "HTTP 429",
-   "kept": 0
+   "ok": true,
+   "kept": 0,
+   "entries": 46,
+   "dropped_rust": 0,
+   "dropped_drama": 0,
+   "skipped": 0,
+   "held": 0,
+   "old": 46,
+   "seen_or_dup": 0,
+   "no_title_or_link": 0
   },
   "DotNet and Development | Microsoft .NET Blog": {
    "url": "https://devblogs.microsoft.com/dotnet/feed/",
@@ -210,13 +224,13 @@
   "DotNet and Development | Microsoft Azure Blog": {
    "url": "https://azure.microsoft.com/en-us/blog/feed/",
    "ok": true,
-   "kept": 3,
+   "kept": 0,
    "entries": 10,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 3,
+   "old": 6,
    "seen_or_dup": 4,
    "no_title_or_link": 0
   },
@@ -275,8 +289,8 @@
   "AI and Agents | Google News AI agents": {
    "url": "https://news.google.com/rss/search?q=%22AI+agents%22+software+development&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 7,
-   "entries": 58,
+   "kept": 8,
+   "entries": 59,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
@@ -314,13 +328,13 @@
   "Science Fiction | Google News Doctor Who": {
    "url": "https://news.google.com/rss/search?q=%22Doctor+Who%22+BBC&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
-   "kept": 16,
+   "kept": 15,
    "entries": 100,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 84,
+   "old": 85,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -341,12 +355,12 @@
    "url": "https://news.google.com/rss/search?q=Minnesota+wildlife+OR+natural+history+OR+science&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "kept": 0,
-   "entries": 98,
+   "entries": 100,
    "dropped_rust": 0,
    "dropped_drama": 0,
    "skipped": 0,
    "held": 0,
-   "old": 98,
+   "old": 100,
    "seen_or_dup": 0,
    "no_title_or_link": 0
   },
@@ -418,6 +432,272 @@
  },
  "items": [
   {
+   "title": "ESP32 Remote Access Done Light",
+   "link": "https://hackaday.com/2026/11/27/esp32-remote-access-done-light/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "The team behind Pinscope had a problem. They needed an ESP32 to stay securely connected to a server, but they didn’t have enough spare RAM on the chip to do TLS, what with everything else going on. Thus, they whipped up a useful workaround to get remote access on an ESP32 without TLS . The team noted they didn’t need the general functionality of TLS. See, TLS is great for connecting any client and server securely with certificates, but it’s a bit heavy when you’re working with a device that only needs to connect to one server for maintenance. The team decided the device just needed to ID whether it was talking to the real server, it must ensure credentials are sent over the wire encrypted, and messages should not be able to be replayed, read, reordered, or otherwise changed while in transit. The solution to this problem was the Noise protocol. Specifically, Noise_NK_25519_ChaChaPoly_SHA256, where the server uses a static key which the device knows in advance. Since only the holder of the server’s private key can properly finish a handshake, the device knows it’s talking to the real server, and the entire handshake takes just 0.3 seconds on the ESP32, with just 100 bytes sent over the wire. The results are compelling. The ESP32 needed 23.6 KB of RAM to stay connected via TLS, while this dropped to just 9.4 KB using the Noise protocol. If you need to lighten the burden on a remotely-connected ESP32, you might find this work very useful. Files are on Github for the curious. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-27T18:00-06:00",
+   "tags": [
+    "Misc Hacks",
+    "ESP32",
+    "noise",
+    "noise protocl",
+    "noise protocol",
+    "remote access",
+    "tls"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/ESP32-remote-access-in-9.4-KB-of-RAM_-logs-crashes-and-OTA-updates-_-Pinscope-2-15-screenshot-e1795678010431.png",
+   "summary_from": "page"
+  },
+  {
+   "title": "All the Gaps We See in Protoplanetary Disks Aren't From Planets",
+   "link": "https://www.universetoday.com/articles/all-the-gaps-we-see-in-protoplanetary-disks-arent-from-planets",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "Astronomers have observed dozens of protoplanetary disks around young stars. ALMA has proven to be especially effective at this task. It's found rings and gaps, and they signify young planets forming in the disks. But not all of these disk features are from planets, according to new research.",
+   "published": "2026-11-27T16:54-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/20261124_Yamaguchi_Fig.1_20261126_235908.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "The ESO is Deeply Concerned About Space Data Centers, and the Rest of Us Should Be Too",
+   "link": "https://www.universetoday.com/articles/the-eso-is-deeply-concerned-about-space-data-centers-and-the-rest-of-us-should-be-too",
+   "source": "Universe Today",
+   "category": "Astronomy and Space",
+   "summary": "The European Southern Observatory has expressed its dismay at the approval of SpaceX's satellite AI system. The system, called Starmind, calls for another 1 million satellites in Low Earth Orbit. All of those satellites, and all of the other systems being proposed, will have a serious effect on astronomy. Not only that, but the proliferation of AI, without appropriate safeguards, is a risk that extends well beyond astronomy. Many AI experts say it's a threat to humanity.",
+   "published": "2026-11-27T16:51-06:00",
+   "tags": [],
+   "feed": "Universe Today",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.universetoday.com/article_images/eso2607a_20261127_194910.jpg",
+   "summary_from": "feed"
+  },
+  {
+   "title": "How to Make a Nixie Tube",
+   "link": "https://hackaday.com/2026/11/27/how-to-make-a-nixie-tube/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Recently [polymatt] had a poke at one of the all-time favorites in the retro community, by making his own Nixie tube. Over the course of two weeks he tried to create one from scratch, following in the footsteps of other people who are trying to revive this obsolete type of indicator. Before VFDs and LED technology made them firmly obsolete, Nixie tubes were one of the few ways that devices could provide something like an alphanumeric indicator to a user. Each digit or other symbol is formed by its own cathode, which glows when powered. They’re a type of neon lamp, though with multiple cathodes and a mesh anode for a distinctive look. Simple neon lamps served effectively the purpose of LED indicators alongside their Nixie siblings. While the design of a Nixie tube fundamentally isn’t much more complex than making a simple neon indicator lamp, the internal structure has many more elements, all of which have be carefully designed, created and assembled, before evacuating the air from the glass envelope and filling it with the usual neon-argon Penning gas mixture. For his design, [polymatt] used borosilicate test tubes for the glass envelope, leaving just designing the base, the internals and sealing the whole construction. Even with a range of laser cutting heads at his disposal this took a while, especially for finer features like the mesh anode. Rather than going for the typical Penning mixture pure argon would be used, which requires a higher voltage. Unfortunately the first major test after the two-week deadline showed that his vacuum setup was leaking just about everywhere, so the big glow-up gets pushed to a follow-up video. Unfortunately it’s not mentioned why a pure argon gas mixture would be used, though it’s probably just for ease of filling with just one tank re",
+   "published": "2026-11-27T15:00-06:00",
+   "tags": [
+    "classic hacks",
+    "DIY nixie tube",
+    "nixie"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/diy_nixie_tube_polymatt_youtube.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Thanksgiving tornado warning serves as reminder of Washington’s deadly tornado history - FOX 13 Seattle",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuWFU5RFNqT1FhTURaWjFtbGdTbmxNVTA2dE9nUnZ1eHF3RDA3aUctc1Jvc01vVDdXWWQ2RXIyZ3pQVHZUeTRfWXVKdVQ3RlJzMGpzSjUwZzQwWG5uWmdyME9TYkJ4SHo1RGdiUHBaVzRSbGVLTnNvRmExSzhhZw?oc=5",
+   "source": "FOX 13 Seattle",
+   "category": "Weather & Meteorology",
+   "summary": "Thanksgiving tornado warning serves as reminder of Washington’s deadly tornado history FOX 13 Seattle",
+   "published": "2026-11-27T14:50-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "PS3 Boomerang Controller Concept Flies Back Into Your Hands",
+   "link": "https://hackaday.com/2026/11/27/ps3-boomerang-controller-concept-flies-back-into-your-hands/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Think back long ago, to the halcyon days of 2005 — those of you who were alive and cognizant in those days, that is — specifically to E3 that year. Sony was teasing their next-generation console, the PlayStation 3, with a rather odd boomerang-shaped controller. That controller did not survive to production, but [polymatt] has decided to bring it back as an open source project. As far as DIY game controllers go, the only exceptional thing is the shape and the history. Otherwise it’s got everything you’d expect in a PS3 Dual Shock controller. Although it doesn’t actually use PS3 parts for things like analog sticks, and has actual buttons soldered to the custom PCB. Everything goes through an ESP32, and the firmware is partially based on [lemmingDev]’s ESP32-BLE-Gamepad library , as there’s no need to reinvent the wheel to recreate a controller concept from 2005. It can even work with an original PS3, though admittedly only in wired mode, and it doesn’t look like the most ergonomic way to play. It still beats the keychain-sized GameCube controller we featured recently, if you want to talk ergonomics. In terms of style, that’s a matter of taste, but we like the cut of anybody’s jib if they’re making their own controllers. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-27T13:30-06:00",
+   "tags": [
+    "Games",
+    "Peripherals Hacks",
+    "3D printed game controller",
+    "bluetooth",
+    "bluetooth low energy",
+    "game controller",
+    "playstation 3",
+    "ps3 controller"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/PS3-boomerang1.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "Watch Transformers: The Movie (1986) for Free This Weekend",
+   "link": "https://kottke.org/26/11/watch-transformers-the-movie-1986-for-free-this-weekend",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Just for this weekend, you can watch the 1986 animated classic Transformers: The Movie for free on YouTube , starting tonight at 8pm ET. The showing also includes a 2026 short film based on the movie called Optimus Prime: Awakening . Transformers: The Movie was stacked with voice talent: Eric Idle, Judd Nelson, Leonard Nimoy, Casey Kasem, Robert Stack, and even Orson Welles, in his final film role. The movie didn’t do very well at the box office, but over time it’s become a bit of a cult classic. (via tim carmody ) Tags: movies · transformers · video",
+   "published": "2026-11-27T12:00-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Rare tornado warning, record rain mark wild Thanksgiving in Western Washington - KIRO 7 News Seattle",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeFNHMDFJVHlJZmR5Y2xWQ1UzTFNLeGRpLXdiY0FtTlFwb0xFZnJvZWsxYWJnWHJac0FrQUJuTXA0Sm1RWU9QWktMclBleFhocUVWblNPZ1pzSHdFb29LQWNGT2hmNG0yTVdyRWVGR202RjFOa2Zqem03VGE1VXl4N0hyeWpjZlJXYTkwLWVDWm9FYlR2NnE1czFtZWd3c0dtV2tKUmFXcDNBbG5jME8yWC1iU3dyUlNTejNsanFkTTlSY0dDUFdYM0pCVExvVHJK0gHkAUFVX3lxTE96TE05dnlScG5KNHpLVGd3Njl4UlBZX3lxTTEwdUZ4NHBkMTBJRjNCOW5zMF8xa0lfUmdhQ292YVBKQ2FBaXR2Q2hZb1ZfdHBPblBqeW5oX0p4LWNHZkFGLVlrTi1qTmNQMzBib204X3BiNzVwdDVad2o2Z1ZNelU1RzY3MmNqU3B5ZGRNWlZnUFQzQ3Jna0N4RWJJdS1zTF8yMUs2NThGX0gxTElQOU1sT3JKUVE2aThWU0dYTUJmaV9vTkc0eDR1V0U5RjVoUTUycWF5STFDeENDcDBJX3R0NENQUQ?oc=5",
+   "source": "KIRO 7 News Seattle",
+   "category": "Weather & Meteorology",
+   "summary": "Rare tornado warning, record rain mark wild Thanksgiving in Western Washington KIRO 7 News Seattle",
+   "published": "2026-11-27T11:34-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Hackaday Podcast Episode 396: Robot Hands, The Inner Life of Mechanical Watches, and the Truth about 3D Scanning",
+   "link": "https://hackaday.com/2026/11/27/hackaday-podcast-episode-396-robot-hands-the-inner-life-of-mechanical-watches-and-the-truth-about-3d-scanning/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "Hackaday Editors Elliot Williams and Al Williams met to review the week in Hackaday. It was a week for hands, in more ways than one, along with a voice assistant that ditches the cloud, a GPU for twenty cents, glasses that help the visually impaired see with LiDAR, and a virtual mechanical watch that shows you exactly how the real thing ticks. Beyond watch hands, you might like an eighteen-degrees-of-freedom robot hand for under $300 in parts. Or plant your own hands on a spinning wheel to make virtual honey feel sticky and virtual oil feel slippery in VR. For the Can’t-Miss Articles, Elliot digs into the truth about hobbyist 3D scanning, photogrammetry versus structured light, and why the meshes you get are rarely the CAD models you wanted. Al, meanwhile, looks at how modern smartphones talk to satellites, bent pipes, flying cell towers, and all. Check out the links below to follow along, and as always, tell us what you think about this episode in the comments! Or drop us a note at mailbag@hackaday.com. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-27T11:00-06:00",
+   "tags": [
+    "Hackaday Columns",
+    "Podcasts",
+    "Hackaday Podcast"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2016/05/microphone.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "uCompute Junior is an Easy Entry to the Embedded Platform",
+   "link": "https://hackaday.com/2026/11/27/ucompute-junior-is-an-easy-entry-to-the-embedded-platform/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "[JP Michon] has long been working on a bit of a modular microcontroller hardware platform, and it goes by the name of uCompute. The latest entry in this series is the uCompute Junior, which offers plenty of functionality in a compact form factor. [JP Michon] calls this the “Bring Your Own Pico” version of the uCompute design, because it’s intended that you’ll grab your own microcontroller and drop it in to the Junior carrier board. For flexibility, it’s designed to work with the Raspberry Pi Pico, Pico W, Pico 2, and Pico 2W. This version is optimized for accessibility, being easier to hand solder than some of the earlier boards in the lineup. As is common across the various uCompute boards [JP Michon] has built thus far, the main interface is a small LCD or OLED screen along with three tactile buttons for control; you can use an ST7789 or an SSD1306 display as you like. There’s an onboard micro SD card slot, useful for storage or data logging, as well as a CAT24 EEPROM chip on I2C. There’s also an onboard piezo buzzer for sound output. As far as upgrades go, the add-on module socket supports a range of hardware. You can drop in an ESP12F for WiFi, an NRF24L01 or RFM95W LoRa radio, or a W5500 Ethernet module if so desired. There’s also a dedicated header for driving NeoPixels/WS2812B LEDs, too. If you’re looking to tinker with the Pi Pico lineup and you want a neat board to drop them into, this might be right up your alley. Consider also taking a look at some of the other wonderful things the Pi Pico can do. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
+   "published": "2026-11-27T10:30-06:00",
+   "tags": [
+    "Microcontrollers",
+    "board",
+    "carrier board",
+    "pi pico",
+    "Raspberry Pi Pico"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2026/11/NTP-AnalogClock_Running-on-Junior-0-4-screenshot.png",
+   "summary_from": "page"
+  },
+  {
+   "title": "Bit of a combo behind-the-scenes / teaser trailer for The...",
+   "link": "https://kottke.org/26/11/0050070-behind-the-scenes-teaser-",
+   "source": "Kottke",
+   "category": "Wildcard",
+   "summary": "Bit of a combo behind-the-scenes / teaser trailer for The Lord of the Rings: The Hunt for Gollum . From the comments: “I’m inclined to believe that Andy Serkis is just another of Smeagol’s personalities.”",
+   "published": "2026-11-27T10:16-06:00",
+   "tags": [],
+   "feed": "Kottke",
+   "evergreen": true,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Doctor Who Star Billie Piper on What Christopher Eccleston Taught Her - Bleeding Cool News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSF90Rzd4NmNJX1FIdTN4WFpqdGRyak9LVWVyUkVwX2RQd0JhMm41ajgwSDd4cVlTSktkbTdRTW5UM0dnVFgxeGNfSDhDTzFvS1N2WGNsNnRpbzRDeDVkOXZNR2NyVjNyekxrdWxKRGFlbTVyRFZfM1ZXTzdqQ2ZZNFlTcHVEMkh1RXAxc3lXdVBvNVFlajRZNU0yOE1ORlU?oc=5",
+   "source": "Bleeding Cool News",
+   "category": "Science Fiction",
+   "summary": "Doctor Who Star Billie Piper on What Christopher Eccleston Taught Her Bleeding Cool News",
+   "published": "2026-11-27T09:39-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Neenah church hosts Thanksgiving meal as parts of Fox Valley continue to recover from tornado - Spectrum News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXJtdTZ1THRXU1diWk5TckxWTnBQejVjeVluS3RiaHBfUlR5UkpmanJXVlJ6T1Jkd0s1UUR5TGtadlk4X3NaME1BcjkwQzl4Tlg0Rm1mWk05ZkRSSDJhT0JWUWJYZGJQTG9aMzkxY09FSkN6TG9MbzBFeWRORG5UVXI3c284VEtEQjZaUDRjSzk3T3dMamxRRjZBalZpUmpvN0tBZDZBMThHQ3FTMUxHcFAtazM?oc=5",
+   "source": "Spectrum News",
+   "category": "Weather & Meteorology",
+   "summary": "Neenah church hosts Thanksgiving meal as parts of Fox Valley continue to recover from tornado Spectrum News",
+   "published": "2026-11-27T09:08-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+   "link": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "NASA/Kim Shiflett NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion spacecraft to conduct critical rendezvous and docking tests with lunar lander systems in low Earth orbit, advancing the capabilities needed before astronauts return to the lunar surface on Artemis IV. Image credit: NASA/Kim Shiflett",
+   "published": "2026-11-27T09:01-06:00",
+   "tags": [
+    "Andre Douglas",
+    "Artemis 3",
+    "Kennedy Space Center"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg?w=2048",
+   "summary_from": "feed"
+  },
+  {
+   "title": "This Week In Security: Federal Breaches, Leaky AI Routers, phpAfterShell, Bluetooth Trailer Brakes",
+   "link": "https://hackaday.com/2026/11/27/this-week-in-security-federal-breaches-leaky-ai-routers-phpaftershell-bluetooth-trailer-brakes/",
+   "source": "Hackaday",
+   "category": "DotNet and Development",
+   "summary": "The CIA and the Office of the Director of National Intelligence have discovered a breach of an unclassified system used for open-source intelligence: the analysis of news reports, social media, and other public or commercially available data. According to Nextgov , and the New York Times who first reported it on Tuesday, the breach disrupted an unclassified network but didn’t touch classified systems, and the matter has “been resolved”. Nobody has officially said who was responsible, or whether any data was taken, though people familiar with the investigation say early indicators point to China, according to The Decoder ‘s summary of the Times and CNN reporting. The Times also reported that the National Geospatial-Intelligence Agency was affected at the same time. Unclassified doesn’t mean unimportant. As Huntress’ Ben Bernstein told Nextgov, “If you can see what analysts are searching for and what topics they’re tracking, you get a solid look at U.S. intelligence priorities and blind spots without ever touching a classified file.” Nextgov reports that ARTEX, the AI-driven attack framework the FBI warned about last week , is believed to have been used in the breach, and its sources say it was also used in a separate, low-impact intrusion into the Defense Department’s Cyber Defense Command. Apparently, November 2026 is going to be “that kind of month”. The FBI is investigating a hack of the National Crime Information Center , the Agriculture Department told employees that hackers had accessed the system it uses to make payments to farmers, and the Treasury’s Financial Crimes Enforcement Network is investigating “unauthorized access to a limited subset of its systems,” and has taken some systems offline. At the state level, Colorado says an attack on its myColorado app, w",
+   "published": "2026-11-27T09:00-06:00",
+   "tags": [
+    "Hackaday Columns",
+    "Security Hacks",
+    "ai",
+    "artex",
+    "bluetooth",
+    "cia",
+    "cisa",
+    "CVE"
+   ],
+   "feed": "Hackaday",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+   "summary_from": "page"
+  },
+  {
+   "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+   "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+   "source": "NASA News",
+   "category": "Astronomy and Space",
+   "summary": "Experiments in the Ohalo III facility (pictured above) aim to validate plant-water delivery, optimize volume, and advance crop-production research. These insights could inform the design of plant production systems for future deep-space missions. NASA NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health. Groundbreaking space crops Astronauts will ",
+   "published": "2026-11-27T08:22-06:00",
+   "tags": [
+    "Biological & Physical Sciences",
+    "International Space Station (ISS)",
+    "Science Mission Directorate"
+   ],
+   "feed": "NASA News",
+   "evergreen": false,
+   "tier": "main",
+   "image": "https://images-assets.nasa.gov/image/jsc2026e415098/jsc2026e415098~large.jpg?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint",
+   "summary_from": "feed"
+  },
+  {
    "title": "Building Resilience After the Buffalo Blizzard | United Way | United Way Worldwide - United Way Worldwide",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zSlhRT2hrakl0RjBnMU1McWpndzBsMnV6c3Q0U1VIN0o0LTVQNUl5V2RKVGxYOUhDVHA1N3Z2bVl3akQ0MUlwX2RNZHZRRi1UNHJoNGQwaHgxa2hvN1A5bEd4NGtBQ24zbzVSSmZVVzFxS01YdVNaLUp3?oc=5",
    "source": "United Way Worldwide",
@@ -441,20 +721,6 @@
    "feed": "Google News AI agents",
    "evergreen": false,
    "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Should Space Data Centers Run on Solar Panels, Nuclear Reactors, or Both?",
-   "link": "https://www.universetoday.com/articles/should-space-data-centers-run-on-solar-panels-nuclear-reactors-or-both",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "The last few days we’ve been covering a series of papers by Dr. Slava Turyshev of NASA’s Jet Propulsion Laboratory about the constraints surrounding the use of orbital data centers in space. One that has come up repeatedly is weight, and the solar panels used to power these data centers contribute a significant portion of that weight. So why not go with an alternative power source? Nuclear energy in space applications is having a bit of a moment currently – maybe it could provide the power needed for the orbital data center revolution? According to another paper from Dr. Turyshev, released as a preprint on arXiv, it all depends on the mission requirements.",
-   "published": "2026-11-27T06:41-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/Kilopower_experiment_20261127_124117.jpg",
    "summary_from": "feed"
   },
   {
@@ -491,6 +757,32 @@
    "summary_from": "page"
   },
   {
+   "title": "Tornado warning in Issaquah, North Bend - KIRO 7 News Seattle",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGFCcEdCYnotRmw3bDUxSDZaTGhpdHJhU19YNnlZSS1BUElFV2VqN0ZPcndDTElET3MzSU12VzhWYS1VeHpVUWtKZ05uNVlURllBWlRRLXZRcXl3ZXgyUEFTREtQMEx1elplajRETDRLTk5WOFdYWTRXbWZfN2FISjhpeE5XS25DWWh4TldTeGhtREZxX3NiMW5sOFnSAbABQVVfeXFMTVRZUndwNUpSdU1FY0ViTmM2SElZaE9hcEFIVDMwaWxveVZ6Q0hKUHZxbXp5X09CWDRVYjJwTUU0eTgwblZaYjh6OV90b1hNTXdBSXgtY1ZXUUQwVkFkaUlJczB1NEVMUlpYTzJEaXZKWERLNEFmckgyRGhUUjhqVFZkbDZXN3V5SWM5Q0ZMMWdjYUNTQ2lpR2dHcHVrNmdidWdGNzNra0JEdGFEZHZ6MGU?oc=5",
+   "source": "KIRO 7 News Seattle",
+   "category": "Weather & Meteorology",
+   "summary": "Tornado warning in Issaquah, North Bend KIRO 7 News Seattle",
+   "published": "2026-11-27T05:35-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "Thomas Dohmke Wants to Replace Pull Requests With AI Agent Trails - Analytics India Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFB1SUkySmFQOHlVc2FuMExaeFVkd1pZM1Q1LUszdVVST0lUVGlncEdETlIwT3dGOGh3WU9fNkVReHRGMmlyNzMxVUdSRzJ0eHF1OVFZcUJoM3N4dGl0Tmt1eWI5YUNOc1NqMEkwblpfYXZLYS14dGJPVXJPWHMwc2ZiakVQZkJ6d1hlT3pEN3R5TW9VSm04UWZtWHRIU0JNeUtPUjhrMFcyMUE?oc=5",
+   "source": "Analytics India Magazine",
+   "category": "AI and Agents",
+   "summary": "Thomas Dohmke Wants to Replace Pull Requests With AI Agent Trails Analytics India Magazine",
+   "published": "2026-11-27T04:30-06:00",
+   "tags": [],
+   "feed": "Google News AI agents",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Anthropic Integrates AI Agents and Ends Algorithm Coding Interviews - www.tokenpost.com",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YWG5Wc0xPOVpsZm9zRVVwZ2V6YmJTV3RRZ0Y2NWxnYlR2b0tpTVBFcElnblI5cDlHb0dRVTRncXFwbkl2M3VxRzFhQm5iNTdIVjViNWQtUDRuXzg?oc=5",
    "source": "www.tokenpost.com",
@@ -504,11 +796,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "This Week's Sky at a Glance, November 27 – December 6",
+   "title": "This Week's Sky at a Glance, December 4 – 13xxx",
    "link": "https://skyandtelescope.org/astronomy-news/observing-news/this-weeks-sky-at-a-glance-november-27-december-6/",
    "source": "Sky and Telescope News",
    "category": "Astronomy and Space",
-   "summary": "Orion rises in the east after dinnertime. On the opposite side of the sky the Northern Cross will later plant itself, then sink. The late-night waning Moon invites your telescope for unusual perspectives on the lunar landscape. The Moon moves on to collude with Jupiter, Mars, and Regulus. (What are they up to?) The post This Week's Sky at a Glance, November 27 – December 6 appeared first on Sky & Telescope .",
+   "summary": "Orion rises in the east after dinnertime. On the opposite side of the sky the Northern Cross will later plant itself, then sink. The late-night waning Moon invites your telescope for unusual perspectives on the lunar landscape. The Moon moves on to collude with Jupiter, Mars, and Regulus. (What are they up to?) The post This Week's Sky at a Glance, December 4 – 13xxx appeared first on Sky & Telescope .",
    "published": "2026-11-27T03:56-06:00",
    "tags": [
     "Astronomy & Observing News",
@@ -521,29 +813,6 @@
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
-  },
-  {
-   "title": "The Happy Mac that Apple Never Made",
-   "link": "https://hackaday.com/2026/11/27/the-happy-mac-that-apple-never-made/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "The plethora of different machines available in the 80s are one of the things that makes retrocomputing fun, but sometimes we run across ideas that never quite made it to production that are also worth a look. [wottle] wanted to reexamine some early designs investigated by Apple with the Frog Design “Happy” Mac . In 1982, Apple contracted Frog Design to develop a new design language for their products. The eight non-functional “Snow White” concepts ranged from mild to wild, but most never saw the light of day, despite influencing most Apple products in the late 80s. [wottle] chose the LisaEm Lisa emulator as the interface for the device to give it a period-correct OS. The machine uses a Raspberry Pi 5 coupled to the LCD panel from an iPad 3 or 4, giving it a slimmer silhouette than the original concept as it would have been limited by the CRT technology of the time. Steel bar ballast in the base of the 3D printed enclosure keep the device stable. The current build is lacking built-in sound or an external power button, so there’s still some room for improvement. If you are interested in the ill-fated Lisa, we’ve discussed it before , the open sourcing of its code , as well as seen it resurrected on an FPGA . We’ve also seen the Apple Jonathan concept that showed promise, but didn’t make it to production either. honestly, that design feels kind of retrofuturistic cool. Looks like something you’d see in Star Trek “The current build is lacking built-in sound or an external power button” But it does have two random slots below the screen. In the original design those would’ve been dual 3.5″ floppy disk drives. But this build doesn’t have floppy drives. So why does the case still have the slots in the front? (This isn’t an aesthetic quibble: Any opening in a case is an opport",
-   "published": "2026-11-27T03:00-06:00",
-   "tags": [
-    "Mac Hacks",
-    "Raspberry Pi",
-    "Retrocomputing",
-    "apple",
-    "Apple Macintosh",
-    "Frog Design",
-    "macintosh",
-    "Snow White"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/Apple-Happy-Mac-Frog-Design-Comparison.png",
-   "summary_from": "page"
   },
   {
    "title": "Banks May Use AI Coding Agents Instead of Hiring More Software Developers - Thekanal",
@@ -567,38 +836,6 @@
    "published": "2026-11-27T00:13-06:00",
    "tags": [],
    "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "A Modular 6502 Computer",
-   "link": "https://hackaday.com/2026/11/26/a-modular-6502-computer/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Back in the day, there were plenty of nice compact microcomputers out there that featured the 6502 CPU. There were also simpler computers that put the chip on a bare board and put you very closer to the bare metal. The 20c from [osolabs] is a bit more like that, but with a unique and appealing modular design. At its heart, the 20c is a learning platform. The hardware is built out of interchangeable modules that each correspond to a key part of the computer’s architecture. There are swappable CPU modules for the 6502 or different variants like the 6510 and 8502, as well as ROM, RAM, and address and data bus modules. There are also modules for the clock, glue logic, and even I/O subsystems like the Commodore PIA, VIA, and CIA. Bits and pieces can be assembled and swapped in and out at will to build a different character of machine and learn about different hardware and the architecture as a whole. If you’re wanting to get to grips with how computers work at the very low level, the 6502 and the 20c are a great place to start. Design files are on Github for the curious. You might want to take a look at a guide on 6502 assembly to get you started, too. If you’ve been cooking up similar homebrew computers in the lab, don’t hesitate to let us know on the tipsline. Video after the break. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-27T00:00-06:00",
-   "tags": [
-    "Misc Hacks",
-    "6502",
-    "computer",
-    "cpu"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/The-20c-Episodio-0-Hola-0-0-screenshot.png",
-   "summary_from": "page"
-  },
-  {
-   "title": "National Weather Forecast: Rain And Storms For East - Mirage News",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSFJmODZyemNKNjJlVDdRNjJLNGdCcURoM08wa29xQkZyY1BqZjNMM3BYN2JwZ3AwXzRQMHNhYW1iV3lNakZUQ0hSamJaQWtxdXNXemF4WU4tZUItdnZ0NmZoZ3dZWVVjMURsbENJNk4wanBDZ29CazZGSk9oVzZnZERLeXJ2UTdS?oc=5",
-   "source": "Mirage News",
-   "category": "Weather & Meteorology",
-   "summary": "National Weather Forecast: Rain And Storms For East Mirage News",
-   "published": "2026-11-26T23:13-06:00",
-   "tags": [],
-   "feed": "Google News severe weather science",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -658,22 +895,17 @@
    "summary_from": "feed"
   },
   {
-   "title": "When Decoupling Capacitors Go Wrong",
-   "link": "https://hackaday.com/2026/11/26/when-decoupling-capacitors-go-wrong/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Popular wisdom holds that decoupling capacitors are good, and thus more decoupling capacitors is better. Unfortunately physics disagrees on that notion, as [Ben Eater] discusses in a recent video , following feedback from a viewer who found that upon adding said capacitors, their supply rail got unstable and began oscillating. After reproducing the issue, [Ben] set to work trying to understand what was going on and why the oscillation was happening. Ultimately it was deduced that the large electrolytic capacitor on the output of the 7805 5V regulator was missing a straight ground path to said regulator. By having the ground thus take a circuitous loop through a large section of wiring and segments of the breadboard a lot of induction was introduced. The effort is similar to a tank circuit, where an inductor-capacitor combination creates a resonance that can be really useful if it’s intentional. In this case it merely served to introduce a lot of noise on the supply lines which got amplified by the decoupling capacitors placed near the ICs. In short, this is why you must always put input and output capacitors as close as possible to your voltage regulators, with in this particular case one ground wire between the regulator and the electrolytic capacitor’s ground fixing the decoupling issue. also bad if the decoupling cap is an old tantalum that shorts out. A frequently forgotten or unknown fact is that tantalums have a maximum pulse or inrush current. Exceed that and after a while they short out. I discovered this when I replaced the old type standard D cell batteries in some data loggers with gel-cells and nicads. Fire ensued over the next few months, until I discovered this factoid. Tantalums should not be directly across batteries. After regulators or with a series re",
-   "published": "2026-11-26T21:00-06:00",
-   "tags": [
-    "Tech Hacks",
-    "decoupling capacitors",
-    "tank circuit"
-   ],
-   "feed": "Hackaday",
+   "title": "Severe weather update: Storms and flooding for east and south-east - The Bureau of Meteorology",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWg1b0o3WlB3dVpxemtlcTNwWWZObTVKMzM1dmlUekdYQW1HNkFqb0Nmem8zNDFoS2ZVLVFvQXZzNi1WcUlvZEs2d29qTjAtMk1pUk9zWEpwYzVzZ1JiYmJhLVBqeGVDZlZ4b1g4OXdRTnY1bXAtdnRmWVhnbkYxTkt5cE9Zc3BTMlRSUkltVldVRmpMQmlWWFZn?oc=5",
+   "source": "The Bureau of Meteorology",
+   "category": "Weather & Meteorology",
+   "summary": "Severe weather update: Storms and flooding for east and south-east The Bureau of Meteorology",
+   "published": "2026-11-26T19:23-06:00",
+   "tags": [],
+   "feed": "Google News severe weather science",
    "evergreen": false,
    "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/discrete_clock_issue_ben_eater_youtube.jpg",
-   "summary_from": "page"
+   "summary_from": "feed"
   },
   {
    "title": "Pixel Scroll 11/26/26 Five Hundred Twenty Five Thousand Six Hundred Pixels In A Scroll",
@@ -698,32 +930,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Why was there a tornado warning near Seattle on Thanksgiving? The storm that also brought floods - Nacionale",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeUhkS1pPRXZScU9sejNWOXJpRDZuYjVKRkR6UXB2djBFdzVabkFMZ0xvQ2VrUkNGbXRiZk94Q1F6bkJHU2lDQkVaa1NxSjNDbzVFMUtMakh0NDZXYU5zSnV0YmRzTXlWUnZkX09zVFJrVll1ZFphMFNLZGY3eWlCWXpySzJvMzJfczFHYzFFYlI3bUVPbWhnXzY4TEpRSTA0MnFIVzZhdllMTzl0RlpHNVhhZ0g?oc=5",
-   "source": "Nacionale",
-   "category": "Weather & Meteorology",
-   "summary": "Why was there a tornado warning near Seattle on Thanksgiving? The storm that also brought floods Nacionale",
-   "published": "2026-11-26T18:52-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Did a tornado touch down in Salisbury, Maryland? None reported after Thanksgiving warning - Nacionale",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXVDRHlVUV9CMTBmd0JwcmJLZ1dLc1ljQTI4cVotZ3l4M2xfTWY5cmtlVGt4SGtjeko1dkNWT2RMZWJ1dmNSU09hQXRuYklSUmRaNnRCc3FEYWpZdHFieDMxUnRxYURrS3FfdkxqVkczR1J4bE9QSHEyTldOQ015ekNxYlN4VThoR1RGMUwyc1lTcnliUWdSM21JRUE4YlBENjhGQS1lLURmYUdsaHJtbDdaSWpGRmZOVElSWUtFQQ?oc=5",
-   "source": "Nacionale",
-   "category": "Weather & Meteorology",
-   "summary": "Did a tornado touch down in Salisbury, Maryland? None reported after Thanksgiving warning Nacionale",
-   "published": "2026-11-26T18:51-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Banks may use AI coding agents instead of hiring more software developers - bfsi.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd21HNzhKRjA4WFNYRldrdnRUcllOeERKcHdGeGhWd2RkRm95VHdUeVdVWnZQX1Nic0hxZ0RGRHBSdEExRGJ5dmhpbHUybHJSVGMxUk9VVXNtcUlpNUljcG5NVUVlOG1sYk96bDJjR1J3TmV1VENrUXA1QUkwVEJOZVl3U1EzZkJVTnp4MlJSMHlaa0dub2MycFpicVhJYzVFME14LW1ydG9mMnE4dWJJNHlYUExnU25KWVEzdmFzRWk0SkhzWVhYOUFSZ0V2c3PSAdQBQVVfeXFMUHhyQUc5ZG5MUDNwUXVON3RFOW5PdUhSYWRMbTB0VmRwaWFuXzhTeHBIU2NOWUstd0pkbEEtMEZFMVUxY2I4UEpRUmtHTExUMW1CTS0tMlR3V0hIdnRmUWlkcHhMamlFeGRNczNMQVJZdEV4eDYxaEUtdVlRbnBvQ1VYVE00cEZSRFRvYjNVaUpsQUFYXzFGN1FVWC1JQ0oyR240ZjRNY1o4VlJVWnpBUlI0Q2NCaFRQSTlIbUlFRHVGQmkzS2xNTzJkU3ZkU0xyMmpockQ?oc=5",
    "source": "bfsi.economictimes.indiatimes.com",
@@ -732,49 +938,6 @@
    "published": "2026-11-26T18:33-06:00",
    "tags": [],
    "feed": "Google News AI agents",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Diagnosing a Failed LG Fridge Ice Maker",
-   "link": "https://hackaday.com/2026/11/26/diagnosing-a-failed-lg-fridge-ice-maker/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Although a useful feature for people who use ice cubes a lot, an automatic ice cube maker feature in a refrigerator can be a bit of a pain if they stop working properly. In the case of [Adrian]’s LG fridge its ice maker began to overfill the internal tray, causing cubes to freeze together and ultimately the entire mechanism to stop producing cubes. In his diagnostics video he goes over the way the mechanism works, how it interacts with the control board in the fridge and a lot of puzzlement over a new tray fixing the issue with no clear cause. The most bemusing aspect of this mechanism is probably that the water filling mechanism is an open loop system that only has a timer, a temperature sensor and a feeler arm for the ice bucket. The timer’s duration is settable using dip switches depending on the water pressure at the installation site. After swapping out the control board [Adrian] found that this made no difference to the problem of it working fine for a few cycles until it started overfilling the tray again. In the comment section [Jeffrey Hullekes] seems to be on point with his theory that one or more ice cubes simply do not dislodge from the tray, which is not detected by the fill mechanism that thus happily keeps filling for the same number of seconds. After that the excess water then helps to worsen the problem until it’s all one frozen block of water. With the mechanism having no way to detect fill level, stuck cubes or other issues, it would seem that the smoothness of the tray’s plastic is a load-bearing part of the whole system. Perhaps that spraying on some kind of release film will provide a fix here, as also suggested in the comments, but overall it’s an interesting cost-optimized mechanism that works well for a ‘just buy a replacement unit’ mindset. Ple",
-   "published": "2026-11-26T18:00-06:00",
-   "tags": [
-    "Teardown",
-    "ice maker"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/ice_cube_tray_adrians_digital_basement_extras_youtube.jpg",
-   "summary_from": "page"
-  },
-  {
-   "title": "NWS Seattle issues rare tornado warning for King County on Thanksgiving Day - KOMO",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ05fWGZQSkE4ZXRBVmVJajlwUmxHVGxMeWJDR2tjMHF5WmlvSVY3eklqMWpXMWhpZVhPNk1Qa2llX01aZ1NXYlF1NlExQVRuWWV4YWZrS19NbWs2Zl8tdVJPc2c4WmpLMWpfeEhzNFVpU1p6bzV3S0FjR0Vla0R2N2RKMGhXMEZQZmNiRDhsd2ppZFJQUElRRlM1M3pUR2JjUFVUNkZzTkNCQ1JQdEVvY3pFRDBQWG11ZU9qNTl5UmMtdlRMNG9tdnFfdHNkY2xBSmdfMDFtaVlQUDd4cjRYNHd6SUo2NUZleVE?oc=5",
-   "source": "KOMO",
-   "category": "Weather & Meteorology",
-   "summary": "NWS Seattle issues rare tornado warning for King County on Thanksgiving Day KOMO",
-   "published": "2026-11-26T17:42-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Is there a tornado warning right now? None as of 6 p.m. ET; Seattle area, Virginia and Maryland had them - Nacionale",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNci1MVHpnTDRrSDNON0RTODhNRHljdkRCRWNRV3NyeWNVUHB2N2w2RjhqNFZlNFNTUXREYk1zMFE2enQ3Z1Y5Q0NQdExNS294dl96WXd0VUR1VDlwUm9tUUhLd2ZyV1BGcWl1NEMyQU1VMk9FejBHR0YxcWhObUphVHVhcUw3RnFTenlHdGsybHcxZ1VPZHVfQnRxcV9jSmVpSEhKdjVMUUhSblBIX182X2xDWERyVG9wZlhnVmRURQ?oc=5",
-   "source": "Nacionale",
-   "category": "Weather & Meteorology",
-   "summary": "Is there a tornado warning right now? None as of 6 p.m. ET; Seattle area, Virginia and Maryland had them Nacionale",
-   "published": "2026-11-26T17:19-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -793,12 +956,25 @@
    "summary_from": "feed"
   },
   {
-   "title": "Tornado warning in Issaquah, North Bend - KIRO 7 News Seattle",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcGFCcEdCYnotRmw3bDUxSDZaTGhpdHJhU19YNnlZSS1BUElFV2VqN0ZPcndDTElET3MzSU12VzhWYS1VeHpVUWtKZ05uNVlURllBWlRRLXZRcXl3ZXgyUEFTREtQMEx1elplajRETDRLTk5WOFdYWTRXbWZfN2FISjhpeE5XS25DWWh4TldTeGhtREZxX3NiMW5sOFnSAbABQVVfeXFMTVRZUndwNUpSdU1FY0ViTmM2SElZaE9hcEFIVDMwaWxveVZ6Q0hKUHZxbXp5X09CWDRVYjJwTUU0eTgwblZaYjh6OV90b1hNTXdBSXgtY1ZXUUQwVkFkaUlJczB1NEVMUlpYTzJEaXZKWERLNEFmckgyRGhUUjhqVFZkbDZXN3V5SWM5Q0ZMMWdjYUNTQ2lpR2dHcHVrNmdidWdGNzNra0JEdGFEZHZ6MGU?oc=5",
-   "source": "KIRO 7 News Seattle",
+   "title": "REVIEW: Doctor Who: The Satan Pit Extended Movie Cut - Blogtor Who",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnBhVUpPb3FwbkdmQm5qQzAtV1lXYTlQamNha2t0NEtTZFluNmpkQzhlZ20zMHlpUGltc3VCTjlxdGg1TW85bWp5WDN2MkhHVXcwVm1FZWhOV0h4ZXc4VjduQmVBTEdHSDJWNnRQRTZkclRLMnBtTWxZbUNXWGd6cWhBOE7SAYQBQVVfeXFMUFJwYVVKT29xcG5HZkJuakMwLVdZV2E5UGpjYWtrdDRLU2RZbjZqZEM4ZWdtMzB5aVBpbXN1Qk45cXRoNU1vOW1qeVgzdjJIR1V3MFZtRWVoTldIeGV3OFY3bkJlQUxHR0gyVjZ0UEU2ZHJUSzJwbU1sWW1DV1hnenFoQThO?oc=5",
+   "source": "Blogtor Who",
+   "category": "Science Fiction",
+   "summary": "REVIEW: Doctor Who: The Satan Pit Extended Movie Cut Blogtor Who",
+   "published": "2026-11-26T17:00-06:00",
+   "tags": [],
+   "feed": "Google News Doctor Who",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
+   "title": "NWS Seattle issues rare tornado warning for King County on Thanksgiving Day - KATU",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbnFpZ1Z6NkFUU3V4VmxIQnNwZDBJeS00NUwyd1VUdG1WTm9kaWN3alM5MVAyZEp5dDdfcW9vUGR3WHctRTRiX2kxRl9kOXZzNk90dkd1OUdpNVJjN1ZWMU9odC04RnVuMWk1MFJldHIxVFNaVnV4cnR6Z0dac2Z5eW43ck04V1daWUI5YzZpR2picEJFcmpDUVJpUl9tcHVhMkduZGRMWEJ6UUE2Zzh1cmhMWlZqR3ZPMVYxMnU0WGZjMmVBX2taaGlULV9pOG15c0Y0MU9Gb0hzWmxkWVdUQ3JSbEI?oc=5",
+   "source": "KATU",
    "category": "Weather & Meteorology",
-   "summary": "Tornado warning in Issaquah, North Bend KIRO 7 News Seattle",
-   "published": "2026-11-26T16:07-06:00",
+   "summary": "NWS Seattle issues rare tornado warning for King County on Thanksgiving Day KATU",
+   "published": "2026-11-26T16:52-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -811,19 +987,6 @@
    "source": "KING5.com",
    "category": "Weather & Meteorology",
    "summary": "Tornado warning expires for Issaquah, Snoqualmie and North Bend | First Alert Weather KING5.com",
-   "published": "2026-11-26T15:43-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Is there a tornado warning in Seattle? It expired, and it covered Issaquah, Snoqualmie and North Bend - Nacionale",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanItYlI5eTBkaHNKRnJMbWxiYWpyWl9QN1M3RlhtektPUTB1WXZjX0d3S0Z0TGx3R0RZNy1jYWtmLXY2Q3ktUGQ2RFIzSHRTYVhfaHBpT0M5S0FKdkdKMVNvRjVLN3pjNU1CcmhoeVFOVjI3RFlXMHhQaG5pZkFnU0xWMnNXTV9nMWlWZl9RdFMzSjFVZjB6WHhNVjdlT2xTaldidDJrTmxZSTFjWVZMSWNBSW1NUFlkLXpjaFFvODA?oc=5",
-   "source": "Nacionale",
-   "category": "Weather & Meteorology",
-   "summary": "Is there a tornado warning in Seattle? It expired, and it covered Issaquah, Snoqualmie and North Bend Nacionale",
    "published": "2026-11-26T15:43-06:00",
    "tags": [],
    "feed": "Google News major storms",
@@ -845,27 +1008,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Another Split Flap Display You Can Print Yourself",
-   "link": "https://hackaday.com/2026/11/26/another-split-flap-display-you-can-print-yourself/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "Split flap displays were once widely popular in everything from airport terminal displays to alarm clocks. Now they’re a little bit out of vogue in the mainstream, but that doesn’t mean you can’t play with them yourself. If the idea of building a big split flap display lights you up, consider the OpenFlaps project from [Ivan]. As the name implies, OpenFlaps is an open-source design for a 3D-printed split flap display. The brain of the build is a Raspberry Pi Pico W, which keeps time, coordinates flap movements, and serves up a Wi-Fi web interface for control. Each individual flap itself has an ATtiny85 microcontroller on a small board, along with a 28BYJ-48 stepper motor that drives a wheel with 45 individually printed flaps. There is also provision for a BME280 temperature, pressure, and humidity sensor, and the display can show everything from text to time and just about anything else. If you’ve always wanted a big flappy display, this is probably a pretty fast way to build one. As a bonus, everything is released under a CC BY-SA 4.0 or MIT license, so you have plenty of flexibility to tweak and fiddle with the design if you want to make something similar that is more specific to your own needs. We’ve featured similar projects before, too . Video after the break. it would be nice to further reduce the cost of each digit, say by replacing the many steppers with a single rotating shaft and a solenoid-driven clutch. Or perhaps an even cleverer solution. You could drive 2 characters with one motor by using both rotation directions, like how day/date watches are set. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-26T15:00-06:00",
-   "tags": [
-    "Misc Hacks",
-    "attiny85",
-    "display",
-    "flap",
-    "split flap",
-    "split-flap display"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/DIY-Split-Flap-Display_-3D-Printed-Open-Source-_-OpenFlaps-0-46-screenshot.png",
-   "summary_from": "page"
-  },
-  {
    "title": "Severe Storms Expected Across Queensland This Weekend - Wisevoter",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2M2Rm1jZU9FZHNLcVprdzRHZWhyZUJLa0xPU1ZDbzdCRXhDYUh4UkRZMU1QQU9WYXEwUXk3VEs3M2o5ZGJueVFua1JKem43WHViT2NmamRDMzFwZFZVVmd3SzBzNXc0SWNnNmhLeGFSaDR3MG03V2YwNXdzUTNMWExGMjRoRUtuZHFtM0ZfQUs?oc=5",
    "source": "Wisevoter",
@@ -874,19 +1016,6 @@
    "published": "2026-11-26T14:53-06:00",
    "tags": [],
    "feed": "Google News severe weather science",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Tornado spotted near Snoqualmie Valley around noon Thursday - Auburn Reporter",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekY5MFowRjdUaVNxT3RCMWxISHVGVXRxYjNCRFhERHltdi1kQXFzdXJWaWdtb0ctdkpMTVdkcE9ZNUk0WG8yWmIyZTZnWGRoYnNnY2pwaUx0OEx3Z2xDUEpXNWpRSXd4emRmRnhpMnZJeFk1Tm1SRnhhUDU4a2RXY1VWQ1RCVlJWQTJoVUtzQlYta1c5WlRYemdnNjRJa0hjcjV4YURR?oc=5",
-   "source": "Auburn Reporter",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado spotted near Snoqualmie Valley around noon Thursday Auburn Reporter",
-   "published": "2026-11-26T14:49-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -911,19 +1040,6 @@
    "category": "Weather & Meteorology",
    "summary": "NWS: Tornado warning expired in Issaquah, Snoqualmie, North Bend, WA FOX 13 Seattle",
    "published": "2026-11-26T14:22-06:00",
-   "tags": [],
-   "feed": "Google News major storms",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Tornado warning issued for central King County after landspout spotted near Renton - MyNorthwest.com",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcHp4U1pKa1c2UDZsNkZXQXNUYzZtQjBRTUVpR3pHbVpaazB6NXl5VFRRdEdZXzZmb1piYkFmYjhHTjk2c0FBR3BRRlpzMUNJR05kYVdJM2k1MkxyeUhwbm5aSFZRM2pfNXZ6c1Z1WG9oWlZZWmNQSEduN19FZW9lbnBxZnp3Qm5vUjlCMTN3OUpEVXpIQ1Z3ZXNWTzZmUURrTXdhVUtxUlRCMGdfdWlPc0VlREVFMnd5bS1RSF9UN2R0T2ZsU0RwSHF3Q0VVM2s0WndfcHhIWQ?oc=5",
-   "source": "MyNorthwest.com",
-   "category": "Weather & Meteorology",
-   "summary": "Tornado warning issued for central King County after landspout spotted near Renton MyNorthwest.com",
-   "published": "2026-11-26T14:18-06:00",
    "tags": [],
    "feed": "Google News major storms",
    "evergreen": false,
@@ -970,25 +1086,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Location-Accurate Weather For Your Gecko",
-   "link": "https://hackaday.com/2026/11/26/location-accurate-weather-for-your-gecko/",
-   "source": "Hackaday",
-   "category": "DotNet and Development",
-   "summary": "When building a terrarium, most people do their best to make it an acceptable environment for its inhabitant. Temperature and lighting can be regulated, and habitat-appropriate props placed to provide some approximation to what the creature would be happy with. [Fraxinas] has taken this a step further though, by making a terrarium that simulates the weather conditions of a gecko’s native New Caledonia . This terrarium is controlled by an ESP32, which in turn commands lights, a heater, a misting pump, and some fans. These are used to simulate the New Caledonian climate, based on real climate data from the island. This is in Germany so its seasons are out of phase with the south pacific, thus the terrarium replicates conditions from six months in the past. On a sad note, the gecko for whom it was built is no longer with us, and after several months of emptiness the terrarium gained a new inhabitant. This came with an upgrade, both to the lighting in order to better support plants, and the materials used in order to present a more gecko-safe environment. The write-up is long and fascinating, and we’re sure you’ll find it a good read. This may be the first gecko we’ve seen whose climate follows their real habitat, but it’s not the first automated terrarium we’ve seen . Not, as I first though, a plugin for your Mozilla web browser. Mine kept talking to me about car insurance, so I left him in Death Valley to dry out. Please be kind and respectful to help make the comments section excellent. ( Comment Policy ) This site uses Akismet to reduce spam. Learn how your comment data is processed.",
-   "published": "2026-11-26T12:00-06:00",
-   "tags": [
-    "home hacks",
-    "gecko",
-    "terrarium",
-    "weather"
-   ],
-   "feed": "Hackaday",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://hackaday.com/wp-content/uploads/2026/11/gecko-home-featured.jpg",
-   "summary_from": "page"
-  },
-  {
    "title": "The Third Thing: Poet Donald Hall on the Secret to Lasting Love",
    "link": "https://www.themarginalian.org/2026/11/26/donald-hall-the-third-thing/",
    "source": "The Marginalian",
@@ -1022,20 +1119,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Detection of Vaporized Rock Reveals the Birth of a Solar System",
-   "link": "https://www.universetoday.com/articles/detection-of-vaporized-rock-reveals-the-birth-of-a-solar-system",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Astronomers have detected titanium oxide in gas form for the first time around a young, massive star. The detection offers a rare glimpse into the very earliest stages of solar system formation, before the formation of planets and asteroids.",
-   "published": "2026-11-26T10:40-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/nrao19cb1_AI_V3_SD_1_20261126_163908.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "Robots, Not Astronauts, Will Have to Fix Space Data Centers",
    "link": "https://www.universetoday.com/articles/robots-not-astronauts-will-have-to-fix-space-data-centers",
    "source": "Universe Today",
@@ -1050,11 +1133,11 @@
    "summary_from": "feed"
   },
   {
-   "title": "Northern Lights Forecast: Aurora Borealis May Appear In 10 States On Thanksgiving - Forbes",
+   "title": "Northern Lights Update: These 10 States May See The Aurora On Thanksgiving - Forbes",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM29Ld0drY09lb3YtYmxzNnItSmpiN0sybS1NajNZTlN0ejRUNWdSWC1DS1dmcU9TM2dyTDVKS2lJcS1jX1RtNThCX19JWGFaRFFFVTNxdVA0NnJfTDRvUGI5UGh6Q0ZYdVFKeURpOTdOREI2OXYxTkZpTFBtWDJTMmppRzVrNk5qYTJtMnlYNVdveHRIX3ZjSzIyeEhFbTRKNnRoOXR0WTJHX3BsWHE4SjZWeWpsSkROS3RYLW5pWkZXM2JEY0hvX09fSEZ6eDlGNWZuTlRTT3VWMnNsaXJTbw?oc=5",
    "source": "Forbes",
    "category": "Space Weather and Aurora",
-   "summary": "Northern Lights Forecast: Aurora Borealis May Appear In 10 States On Thanksgiving Forbes",
+   "summary": "Northern Lights Update: These 10 States May See The Aurora On Thanksgiving Forbes",
    "published": "2026-11-26T09:41-06:00",
    "tags": [],
    "feed": "Google News aurora",
@@ -1187,27 +1270,14 @@
    "summary_from": "feed"
   },
   {
-   "title": "Australia summer weather forecast: El Nino warning as Australia set for hotter than normal summer - Nine.com.au",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2lJZGxwcTA2NERfX3ZmS3loUkNUTDRfVFByWmxvcjlseFgydTdHNmtwMUFoZkh4Mm0tVVViSE1PLTBfUjRMRTZxYW1aUmRfMW5GdGpYOFE1X2V0MW8zQ2tTQ3NWRXh4VkZkUXFtUVRrSWtLUHNSX0JwRHNLT2p5RmhPTHFWQXlmSDBVeVNXdjI4RDl3clNYczBhNkF2Qi1sbjJDRU04NDY1RE9jUngxOTZzc0dBcURRWGtabVAwaw?oc=5",
-   "source": "Nine.com.au",
-   "category": "Weather & Meteorology",
-   "summary": "Australia summer weather forecast: El Nino warning as Australia set for hotter than normal summer Nine.com.au",
-   "published": "2026-11-25T22:46-06:00",
+   "title": "Dragon Ball Z S.H.Figuarts Krillin \"Z-FIGHTERS\" Recreates the Solar Flare and Emergency Stop Controller Scenes! - 玩具人 TOY PEOPLE",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RdTlOYXh6XzN3eUgwdEI0aUpJeXZJN2pQUThsVEg3ZmhOdnlNaFlnblN4bTlBYzNQN0o2Y2lOWWZEYWN1UGhBYTFhWVluWHpl?oc=5",
+   "source": "玩具人 TOY PEOPLE",
+   "category": "Space Weather and Aurora",
+   "summary": "Dragon Ball Z S.H.Figuarts Krillin \"Z-FIGHTERS\" Recreates the Solar Flare and Emergency Stop Controller Scenes! 玩具人 TOY PEOPLE",
+   "published": "2026-11-25T22:26-06:00",
    "tags": [],
-   "feed": "Google News severe weather science",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "National weather forecast: Humid and wet in the east - The Bureau of Meteorology",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcm1tOG1MSC0xSTJvbEpyMWQ3T1ZVdk9naHZpNTNOQk52UjdQWGRZVXVBSk1GN1hZZ3RsX1Q2MlBwOEl0c3VLcEs2cFo0OHlodTY0ZnY5cnVvUWJlYmV6LTIyUW90VFlxazZiWGxJN3QydDlCYkFrMTdpUjBNaGpUeHAtWlprbWc?oc=5",
-   "source": "The Bureau of Meteorology",
-   "category": "Weather & Meteorology",
-   "summary": "National weather forecast: Humid and wet in the east The Bureau of Meteorology",
-   "published": "2026-11-25T22:34-06:00",
-   "tags": [],
-   "feed": "Google News severe weather science",
+   "feed": "Google News space weather",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1308,19 +1378,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "National weather forecast: Humidity building across much of Australia - The Bureau of Meteorology",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVphUVY1b2djSFpkOUU2X2FELUlaYlNibjBYNjVscnFHUzU3b1ZyVXpNY2lJMlpCOE9tSVp6cmJlbDA0Nk10RUl1eVUzaTIwZW5ZdVpiSWw4YUlvUWFvTzRaMzFEZE1RZjZlOVZBZzhFS3VITHZCLTdpeWNNUzQxYnhnTXhidDVZTVRDOXotQjBnRFlxVm8xdllnT2s0Zw?oc=5",
-   "source": "The Bureau of Meteorology",
-   "category": "Weather & Meteorology",
-   "summary": "National weather forecast: Humidity building across much of Australia The Bureau of Meteorology",
-   "published": "2026-11-25T17:15-06:00",
-   "tags": [],
-   "feed": "Google News severe weather science",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Paradox of “Finding Yourself”",
    "link": "https://www.themarginalian.org/2026/11/25/robert-penn-warren-democracy-poetry-finding-yourself/",
    "source": "The Marginalian",
@@ -1396,20 +1453,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://img.atlasobscura.com/Fjk7Vx8KWypUOx8RD1sJ8Sjxy_nvyHQ3stdvuK1Yl7Q/rs:fill:300:200:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85OWZj/YzM0Mi02ZmFkLTRk/Y2YtYWFkYi1mNTM1/ZjE5YzNlYzJjOGY2/ZTFlMjVlYTEwZjA2/YzNfSU1HXzE5NTgu/anBn.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "The Event Horizon Telescope Views the Dynamics and Geometry of a Black Hole Jet in Extreme Detail",
-   "link": "https://www.universetoday.com/articles/the-event-horizon-telescope-views-the-dynamics-and-geometry-of-a-black-hole-jet-in-extreme-detailele",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Observations by the Event Horizon Telescope Collaboration resolved the innermost region of the blazar 3C 279 powerful jet emitted in unprecedented detail.",
-   "published": "2026-11-25T14:25-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/eso1229a_20261125_202522.jpg",
    "summary_from": "feed"
   },
   {
@@ -1642,29 +1685,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-   "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "Explore Hubble Hubble Home Overview Impact & Benefits Science Observatory Team Multimedia News More 3 Min Read NASA’s Hubble Views Ocean of Stars in Groundwork for Roman NASA’s Hubble Space Telescope’s high resolution reveals individual stars in an area near our galaxy’s center swarming with stars. Credits: NASA, ESA, and S. Terry (University of Maryland); Image Processing: G. Kober (NASA/Catholic University of America) An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. The images focus on an area of sky toward the galactic bulge, a densely packed, spherical region of stars that surrounds the center of a galaxy’s disk. These Hubble",
-   "published": "2026-11-25T08:56-06:00",
-   "tags": [
-    "Astrophysics",
-    "Astrophysics Division",
-    "Galaxies",
-    "Goddard Space Flight Center",
-    "Hubble Space Telescope",
-    "Nancy Grace Roman Space Telescope",
-    "The Milky Way",
-    "The Universe"
-   ],
-   "feed": "NASA News",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/milky-way/Hubble_GalacticBulge_HD70_1_FINAL.jpg?w=1536&h=1536&fit=clip",
-   "summary_from": "feed"
-  },
-  {
    "title": "How ’70s Movies and Prague Flea Markets Inspired the “Sunshine Noir” Look of Blade Runner 2099",
    "link": "https://reactormag.com/how-70s-movies-and-prague-flea-markets-inspired-the-sunshine-noir-look-of-blade-runner-2099/",
    "source": "Reactor",
@@ -1711,6 +1731,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "LIVE RADAR: Flood watch in South Florida; severe storms could bring tornado threat - NBC 6 South Florida",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVl9fM2tqWTZIRlRqMTFpRnBBTktsZG9seWdVOEEydGhvM1F5bnRvR21VODBUc2NKVUdQS1FqOXBlZE1LbUkxM0lDR0E4cF9IZENBcE9CVHdpWHlDSVh5NW5qbHFZdUxSaU11YUI5blZSWkxZNzMtQzdMZ2pKYnpjbG9NSVJJQjVRSUV0dlRqZnF0eHFWN1BvbHhrb1JLUHNtMUp2Q1Z3VEZwVXdqTDJ1RkE2RDNZQXl0aGRWOWwyUUrSAcgBQVVfeXFMUE56TFdtYWxKS3RqeUllOTJsX0tqRk5ZaHFDNzZkWHRDSlVOazdMMWpYN0l4S2dsb3hZbFgwdWo2ZUw2Zl9qQlZ6Vmo2MUhCM2hrQ2RhRFpmNElRbDU5WGpRa21FV0wzaE1vM0tjeHBZMEVwSHhKUjBseVRFOFV6SGZMb3F4THBEVzNRY2VxODVyeHVUM2dkd1NiYnQ2TnBKU0g3dVVNVUxfWEc4WHgtVElfdDV5U1hGdDF5WkMzbFhqeXZtcGEwckk?oc=5",
+   "source": "NBC 6 South Florida",
+   "category": "Weather & Meteorology",
+   "summary": "LIVE RADAR: Flood watch in South Florida; severe storms could bring tornado threat NBC 6 South Florida",
+   "published": "2026-11-25T06:40-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Minor G1 geomagnetic storm - SpaceWeatherLive.com",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd1M3ZExwTkVTS0ZWdXYxR2tjTTA5dmEyZFpodU1IQU0zenVLZjRsWU4tSVgtMDRoVko2Ql9XMlZ2aF9qVlQxU0MxWUt1Qm9rRUdWZlA5OXhnUWlkRjNTVXNtdHItRW9ZWF84eXkzbzNyQ1BhUHVXZnZybXdKdFJhVTM4MWN1RE9XRXVTZlZrd2FJcjVY?oc=5",
    "source": "SpaceWeatherLive.com",
@@ -1738,16 +1771,14 @@
    "summary_from": "feed"
   },
   {
-   "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+   "title": "SPHEREx Seeing Through Dust",
    "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
-   "source": "NASA News",
-   "category": "Astronomy and Space",
-   "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Credit: NASA/JPL-Caltech SPHEREx; data from NASA/IPAC IRSA. Processing: The Bright Nobles (Muhammet Mücahit Soylu, Serdar Aydın, Furkan Küpeli), ChronosphereX (chronospherex.com). SPHEREx Seeing Through Dust Explanation: What is blocking the center of the ",
+   "source": "NASA Astronomy Picture of the Day",
+   "category": "Astrophotography",
+   "summary": "APOD: 2026 November 25 - SPHEREx Seeing Through Dust Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 2026 November 25 SPHEREx Seeing Through Dust Image Credit & Copyright : Credit: NASA/JPL-Caltech SPHEREx; data from NASA/IPAC IRSA. Processing: The Bright Nobles (Muhammet Mücahit Soylu, Serdar Aydın, Furkan Küpeli), ChronosphereX (chronospherex.com). Explanation: Explanation: What is blocking the center of the Milky Way? During its 13 billion years , our Milky Way has collected a lot of dust. In contrast to the skin cells, dirt, pollen, and ",
    "published": "2026-11-24T23:05-06:00",
-   "tags": [
-    "APOD"
-   ],
-   "feed": "NASA News",
+   "tags": [],
+   "feed": "NASA Astronomy Picture of the Day",
    "evergreen": false,
    "tier": "main",
    "summary_from": "feed"
@@ -1912,20 +1943,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "A Gigantic Stellar Eruption Spreads Planetary Material Into Space",
-   "link": "https://www.universetoday.com/articles/a-gigantic-stellar-eruption-spreads-planetary-material-into-space",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "Asymptotic Giant Branch (AGB) stars spread heavy elements into space with their stellar winds. This material eventually forms more stars, and even rocky planets like ours. For a long time, astronomers thought this important mass-loss was driven by stellar winds. But new research shows how magnetic fields play an important role. A vast flare and magnetic loop of material from the AGB star Mira provides the evidence.",
-   "published": "2026-11-24T14:08-06:00",
-   "tags": [],
-   "feed": "Universe Today",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://www.universetoday.com/article_images/a2a9e8770a00d97f_800x800ar_20261124_184207.jpg",
-   "summary_from": "feed"
-  },
-  {
    "title": "A new DNA study all but proves that Thomas Jefferson...",
    "link": "https://kottke.org/26/11/0050004-a-new-dna-study",
    "source": "Kottke",
@@ -1975,17 +1992,16 @@
    "summary_from": "feed"
   },
   {
-   "title": "The Rise of Astrosociology: What Can Analogue Astronaut Studies Teach us About the Future of Humanity in Space?",
-   "link": "https://www.universetoday.com/articles/the-rise-of-astrosociology-what-can-analogue-astronaut-studies-teach-us-about-the-future-of-humanity",
-   "source": "Universe Today",
-   "category": "Astronomy and Space",
-   "summary": "The Astrosociology Research Institute was founded in 2008 as part of a growing movement dedicated to examining humanity's future in space through the lens of the social sciences and related disciplines. The goal is to approach human spaceflight with the intent of ensuring that humanity will not only survive in space, but flourish.",
-   "published": "2026-11-24T13:11-06:00",
+   "title": "Diablo IV Patch Notes - Blizzard News",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LVmVGR2R0MGdIMURvbDZ1bzVxRkQ0NWp0cm5sbmU2S2tCOHdTMkpRNGR2eTVxSjNsZ1JtRnFpQzhWMGZnMFRZcEZZZlNlSnpaTzJIMzVVclI1SF9KX3lhekJqNlMwb0dFOXlkdHZlcTJqUzlhVWRfbE5B?oc=5",
+   "source": "Blizzard News",
+   "category": "Weather & Meteorology",
+   "summary": "Diablo IV Patch Notes Blizzard News",
+   "published": "2026-11-24T13:38-06:00",
    "tags": [],
-   "feed": "Universe Today",
+   "feed": "Google News major storms",
    "evergreen": false,
    "tier": "main",
-   "image": "https://www.universetoday.com/article_images/Hi-SEAS1_20261123_002716.jpg",
    "summary_from": "feed"
   },
   {
@@ -2449,6 +2465,19 @@
    "summary_from": "feed"
   },
   {
+   "title": "EF-1 tornado rips through Palm Beach County, uprooting trees and crushing cars - WPBF",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3J2d0N4UUtDQVAwbEFVYVlITTA4dERZZXBzUDR6RUtiVzlWb1JsNl9FRUhkR1A5N3NGYlN6M0VQTUVIR2VCaEpFNHBoajdNNV8za01HMmNkc2x0NVZldXltSi1XeU0xRzNqcjJRTHNmbUNRc3BhNi04M0p6Vzg1bjBJZUU?oc=5",
+   "source": "WPBF",
+   "category": "Weather & Meteorology",
+   "summary": "EF-1 tornado rips through Palm Beach County, uprooting trees and crushing cars WPBF",
+   "published": "2026-11-23T17:35-06:00",
+   "tags": [],
+   "feed": "Google News major storms",
+   "evergreen": false,
+   "tier": "main",
+   "summary_from": "feed"
+  },
+  {
    "title": "Heart, the Heretic: The Forgotten Visionary Jane Ellen Harrison on Critical Thinking, Emotional Imagination, and How to Fix the World",
    "link": "https://www.themarginalian.org/2026/11/23/jane-ellen-harrison-heresy-and-humanity/",
    "source": "The Marginalian",
@@ -2683,19 +2712,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "What should Doctor Who's future look like? 4,000 fans share their verdicts – from longer seasons to scarier monsters - Radio Times",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVp6TUNUWUxxMEdQLTF4Mk82ZnhVYUhmbzJsbzdKR1NwTkFkMXBDR2VnOGJTdk9Gd1UxVlZvc1I4Q29Ea0d2aXRvai1MN1lRamVrVHlBcmRXS1pINzRRM1hlMV9SdTRLQWRoU1ZqU2p4SFJWUEFRbDNha1dNN2gyc2RXbS1aSUJaR21YTWQtd0tpakg1?oc=5",
-   "source": "Radio Times",
-   "category": "Science Fiction",
-   "summary": "What should Doctor Who's future look like? 4,000 fans share their verdicts – from longer seasons to scarier monsters Radio Times",
-   "published": "2026-11-23T11:06-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Tired Women in Art. “I’d never really considered...",
    "link": "https://kottke.org/26/11/0050046-tired-women-in-art",
    "source": "Kottke",
@@ -2827,19 +2843,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "Doctor Who Satan Pit Extended Cut Screens Nov 23: Black Hole Planet Orbit Not Ruled Out - Tech Times",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdy1YVHlQcW9aT19SUUlJcC1FTDFEd2hlWFdhT0tWdkF3Vk5XT2p6RXBqWjlXYXlVTXNVdVZSU0tITGZVU2NfekVISTZESFl3eUR5ZndobHE4dUtFdUgyNlFfaTAtanB3OHRtWkRVVmt5eUtzRV91MWg4d0dDV25KZEtFbDNKblRKUXZDVWVHSVVBY21ZRHhMdHMwbmN1NFBkSk1KYUtPOE9OUFNOZUFwUXF1V2laak1yX0VZRGt2Uks0MFg4WGZWU1kwZmR5SlRfZ1dDUndIVmQ?oc=5",
-   "source": "Tech Times",
-   "category": "Science Fiction",
-   "summary": "Doctor Who Satan Pit Extended Cut Screens Nov 23: Black Hole Planet Orbit Not Ruled Out Tech Times",
-   "published": "2026-11-23T00:10-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "NOAA Northern Lights Forecast Shows Sunday Night Viewing Chances Across Northern States - gadget.qoo10.co.id",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0ZpSnZLeVZEckFGNTdscVVhVmF5M1hQUWN1RjVEZ3JCZWdaZl90WXRyZ1REbGpoOGVYaE52al9uZUREdG9mZnNuTTB5aUl1NDRFVjlPMFNfdU5idG9NYnRzYktDdHVXWXlNRDM5a1p1Nm12YURwVHctX2ZQbnhzTlZLd0VvV21pQ3FsQTBfYzk3YVVwSk1V?oc=5",
    "source": "gadget.qoo10.co.id",
@@ -2869,6 +2872,19 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2025/03/howtolovetheworld.jpg?fit=320%2C450&ssl=1",
+   "summary_from": "feed"
+  },
+  {
+   "title": "One state told to prepare for double severe thunderstorm front - Nine.com.au",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPczhESWk5SkYxbXgyTTYwdGtHZVNTSkVLWU1veVJPUm1WLTBBSjJHazdYc2p5UndDOFNIalRYQU9uR2g2N0RsVzBJbjVwUVMtei1XalFyeDY1Ty1tUWh2MlJrdFE3eDVKb1dDdVBvcGlZNlRERHBwRlFkeTFCZFZzWGRPY09NSVh6OUZJeTJROVpEOFVRMUdEYjJYcml0UjQ?oc=5",
+   "source": "Nine.com.au",
+   "category": "Weather & Meteorology",
+   "summary": "One state told to prepare for double severe thunderstorm front Nine.com.au",
+   "published": "2026-11-22T21:03-06:00",
+   "tags": [],
+   "feed": "Google News severe weather science",
+   "evergreen": false,
+   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -2998,19 +3014,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "'I had a LEGO bouquet and confetti at my wedding' - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FRE94WVRoWE13NTg5ZUhFdGYzcXdPcU9wbmE0LUthSVBZRFFoUGZ1YjdrTXNLZ1o4ckhpRXFkRkp4TTFtTTZYelZCYWJGM01fcU1XX1VFb1hhLTQ?oc=5",
-   "source": "BBC",
-   "category": "Science Fiction",
-   "summary": "'I had a LEGO bouquet and confetti at my wedding' BBC",
-   "published": "2026-11-21T01:25-06:00",
-   "tags": [],
-   "feed": "Google News Doctor Who",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "Doctor Who Dalek built by student dazzles university campus - BBC",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wcTBYdGZSbjFzYUVLS1BJTTQ3UFpuVVFMN092S2V3b0NqUGlwNnFwVkhsLUctTk42MXQzRGlzXzJTTUNxd1c1TmlnNXNwc3ZhU1NkaVVjc1AtaXc?oc=5",
    "source": "BBC",
@@ -3116,32 +3119,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2026/11/orwell_downandout.jpg?fit=320%2C479&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "How Everything Became Fake. “There’s so much cognitive...",
-   "link": "https://kottke.org/26/11/0050039-how-everything-became-fak",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "How Everything Became Fake . “There’s so much cognitive effort in constantly sorting out what’s real from what’s not… maybe it’s easier to just let it all glide by.”",
-   "published": "2026-11-20T12:51-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
-   "title": "What the Death Penalty Says About Us. “It’s dehumanizing,...",
-   "link": "https://kottke.org/26/11/0050035-what-the-death-penalty-sa",
-   "source": "Kottke",
-   "category": "Wildcard",
-   "summary": "What the Death Penalty Says About Us . “It’s dehumanizing, and some would say it dehumanizes the society that’s willing to impose it.”",
-   "published": "2026-11-20T11:58-06:00",
-   "tags": [],
-   "feed": "Kottke",
-   "evergreen": true,
-   "tier": "main",
    "summary_from": "feed"
   },
   {
@@ -3630,19 +3607,6 @@
    "summary_from": "feed"
   },
   {
-   "title": "NASA chooses as image of the day a bright M1 solar flare from May 14, 2025 - MARCA",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjQ5aGVHSnl2LXNScF9BT3RsZjhuYTJ0eGdrOW1aaGJMeGstLVR0b0ZRSWl6WHZUbVNFVHU1YTRtVXN2VXIwSlRSRW5TTnZfM0xsWENaVURROFF1OFJnSnhnMGsyV09sWVJfQ1l2NjQ1S3FUeF9ndnVpNmJFaWQ3RHVxVWFuRjdkZEVvVG03MDEtZHBSYTFWLW5VRWs1eDM4cHZEY01hVDNfX3FqVGZHeE5KRFdLcTZBWjRwU2RQSUNfdjlUbGFKcG54eDDSAcwBQVVfeXFMT2N3MmFWdUxNNkp6bEc1R0s2anJBRkxMdS03QkFXaEhoOUlZOW95QXBZSU5Rb3I2dmZ2V3JJamxqdE1kdVFpWHhmaE9Uckx6N2lLOVRob0lLbHRTRzA0NGRYcC1kNXRxdnhfYXlTX1J6VHBRdVpUS0gxTy1MWGdqYV9UUmh3S1o3Vk5YSENWZG9xYXcwS1N3T1JoTFNiY0dQcHVsOHJiTUhHVEQtZEpodFZpb25FbkNYbkFtSDllTEk2SXdHWFF6Z0hJeDcy?oc=5",
-   "source": "MARCA",
-   "category": "Space Weather and Aurora",
-   "summary": "NASA chooses as image of the day a bright M1 solar flare from May 14, 2025 MARCA",
-   "published": "2026-11-18T05:02-06:00",
-   "tags": [],
-   "feed": "Google News space weather",
-   "evergreen": false,
-   "tier": "main",
-   "summary_from": "feed"
-  },
-  {
    "title": "The Silent Consensus",
    "link": "https://openai.com/index/the-silent-consensus",
    "source": "OpenAI News",
@@ -3742,67 +3706,6 @@
    "evergreen": true,
    "tier": "main",
    "image": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2023/11/necessarylosses_vrost.jpg?fit=320%2C487&ssl=1",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Microsoft and Oracle bring agentic AI into flow of enterprise work",
-   "link": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
-   "source": "Microsoft Azure Blog",
-   "category": "DotNet and Development",
-   "summary": "This blog is co-authored by Arpan Shah, SVP of Oracle Databases and Muneer Mirza, VP of Multicloud at Oracle Cloud Infrastructure (OCI). Today at Microsoft Ignite, we’re bringing agentic AI into the flow of enterprise work. Our new integrations let AI agents reason across Oracle’s business-critical data—from finance and supply chain to HR and customer operations—and the work context Microsoft Work IQ understands across meetings, email, documents, and Teams. Customers can access this combined intelligence through Excel, Teams, and Microsoft Copilot. Built on Oracle AI Database@Azure , the integrations help businesses turn trusted enterprise data into insights and actions, with the choice, sec",
-   "published": "2026-11-17T12:35-06:00",
-   "tags": [
-    "AI + machine learning",
-    "Identity",
-    "Copilot",
-    "Databases",
-    "Microsoft Ignite",
-    "Microsoft IQ"
-   ],
-   "feed": "Microsoft Azure Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/azure_workload_health_upscaled.webp",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations",
-   "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
-   "source": "Microsoft Azure Blog",
-   "category": "DotNet and Development",
-   "summary": "The top announcements: AKS and Microsoft Foundry Azure Catalyst Windows Server 2028 As AI continues to reshape how every business builds, operates, and competes, it is rapidly emerging as the defining workload in the cloud. This new class of agents, more demanding, complex, and dynamic than anything before them, is rewriting the rules of cloud infrastructure. Reasoning across multi-agent systems, drawing on rich context, acting in real time, and running continuously, they ask more of every layer of the platform beneath them. This week, we’re introducing innovations across Microsoft Azure that set a new standard for how the cloud powers AI: expanded AI core capabilities in Azure to build what",
-   "published": "2026-11-17T12:35-06:00",
-   "tags": [
-    "AI + machine learning",
-    "Compute",
-    "Containers",
-    "DevOps",
-    "Hybrid + multicloud",
-    "Microsoft Ignite"
-   ],
-   "feed": "Microsoft Azure Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Azure-2_CTA-block.jpg",
-   "summary_from": "feed"
-  },
-  {
-   "title": "Continuous improvement comes to Microsoft Foundry",
-   "link": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
-   "source": "Microsoft Azure Blog",
-   "category": "DotNet and Development",
-   "summary": "New models ship every few weeks, and your customers ask questions no one planned for. The agents that learn from all of it pull ahead. That’s continuous improvement, and today at Microsoft Ignite we’re bringing it to Microsoft Foundry . To unlock it, you need an end-to-end system where you build agents, give them context, run them, govern them, and improve them over time. And as part of the new Microsoft IQ , Foundry accomplishes two things that only Microsoft can deliver: your unique intelligence stays your advantage, and your agents keep getting better the longer they run. See what’s new in Foundry today Out of the box, an AI model is exactly the same for you as it is for anyone else. Thre",
-   "published": "2026-11-17T12:15-06:00",
-   "tags": [
-    "AI + machine learning",
-    "DevOps",
-    "Microsoft Ignite",
-    "Microsoft IQ"
-   ],
-   "feed": "Microsoft Azure Blog",
-   "evergreen": false,
-   "tier": "main",
-   "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/11/Continuous_improvement_visual_simplified-1024x696.webp",
    "summary_from": "feed"
   },
   {
